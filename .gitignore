@@ -1,2 +1,2 @@
 # 忽略密码配置文件
-hub88 config/pwd.json
+/pwd.json
