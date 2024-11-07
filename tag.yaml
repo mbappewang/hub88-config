@@ -1069,18 +1069,9 @@
 - eventId: 6218943
   marketId: 18243059
   tag: 50% Freebet
-- eventId: 6218943
-  marketId: 0
-  tag: 100% Freebet
 - eventId: 6219173
   marketId: 18243059
   tag: 100% Cashback
-- eventId: 6219173
-  marketId: 0
-  tag: 50% Freebet
 - eventId: 6219425
   marketId: 18243059
   tag: 100% Cashback
-- eventId: 6219425
-  marketId: 0
-  tag: Best Odds

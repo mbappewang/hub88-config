@@ -90,6 +90,7 @@ save_path = r'C:\Users\wys94\hub88 config\tag.json'
 
 df_yaml = pd.read_json(r'C:\Users\wys94\hub88 config\tag.json')
 df_yaml = df_yaml[['eventId', 'marketId', 'tag']]
+df_yaml = df_yaml[df_yaml['marketId'] != 0]
 
 # 3. 将数据转换为 YAML 格式并保存
 save_path = r'C:\Users\wys94\hub88 config\tag.yaml'
