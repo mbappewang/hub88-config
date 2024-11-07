@@ -1,0 +1,1244 @@
+[
+    {
+        "id":3022097,
+        "name":"Handicap (incl. overtime)",
+        "tradingStatus":0,
+        "selections":[
+            {
+                "id":47,
+                "name":"{$competitor1} ({+hcp})",
+                "probability":0.5124948,
+                "price":1.84,
+                "originalPrice":1.86,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            },
+            {
+                "id":48,
+                "name":"{$competitor2} ({-hcp})",
+                "probability":0.48750523,
+                "price":1.93,
+                "originalPrice":1.95,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            }
+        ],
+        "type":28244,
+        "isBestLine":true,
+        "parameters":{
+            "hcp":"-4.5"
+        },
+        "extraParameters":{
+            "hcp_for_the_rest":"-4.5"
+        },
+        "isBetBuilderSupported":false
+    },
+    {
+        "id":3022086,
+        "name":"Winner (incl. overtime)",
+        "tradingStatus":0,
+        "selections":[
+            {
+                "id":1,
+                "name":"{$competitor1}",
+                "probability":0.65674996,
+                "price":1.46,
+                "originalPrice":1.47,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            },
+            {
+                "id":3,
+                "name":"{$competitor2}",
+                "probability":0.34325004,
+                "price":2.72,
+                "originalPrice":2.75,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            }
+        ],
+        "type":28243,
+        "isBestLine":true,
+        "parameters":{
+
+        },
+        "extraParameters":{
+
+        },
+        "isBetBuilderSupported":false
+    },
+    {
+        "id":3023266,
+        "name":"Total (incl. overtime)",
+        "tradingStatus":0,
+        "selections":[
+            {
+                "id":20,
+                "name":"Under {total}",
+                "probability":0.5,
+                "price":1.89,
+                "originalPrice":1.9,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            },
+            {
+                "id":19,
+                "name":"Over {total}",
+                "probability":0.5,
+                "price":1.89,
+                "originalPrice":1.9,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            }
+        ],
+        "type":28260,
+        "isBestLine":true,
+        "parameters":{
+            "total":"170.5"
+        },
+        "extraParameters":{
+
+        },
+        "isBetBuilderSupported":false
+    },
+    {
+        "id":13167923,
+        "name":"1st Period Odd\/Even",
+        "tradingStatus":0,
+        "selections":[
+            {
+                "id":52,
+                "name":"Odd",
+                "probability":0.5,
+                "price":1.83,
+                "originalPrice":1.83,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            },
+            {
+                "id":53,
+                "name":"Even",
+                "probability":0.5,
+                "price":1.83,
+                "originalPrice":1.83,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            }
+        ],
+        "type":310146,
+        "isBestLine":true,
+        "parameters":{
+
+        },
+        "extraParameters":{
+
+        },
+        "isBetBuilderSupported":false
+    },
+    {
+        "id":3856072,
+        "name":"1st half - handicap",
+        "tradingStatus":0,
+        "selections":[
+            {
+                "id":47,
+                "name":"{$competitor1} ({+hcp})",
+                "probability":0.5,
+                "price":1.87,
+                "originalPrice":1.86,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            },
+            {
+                "id":48,
+                "name":"{$competitor2} ({-hcp})",
+                "probability":0.5,
+                "price":1.87,
+                "originalPrice":1.86,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            }
+        ],
+        "type":127,
+        "isBestLine":true,
+        "parameters":{
+            "hcp":"-2.5"
+        },
+        "extraParameters":{
+            "hcp_for_the_rest":"-2.5"
+        },
+        "isBetBuilderSupported":false
+    },
+    {
+        "id":3023276,
+        "name":"1st half - total",
+        "tradingStatus":0,
+        "selections":[
+            {
+                "id":20,
+                "name":"Under {total}",
+                "probability":0.49002507,
+                "price":1.91,
+                "originalPrice":1.9,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            },
+            {
+                "id":19,
+                "name":"Over {total}",
+                "probability":0.50997496,
+                "price":1.83,
+                "originalPrice":1.83,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            }
+        ],
+        "type":131,
+        "isBestLine":true,
+        "parameters":{
+            "total":"84.5"
+        },
+        "extraParameters":{
+
+        },
+        "isBetBuilderSupported":false
+    },
+    {
+        "id":3972244,
+        "name":"1st half - draw no bet",
+        "tradingStatus":0,
+        "selections":[
+            {
+                "id":1,
+                "name":"{$competitor1}",
+                "probability":0.62356734,
+                "price":1.5,
+                "originalPrice":1.54,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            },
+            {
+                "id":3,
+                "name":"{$competitor2}",
+                "probability":0.37643266,
+                "price":2.42,
+                "originalPrice":2.5,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            }
+        ],
+        "type":125,
+        "isBestLine":true,
+        "parameters":{
+
+        },
+        "extraParameters":{
+
+        },
+        "isBetBuilderSupported":false
+    },
+    {
+        "id":13639987,
+        "name":"Winning Margin - 1st Half",
+        "tradingStatus":0,
+        "selections":[
+            {
+                "id":37680534,
+                "name":"{$competitor1} 16+",
+                "probability":0.08081145,
+                "price":9.5,
+                "originalPrice":9.5,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            },
+            {
+                "id":35171642,
+                "name":"{$competitor2} 16+",
+                "probability":0.032372408,
+                "price":23,
+                "originalPrice":23,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            },
+            {
+                "id":2,
+                "name":"Draw",
+                "probability":0.046666194,
+                "price":15,
+                "originalPrice":15,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            },
+            {
+                "id":38340771,
+                "name":"{$competitor1} 1-3",
+                "probability":0.124966346,
+                "price":6.5,
+                "originalPrice":6.5,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            },
+            {
+                "id":38340770,
+                "name":"{$competitor1} 10-12",
+                "probability":0.08692006,
+                "price":9,
+                "originalPrice":9,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            },
+            {
+                "id":38340772,
+                "name":"{$competitor1} 13-15",
+                "probability":0.05648303,
+                "price":13,
+                "originalPrice":13,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            },
+            {
+                "id":38340774,
+                "name":"{$competitor1} 4-6",
+                "probability":0.124966346,
+                "price":6.5,
+                "originalPrice":6.5,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            },
+            {
+                "id":38340519,
+                "name":"{$competitor1} 7-9",
+                "probability":0.10533267,
+                "price":7.5,
+                "originalPrice":7.5,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            },
+            {
+                "id":38340765,
+                "name":"{$competitor2} 1-3",
+                "probability":0.11567283,
+                "price":7,
+                "originalPrice":7,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            },
+            {
+                "id":38340764,
+                "name":"{$competitor2} 10-12",
+                "probability":0.041982792,
+                "price":17,
+                "originalPrice":17,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            },
+            {
+                "id":38340766,
+                "name":"{$competitor2} 13-15",
+                "probability":0.029098678,
+                "price":26,
+                "originalPrice":26,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            },
+            {
+                "id":38340768,
+                "name":"{$competitor2} 4-6",
+                "probability":0.09253722,
+                "price":8.5,
+                "originalPrice":8.5,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            },
+            {
+                "id":38340512,
+                "name":"{$competitor2} 7-9",
+                "probability":0.062189974,
+                "price":12,
+                "originalPrice":12,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            }
+        ],
+        "type":1777770,
+        "isBestLine":true,
+        "parameters":{
+
+        },
+        "extraParameters":{
+
+        },
+        "isBetBuilderSupported":false
+    },
+    {
+        "id":13639811,
+        "name":"1st Half Race To",
+        "tradingStatus":0,
+        "selections":[
+            {
+                "id":1,
+                "name":"{$competitor1}",
+                "probability":0.21492206,
+                "price":4,
+                "originalPrice":4,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            },
+            {
+                "id":3,
+                "name":"{$competitor2}",
+                "probability":0.11636971,
+                "price":7,
+                "originalPrice":7,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            },
+            {
+                "id":34706015,
+                "name":"Neither",
+                "probability":0.66870826,
+                "price":1.4,
+                "originalPrice":1.4,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            }
+        ],
+        "type":1777678,
+        "isBestLine":false,
+        "parameters":{
+            "line":"50"
+        },
+        "extraParameters":{
+
+        },
+        "isBetBuilderSupported":false
+    },
+    {
+        "id":3972243,
+        "name":"1st half - 1x2",
+        "tradingStatus":0,
+        "selections":[
+            {
+                "id":1,
+                "name":"{$competitor1}",
+                "probability":0.59497744,
+                "price":1.56,
+                "originalPrice":1.57,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            },
+            {
+                "id":2,
+                "name":"Draw",
+                "probability":0.049145278,
+                "price":14.5,
+                "originalPrice":15,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            },
+            {
+                "id":3,
+                "name":"{$competitor2}",
+                "probability":0.35587728,
+                "price":2.5,
+                "originalPrice":2.55,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            }
+        ],
+        "type":122,
+        "isBestLine":true,
+        "parameters":{
+
+        },
+        "extraParameters":{
+
+        },
+        "isBetBuilderSupported":false
+    },
+    {
+        "id":10368523,
+        "name":"1st Half - {$competitor2} Total",
+        "tradingStatus":0,
+        "selections":[
+            {
+                "id":20,
+                "name":"Under {total}",
+                "probability":0.5090296,
+                "price":1.82,
+                "originalPrice":1.8,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            },
+            {
+                "id":19,
+                "name":"Over {total}",
+                "probability":0.49097034,
+                "price":1.88,
+                "originalPrice":1.86,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            }
+        ],
+        "type":135,
+        "isBestLine":true,
+        "parameters":{
+            "total":"41.5"
+        },
+        "extraParameters":{
+
+        },
+        "isBetBuilderSupported":false
+    },
+    {
+        "id":10365094,
+        "name":"1st Half - {$competitor1} Total",
+        "tradingStatus":0,
+        "selections":[
+            {
+                "id":20,
+                "name":"Under {total}",
+                "probability":0.49097034,
+                "price":1.88,
+                "originalPrice":1.86,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            },
+            {
+                "id":19,
+                "name":"Over {total}",
+                "probability":0.5090296,
+                "price":1.82,
+                "originalPrice":1.8,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            }
+        ],
+        "type":134,
+        "isBestLine":true,
+        "parameters":{
+            "total":"43.5"
+        },
+        "extraParameters":{
+
+        },
+        "isBetBuilderSupported":false
+    },
+    {
+        "id":13644328,
+        "name":"Odd\/Even - Away Team Including Overtime",
+        "tradingStatus":0,
+        "selections":[
+            {
+                "id":52,
+                "name":"Odd",
+                "probability":0.5,
+                "price":1.85,
+                "originalPrice":1.9,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            },
+            {
+                "id":53,
+                "name":"Even",
+                "probability":0.5,
+                "price":1.85,
+                "originalPrice":1.9,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            }
+        ],
+        "type":1442614,
+        "isBestLine":true,
+        "parameters":{
+
+        },
+        "extraParameters":{
+
+        },
+        "isBetBuilderSupported":false
+    },
+    {
+        "id":3028798,
+        "name":"{$competitor2} total (incl. overtime)",
+        "tradingStatus":0,
+        "selections":[
+            {
+                "id":20,
+                "name":"Under {total}",
+                "probability":0.5,
+                "price":1.85,
+                "originalPrice":1.83,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            },
+            {
+                "id":19,
+                "name":"Over {total}",
+                "probability":0.5,
+                "price":1.85,
+                "originalPrice":1.83,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            }
+        ],
+        "type":28280,
+        "isBestLine":true,
+        "parameters":{
+            "total":"82.5"
+        },
+        "extraParameters":{
+
+        },
+        "isBetBuilderSupported":false
+    },
+    {
+        "id":13639238,
+        "name":"Under\/Over 1st Period - Away Team",
+        "tradingStatus":0,
+        "selections":[
+            {
+                "id":35065963,
+                "name":"under {line}",
+                "probability":0.47983184,
+                "price":1.89,
+                "originalPrice":1.9,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            },
+            {
+                "id":35065962,
+                "name":"over {line}",
+                "probability":0.5201681,
+                "price":1.75,
+                "originalPrice":1.76,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            }
+        ],
+        "type":1442616,
+        "isBestLine":true,
+        "parameters":{
+            "line":"20.5"
+        },
+        "extraParameters":{
+
+        },
+        "isBetBuilderSupported":false
+    },
+    {
+        "id":3029788,
+        "name":"{$competitor1} total (incl. overtime)",
+        "tradingStatus":0,
+        "selections":[
+            {
+                "id":20,
+                "name":"Under {total}",
+                "probability":0.49097034,
+                "price":1.88,
+                "originalPrice":1.86,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            },
+            {
+                "id":19,
+                "name":"Over {total}",
+                "probability":0.5090296,
+                "price":1.82,
+                "originalPrice":1.8,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            }
+        ],
+        "type":28275,
+        "isBestLine":true,
+        "parameters":{
+            "total":"87.5"
+        },
+        "extraParameters":{
+
+        },
+        "isBetBuilderSupported":false
+    },
+    {
+        "id":13644327,
+        "name":"Odd\/Even - Home Team Including Overtime",
+        "tradingStatus":0,
+        "selections":[
+            {
+                "id":52,
+                "name":"Odd",
+                "probability":0.5,
+                "price":1.85,
+                "originalPrice":1.9,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            },
+            {
+                "id":53,
+                "name":"Even",
+                "probability":0.5,
+                "price":1.85,
+                "originalPrice":1.9,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            }
+        ],
+        "type":1442615,
+        "isBestLine":true,
+        "parameters":{
+
+        },
+        "extraParameters":{
+
+        },
+        "isBetBuilderSupported":false
+    },
+    {
+        "id":13595482,
+        "name":"Winning Margin - Teams Including Overtime",
+        "tradingStatus":0,
+        "selections":[
+            {
+                "id":35171686,
+                "name":"{$competitor1} 21+",
+                "probability":0.10061285,
+                "price":7.5,
+                "originalPrice":7.5,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            },
+            {
+                "id":35171644,
+                "name":"{$competitor2} 21+",
+                "probability":0.0414654,
+                "price":16,
+                "originalPrice":16,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            },
+            {
+                "id":38340514,
+                "name":"{$competitor1} 1-2",
+                "probability":0.065048374,
+                "price":11,
+                "originalPrice":11,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            },
+            {
+                "id":38340513,
+                "name":"{$competitor1} 10-13",
+                "probability":0.11109061,
+                "price":7,
+                "originalPrice":7,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            },
+            {
+                "id":38340515,
+                "name":"{$competitor1} 14-16",
+                "probability":0.065048374,
+                "price":11,
+                "originalPrice":11,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            },
+            {
+                "id":38340516,
+                "name":"{$competitor1} 17-20",
+                "probability":0.065048374,
+                "price":11,
+                "originalPrice":11,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            },
+            {
+                "id":38340518,
+                "name":"{$competitor1} 3-6",
+                "probability":0.14612311,
+                "price":5.5,
+                "originalPrice":5.5,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            },
+            {
+                "id":38340519,
+                "name":"{$competitor1} 7-9",
+                "probability":0.09495057,
+                "price":8,
+                "originalPrice":8,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            },
+            {
+                "id":38340507,
+                "name":"{$competitor2} 1-2",
+                "probability":0.05862603,
+                "price":12,
+                "originalPrice":12,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            },
+            {
+                "id":38340506,
+                "name":"{$competitor2} 10-13",
+                "probability":0.04329489,
+                "price":15,
+                "originalPrice":15,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            },
+            {
+                "id":38340508,
+                "name":"{$competitor2} 14-16",
+                "probability":0.027520467,
+                "price":26,
+                "originalPrice":26,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            },
+            {
+                "id":38340509,
+                "name":"{$competitor2} 17-20",
+                "probability":0.027520467,
+                "price":26,
+                "originalPrice":26,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            },
+            {
+                "id":38340511,
+                "name":"{$competitor2} 3-6",
+                "probability":0.10061285,
+                "price":7.5,
+                "originalPrice":7.5,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            },
+            {
+                "id":38340512,
+                "name":"{$competitor2} 7-9",
+                "probability":0.053037636,
+                "price":13,
+                "originalPrice":13,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            }
+        ],
+        "type":1480937,
+        "isBestLine":true,
+        "parameters":{
+
+        },
+        "extraParameters":{
+
+        },
+        "isBetBuilderSupported":false
+    },
+    {
+        "id":3972242,
+        "name":"Halftime\/fulltime",
+        "tradingStatus":0,
+        "selections":[
+            {
+                "id":167,
+                "name":"{$competitor1}\/{$competitor1}",
+                "probability":0.48105812,
+                "price":1.9,
+                "originalPrice":1.9,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            },
+            {
+                "id":169,
+                "name":"{$competitor1}\/{$competitor2}",
+                "probability":0.09920314,
+                "price":8,
+                "originalPrice":8,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            },
+            {
+                "id":170,
+                "name":"draw\/{$competitor1}",
+                "probability":0.03451588,
+                "price":21,
+                "originalPrice":21,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            },
+            {
+                "id":172,
+                "name":"draw\/{$competitor2}",
+                "probability":0.022168411,
+                "price":34,
+                "originalPrice":34,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            },
+            {
+                "id":173,
+                "name":"{$competitor2}\/{$competitor1}",
+                "probability":0.1362837,
+                "price":6,
+                "originalPrice":6,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            },
+            {
+                "id":175,
+                "name":"{$competitor2}\/{$competitor2}",
+                "probability":0.22677074,
+                "price":3.8,
+                "originalPrice":3.8,
+                "status":0,
+                "settlement":0,
+                "deadHeatFactor":0,
+                "extraParameters":{
+
+                },
+                "isBetBuilderSupported":false
+            }
+        ],
+        "type":102,
+        "isBestLine":true,
+        "parameters":{
+
+        },
+        "extraParameters":{
+
+        },
+        "isBetBuilderSupported":false
+    }
+]
