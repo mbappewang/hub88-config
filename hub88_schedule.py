@@ -12,7 +12,7 @@ print(clientId, password)
 
 token = hub88.get_token(clientId, password)
 
-startDate_list = ["2024-11-09","2024-11-10","2024-11-11"]
+startDate_list = ["2024-11-08","2024-11-09","2024-11-10","2024-11-11"]
 sportIds = [1,8,7,4,14,11,17,25,457,6]
 locationIds = [66,25,22,23,1,59]
 schedule = []
