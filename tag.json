@@ -1,111 +1,807 @@
 [
     {
-        "eventId":6214607,
+        "eventId":6220263,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6220263,
+        "sportId":1,
+        "marketId":2,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6372376,
+        "sportId":1,
+        "marketId":77,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6372376,
+        "sportId":1,
+        "marketId":78,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6220031,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6220031,
+        "sportId":1,
+        "marketId":2,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6221538,
+        "sportId":1,
+        "marketId":1,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6221538,
+        "sportId":1,
+        "marketId":2,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6221153,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6221153,
+        "sportId":1,
+        "marketId":2,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6220546,
+        "sportId":1,
+        "marketId":1,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6220546,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6372251,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6372251,
+        "sportId":1,
+        "marketId":2,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6372261,
+        "sportId":1,
+        "marketId":1,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6372261,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6372262,
+        "sportId":1,
+        "marketId":1,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6372262,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6372451,
+        "sportId":8,
+        "marketId":3022086,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6372451,
+        "sportId":8,
+        "marketId":3022099,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6372440,
+        "sportId":8,
+        "marketId":3022086,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6372440,
+        "sportId":8,
+        "marketId":3022089,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6220895,
+        "sportId":1,
+        "marketId":1,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6220895,
+        "sportId":1,
+        "marketId":2,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6372691,
+        "sportId":11,
+        "marketId":3315878,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6372691,
+        "sportId":11,
+        "marketId":3723270,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6222079,
+        "sportId":1,
+        "marketId":1,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6222079,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6220815,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6220815,
+        "sportId":1,
+        "marketId":2,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6220983,
+        "sportId":1,
+        "marketId":1,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6220983,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6214233,
+        "sportId":8,
+        "marketId":3022086,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6214233,
+        "sportId":8,
+        "marketId":3022100,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6372268,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6372268,
+        "sportId":1,
+        "marketId":2,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6220864,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6220864,
+        "sportId":1,
+        "marketId":2,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6220732,
+        "sportId":1,
+        "marketId":1,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6220732,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6358627,
+        "sportId":6,
+        "marketId":3022876,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6358627,
+        "sportId":6,
+        "marketId":3022877,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6372454,
         "sportId":8,
         "marketId":3022086,
         "tag":"100% Freebet"
     },
     {
-        "eventId":6214607,
+        "eventId":6372454,
         "sportId":8,
-        "marketId":3022096,
+        "marketId":3022173,
         "tag":"Best Odds"
     },
     {
-        "eventId":6225479,
+        "eventId":6372300,
         "sportId":1,
         "marketId":1,
         "tag":"100% Freebet"
     },
     {
-        "eventId":6225479,
-        "sportId":1,
-        "marketId":2,
-        "tag":"100% Cashback"
-    },
-    {
-        "eventId":6220531,
-        "sportId":1,
-        "marketId":1,
-        "tag":"100% Cashback"
-    },
-    {
-        "eventId":6220531,
+        "eventId":6372300,
         "sportId":1,
         "marketId":2,
         "tag":"50% Freebet"
     },
     {
-        "eventId":6221801,
+        "eventId":6221008,
         "sportId":1,
         "marketId":1,
-        "tag":"100% Freebet"
+        "tag":"50% Freebet"
     },
     {
-        "eventId":6221801,
-        "sportId":1,
-        "marketId":2,
-        "tag":"100% Cashback"
-    },
-    {
-        "eventId":6221309,
-        "sportId":1,
-        "marketId":1,
-        "tag":"Best Odds"
-    },
-    {
-        "eventId":6221309,
-        "sportId":1,
-        "marketId":2,
-        "tag":"100% Cashback"
-    },
-    {
-        "eventId":6225512,
-        "sportId":1,
-        "marketId":1,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6225512,
-        "sportId":1,
-        "marketId":2,
-        "tag":"Best Odds"
-    },
-    {
-        "eventId":6221349,
-        "sportId":1,
-        "marketId":1,
-        "tag":"Best Odds"
-    },
-    {
-        "eventId":6221349,
+        "eventId":6221008,
         "sportId":1,
         "marketId":2,
         "tag":"100% Freebet"
     },
     {
-        "eventId":6221650,
+        "eventId":6220941,
         "sportId":1,
         "marketId":1,
         "tag":"100% Cashback"
     },
     {
-        "eventId":6221650,
+        "eventId":6220941,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6370342,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6370342,
         "sportId":1,
         "marketId":2,
         "tag":"50% Freebet"
     },
     {
-        "eventId":6221814,
+        "eventId":6220756,
+        "sportId":1,
+        "marketId":1,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6220756,
+        "sportId":1,
+        "marketId":2,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6372274,
+        "sportId":1,
+        "marketId":1,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6372274,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6372275,
         "sportId":1,
         "marketId":1,
         "tag":"100% Freebet"
     },
     {
-        "eventId":6221814,
+        "eventId":6372275,
         "sportId":1,
         "marketId":2,
         "tag":"100% Cashback"
+    },
+    {
+        "eventId":6372289,
+        "sportId":1,
+        "marketId":1,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6372289,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6221098,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6221098,
+        "sportId":1,
+        "marketId":2,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6220680,
+        "sportId":1,
+        "marketId":1,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6220680,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6224428,
+        "sportId":1,
+        "marketId":1,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6224428,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6370336,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6370336,
+        "sportId":1,
+        "marketId":2,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6370339,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6370339,
+        "sportId":1,
+        "marketId":2,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6221200,
+        "sportId":1,
+        "marketId":1,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6221200,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6360117,
+        "sportId":6,
+        "marketId":3022876,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6360117,
+        "sportId":6,
+        "marketId":3022877,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6218461,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6218461,
+        "sportId":1,
+        "marketId":2,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6360176,
+        "sportId":6,
+        "marketId":3022876,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6360176,
+        "sportId":6,
+        "marketId":3022879,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6357805,
+        "sportId":6,
+        "marketId":3022876,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6357805,
+        "sportId":6,
+        "marketId":3022879,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6357833,
+        "sportId":6,
+        "marketId":3022876,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6357833,
+        "sportId":6,
+        "marketId":3022879,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6333846,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6333846,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6223311,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6223311,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6361336,
+        "sportId":457,
+        "marketId":12314435,
+        "tag":"20% Cashback"
+    },
+    {
+        "eventId":6361336,
+        "sportId":457,
+        "marketId":12322004,
+        "tag":"2nd refund"
+    },
+    {
+        "eventId":6225018,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6225018,
+        "sportId":1,
+        "marketId":2,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6338026,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6338026,
+        "sportId":1,
+        "marketId":2,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6338027,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6338027,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6371962,
+        "sportId":1,
+        "marketId":105,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6371962,
+        "sportId":1,
+        "marketId":107,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6223205,
+        "sportId":1,
+        "marketId":1,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6223205,
+        "sportId":1,
+        "marketId":2,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6220306,
+        "sportId":1,
+        "marketId":1,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6220306,
+        "sportId":1,
+        "marketId":2,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6220312,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6220312,
+        "sportId":1,
+        "marketId":2,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6361317,
+        "sportId":457,
+        "marketId":12314435,
+        "tag":"BOG"
+    },
+    {
+        "eventId":6361317,
+        "sportId":457,
+        "marketId":12322004,
+        "tag":"20% Cashback"
+    },
+    {
+        "eventId":6220980,
+        "sportId":1,
+        "marketId":1,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6220980,
+        "sportId":1,
+        "marketId":2,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6358628,
+        "sportId":6,
+        "marketId":3022876,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6358628,
+        "sportId":6,
+        "marketId":3022877,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6220196,
+        "sportId":1,
+        "marketId":1,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6220196,
+        "sportId":1,
+        "marketId":2,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6365525,
+        "sportId":1,
+        "marketId":1,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6365525,
+        "sportId":1,
+        "marketId":2,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6222885,
+        "sportId":1,
+        "marketId":1,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6222885,
+        "sportId":1,
+        "marketId":2,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6220831,
+        "sportId":1,
+        "marketId":1,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6220831,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6222517,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6222517,
+        "sportId":1,
+        "marketId":2,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6224488,
+        "sportId":1,
+        "marketId":1,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6224488,
+        "sportId":1,
+        "marketId":2,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6223807,
+        "sportId":1,
+        "marketId":1,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6223807,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6220801,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6220801,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6224535,
+        "sportId":1,
+        "marketId":1,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6224535,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6370340,
+        "sportId":1,
+        "marketId":1,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6370340,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6220632,
+        "sportId":1,
+        "marketId":1,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6220632,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6214011,
+        "sportId":8,
+        "marketId":3022086,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6214011,
+        "sportId":8,
+        "marketId":3022092,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6220172,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6220172,
+        "sportId":1,
+        "marketId":2,
+        "tag":"Best Odds"
     },
     {
         "eventId":6214703,
@@ -117,91 +813,67 @@
         "eventId":6214703,
         "sportId":8,
         "marketId":3022174,
-        "tag":"100% Freebet"
+        "tag":"100% Cashback"
     },
     {
         "eventId":6214512,
         "sportId":8,
         "marketId":3022086,
-        "tag":"100% Freebet"
+        "tag":"100% Cashback"
     },
     {
         "eventId":6214512,
         "sportId":8,
         "marketId":3022092,
-        "tag":"100% Cashback"
-    },
-    {
-        "eventId":6224127,
-        "sportId":1,
-        "marketId":1,
         "tag":"100% Freebet"
     },
     {
         "eventId":6224127,
         "sportId":1,
-        "marketId":2,
+        "marketId":1,
         "tag":"100% Cashback"
     },
     {
-        "eventId":6222188,
-        "sportId":1,
-        "marketId":1,
-        "tag":"Best Odds"
-    },
-    {
-        "eventId":6222188,
+        "eventId":6224127,
         "sportId":1,
         "marketId":2,
         "tag":"100% Freebet"
     },
     {
-        "eventId":6220742,
-        "sportId":1,
-        "marketId":1,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6220742,
-        "sportId":1,
-        "marketId":2,
+        "eventId":6214607,
+        "sportId":8,
+        "marketId":3022086,
         "tag":"100% Cashback"
     },
     {
-        "eventId":6225061,
-        "sportId":1,
-        "marketId":1,
+        "eventId":6214607,
+        "sportId":8,
+        "marketId":3022096,
         "tag":"Best Odds"
-    },
-    {
-        "eventId":6225061,
-        "sportId":1,
-        "marketId":2,
-        "tag":"100% Freebet"
     },
     {
         "eventId":6225130,
         "sportId":1,
         "marketId":1,
-        "tag":"50% Freebet"
+        "tag":"Best Odds"
     },
     {
         "eventId":6225130,
         "sportId":1,
         "marketId":2,
-        "tag":"100% Freebet"
+        "tag":"50% Freebet"
     },
     {
         "eventId":6221010,
         "sportId":1,
         "marketId":1,
-        "tag":"Best Odds"
+        "tag":"100% Freebet"
     },
     {
         "eventId":6221010,
         "sportId":1,
         "marketId":2,
-        "tag":"50% Freebet"
+        "tag":"Best Odds"
     },
     {
         "eventId":6221229,
@@ -213,88 +885,124 @@
         "eventId":6221229,
         "sportId":1,
         "marketId":2,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6225479,
+        "sportId":1,
+        "marketId":1,
         "tag":"50% Freebet"
     },
     {
-        "eventId":6223405,
-        "sportId":1,
-        "marketId":1,
-        "tag":"Best Odds"
-    },
-    {
-        "eventId":6223405,
-        "sportId":1,
-        "marketId":2,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6221862,
-        "sportId":1,
-        "marketId":1,
-        "tag":"Best Odds"
-    },
-    {
-        "eventId":6221862,
-        "sportId":1,
-        "marketId":2,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6221569,
-        "sportId":1,
-        "marketId":1,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6221569,
+        "eventId":6225479,
         "sportId":1,
         "marketId":2,
         "tag":"100% Cashback"
     },
     {
-        "eventId":6224648,
+        "eventId":6373592,
+        "sportId":1,
+        "marketId":1,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6373592,
+        "sportId":1,
+        "marketId":2,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6373444,
+        "sportId":1,
+        "marketId":1,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6373444,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6221173,
+        "sportId":1,
+        "marketId":1,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6221173,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6222054,
+        "sportId":1,
+        "marketId":1,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6222054,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6220977,
         "sportId":1,
         "marketId":1,
         "tag":"100% Cashback"
     },
     {
-        "eventId":6224648,
-        "sportId":1,
-        "marketId":2,
-        "tag":"Best Odds"
-    },
-    {
-        "eventId":6221173,
-        "sportId":1,
-        "marketId":1,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6221173,
-        "sportId":1,
-        "marketId":2,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6222054,
-        "sportId":1,
-        "marketId":1,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6222054,
+        "eventId":6220977,
         "sportId":1,
         "marketId":2,
         "tag":"100% Freebet"
     },
     {
-        "eventId":6225011,
+        "eventId":6354209,
         "sportId":1,
         "marketId":1,
         "tag":"Best Odds"
     },
     {
-        "eventId":6225011,
+        "eventId":6354209,
+        "sportId":1,
+        "marketId":2,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6222241,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6222241,
+        "sportId":1,
+        "marketId":2,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6221412,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6221412,
+        "sportId":1,
+        "marketId":2,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6221539,
+        "sportId":1,
+        "marketId":1,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6221539,
         "sportId":1,
         "marketId":2,
         "tag":"100% Cashback"
@@ -309,283 +1017,43 @@
         "eventId":6333889,
         "sportId":1,
         "marketId":2,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6221619,
-        "sportId":1,
-        "marketId":1,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6221619,
-        "sportId":1,
-        "marketId":2,
-        "tag":"100% Cashback"
-    },
-    {
-        "eventId":6218694,
-        "sportId":1,
-        "marketId":1,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6218694,
-        "sportId":1,
-        "marketId":2,
-        "tag":"Best Odds"
-    },
-    {
-        "eventId":6224463,
-        "sportId":1,
-        "marketId":1,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6224463,
-        "sportId":1,
-        "marketId":2,
         "tag":"50% Freebet"
-    },
-    {
-        "eventId":6221529,
-        "sportId":1,
-        "marketId":1,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6221529,
-        "sportId":1,
-        "marketId":2,
-        "tag":"100% Cashback"
-    },
-    {
-        "eventId":6221186,
-        "sportId":1,
-        "marketId":1,
-        "tag":"Best Odds"
-    },
-    {
-        "eventId":6221186,
-        "sportId":1,
-        "marketId":2,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6220508,
-        "sportId":1,
-        "marketId":1,
-        "tag":"Best Odds"
-    },
-    {
-        "eventId":6220508,
-        "sportId":1,
-        "marketId":2,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6221511,
-        "sportId":1,
-        "marketId":1,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6221511,
-        "sportId":1,
-        "marketId":2,
-        "tag":"Best Odds"
     },
     {
         "eventId":6333877,
         "sportId":1,
         "marketId":1,
-        "tag":"Best Odds"
+        "tag":"50% Freebet"
     },
     {
         "eventId":6333877,
         "sportId":1,
         "marketId":2,
-        "tag":"100% Cashback"
+        "tag":"Best Odds"
     },
     {
-        "eventId":6333854,
+        "eventId":6222278,
         "sportId":1,
         "marketId":1,
         "tag":"50% Freebet"
     },
     {
-        "eventId":6333854,
-        "sportId":1,
-        "marketId":2,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6224843,
-        "sportId":1,
-        "marketId":1,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6224843,
+        "eventId":6222278,
         "sportId":1,
         "marketId":2,
         "tag":"Best Odds"
     },
     {
-        "eventId":6221473,
+        "eventId":6333838,
         "sportId":1,
         "marketId":1,
         "tag":"100% Freebet"
     },
     {
-        "eventId":6221473,
+        "eventId":6333838,
         "sportId":1,
         "marketId":2,
         "tag":"50% Freebet"
-    },
-    {
-        "eventId":6220661,
-        "sportId":1,
-        "marketId":1,
-        "tag":"Best Odds"
-    },
-    {
-        "eventId":6220661,
-        "sportId":1,
-        "marketId":2,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6221068,
-        "sportId":1,
-        "marketId":1,
-        "tag":"Best Odds"
-    },
-    {
-        "eventId":6221068,
-        "sportId":1,
-        "marketId":2,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6222336,
-        "sportId":1,
-        "marketId":1,
-        "tag":"Best Odds"
-    },
-    {
-        "eventId":6222336,
-        "sportId":1,
-        "marketId":2,
-        "tag":"100% Cashback"
-    },
-    {
-        "eventId":6221638,
-        "sportId":1,
-        "marketId":1,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6221638,
-        "sportId":1,
-        "marketId":2,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6222202,
-        "sportId":1,
-        "marketId":1,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6222202,
-        "sportId":1,
-        "marketId":2,
-        "tag":"Best Odds"
-    },
-    {
-        "eventId":6220977,
-        "sportId":1,
-        "marketId":1,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6220977,
-        "sportId":1,
-        "marketId":2,
-        "tag":"100% Cashback"
-    },
-    {
-        "eventId":6354209,
-        "sportId":1,
-        "marketId":1,
-        "tag":"100% Cashback"
-    },
-    {
-        "eventId":6354209,
-        "sportId":1,
-        "marketId":2,
-        "tag":"Best Odds"
-    },
-    {
-        "eventId":6222241,
-        "sportId":1,
-        "marketId":1,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6222241,
-        "sportId":1,
-        "marketId":2,
-        "tag":"Best Odds"
-    },
-    {
-        "eventId":6221007,
-        "sportId":1,
-        "marketId":1,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6221007,
-        "sportId":1,
-        "marketId":2,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6221412,
-        "sportId":1,
-        "marketId":1,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6221412,
-        "sportId":1,
-        "marketId":2,
-        "tag":"100% Cashback"
-    },
-    {
-        "eventId":6333840,
-        "sportId":1,
-        "marketId":1,
-        "tag":"100% Cashback"
-    },
-    {
-        "eventId":6333840,
-        "sportId":1,
-        "marketId":2,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6221689,
-        "sportId":1,
-        "marketId":1,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6221689,
-        "sportId":1,
-        "marketId":2,
-        "tag":"Best Odds"
     },
     {
         "eventId":6222259,
@@ -597,19 +1065,139 @@
         "eventId":6222259,
         "sportId":1,
         "marketId":2,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6221591,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6221591,
+        "sportId":1,
+        "marketId":2,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6223896,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6223896,
+        "sportId":1,
+        "marketId":2,
         "tag":"Best Odds"
     },
     {
-        "eventId":6333845,
+        "eventId":6223032,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6223032,
+        "sportId":1,
+        "marketId":2,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6220986,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6220986,
+        "sportId":1,
+        "marketId":2,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6333876,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6333876,
+        "sportId":1,
+        "marketId":2,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6221569,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6221569,
+        "sportId":1,
+        "marketId":2,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6225512,
+        "sportId":1,
+        "marketId":1,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6225512,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6221349,
         "sportId":1,
         "marketId":1,
         "tag":"Best Odds"
     },
     {
-        "eventId":6333845,
+        "eventId":6221349,
         "sportId":1,
         "marketId":2,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6221650,
+        "sportId":1,
+        "marketId":1,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6221650,
+        "sportId":1,
+        "marketId":2,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6224463,
+        "sportId":1,
+        "marketId":1,
         "tag":"100% Cashback"
+    },
+    {
+        "eventId":6224463,
+        "sportId":1,
+        "marketId":2,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6221689,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6221689,
+        "sportId":1,
+        "marketId":2,
+        "tag":"50% Freebet"
     },
     {
         "eventId":6220935,
@@ -624,376 +1212,28 @@
         "tag":"Best Odds"
     },
     {
-        "eventId":6222278,
-        "sportId":1,
-        "marketId":1,
-        "tag":"Best Odds"
-    },
-    {
-        "eventId":6222278,
-        "sportId":1,
-        "marketId":2,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6223937,
-        "sportId":1,
-        "marketId":1,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6223937,
-        "sportId":1,
-        "marketId":2,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6220843,
+        "eventId":6222329,
         "sportId":1,
         "marketId":1,
         "tag":"100% Cashback"
     },
     {
-        "eventId":6220843,
+        "eventId":6222329,
         "sportId":1,
         "marketId":2,
         "tag":"100% Freebet"
-    },
-    {
-        "eventId":6223896,
-        "sportId":1,
-        "marketId":1,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6223896,
-        "sportId":1,
-        "marketId":2,
-        "tag":"100% Cashback"
-    },
-    {
-        "eventId":6333838,
-        "sportId":1,
-        "marketId":1,
-        "tag":"Best Odds"
-    },
-    {
-        "eventId":6333838,
-        "sportId":1,
-        "marketId":2,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6223032,
-        "sportId":1,
-        "marketId":1,
-        "tag":"100% Cashback"
-    },
-    {
-        "eventId":6223032,
-        "sportId":1,
-        "marketId":2,
-        "tag":"Best Odds"
-    },
-    {
-        "eventId":6220986,
-        "sportId":1,
-        "marketId":1,
-        "tag":"Best Odds"
-    },
-    {
-        "eventId":6220986,
-        "sportId":1,
-        "marketId":2,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6221594,
-        "sportId":1,
-        "marketId":1,
-        "tag":"100% Cashback"
-    },
-    {
-        "eventId":6221594,
-        "sportId":1,
-        "marketId":2,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6333876,
-        "sportId":1,
-        "marketId":1,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6333876,
-        "sportId":1,
-        "marketId":2,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6221857,
-        "sportId":1,
-        "marketId":1,
-        "tag":"100% Cashback"
-    },
-    {
-        "eventId":6221857,
-        "sportId":1,
-        "marketId":2,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6221674,
-        "sportId":1,
-        "marketId":1,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6221674,
-        "sportId":1,
-        "marketId":2,
-        "tag":"Best Odds"
-    },
-    {
-        "eventId":6221539,
-        "sportId":1,
-        "marketId":1,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6221539,
-        "sportId":1,
-        "marketId":2,
-        "tag":"Best Odds"
     },
     {
         "eventId":6215354,
         "sportId":8,
         "marketId":3022086,
-        "tag":"100% Freebet"
+        "tag":"100% Cashback"
     },
     {
         "eventId":6215354,
         "sportId":8,
         "marketId":3022171,
-        "tag":"100% Cashback"
-    },
-    {
-        "eventId":6214937,
-        "sportId":8,
-        "marketId":3022086,
-        "tag":"Best Odds"
-    },
-    {
-        "eventId":6214937,
-        "sportId":8,
-        "marketId":3022092,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6222493,
-        "sportId":1,
-        "marketId":1,
-        "tag":"100% Cashback"
-    },
-    {
-        "eventId":6222493,
-        "sportId":1,
-        "marketId":2,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6224970,
-        "sportId":1,
-        "marketId":1,
-        "tag":"100% Cashback"
-    },
-    {
-        "eventId":6224970,
-        "sportId":1,
-        "marketId":2,
-        "tag":"Best Odds"
-    },
-    {
-        "eventId":6222329,
-        "sportId":1,
-        "marketId":1,
-        "tag":"Best Odds"
-    },
-    {
-        "eventId":6222329,
-        "sportId":1,
-        "marketId":2,
-        "tag":"100% Cashback"
-    },
-    {
-        "eventId":6214754,
-        "sportId":8,
-        "marketId":3022086,
-        "tag":"Best Odds"
-    },
-    {
-        "eventId":6214754,
-        "sportId":8,
-        "marketId":3022092,
         "tag":"50% Freebet"
-    },
-    {
-        "eventId":6333841,
-        "sportId":1,
-        "marketId":1,
-        "tag":"100% Cashback"
-    },
-    {
-        "eventId":6333841,
-        "sportId":1,
-        "marketId":2,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6223516,
-        "sportId":1,
-        "marketId":1,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6223516,
-        "sportId":1,
-        "marketId":2,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6355698,
-        "sportId":1,
-        "marketId":1,
-        "tag":"100% Cashback"
-    },
-    {
-        "eventId":6355698,
-        "sportId":1,
-        "marketId":2,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6223778,
-        "sportId":1,
-        "marketId":1,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6223778,
-        "sportId":1,
-        "marketId":2,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6221404,
-        "sportId":1,
-        "marketId":1,
-        "tag":"100% Cashback"
-    },
-    {
-        "eventId":6221404,
-        "sportId":1,
-        "marketId":2,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6224972,
-        "sportId":1,
-        "marketId":1,
-        "tag":"100% Cashback"
-    },
-    {
-        "eventId":6224972,
-        "sportId":1,
-        "marketId":2,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6222063,
-        "sportId":1,
-        "marketId":1,
-        "tag":"100% Cashback"
-    },
-    {
-        "eventId":6222063,
-        "sportId":1,
-        "marketId":2,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6221796,
-        "sportId":1,
-        "marketId":1,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6221796,
-        "sportId":1,
-        "marketId":2,
-        "tag":"100% Cashback"
-    },
-    {
-        "eventId":6221553,
-        "sportId":1,
-        "marketId":1,
-        "tag":"100% Cashback"
-    },
-    {
-        "eventId":6221553,
-        "sportId":1,
-        "marketId":2,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6221795,
-        "sportId":1,
-        "marketId":1,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6221795,
-        "sportId":1,
-        "marketId":2,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6221231,
-        "sportId":1,
-        "marketId":1,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6221231,
-        "sportId":1,
-        "marketId":2,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6220758,
-        "sportId":1,
-        "marketId":1,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6220758,
-        "sportId":1,
-        "marketId":2,
-        "tag":"Best Odds"
-    },
-    {
-        "eventId":6220928,
-        "sportId":1,
-        "marketId":1,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6220928,
-        "sportId":1,
-        "marketId":2,
-        "tag":"Best Odds"
     },
     {
         "eventId":6215418,
@@ -1005,133 +1245,121 @@
         "eventId":6215418,
         "sportId":8,
         "marketId":3022176,
-        "tag":"100% Freebet"
+        "tag":"100% Cashback"
     },
     {
-        "eventId":6221360,
-        "sportId":1,
-        "marketId":1,
+        "eventId":6214754,
+        "sportId":8,
+        "marketId":3022086,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6214754,
+        "sportId":8,
+        "marketId":3022092,
         "tag":"Best Odds"
     },
     {
-        "eventId":6221360,
-        "sportId":1,
-        "marketId":2,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6221989,
+        "eventId":6333841,
         "sportId":1,
         "marketId":1,
         "tag":"100% Cashback"
     },
     {
-        "eventId":6221989,
+        "eventId":6333841,
         "sportId":1,
         "marketId":2,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6221761,
-        "sportId":1,
-        "marketId":1,
         "tag":"100% Freebet"
     },
     {
-        "eventId":6221761,
-        "sportId":1,
-        "marketId":2,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6223048,
+        "eventId":6355698,
         "sportId":1,
         "marketId":1,
         "tag":"100% Freebet"
     },
     {
-        "eventId":6223048,
+        "eventId":6355698,
         "sportId":1,
         "marketId":2,
         "tag":"100% Cashback"
     },
     {
-        "eventId":6222741,
+        "eventId":6223778,
         "sportId":1,
         "marketId":1,
         "tag":"50% Freebet"
     },
     {
-        "eventId":6222741,
+        "eventId":6223778,
         "sportId":1,
         "marketId":2,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6374089,
+        "sportId":1,
+        "marketId":1,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6374089,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6221404,
+        "sportId":1,
+        "marketId":1,
         "tag":"100% Cashback"
     },
     {
-        "eventId":6222618,
+        "eventId":6221404,
         "sportId":1,
-        "marketId":1,
+        "marketId":2,
         "tag":"Best Odds"
     },
     {
-        "eventId":6222618,
-        "sportId":1,
-        "marketId":2,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6221591,
+        "eventId":6224972,
         "sportId":1,
         "marketId":1,
-        "tag":"Best Odds"
-    },
-    {
-        "eventId":6221591,
-        "sportId":1,
-        "marketId":2,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6221258,
-        "sportId":1,
-        "marketId":1,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6221258,
-        "sportId":1,
-        "marketId":2,
         "tag":"100% Cashback"
     },
     {
-        "eventId":6221365,
+        "eventId":6224972,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6221796,
         "sportId":1,
         "marketId":1,
         "tag":"100% Freebet"
     },
     {
-        "eventId":6221365,
+        "eventId":6221796,
         "sportId":1,
         "marketId":2,
-        "tag":"100% Cashback"
+        "tag":"50% Freebet"
     },
     {
-        "eventId":6221418,
+        "eventId":6221553,
         "sportId":1,
         "marketId":1,
-        "tag":"100% Cashback"
+        "tag":"50% Freebet"
     },
     {
-        "eventId":6221418,
+        "eventId":6221553,
         "sportId":1,
         "marketId":2,
-        "tag":"Best Odds"
+        "tag":"100% Cashback"
     },
     {
         "eventId":6221327,
         "sportId":1,
         "marketId":1,
-        "tag":"100% Freebet"
+        "tag":"50% Freebet"
     },
     {
         "eventId":6221327,
@@ -1143,46 +1371,298 @@
         "eventId":6220722,
         "sportId":1,
         "marketId":1,
-        "tag":"Best Odds"
+        "tag":"100% Freebet"
     },
     {
         "eventId":6220722,
         "sportId":1,
         "marketId":2,
-        "tag":"100% Freebet"
+        "tag":"100% Cashback"
     },
     {
         "eventId":6224139,
         "sportId":1,
         "marketId":1,
-        "tag":"Best Odds"
+        "tag":"100% Cashback"
     },
     {
         "eventId":6224139,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6221857,
+        "sportId":1,
+        "marketId":1,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6221857,
         "sportId":1,
         "marketId":2,
         "tag":"100% Cashback"
     },
     {
-        "eventId":6222371,
+        "eventId":6333854,
         "sportId":1,
         "marketId":1,
-        "tag":"Best Odds"
+        "tag":"100% Freebet"
     },
     {
-        "eventId":6222371,
+        "eventId":6333854,
         "sportId":1,
         "marketId":2,
         "tag":"50% Freebet"
     },
     {
-        "eventId":6221768,
+        "eventId":6220843,
+        "sportId":1,
+        "marketId":1,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6220843,
+        "sportId":1,
+        "marketId":2,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6214937,
+        "sportId":8,
+        "marketId":3022086,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6214937,
+        "sportId":8,
+        "marketId":3022092,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6224970,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6224970,
+        "sportId":1,
+        "marketId":2,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6374092,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6374092,
+        "sportId":1,
+        "marketId":2,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6221795,
         "sportId":1,
         "marketId":1,
         "tag":"Best Odds"
     },
     {
-        "eventId":6221768,
+        "eventId":6221795,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6221231,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6221231,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6220758,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6220758,
+        "sportId":1,
+        "marketId":2,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6220928,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6220928,
+        "sportId":1,
+        "marketId":2,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6221989,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6221989,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6221761,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6221761,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6222741,
+        "sportId":1,
+        "marketId":1,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6222741,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6221258,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6221258,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6218694,
+        "sportId":1,
+        "marketId":1,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6218694,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6221068,
+        "sportId":1,
+        "marketId":1,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6221068,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6223937,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6223937,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6222188,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6222188,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6221511,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6221511,
+        "sportId":1,
+        "marketId":2,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6222202,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6222202,
+        "sportId":1,
+        "marketId":2,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6221473,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6221473,
+        "sportId":1,
+        "marketId":2,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6221360,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6221360,
+        "sportId":1,
+        "marketId":2,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6221674,
+        "sportId":1,
+        "marketId":1,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6221674,
         "sportId":1,
         "marketId":2,
         "tag":"100% Freebet"
@@ -1197,6 +1677,78 @@
         "eventId":6223363,
         "sportId":1,
         "marketId":2,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6220531,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6220531,
+        "sportId":1,
+        "marketId":2,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6220742,
+        "sportId":1,
+        "marketId":1,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6220742,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6221365,
+        "sportId":1,
+        "marketId":1,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6221365,
+        "sportId":1,
+        "marketId":2,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6223405,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6223405,
+        "sportId":1,
+        "marketId":2,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6221186,
+        "sportId":1,
+        "marketId":1,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6221186,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6221768,
+        "sportId":1,
+        "marketId":1,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6221768,
+        "sportId":1,
+        "marketId":2,
         "tag":"100% Cashback"
     },
     {
@@ -1209,16 +1761,208 @@
         "eventId":6221668,
         "sportId":1,
         "marketId":2,
-        "tag":"Best Odds"
+        "tag":"100% Cashback"
     },
     {
         "eventId":6221519,
         "sportId":1,
         "marketId":1,
-        "tag":"50% Freebet"
+        "tag":"100% Cashback"
     },
     {
         "eventId":6221519,
+        "sportId":1,
+        "marketId":2,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6374110,
+        "sportId":8,
+        "marketId":3022086,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6374110,
+        "sportId":8,
+        "marketId":3022087,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6374106,
+        "sportId":8,
+        "marketId":3022086,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6374106,
+        "sportId":8,
+        "marketId":3022172,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6221862,
+        "sportId":1,
+        "marketId":1,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6221862,
+        "sportId":1,
+        "marketId":2,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6333840,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6333840,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6374121,
+        "sportId":8,
+        "marketId":3022086,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6374121,
+        "sportId":8,
+        "marketId":3022092,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6221814,
+        "sportId":1,
+        "marketId":1,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6221814,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6222493,
+        "sportId":1,
+        "marketId":1,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6222493,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6221594,
+        "sportId":1,
+        "marketId":1,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6221594,
+        "sportId":1,
+        "marketId":2,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6222063,
+        "sportId":1,
+        "marketId":1,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6222063,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6220508,
+        "sportId":1,
+        "marketId":1,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6220508,
+        "sportId":1,
+        "marketId":2,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6222371,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6222371,
+        "sportId":1,
+        "marketId":2,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6220661,
+        "sportId":1,
+        "marketId":1,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6220661,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6221507,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6221507,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6221418,
+        "sportId":1,
+        "marketId":1,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6221418,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6221309,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6221309,
+        "sportId":1,
+        "marketId":2,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6221619,
+        "sportId":1,
+        "marketId":1,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6221619,
         "sportId":1,
         "marketId":2,
         "tag":"100% Freebet"
@@ -1227,7 +1971,7 @@
         "eventId":6221488,
         "sportId":1,
         "marketId":1,
-        "tag":"50% Freebet"
+        "tag":"100% Cashback"
     },
     {
         "eventId":6221488,
@@ -1236,13 +1980,241 @@
         "tag":"Best Odds"
     },
     {
-        "eventId":6221982,
+        "eventId":6373596,
+        "sportId":1,
+        "marketId":1,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6373596,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6221801,
+        "sportId":1,
+        "marketId":1,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6221801,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6221638,
+        "sportId":1,
+        "marketId":1,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6221638,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6225061,
+        "sportId":1,
+        "marketId":1,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6225061,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6333845,
         "sportId":1,
         "marketId":1,
         "tag":"100% Cashback"
     },
     {
+        "eventId":6333845,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6221007,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6221007,
+        "sportId":1,
+        "marketId":2,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6222336,
+        "sportId":1,
+        "marketId":1,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6222336,
+        "sportId":1,
+        "marketId":2,
+        "tag":"Best Odds"
+    },
+    {
         "eventId":6221982,
+        "sportId":1,
+        "marketId":1,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6221982,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6221262,
+        "sportId":1,
+        "marketId":1,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6221262,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6221426,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6221426,
+        "sportId":1,
+        "marketId":2,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6374872,
+        "sportId":1,
+        "marketId":1,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6374872,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6374875,
+        "sportId":1,
+        "marketId":1,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6374875,
+        "sportId":1,
+        "marketId":2,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6223516,
+        "sportId":1,
+        "marketId":1,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6223516,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6225011,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6225011,
+        "sportId":1,
+        "marketId":2,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6223048,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6223048,
+        "sportId":1,
+        "marketId":2,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6224843,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6224843,
+        "sportId":1,
+        "marketId":2,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6224648,
+        "sportId":1,
+        "marketId":1,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6224648,
+        "sportId":1,
+        "marketId":2,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6222618,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6222618,
+        "sportId":1,
+        "marketId":2,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6221529,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6221529,
+        "sportId":1,
+        "marketId":2,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6374886,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6374886,
         "sportId":1,
         "marketId":2,
         "tag":"Best Odds"
@@ -1251,334 +2223,94 @@
         "eventId":6223331,
         "sportId":1,
         "marketId":1,
-        "tag":"100% Cashback"
+        "tag":"50% Freebet"
     },
     {
         "eventId":6223331,
         "sportId":1,
         "marketId":2,
-        "tag":"50% Freebet"
+        "tag":"Best Odds"
     },
     {
         "eventId":6220334,
         "sportId":1,
         "marketId":1,
-        "tag":"100% Cashback"
+        "tag":"100% Freebet"
     },
     {
         "eventId":6220334,
         "sportId":1,
         "marketId":2,
-        "tag":"50% Freebet"
+        "tag":"Best Odds"
     },
     {
         "eventId":6221299,
         "sportId":1,
         "marketId":1,
-        "tag":"100% Cashback"
+        "tag":"50% Freebet"
     },
     {
         "eventId":6221299,
         "sportId":1,
         "marketId":2,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6221507,
-        "sportId":1,
-        "marketId":1,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6221507,
-        "sportId":1,
-        "marketId":2,
         "tag":"100% Freebet"
     },
     {
-        "eventId":6221262,
+        "eventId":6333884,
         "sportId":1,
         "marketId":1,
         "tag":"100% Freebet"
     },
     {
-        "eventId":6221262,
+        "eventId":6333884,
         "sportId":1,
         "marketId":2,
         "tag":"Best Odds"
-    },
-    {
-        "eventId":6221426,
-        "sportId":1,
-        "marketId":1,
-        "tag":"100% Cashback"
-    },
-    {
-        "eventId":6221426,
-        "sportId":1,
-        "marketId":2,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6218570,
-        "sportId":1,
-        "marketId":1,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6218570,
-        "sportId":1,
-        "marketId":2,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6214470,
-        "sportId":8,
-        "marketId":3022086,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6214470,
-        "sportId":8,
-        "marketId":3022098,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6218051,
-        "sportId":1,
-        "marketId":1,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6218051,
-        "sportId":1,
-        "marketId":2,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6218648,
-        "sportId":1,
-        "marketId":1,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6218648,
-        "sportId":1,
-        "marketId":2,
-        "tag":"Best Odds"
-    },
-    {
-        "eventId":6222625,
-        "sportId":1,
-        "marketId":1,
-        "tag":"Best Odds"
-    },
-    {
-        "eventId":6222625,
-        "sportId":1,
-        "marketId":2,
-        "tag":"100% Cashback"
-    },
-    {
-        "eventId":6217805,
-        "sportId":1,
-        "marketId":1,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6217805,
-        "sportId":1,
-        "marketId":2,
-        "tag":"Best Odds"
-    },
-    {
-        "eventId":6217950,
-        "sportId":1,
-        "marketId":1,
-        "tag":"100% Cashback"
-    },
-    {
-        "eventId":6217950,
-        "sportId":1,
-        "marketId":2,
-        "tag":"Best Odds"
-    },
-    {
-        "eventId":6218232,
-        "sportId":1,
-        "marketId":1,
-        "tag":"100% Cashback"
-    },
-    {
-        "eventId":6218232,
-        "sportId":1,
-        "marketId":2,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6218718,
-        "sportId":1,
-        "marketId":1,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6218718,
-        "sportId":1,
-        "marketId":2,
-        "tag":"100% Cashback"
-    },
-    {
-        "eventId":6218581,
-        "sportId":1,
-        "marketId":1,
-        "tag":"Best Odds"
-    },
-    {
-        "eventId":6218581,
-        "sportId":1,
-        "marketId":2,
-        "tag":"50% Freebet"
     },
     {
         "eventId":6214517,
         "sportId":8,
         "marketId":3022086,
-        "tag":"50% Freebet"
+        "tag":"Best Odds"
     },
     {
         "eventId":6214517,
         "sportId":8,
         "marketId":3022098,
-        "tag":"100% Cashback"
-    },
-    {
-        "eventId":6218273,
-        "sportId":1,
-        "marketId":1,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6218273,
-        "sportId":1,
-        "marketId":2,
         "tag":"100% Freebet"
     },
     {
-        "eventId":6218197,
-        "sportId":1,
-        "marketId":1,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6218197,
-        "sportId":1,
-        "marketId":2,
-        "tag":"Best Odds"
-    },
-    {
-        "eventId":6222466,
+        "eventId":6218315,
         "sportId":1,
         "marketId":1,
         "tag":"100% Cashback"
     },
     {
-        "eventId":6222466,
-        "sportId":1,
-        "marketId":2,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6218180,
-        "sportId":1,
-        "marketId":1,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6218180,
+        "eventId":6218315,
         "sportId":1,
         "marketId":2,
         "tag":"Best Odds"
     },
     {
-        "eventId":6218066,
+        "eventId":6218767,
         "sportId":1,
         "marketId":1,
-        "tag":"50% Freebet"
+        "tag":"100% Freebet"
     },
     {
-        "eventId":6218066,
+        "eventId":6218767,
         "sportId":1,
         "marketId":2,
-        "tag":"100% Freebet"
+        "tag":"50% Freebet"
     },
     {
         "eventId":6218334,
         "sportId":1,
         "marketId":1,
-        "tag":"100% Cashback"
-    },
-    {
-        "eventId":6218334,
-        "sportId":1,
-        "marketId":2,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6218190,
-        "sportId":1,
-        "marketId":1,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6218190,
-        "sportId":1,
-        "marketId":2,
-        "tag":"Best Odds"
-    },
-    {
-        "eventId":6218288,
-        "sportId":1,
-        "marketId":1,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6218288,
-        "sportId":1,
-        "marketId":2,
         "tag":"50% Freebet"
     },
     {
-        "eventId":6218272,
-        "sportId":1,
-        "marketId":1,
-        "tag":"100% Cashback"
-    },
-    {
-        "eventId":6218272,
-        "sportId":1,
-        "marketId":2,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6218297,
-        "sportId":1,
-        "marketId":1,
-        "tag":"Best Odds"
-    },
-    {
-        "eventId":6218297,
-        "sportId":1,
-        "marketId":2,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6333847,
-        "sportId":1,
-        "marketId":1,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6333847,
+        "eventId":6218334,
         "sportId":1,
         "marketId":2,
         "tag":"Best Odds"
@@ -1587,34 +2319,22 @@
         "eventId":6218245,
         "sportId":1,
         "marketId":1,
-        "tag":"Best Odds"
+        "tag":"100% Freebet"
     },
     {
         "eventId":6218245,
         "sportId":1,
         "marketId":2,
-        "tag":"100% Cashback"
+        "tag":"50% Freebet"
     },
     {
         "eventId":6218304,
         "sportId":1,
         "marketId":1,
-        "tag":"Best Odds"
+        "tag":"50% Freebet"
     },
     {
         "eventId":6218304,
-        "sportId":1,
-        "marketId":2,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6218286,
-        "sportId":1,
-        "marketId":1,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6218286,
         "sportId":1,
         "marketId":2,
         "tag":"100% Cashback"
@@ -1623,73 +2343,61 @@
         "eventId":6218564,
         "sportId":1,
         "marketId":1,
-        "tag":"100% Freebet"
+        "tag":"100% Cashback"
     },
     {
         "eventId":6218564,
         "sportId":1,
         "marketId":2,
-        "tag":"Best Odds"
-    },
-    {
-        "eventId":6217832,
-        "sportId":1,
-        "marketId":1,
-        "tag":"100% Cashback"
-    },
-    {
-        "eventId":6217832,
-        "sportId":1,
-        "marketId":2,
         "tag":"50% Freebet"
     },
     {
         "eventId":6218546,
         "sportId":1,
         "marketId":1,
-        "tag":"50% Freebet"
+        "tag":"100% Freebet"
     },
     {
         "eventId":6218546,
         "sportId":1,
         "marketId":2,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6218164,
-        "sportId":1,
-        "marketId":1,
         "tag":"Best Odds"
     },
     {
         "eventId":6218164,
         "sportId":1,
+        "marketId":1,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6218164,
+        "sportId":1,
         "marketId":2,
-        "tag":"100% Freebet"
+        "tag":"50% Freebet"
     },
     {
         "eventId":6218346,
         "sportId":1,
         "marketId":1,
-        "tag":"100% Cashback"
+        "tag":"100% Freebet"
     },
     {
         "eventId":6218346,
+        "sportId":1,
+        "marketId":2,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6217853,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6217853,
         "sportId":1,
         "marketId":2,
         "tag":"Best Odds"
-    },
-    {
-        "eventId":6217853,
-        "sportId":1,
-        "marketId":1,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6217853,
-        "sportId":1,
-        "marketId":2,
-        "tag":"100% Cashback"
     },
     {
         "eventId":6218751,
@@ -1701,31 +2409,19 @@
         "eventId":6218751,
         "sportId":1,
         "marketId":2,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6218717,
-        "sportId":1,
-        "marketId":1,
         "tag":"100% Cashback"
     },
     {
-        "eventId":6218717,
+        "eventId":6218195,
         "sportId":1,
-        "marketId":2,
+        "marketId":1,
         "tag":"50% Freebet"
     },
     {
         "eventId":6218195,
         "sportId":1,
-        "marketId":1,
-        "tag":"Best Odds"
-    },
-    {
-        "eventId":6218195,
-        "sportId":1,
         "marketId":2,
-        "tag":"100% Cashback"
+        "tag":"100% Freebet"
     },
     {
         "eventId":6218025,
@@ -1737,283 +2433,67 @@
         "eventId":6218025,
         "sportId":1,
         "marketId":2,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6222195,
-        "sportId":1,
-        "marketId":1,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6222195,
-        "sportId":1,
-        "marketId":2,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6217902,
-        "sportId":1,
-        "marketId":1,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6217902,
-        "sportId":1,
-        "marketId":2,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6218027,
-        "sportId":1,
-        "marketId":1,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6218027,
-        "sportId":1,
-        "marketId":2,
-        "tag":"100% Cashback"
-    },
-    {
-        "eventId":6218108,
-        "sportId":1,
-        "marketId":1,
-        "tag":"Best Odds"
-    },
-    {
-        "eventId":6218108,
-        "sportId":1,
-        "marketId":2,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6217732,
-        "sportId":1,
-        "marketId":1,
-        "tag":"100% Cashback"
-    },
-    {
-        "eventId":6217732,
-        "sportId":1,
-        "marketId":2,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6218721,
-        "sportId":1,
-        "marketId":1,
-        "tag":"Best Odds"
-    },
-    {
-        "eventId":6218721,
-        "sportId":1,
-        "marketId":2,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6218093,
-        "sportId":1,
-        "marketId":1,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6218093,
-        "sportId":1,
-        "marketId":2,
-        "tag":"100% Cashback"
-    },
-    {
-        "eventId":6217988,
-        "sportId":1,
-        "marketId":1,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6217988,
-        "sportId":1,
-        "marketId":2,
-        "tag":"Best Odds"
-    },
-    {
-        "eventId":6218259,
-        "sportId":1,
-        "marketId":1,
         "tag":"50% Freebet"
     },
     {
         "eventId":6218259,
         "sportId":1,
+        "marketId":1,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6218259,
+        "sportId":1,
+        "marketId":2,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6214470,
+        "sportId":8,
+        "marketId":3022086,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6214470,
+        "sportId":8,
+        "marketId":3022098,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6218273,
+        "sportId":1,
+        "marketId":1,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6218273,
+        "sportId":1,
         "marketId":2,
         "tag":"100% Cashback"
     },
     {
-        "eventId":6218520,
+        "eventId":6222466,
         "sportId":1,
         "marketId":1,
-        "tag":"Best Odds"
+        "tag":"50% Freebet"
     },
     {
-        "eventId":6218520,
+        "eventId":6222466,
         "sportId":1,
         "marketId":2,
         "tag":"100% Freebet"
     },
     {
-        "eventId":6218361,
-        "sportId":1,
-        "marketId":1,
-        "tag":"100% Cashback"
-    },
-    {
-        "eventId":6218361,
-        "sportId":1,
-        "marketId":2,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6217895,
-        "sportId":1,
-        "marketId":1,
-        "tag":"100% Cashback"
-    },
-    {
-        "eventId":6217895,
-        "sportId":1,
-        "marketId":2,
-        "tag":"Best Odds"
-    },
-    {
-        "eventId":6218038,
-        "sportId":1,
-        "marketId":1,
-        "tag":"100% Cashback"
-    },
-    {
-        "eventId":6218038,
-        "sportId":1,
-        "marketId":2,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6218460,
-        "sportId":1,
-        "marketId":1,
-        "tag":"100% Cashback"
-    },
-    {
-        "eventId":6218460,
-        "sportId":1,
-        "marketId":2,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6223173,
-        "sportId":1,
-        "marketId":1,
-        "tag":"100% Cashback"
-    },
-    {
-        "eventId":6223173,
-        "sportId":1,
-        "marketId":2,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6218389,
+        "eventId":6218066,
         "sportId":1,
         "marketId":1,
         "tag":"100% Freebet"
     },
     {
-        "eventId":6218389,
+        "eventId":6218066,
         "sportId":1,
         "marketId":2,
         "tag":"50% Freebet"
-    },
-    {
-        "eventId":6217710,
-        "sportId":1,
-        "marketId":1,
-        "tag":"Best Odds"
-    },
-    {
-        "eventId":6217710,
-        "sportId":1,
-        "marketId":2,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6218269,
-        "sportId":1,
-        "marketId":1,
-        "tag":"Best Odds"
-    },
-    {
-        "eventId":6218269,
-        "sportId":1,
-        "marketId":2,
-        "tag":"100% Cashback"
-    },
-    {
-        "eventId":6218392,
-        "sportId":1,
-        "marketId":1,
-        "tag":"Best Odds"
-    },
-    {
-        "eventId":6218392,
-        "sportId":1,
-        "marketId":2,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6218703,
-        "sportId":1,
-        "marketId":1,
-        "tag":"100% Cashback"
-    },
-    {
-        "eventId":6218703,
-        "sportId":1,
-        "marketId":2,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6218315,
-        "sportId":1,
-        "marketId":1,
-        "tag":"Best Odds"
-    },
-    {
-        "eventId":6218315,
-        "sportId":1,
-        "marketId":2,
-        "tag":"100% Cashback"
-    },
-    {
-        "eventId":6218767,
-        "sportId":1,
-        "marketId":1,
-        "tag":"Best Odds"
-    },
-    {
-        "eventId":6218767,
-        "sportId":1,
-        "marketId":2,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6218590,
-        "sportId":1,
-        "marketId":1,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6218590,
-        "sportId":1,
-        "marketId":2,
-        "tag":"Best Odds"
     },
     {
         "eventId":6218169,
@@ -2028,40 +2508,148 @@
         "tag":"100% Freebet"
     },
     {
-        "eventId":6218381,
+        "eventId":6217950,
         "sportId":1,
         "marketId":1,
-        "tag":"100% Cashback"
-    },
-    {
-        "eventId":6218381,
-        "sportId":1,
-        "marketId":2,
         "tag":"50% Freebet"
     },
     {
-        "eventId":6218707,
+        "eventId":6217950,
+        "sportId":1,
+        "marketId":2,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6218027,
+        "sportId":1,
+        "marketId":1,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6218027,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6218232,
         "sportId":1,
         "marketId":1,
         "tag":"100% Freebet"
     },
     {
-        "eventId":6218707,
+        "eventId":6218232,
         "sportId":1,
         "marketId":2,
-        "tag":"50% Freebet"
+        "tag":"100% Cashback"
     },
     {
-        "eventId":6333884,
+        "eventId":6217732,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6217732,
+        "sportId":1,
+        "marketId":2,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6333851,
         "sportId":1,
         "marketId":1,
         "tag":"50% Freebet"
     },
     {
-        "eventId":6333884,
+        "eventId":6333851,
         "sportId":1,
         "marketId":2,
         "tag":"Best Odds"
+    },
+    {
+        "eventId":6218520,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6218520,
+        "sportId":1,
+        "marketId":2,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6217895,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6217895,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6218051,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6218051,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6222625,
+        "sportId":1,
+        "marketId":1,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6222625,
+        "sportId":1,
+        "marketId":2,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6218707,
+        "sportId":1,
+        "marketId":1,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6218707,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6218297,
+        "sportId":1,
+        "marketId":1,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6218297,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6217902,
+        "sportId":1,
+        "marketId":1,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6217902,
+        "sportId":1,
+        "marketId":2,
+        "tag":"50% Freebet"
     },
     {
         "eventId":6217530,
@@ -2079,7 +2667,7 @@
         "eventId":6218256,
         "sportId":1,
         "marketId":1,
-        "tag":"Best Odds"
+        "tag":"100% Cashback"
     },
     {
         "eventId":6218256,
@@ -2088,13 +2676,97 @@
         "tag":"100% Freebet"
     },
     {
-        "eventId":6333851,
+        "eventId":6218721,
         "sportId":1,
         "marketId":1,
         "tag":"100% Cashback"
     },
     {
-        "eventId":6333851,
+        "eventId":6218721,
+        "sportId":1,
+        "marketId":2,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6218093,
+        "sportId":1,
+        "marketId":1,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6218093,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6217988,
+        "sportId":1,
+        "marketId":1,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6217988,
+        "sportId":1,
+        "marketId":2,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6218269,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6218269,
+        "sportId":1,
+        "marketId":2,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6217710,
+        "sportId":1,
+        "marketId":1,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6217710,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6218272,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6218272,
+        "sportId":1,
+        "marketId":2,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6218288,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6218288,
+        "sportId":1,
+        "marketId":2,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6218590,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6218590,
         "sportId":1,
         "marketId":2,
         "tag":"100% Freebet"
@@ -2109,13 +2781,337 @@
         "eventId":6218689,
         "sportId":1,
         "marketId":2,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6218038,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6218038,
+        "sportId":1,
+        "marketId":2,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6218460,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6218460,
+        "sportId":1,
+        "marketId":2,
         "tag":"50% Freebet"
+    },
+    {
+        "eventId":6223173,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6223173,
+        "sportId":1,
+        "marketId":2,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6218389,
+        "sportId":1,
+        "marketId":1,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6218389,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6217805,
+        "sportId":1,
+        "marketId":1,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6217805,
+        "sportId":1,
+        "marketId":2,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6218197,
+        "sportId":1,
+        "marketId":1,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6218197,
+        "sportId":1,
+        "marketId":2,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6218570,
+        "sportId":1,
+        "marketId":1,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6218570,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6374107,
+        "sportId":8,
+        "marketId":3022086,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6374107,
+        "sportId":8,
+        "marketId":3022172,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6374112,
+        "sportId":8,
+        "marketId":3022086,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6374112,
+        "sportId":8,
+        "marketId":3022169,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6374113,
+        "sportId":8,
+        "marketId":3022086,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6374113,
+        "sportId":8,
+        "marketId":3022087,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6374114,
+        "sportId":8,
+        "marketId":3022086,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6374114,
+        "sportId":8,
+        "marketId":3022174,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6217832,
+        "sportId":1,
+        "marketId":1,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6217832,
+        "sportId":1,
+        "marketId":2,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6374109,
+        "sportId":8,
+        "marketId":3022086,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6374109,
+        "sportId":8,
+        "marketId":3022087,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6218381,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6218381,
+        "sportId":1,
+        "marketId":2,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6218718,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6218718,
+        "sportId":1,
+        "marketId":2,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6218392,
+        "sportId":1,
+        "marketId":1,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6218392,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6218361,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6218361,
+        "sportId":1,
+        "marketId":2,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6218190,
+        "sportId":1,
+        "marketId":1,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6218190,
+        "sportId":1,
+        "marketId":2,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6218581,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6218581,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6333847,
+        "sportId":1,
+        "marketId":1,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6333847,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6218108,
+        "sportId":1,
+        "marketId":1,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6218108,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6218703,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6218703,
+        "sportId":1,
+        "marketId":2,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6222195,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6222195,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6218286,
+        "sportId":1,
+        "marketId":1,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6218286,
+        "sportId":1,
+        "marketId":2,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6218180,
+        "sportId":1,
+        "marketId":1,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6218180,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Freebet"
+    },
+    {
+        "eventId":6218648,
+        "sportId":1,
+        "marketId":1,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6218648,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6218717,
+        "sportId":1,
+        "marketId":1,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6218717,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Freebet"
     },
     {
         "eventId":6218466,
         "sportId":1,
         "marketId":1,
-        "tag":"Best Odds"
+        "tag":"100% Freebet"
     },
     {
         "eventId":6218466,
@@ -2124,51 +3120,51 @@
         "tag":"100% Cashback"
     },
     {
-        "eventId":6221499,
+        "eventId":6219173,
+        "sportId":1,
+        "marketId":1,
+        "tag":"50% Freebet"
+    },
+    {
+        "eventId":6219173,
+        "sportId":1,
+        "marketId":2,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6219425,
         "sportId":1,
         "marketId":1,
         "tag":"100% Freebet"
     },
     {
+        "eventId":6219425,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Cashback"
+    },
+    {
+        "eventId":6218943,
+        "sportId":1,
+        "marketId":1,
+        "tag":"Best Odds"
+    },
+    {
+        "eventId":6218943,
+        "sportId":1,
+        "marketId":2,
+        "tag":"100% Cashback"
+    },
+    {
         "eventId":6221499,
         "sportId":1,
-        "marketId":68,
+        "marketId":1,
         "tag":"Best Odds"
     },
     {
-        "eventId":6218943,
+        "eventId":6221499,
         "sportId":1,
-        "marketId":18243059,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6218943,
-        "sportId":1,
-        "marketId":0,
-        "tag":"100% Freebet"
-    },
-    {
-        "eventId":6219173,
-        "sportId":1,
-        "marketId":18243059,
+        "marketId":66,
         "tag":"100% Cashback"
-    },
-    {
-        "eventId":6219173,
-        "sportId":1,
-        "marketId":0,
-        "tag":"50% Freebet"
-    },
-    {
-        "eventId":6219425,
-        "sportId":1,
-        "marketId":18243059,
-        "tag":"100% Cashback"
-    },
-    {
-        "eventId":6219425,
-        "sportId":1,
-        "marketId":0,
-        "tag":"Best Odds"
     }
 ]

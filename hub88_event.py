@@ -5,7 +5,7 @@ import yaml
 # 导入 hub88_api 模块
 import hub88_api as hub88
 
-df = pd.read_json(r'C:\Users\wys94\hub88 config\pwd.json')
+df = pd.read_json(r'/Users/wys/hub88-config/pwd.json')
 
 clientId = df['clientId'][0]  # 获取第一行的username
 password = df['password'][0]  # 获取第一行的password
@@ -18,8 +18,8 @@ token = hub88.get_token(clientId, password)
 def get_market_dict(token,eventId):
   event = hub88.get_eventInfo(token, eventId)
   df_event = pd.DataFrame(event['markets'])
-  save_path = r'C:\Users\wys94\hub88 config\event.json'
-  # df_event.to_json(save_path, orient='records', force_ascii=False, indent=4)
+  save_path = r'/Users/wys/hub88-config/event.json'
+  df_event.to_json(save_path, orient='records', force_ascii=False, indent=4)
 
   # 过滤 trading_status = 1 的行
   df_event_filtered = df_event[df_event['tradingStatus'] == 0]
@@ -45,7 +45,7 @@ def get_market_dict(token,eventId):
       marketId_2 = id_list[1]
   return marketId_1,marketId_2
 
-df_eventIds = pd.read_csv(r'C:\Users\wys94\hub88 config\schedule_filtered.csv')
+df_eventIds = pd.read_csv(r'/Users/wys/hub88-config/schedule_filtered.csv')
 dict_data = df_eventIds[['id', 'sport_id']].to_dict(orient='records')
 # print(dict_data)
 # break
@@ -80,20 +80,20 @@ for event in dict_data:
   event_dict_2 = {}
   i += 1
   print(f"{i}/{len(dict_data)}")
-  if i == 5:
-    break
+  # if i == 5:
+  #   break
 # print(tag_list)
 df_tag = pd.DataFrame(tag_list)
 # print(df_tag)
-save_path = r'C:\Users\wys94\hub88 config\tag.json'
-# df_tag.to_json(save_path, orient='records', force_ascii=False, indent=4)
+save_path = r'/Users/wys/hub88-config/tag.json'
+df_tag.to_json(save_path, orient='records', force_ascii=False, indent=4)
 
-df_yaml = pd.read_json(r'C:\Users\wys94\hub88 config\tag.json')
+df_yaml = pd.read_json(r'/Users/wys/hub88-config/tag.json')
 df_yaml = df_yaml[['eventId', 'marketId', 'tag']]
 df_yaml = df_yaml[df_yaml['marketId'] != 0]
 
 # 3. 将数据转换为 YAML 格式并保存
-save_path = r'C:\Users\wys94\hub88 config\tag.yaml'
+save_path = r'/Users/wys/hub88-config/tag.yaml'
 
 # 方法1：使用 DataFrame
 with open(save_path, 'w', encoding='utf-8') as f:
