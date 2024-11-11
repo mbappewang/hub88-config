@@ -38,10 +38,11 @@ def get_schedule(token,startDate,sportIds,locationIds):
     return response.status_code
   
 def get_market_type(token,params,includeFreeText):
-  url = f'https://wintokens-dev-tradeart-api.trading.io/api/schema/market-types'
+  url = f'https://wintokens-dev-tradeart-api.trading.io/api/schema/market-types?sportId={params}&includeFreeText={includeFreeText}'
   headers = {'Authorization': f'Bearer {token}'}
-  payload = {'includeFreeText': includeFreeText}
-  response = requests.get(url, headers=headers, json=payload, params=params)
+  # payload = {'includeFreeText': includeFreeText}
+# https://wintokens-tradeart-api.tradingstage.io/api/schema/market-types?sportId=1&includeFreeText=false
+  response = requests.get(url, headers=headers)
   if response.status_code == 200:
     data = response.json()
     return data
