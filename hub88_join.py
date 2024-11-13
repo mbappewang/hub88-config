@@ -8,6 +8,7 @@ df_region = pd.read_csv('regions.csv')
 # 进行左连接
 df_merged = df_league.merge(df_sport, how='left', left_on='sportId', right_on='id', suffixes=('_league', '_sport'))
 df_merged = df_merged.merge(df_region, how='left', left_on='locationId', right_on='id', suffixes=('', '_region'))
+df_merged = df_merged[df_merged['sportId'].isin([457, 7, 1, 8, 14, 4, 11, 41, 20, 2, 23, 6, 48, 42, 25, 17, 5, 49, 28, 38, 39, 56, 57, 58, 60, 21, 12, 13, 160, 193, 589, 721, 27, 94, 33, 16, 15, 9, 59, 19, 22, 29, 34, 35, 54, 40, 18, 26, 51, 52, 53, 30, 37, 43, 45, 47, 61, 62, 63, 127, 1117, 886, 622, 1183, 1381])]
 
 # 选择需要的列
 df_enzh = df_merged[['id_league','league-en', 'league-zh', 'sportId','sport-en', 'sport-zh', 'locationId', 'region-en', 'region-zh']]

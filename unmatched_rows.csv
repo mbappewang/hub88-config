@@ -589,9 +589,6 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 16259,Pdc World Youth Championship 2021,Pdc World Youth Championship 2021,18,Darts,飞镖,44,International,国际
 46190,Guild Awards - Best Female Actor,Guild Awards - Best Female Actor,18,Darts,飞镖,44,International,国际
 38631,"World Team Championship, Championship Division","World Team Championship, Championship Division",18,Darts,飞镖,44,International,国际
-9524,2024 Olympic Tournament - Swimming - Men,Olympic Tournament,292,Swimming,游泳赛,44,International,国际
-9531,2024 Olympic Tournament - Swimming - Women,Olympic Tournament Women,292,Swimming,游泳赛,44,International,国际
-9922,NIU,NIU,292,Swimming,游泳赛,44,International,国际
 7,Prva NL,Prva NL,1,Soccer,足球,6,Croatia,克罗地亚
 771,Supercup,超级杯,1,Soccer,足球,49,Albania,阿尔巴尼亚
 253,Albania Cup,阿尔巴尼亚国家杯,1,Soccer,足球,49,Albania,阿尔巴尼亚
@@ -5842,85 +5839,6 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 70982,"ITF Portugal F20, Men Singles","ITF Portugal F20, Men Singles",2,Table Tennis,乒乓球,44,International,国际
 9713,"Olympic Tournament, Mixed Doubles","Olympic Tournament, Mixed Doubles",2,Table Tennis,乒乓球,44,International,国际
 7983,"Olympic Qualification, World","Olympic Qualification, World",2,Table Tennis,乒乓球,44,International,国际
-10196,Ipswich,,458,Greyhounds,,45,Australia,澳大利亚
-10199,Richmond,,458,Greyhounds,,45,Australia,澳大利亚
-10228,The Meadows,,458,Greyhounds,,45,Australia,澳大利亚
-10207,The Gardens,,458,Greyhounds,,45,Australia,澳大利亚
-10213,Cannington,,458,Greyhounds,,45,Australia,澳大利亚
-10225,Warragul,,458,Greyhounds,,45,Australia,澳大利亚
-10233,Mt Gambier,,458,Greyhounds,,45,Australia,澳大利亚
-10239,Darwin,,458,Greyhounds,,45,Australia,澳大利亚
-10240,Healesville,,458,Greyhounds,,45,Australia,澳大利亚
-10243,Geelong,,458,Greyhounds,,45,Australia,澳大利亚
-10247,Capalaba,,458,Greyhounds,,45,Australia,澳大利亚
-10244,Sale,,458,Greyhounds,,45,Australia,澳大利亚
-10248,Albion Park,,458,Greyhounds,,45,Australia,澳大利亚
-10246,Manukau,,458,Greyhounds,,97,New Zealand,新西兰
-10250,Temora,,458,Greyhounds,,45,Australia,澳大利亚
-10275,Bendigo,,458,Greyhounds,,45,Australia,澳大利亚
-10249,Mandurah,,458,Greyhounds,,45,Australia,澳大利亚
-10251,Gawler,,458,Greyhounds,,45,Australia,澳大利亚
-10287,Townsville,,458,Greyhounds,,45,Australia,澳大利亚
-10284,Bulli,,458,Greyhounds,,45,Australia,澳大利亚
-10290,Launceston,,458,Greyhounds,,45,Australia,澳大利亚
-10282,Nowra,,458,Greyhounds,,45,Australia,澳大利亚
-10278,Murray Bridge,,458,Greyhounds,,45,Australia,澳大利亚
-10285,Bundaberg,,458,Greyhounds,,45,Australia,澳大利亚
-10314,Ballarat,,458,Greyhounds,,45,Australia,澳大利亚
-10310,Maitland,,458,Greyhounds,,45,Australia,澳大利亚
-10316,Manawatu,,458,Greyhounds,,97,New Zealand,新西兰
-10315,Shepparton,,458,Greyhounds,,45,Australia,澳大利亚
-10317,Addington,,458,Greyhounds,,97,New Zealand,新西兰
-10319,Warrnambool,,458,Greyhounds,,45,Australia,澳大利亚
-10363,Casino,,458,Greyhounds,,45,Australia,澳大利亚
-10334,Hobart,,458,Greyhounds,,45,Australia,澳大利亚
-10367,Dubbo,,458,Greyhounds,,45,Australia,澳大利亚
-10356,Grafton,,458,Greyhounds,,45,Australia,澳大利亚
-10427,Horsham,,458,Greyhounds,,45,Australia,澳大利亚
-10435,Cambridge,,458,Greyhounds,,97,New Zealand,新西兰
-10368,Gosford,,458,Greyhounds,,45,Australia,澳大利亚
-10378,Rockhampton,,458,Greyhounds,,45,Australia,澳大利亚
-10369,Dapto,,458,Greyhounds,,45,Australia,澳大利亚
-10437,Hatrick,,458,Greyhounds,,97,New Zealand,新西兰
-10507,Sandown Park,,458,Greyhounds,,45,Australia,澳大利亚
-10509,Broken Hill,,458,Greyhounds,,45,Australia,澳大利亚
-10889,Addington Extra,,458,Greyhounds,,97,New Zealand,新西兰
-10916,Wentworth Park,,458,Greyhounds,,45,Australia,澳大利亚
-11290,Hatrick Extra,,458,Greyhounds,,97,New Zealand,新西兰
-10750,Gunnedah,,458,Greyhounds,,45,Australia,澳大利亚
-12417,Ascot Park Extra Nz,,458,Greyhounds,,97,New Zealand,新西兰
-11038,Angle Park,,458,Greyhounds,,45,Australia,澳大利亚
-19217,Traralgon,,458,Greyhounds,,45,Australia,澳大利亚
-26900,Northam,,458,Greyhounds,,45,Australia,澳大利亚
-15476,Sunderland,,458,Greyhounds,,2949,,
-15470,Harlow,,458,Greyhounds,,2949,,
-15477,Yarmouth,,458,Greyhounds,,2949,,
-15491,Monmore,,458,Greyhounds,,2949,,
-15489,Newcastle,,458,Greyhounds,,2949,,
-15487,Nottingham,,458,Greyhounds,,2949,,
-15485,Hove,,458,Greyhounds,,2949,,
-15552,Towcester,,458,Greyhounds,,2949,,
-15550,Central Park,,458,Greyhounds,,2949,,
-15555,Romford,,458,Greyhounds,,2949,,
-15568,Sheffield,,458,Greyhounds,,2949,,
-15575,Crayford,,458,Greyhounds,,2949,,
-15668,Kinsley,,458,Greyhounds,,2949,,
-17197,Pelaw Grange,,458,Greyhounds,,2949,,
-15706,Perry Barr,,458,Greyhounds,,2949,,
-15927,Doncaster,,458,Greyhounds,,2949,,
-15667,Swindon,,458,Greyhounds,,2949,,
-17940,Nottingham,,458,Greyhounds,,2949,,
-18900,Towcester,,458,Greyhounds,,2949,,
-23009,Youghal,,458,Greyhounds,,47,Ireland,爱尔兰
-23065,Kilkenny,,458,Greyhounds,,47,Ireland,爱尔兰
-21185,Suffolk Downs,,458,Greyhounds,,2949,,
-22995,Tralee,,458,Greyhounds,,47,Ireland,爱尔兰
-23148,Limerick,,458,Greyhounds,,47,Ireland,爱尔兰
-23153,Waterford,,458,Greyhounds,,47,Ireland,爱尔兰
-23390,Mullingar,,458,Greyhounds,,47,Ireland,爱尔兰
-34916,"ITF Belgium F2, Men Singles","ITF Belgium F2, Men Singles",458,Greyhounds,,47,Ireland,爱尔兰
-54654,Cognizant Founders Cup 2023,Cognizant Founders Cup 2023,458,Greyhounds,,3376,,
-47712,EuroBasket 2025,欧洲锦标赛预选赛,458,Greyhounds,,2949,,
 11955,T20 Series Sri Lanka Vs South Africa,T20 Series Sri Lanka Vs South Africa,20,Cricket,板球,44,International,国际
 20709,ODI Series India vs. West Indies,ODI Series India vs. West Indies,20,Cricket,板球,44,International,国际
 46635,"ITF Germany F1, Men Doubles","ITF Germany F1, Men Doubles",20,Cricket,板球,44,International,国际
@@ -6263,9 +6181,7 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 4270,Matchups,比赛,25,Boxing,拳击,44,International,国际
 9809,Olympic Tournament Men - Boxing,Olympic Tournament,25,Boxing,拳击,44,International,国际
 9813,Olympic Tournament Women - Boxing,Olympic Tournament Women,25,Boxing,拳击,44,International,国际
-9939,2024 Olympic Tournament - Gymnastics - Men,Olympic Tournament,424,Gymnastics,体操,44,International,国际
 11309,"UK & Ireland Nationals, Finals","UK & Ireland Nationals, Finals",63,Rainbow Six,彩虹六号,2485,,
-9940,2024 Olympic Tournament Gymnastics - Women,Olympic Tournament Women,424,Gymnastics,体操,44,International,国际
 11480,"Gsa League, Finals","Gsa League, Finals",63,Rainbow Six,彩虹六号,1048,,
 15171,"Six Sweden Major, Playoffs","Six Sweden Major, Playoffs",63,Rainbow Six,彩虹六号,1048,,
 17138,"Nal, Relegation","Nal, Relegation",63,Rainbow Six,彩虹六号,1048,,
@@ -6307,151 +6223,12 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 24637,NA League Stage 1,Na League Stage 1,63,Rainbow Six,彩虹六号,1048,,
 19835,"Six Invitational Eu Closed Qualifier, Playoffs","Six Invitational Eu Closed Qualifier, Playoffs",63,Rainbow Six,彩虹六号,1048,,
 14837,"European League, Playoffs","European League, Playoffs",63,Rainbow Six,彩虹六号,1048,,
-9834,2024 Olympic Tournament - Wrestling - Women,2024 Olympic Tournament - Wrestling - Women,326,Wrestling,摔跤,44,International,国际
-9835,2024 Olympic Tournament - Wrestling - Men,2024 Olympic Tournament - Wrestling - Men,326,Wrestling,摔跤,44,International,国际
 7077,Marsh Community Series,,58,AFL,澳洲足球,45,Australia,澳大利亚
 7595,SANFL,,58,AFL,澳洲足球,44,International,国际
 6996,"Afl, Women",澳大利亚澳式足球联盟，女子,58,AFL,澳洲足球,45,Australia,澳大利亚
 7881,VFL,维多利亚澳式橄榄球联赛,58,AFL,澳洲足球,45,Australia,澳大利亚
 6985,AFL,澳大利亚澳式足球联盟,58,AFL,澳洲足球,45,Australia,澳大利亚
 8327,WAFL,西澳大利亚澳式足球联赛,58,AFL,澳洲足球,45,Australia,澳大利亚
-9575,Olympic Tournament Women,Olympic Tournament Women,298,Marathon Swimming,游泳马拉松,44,International,国际
-9573,Olympic Tournament,Olympic Tournament,298,Marathon Swimming,游泳马拉松,44,International,国际
-10219,Narrogin,,459,Harness,马车,45,Australia,澳大利亚
-10209,Melton,,459,Harness,马车,45,Australia,澳大利亚
-10206,Albion Park,,459,Harness,马车,45,Australia,澳大利亚
-17436,Pro Kabaddi League,Pro Kabaddi League,523,Kabaddi,卡巴迪,154,India,印度
-10224,Globe Derby,,459,Harness,马车,45,Australia,澳大利亚
-10231,Launceston,,459,Harness,马车,45,Australia,澳大利亚
-10230,Addington,,459,Harness,马车,97,New Zealand,新西兰
-10232,Redcliffe,,459,Harness,马车,45,Australia,澳大利亚
-10307,Menangle,,459,Harness,马车,45,Australia,澳大利亚
-10353,Charlton,,459,Harness,马车,45,Australia,澳大利亚
-10341,Leeton,,459,Harness,马车,45,Australia,澳大利亚
-10332,Pinjarra,,459,Harness,马车,45,Australia,澳大利亚
-10274,Maryborough,,459,Harness,马车,45,Australia,澳大利亚
-10355,Geelong,,459,Harness,马车,45,Australia,澳大利亚
-10371,Cambridge,,459,Harness,马车,97,New Zealand,新西兰
-10359,Tamworth,,459,Harness,马车,45,Australia,澳大利亚
-10382,Ballarat,,459,Harness,马车,45,Australia,澳大利亚
-10387,Bunbury,,459,Harness,马车,45,Australia,澳大利亚
-10384,Newcastle,,459,Harness,马车,45,Australia,澳大利亚
-10383,Hobart,,459,Harness,马车,45,Australia,澳大利亚
-10375,Bathurst,,459,Harness,马车,45,Australia,澳大利亚
-10386,Gloucester Park,,459,Harness,马车,45,Australia,澳大利亚
-10385,Parkes,,459,Harness,马车,45,Australia,澳大利亚
-10390,Penrith,,459,Harness,马车,45,Australia,澳大利亚
-10442,Mildura,,459,Harness,马车,45,Australia,澳大利亚
-10400,Shepparton,,459,Harness,马车,45,Australia,澳大利亚
-10460,Wagga,,459,Harness,马车,45,Australia,澳大利亚
-10588,Young,,459,Harness,马车,45,Australia,澳大利亚
-10580,Terang,,459,Harness,马车,45,Australia,澳大利亚
-10525,Kellerberrin,,459,Harness,马车,45,Australia,澳大利亚
-10440,Yarra Valley,,459,Harness,马车,45,Australia,澳大利亚
-10733,Cobram,,459,Harness,马车,45,Australia,澳大利亚
-10765,Ashburton,,459,Harness,马车,97,New Zealand,新西兰
-10756,Bendigo,,459,Harness,马车,45,Australia,澳大利亚
-10844,Northam,,459,Harness,马车,45,Australia,澳大利亚
-10826,Cranbourne,,459,Harness,马车,45,Australia,澳大利亚
-10911,Goulburn,,459,Harness,马车,45,Australia,澳大利亚
-10800,Alexandra Park,,459,Harness,马车,97,New Zealand,新西兰
-10913,Albury,,459,Harness,马车,45,Australia,澳大利亚
-10894,Horsham,,459,Harness,马车,45,Australia,澳大利亚
-11104,Ascot Park,,459,Harness,马车,97,New Zealand,新西兰
-11221,Echuca,,459,Harness,马车,45,Australia,澳大利亚
-11220,Hamilton,,459,Harness,马车,45,Australia,澳大利亚
-11526,Marburg,,459,Harness,马车,45,Australia,澳大利亚
-11709,Warragul,,459,Harness,马车,45,Australia,澳大利亚
-11782,Bankstown,,459,Harness,马车,45,Australia,澳大利亚
-11942,Mt Harding,,459,Harness,马车,97,New Zealand,新西兰
-11775,Stawell,,459,Harness,马车,45,Australia,澳大利亚
-12666,Motukarara,,459,Harness,马车,97,New Zealand,新西兰
-12923,Swan Hill,,459,Harness,马车,45,Australia,澳大利亚
-14012,West Wyalong,,459,Harness,马车,45,Australia,澳大利亚
-14068,Dubbo,,459,Harness,马车,45,Australia,澳大利亚
-14677,Rangiora,,459,Harness,马车,97,New Zealand,新西兰
-14826,Canberra,,459,Harness,马车,45,Australia,澳大利亚
-14694,Wagin,,459,Harness,马车,45,Australia,澳大利亚
-16532,Ararat,,459,Harness,马车,45,Australia,澳大利亚
-17834,Victor Harbor,,459,Harness,马车,45,Australia,澳大利亚
-18315,Temora,,459,Harness,马车,45,Australia,澳大利亚
-23653,Port Pirie,,459,Harness,马车,45,Australia,澳大利亚
-24670,Mt Gambier,,459,Harness,马车,45,Australia,澳大利亚
-25726,Coolamon,,459,Harness,马车,45,Australia,澳大利亚
-25727,Narrabri,,459,Harness,马车,45,Australia,澳大利亚
-29467,"Europe Cup, Women, Qualification","Europe Cup, Women, Qualification",459,Harness,马车,45,Australia,澳大利亚
-37299,Asl Remastered Season 14,Asl Remastered Season 14,459,Harness,马车,45,Australia,澳大利亚
-55387,FIBA World Cup,FIBA男篮世界杯,459,Harness,马车,45,Australia,澳大利亚
-15558,Agen,,459,Harness,马车,66,France,法国
-15541,Vincennes,,459,Harness,马车,66,France,法国
-15631,Saint Galmier,,459,Harness,马车,66,France,法国
-15797,Graignes,,459,Harness,马车,66,France,法国
-15638,Marseille Vivaux,,459,Harness,马车,66,France,法国
-15560,Laval,,459,Harness,马车,66,France,法国
-15993,Lyon Parilly,,459,Harness,马车,66,France,法国
-15990,Reims,,459,Harness,马车,66,France,法国
-16153,Le Croise Laroc,,459,Harness,马车,66,France,法国
-16151,Salon De Provence,,459,Harness,马车,66,France,法国
-16068,Toulouse,,459,Harness,马车,66,France,法国
-17266,Amiens,,459,Harness,马车,66,France,法国
-16489,Chartres,,459,Harness,马车,66,France,法国
-16626,Bordeaux Le Bou,,459,Harness,马车,66,France,法国
-17990,Argentan,,459,Harness,马车,66,France,法国
-17294,Cabourg,,459,Harness,马车,66,France,法国
-16210,Mauquenchy,,459,Harness,马车,66,France,法国
-17778,Meslay Du Maine,,459,Harness,马车,66,France,法国
-19367,Nantes,,459,Harness,马车,66,France,法国
-19378,Angers,,459,Harness,马车,66,France,法国
-19819,Cordemais,,459,Harness,马车,66,France,法国
-18089,Pontchateau,,459,Harness,马车,66,France,法国
-19453,Lyon La Soie,,459,Harness,马车,66,France,法国
-20972,Chateaubriant,,459,Harness,马车,66,France,法国
-22013,Vire,,459,Harness,马车,66,France,法国
-22834,Caen,,459,Harness,马车,66,France,法国
-23138,Enghien,,459,Harness,马车,66,France,法国
-23771,Marseille Borely,,459,Harness,马车,66,France,法国
-24871,Feurs,,459,Harness,马车,66,France,法国
-25225,Nancy,,459,Harness,马车,66,France,法国
-23670,Lisieux,,459,Harness,马车,66,France,法国
-25381,La Capelle,,459,Harness,马车,66,France,法国
-26410,Cavaillon,,459,Harness,马车,66,France,法国
-27124,Maure De Bretagne,,459,Harness,马车,66,France,法国
-25899,Cherbourg,,459,Harness,马车,66,France,法国
-26853,Cholet,,459,Harness,马车,66,France,法国
-26951,Vichy,,459,Harness,马车,66,France,法国
-26940,Hyeres,,459,Harness,马车,66,France,法国
-31147,"GSL Season 2, Code S, Group Stage 2","Gsl Season 2, Code S, Group Stage 2",459,Harness,马车,66,France,法国
-31187,"ITF Slovakia F1, Men Singles","ITF Slovakia F1, Men Singles",459,Harness,马车,66,France,法国
-31170,"ATP Challenger Troyes, France Men Doubles","ATP Challenger Troyes, France Men Doubles",459,Harness,马车,66,France,法国
-31224,"ITF Italy 23A, Women Doubles","ITF Italy 23A, Women Doubles",459,Harness,马车,66,France,法国
-31768,FIM Speedway Grand Prix,FIM Speedway Grand Prix,459,Harness,马车,66,France,法国
-32788,"ITF Australia F7, Men Singles","ITF Australia F7, Men Singles",459,Harness,马车,66,France,法国
-33343,"800m, Women",女子800米赛跑,459,Harness,马车,66,France,法国
-33344,Pole Vault,男子撑杆跳高,459,Harness,马车,66,France,法国
-33346,"Long Jump, Women",女子跳远,459,Harness,马车,66,France,法国
-33345,"ITF Malaysia F2, Men Singles","ITF Malaysia F2, Men Singles",459,Harness,马车,66,France,法国
-33885,"ITF Ecuador F5, Men Singles","ITF Ecuador F5, Men Singles",459,Harness,马车,66,France,法国
-33711,Major Clubs Limited Overs Tournament,Major Clubs Limited Overs Tournament,459,Harness,马车,66,France,法国
-33926,"ITF Belgium 04A, Women Singles","ITF Belgium 04A, Women Singles",459,Harness,马车,66,France,法国
-34064,Utah Championship 2022,Utah Championship 2022,459,Harness,马车,66,France,法国
-34480,Super Cup,Super Cup,459,Harness,马车,66,France,法国
-34991,"ITF Germany 09A, Women Singles","ITF Germany 09A, Women Singles",459,Harness,马车,66,France,法国
-38273,"T20 West Indies vs New Zealand, Women","T20 West Indies vs New Zealand, Women",459,Harness,马车,66,France,法国
-51577,Token Homemate Cup 2023,Token Homemate Cup 2023,459,Harness,马车,66,France,法国
-56273,Trophee du Futur,Trophee du Futur,459,Harness,马车,66,France,法国
-70172,"ESL Challenger Jonkoping, EU, Closed Qualifier","Esl Challenger Jonkoping, Eu, Closed Qualifier",459,Harness,马车,29,Norway,挪威
-47148,Saudi International 2023,Saudi International 2023,459,Harness,马车,3376,,
-57521,Esports Battle - England Premier League,Esports Battle - England Premier League,459,Harness,马车,20,Sweden,瑞典
-66567,"China Open, MD","China Open, MD",459,Harness,马车,20,Sweden,瑞典
-62086,"Liga Nacional, Women",古巴女子国家联赛,459,Harness,马车,73,Canada,加拿大
-51446,"Feeder Antalya, Mixed Doubles","Feeder Antalya, Mixed Doubles",459,Harness,马车,1,Germany,德国
-47197,Magical Kenya Ladies Open 2023,Magical Kenya Ladies Open 2023,459,Harness,马车,20,Sweden,瑞典
-47456,"LEN Euro Cup, Women","LEN Euro Cup, Women",459,Harness,马车,1,Germany,德国
-76660,"ITF Spain 38A, Women Doubles","ITF Spain 38A, Women Doubles",459,Harness,马车,73,Canada,加拿大
-68291,"Gaucho, Serie B","Gaucho, Serie B",459,Harness,马车,29,Norway,挪威
-47119,"Thailand Masters, Singles","Thailand Masters, Singles",459,Harness,马车,73,Canada,加拿大
-47205,2023 TPS Murray River In Honour of Jarrod Lyle,2023 TPS Murray River In Honour of Jarrod Lyle,459,Harness,马车,20,Sweden,瑞典
-65345,"Asian Championship, Women","Asian Championship, Women",459,Harness,马车,20,Sweden,瑞典
 5033,Overwatch League,Overwatch League,43,Overwatch,守望先锋,983,,
 8167,"Overwatch Contenders Season Kr, Playoffs",守望先锋挑战者系列赛韩国赛区，总决赛,43,Overwatch,守望先锋,983,,
 8074,"Overwatch Contenders Season Eu, Playoffs",守望先锋挑战者系列赛欧洲赛区，总决赛,43,Overwatch,守望先锋,983,,
@@ -6463,13 +6240,6 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 14838,"Next Winter, Group Stage","Next Winter, Group Stage",43,Overwatch,守望先锋,2848,,
 9999,"Overwatch League, Countdown Cup","Overwatch League, Countdown Cup",43,Overwatch,守望先锋,983,,
 11845,"Overwatch League, Asia Play-Ins","Overwatch League, Asia Play-Ins",43,Overwatch,守望先锋,983,,
-9527,2024 Olympic Tournament - Archery - Women,2024 Olympic Tournament - Archery - Women,293,Archery,射箭,44,International,国际
-9526,2024 Olympic Tournament - Archery - Men,2024 Olympic Tournament - Archery - Men,293,Archery,射箭,44,International,国际
-61791,Price Cutter Charity Championship presented by Dr,Price Cutter Charity Championship,689,,,154,India,印度
-61799,SunBet Challenge - Wild Coast 2023,Sunbet Challenge - Wild Coast 2023,689,,,2949,,
-61838,Hopman Cup,霍普曼杯,689,,,2949,,
-61862,"T20 World Cup, East Asia-Pacific Qualifier, Regional Final","T20 World Cup, East Asia-Pacific Qualifier, Regional Final",689,,,242,Malaysia,马来西亚
-82713,UFC Fight Night: Tuivasa vs. Tybura,UFC Fight Night: Tuivasa vs. Tybura,689,,,20,Sweden,瑞典
 9173,The International,国际邀请赛,45,Dota 2,刀塔2,1924,Valve Dota2,维尔福软件公司 刀塔2
 10406,"Esl One, Fall, Closed Qualifier","Esl One, Fall, Closed Qualifier",45,Dota 2,刀塔2,1035,ESL Dota2,电子竞技联盟 刀塔2
 5729,The Summit,巅峰联赛,45,Dota 2,刀塔2,996,BTS Dota2,BTS 刀塔2
@@ -6535,11 +6305,9 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 7643,"I-League, Group Stage","I-League, Group Stage",45,Dota 2,刀塔2,1044,LVP LoL,LVP 英雄联盟
 5186,"Moon Studio Mid-Autumn League, Group Stage","Moon Studio Mid-Autumn League, Group Stage",45,Dota 2,刀塔2,986,Moon Studio Dota 2,月球工作室 刀塔2
 10408,ESL One - Fall,ESL One - Fall,45,Dota 2,刀塔2,1035,ESL Dota2,电子竞技联盟 刀塔2
-9584,2024 - Olympic Tournament - Weightlifting - Women,2024 - Olympic Tournament - Weightlifting - Women,300,Weightlifting,举重,44,International,国际
 22776,"Gamers Galaxy: Inv. Series Dubai, Playoffs","Gamers Galaxy: Inv. Series Dubai, Playoffs",45,Dota 2,刀塔2,3095,,
 6843,"Liga Pro, Division 2","Liga Pro, Division 2",51,eSoccer,eSoccer,1023,Liga Pro,Liga Pro
 6228,Esoccer Test,Esoccer Test,51,eSoccer,eSoccer,1012,,
-9579,2024 Olympic Tournament - Weightlifting - Men,2024 Olympic Tournament - Weightlifting - Men,300,Weightlifting,举重,44,International,国际
 6704,Night FA Cup,Night FA Cup,51,eSoccer,eSoccer,1024,Esports Battle,
 15111,Night La Liga,Night La Liga,51,eSoccer,eSoccer,1024,Esports Battle,
 6594,GT League,GT League,51,eSoccer,eSoccer,1018,Gt Sports League,Gt Sports League
@@ -6699,44 +6467,6 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 19494,"DH Masters: Last Chance, Playoffs","DH Masters: Last Chance, Playoffs",62,StarCraft,星际争霸,1594,,
 22371,"Intel Extreme Masters - Katowice, Playoffs","Intel Extreme Masters - Katowice, Playoffs",62,StarCraft,星际争霸,3094,,
 25308,"GSL Season, Code S, Group Stage 2","Gsl Season, Code S, Group Stage 2",62,StarCraft,星际争霸,1040,LVP LoL,LVP 英雄联盟
-10032,10000M,男子10000米赛跑,44,Athletics,田径,44,International,国际
-10127,Hammer Throw,男子铁球,44,Athletics,田径,44,International,国际
-9487,2024 Olympic Tournament - Athletics - Women,2024 Olympic Tournament - Athletics - Women,44,Athletics,田径,44,International,国际
-10041,Discus Throw,男子铁饼,44,Athletics,田径,44,International,国际
-5071,London Marathon,London Marathon,44,Athletics,田径,44,International,国际
-10165,5000M,男子5000米赛跑,44,Athletics,田径,44,International,国际
-10128,800M,男子800米赛跑,44,Athletics,田径,44,International,国际
-5072,London Marathon Women,London Marathon Women,44,Athletics,田径,44,International,国际
-10172,4 X 100M,男子4 x 100m接力赛,44,Athletics,田径,44,International,国际
-10168,"400M, Women",女子400米赛跑,44,Athletics,田径,44,International,国际
-10057,"100M, Women",女子100米短跑,44,Athletics,田径,44,International,国际
-8589,2024 Olympic Tournament - Athletics - Men,2024 Olympic Tournament - Athletics - Men,44,Athletics,田径,44,International,国际
-10062,High Jump,男子跳高,44,Athletics,田径,44,International,国际
-32886,East Asian Championship,,44,Athletics,田径,44,International,国际
-10155,400M,男子400米赛跑,44,Athletics,田径,44,International,国际
-10063,"Triple Jump, Women",女子三级跳,44,Athletics,田径,44,International,国际
-10069,100M,男子100米短跑,44,Athletics,田径,44,International,国际
-32271,Asia Ch.ship,FIBA男篮亚洲锦标赛,44,Athletics,田径,44,International,国际
-31825,"Malaysia Masters, Women, Doubles","Malaysia Masters, Women, Doubles",44,Athletics,田径,44,International,国际
-34513,"ITF Mexico 16A, Women Singles","ITF Mexico 16A, Women Singles",44,Athletics,田径,44,International,国际
-10085,3000M Steeplechase,男子3000米障碍赛,44,Athletics,田径,44,International,国际
-10083,"Discus Throw, Women",女子铁饼,44,Athletics,田径,44,International,国际
-10125,"400M Hurdles, Women",女子400米跨栏,44,Athletics,田径,44,International,国际
-10163,"20Km Race Walk, Women",女子20公里竞走,44,Athletics,田径,44,International,国际
-10153,20Km Race Walk,男子20公里竞走,44,Athletics,田径,44,International,国际
-10189,1500M,男子1500米赛跑,44,Athletics,田径,44,International,国际
-10154,"Pole Vault, Women",女子撑杆跳高,44,Athletics,田径,44,International,国际
-10086,"5000M, Women",女子5000米赛跑,44,Athletics,田径,44,International,国际
-10164,"Javelin Throw, Women",女子标枪,44,Athletics,田径,44,International,国际
-10126,"3000M Steeplechase, Women",女子3000米障碍赛,44,Athletics,田径,44,International,国际
-11844,Diamond League Zurich,Diamond League Zurich,44,Athletics,田径,44,International,国际
-10221,4 X 400M,男子4 x 400m接力赛,44,Athletics,田径,44,International,国际
-10170,"1500M, Women",女子1500米赛跑,44,Athletics,田径,44,International,国际
-10171,"4 X 100M, Women",女子4 x 100m接力赛,44,Athletics,田径,44,International,国际
-10226,"4 X 400M, Women",女子4 x 400m接力赛,44,Athletics,田径,44,International,国际
-10187,Javelin Throw,男子标枪,44,Athletics,田径,44,International,国际
-10264,Marathon,男子马拉松,44,Athletics,田径,44,International,国际
-11846,Diamond League Zurich Women,Diamond League Zurich Women,44,Athletics,田径,44,International,国际
 6992,Top 14,联合式橄榄球Top-14联赛,57,Rugby Union,英式橄榄球,66,France,法国
 65501,"Cameroon International, Women Singles","Cameroon International, Women Singles",57,Rugby Union,英式橄榄球,185,Argentina,阿根廷
 13175,Trofeo Eccellenza,,57,Rugby Union,英式橄榄球,22,Italy,意大利
@@ -6862,161 +6592,12 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 26149,"Irish Squash Open, Women, Singles","Irish Squash Open, Women, Singles",41,Squash,壁球,44,International,国际
 15849,"Malaysian Open, Women","Malaysian Open, Women",41,Squash,壁球,44,International,国际
 9791,Psa World Championships 2021,Psa World Championships 2021,41,Squash,壁球,44,International,国际
-20074,"Biathlon - 10 km Pursuit, Women",,226,Olympics,奧运会,2980,Olympics,俄罗斯
-19884,"Freestyle Skiing - Ski Cross, Women",,226,Olympics,奧运会,2980,Olympics,俄罗斯
-20495,"Freestyle Skiing - Aerials, Women",,226,Olympics,奧运会,2980,Olympics,俄罗斯
 22064,"Windy City Open, Women Singles","Windy City Open, Women Singles",41,Squash,壁球,44,International,国际
-20078,"Alpine Skiing - Giant Slalom, Women",,226,Olympics,奧运会,2980,Olympics,俄罗斯
-20081,"Nordic Combined - Large Hill, HS 140/4 X 5 Km, Team",,226,Olympics,奧运会,2980,Olympics,俄罗斯
-20521,Snowboard - Halfpipe,,226,Olympics,奧运会,2980,Olympics,俄罗斯
-20215,Bobsleigh -  4-Man,,226,Olympics,奧运会,2980,Olympics,俄罗斯
-19887,"Cross Country Skiing - Team Sprint C, Women",,226,Olympics,奧运会,2980,Olympics,俄罗斯
-20130,Biathlon - 4x6 Km Mixed-Relay,,226,Olympics,奧运会,2980,Olympics,俄罗斯
-9367,Olympic Tournament Medals,Olympic Tournament Medals,226,Olympics,奧运会,2023,,
-20084,"Biathlon - 12,5 km Pursuit",,226,Olympics,奧运会,2980,Olympics,俄罗斯
-20523,"Snowboard -  Parallel Giant Slalom, Women",,226,Olympics,奧运会,2980,Olympics,俄罗斯
-20595,"Speed Skating - 3000 M, Women",,226,Olympics,奧运会,2980,Olympics,俄罗斯
-20077,"Alpine Skiing - Slalom, Women",,226,Olympics,奧运会,2980,Olympics,俄罗斯
-20761,Bobsleigh - 2-Man,,226,Olympics,奧运会,2980,Olympics,俄罗斯
-20617,Figure Skating - Team Event,,226,Olympics,奧运会,2980,Olympics,俄罗斯
-19898,"Snowboard - Snowboardcross, Women",,226,Olympics,奧运会,2980,Olympics,俄罗斯
-19893,Cross Country Skiing - 15 Km C + 15 Km F Skiathlon,,226,Olympics,奧运会,2980,Olympics,俄罗斯
-20376,"Speed Skating - 500 M, Women",,226,Olympics,奧运会,2980,Olympics,俄罗斯
-20374,Speed Skating - 500 M,,226,Olympics,奧运会,2980,Olympics,俄罗斯
-20600,Speed Skating - Mass Start,,226,Olympics,奧运会,2980,Olympics,俄罗斯
-20217,Speed Skating - 10000 M,,226,Olympics,奧运会,2980,Olympics,俄罗斯
-20216,Bobsleigh - 2-Woman,,226,Olympics,奧运会,2980,Olympics,俄罗斯
-20601,"Speed Skating - Mass Start, Women",,226,Olympics,奧运会,2980,Olympics,俄罗斯
-19891,Cross Country Skiing - Team Sprint C,,226,Olympics,奧运会,2980,Olympics,俄罗斯
-20118,Alpine Skiing - Downhill,,226,Olympics,奧运会,2980,Olympics,俄罗斯
-20406,Luge - Doubles,,226,Olympics,奧运会,2980,Olympics,俄罗斯
-19883,Freestyle Skiing - Ski Cross,,226,Olympics,奧运会,2980,Olympics,俄罗斯
-20714,Snowboard -  Parallel Giant Slalom,,226,Olympics,奧运会,2980,Olympics,俄罗斯
-20271,Olympic Winter Games 2022 Top gold medals,,226,Olympics,奧运会,2980,Olympics,俄罗斯
-20514,Figure Skating - Ice Dance,,226,Olympics,奧运会,2980,Olympics,俄罗斯
-19885,15 km C,,226,Olympics,奧运会,2980,Olympics,俄罗斯
-20073,"Biathlon - 7,5 Km Sprint, Women",,226,Olympics,奧运会,2980,Olympics,俄罗斯
-20467,Figure Skating - Free Skating,,226,Olympics,奧运会,2980,Olympics,俄罗斯
-20075,"Biathlon - 4x6 Km Relay, Women",,226,Olympics,奧运会,2980,Olympics,俄罗斯
-19890,"Olympics, Beijing 2022","Olympics, Beijing 2022",226,Olympics,奧运会,2980,Olympics,俄罗斯
-20452,Figure Skating - Pair Skating,,226,Olympics,奧运会,2980,Olympics,俄罗斯
-20459,"Short Track Speed Skating - 3000 M Relay, Women",,226,Olympics,奧运会,2980,Olympics,俄罗斯
-19881,"Cross Country Skiing - Sprint F, Women",,226,Olympics,奧运会,2980,Olympics,俄罗斯
-20086,"Biathlon - 4x7,5 Km Relay",,226,Olympics,奧运会,2980,Olympics,俄罗斯
-19895,"Cross Country Skiing - 30 Km Mass Start F, Women",,226,Olympics,奧运会,2980,Olympics,俄罗斯
-20226,Olympic Winter Games 2022 - Medals,,226,Olympics,奧运会,44,International,国际
-19886,Cross Country Skiing - 50 Km Mass Start F,,226,Olympics,奧运会,2980,Olympics,俄罗斯
-20375,Short Track Speed Skating - 5000 M Relay,,226,Olympics,奧运会,2980,Olympics,俄罗斯
-18555,"Biathlon - 15 km Individual, Women",,226,Olympics,奧运会,2980,Olympics,俄罗斯
-20079,Biathlon - 20 Km Individual,,226,Olympics,奧运会,2980,Olympics,俄罗斯
-20461,Short Track Speed Skating - 2000 M Team Relay,,226,Olympics,奧运会,2980,Olympics,俄罗斯
-20373,Speed Skating - 1500 M,,226,Olympics,奧运会,2980,Olympics,俄罗斯
-20381,Snowboard - Snowboardcross,,226,Olympics,奧运会,2980,Olympics,俄罗斯
-19882,Cross Country Skiing - 10km Classic - Women,,226,Olympics,奧运会,2980,Olympics,俄罗斯
-20324,"Alpine Skiing - Downhill, Women",,226,Olympics,奧运会,2980,Olympics,俄罗斯
-20841,"Snowboard -  Snowboardcross, Team Mixed",,226,Olympics,奧运会,2980,Olympics,俄罗斯
-19894,Cross Country Skiing - Sprint F,,226,Olympics,奧运会,2980,Olympics,俄罗斯
-20228,Olympics Winter Games 2022 - Most Medals?,,226,Olympics,奧运会,44,International,国际
-17558,Alpine Skiing - Giant Slalom,,226,Olympics,奧运会,2980,Olympics,俄罗斯
-20085,Biathlon - 15 km Mass Start,,226,Olympics,奧运会,2980,Olympics,俄罗斯
-20773,"Alpine Skiing - Super-G, Women",,226,Olympics,奧运会,2980,Olympics,俄罗斯
-20087,Snowboard - Snowboardcross,,226,Olympics,奧运会,2980,Olympics,俄罗斯
-20080,"Nordic Combined - Large Hill, HS 140/10 Km",,226,Olympics,奧运会,2980,Olympics,俄罗斯
-20377,"Speed Skating - 1500 M, Women",,226,Olympics,奧运会,2980,Olympics,俄罗斯
-19889,Cross Country Skiing - 4 X 10 Km Relay,,226,Olympics,奧运会,2980,Olympics,俄罗斯
-19888,"Cross Country Skiing - 4 X 5 Km Relay, Women",,226,Olympics,奧运会,2980,Olympics,俄罗斯
-20076,"Biathlon - 12,5 km Mass Start, Women",,226,Olympics,奧运会,2980,Olympics,俄罗斯
-20082,"Nordic Combined - Normal Hill, HS 106/10 Km",,226,Olympics,奧运会,2980,Olympics,俄罗斯
-20083,Biathlon - 10 Km Sprint,,226,Olympics,奧运会,2980,Olympics,俄罗斯
-20703,Speed Skating - 5000 M,,226,Olympics,奧运会,2980,Olympics,俄罗斯
-20412,Luge - Team Relay,,226,Olympics,奧运会,2980,Olympics,俄罗斯
-20123,Alpine Skiing - Super-G,,226,Olympics,奧运会,2980,Olympics,俄罗斯
-20392,Alpine Skiing - Slalom,,226,Olympics,奧运会,2980,Olympics,俄罗斯
-20383,Freestyle Skiing - Aerials,,226,Olympics,奧运会,2980,Olympics,俄罗斯
-19892,"Cross Country Skiing - 7,5 Km C + 7,5 Km F Skiathlon, Women",,226,Olympics,奧运会,2980,Olympics,俄罗斯
-20466,"Figure Skating - Free Skating, Women",,226,Olympics,奧运会,2980,Olympics,俄罗斯
-20272,Olympics Winter Games 2022 Top of the Medal Table,,226,Olympics,奧运会,2980,Olympics,俄罗斯
-9817,2024 Olympic Tournament - Diving - Women,Olympic Tournament Women,325,Diving,跳水,44,International,国际
-9816,2024 Olympic Tournament - Diving - Men,Olympic Tournament,325,Diving,跳水,44,International,国际
-9530,2024 Olympic Tournament - Equestrian - Eventing,Olympic Tournament,294,Equestrian,马术,2124,,
-15457,World Cup,World Cup,490,Chess,国际象棋,44,International,国际
-9840,2024 Olympic Tournament - Equestrian - Jumping,Olympic Tournament,294,Equestrian,马术,2188,,
-6800,"Pokljuka (SLO), 10 km Pursuit - WCH",,31,Biathlon,滑雪和射击,956,Biathlon Women,女子冬季两项
-6086,"Kontiolahti (FIN), 4x7,5 km Relay","Kontiolahti (FIN), 4x7,5 km Relay",31,Biathlon,滑雪和射击,955,Biathlon,男子冬季两项
-9714,2024 Olympic Tournament - Equestrian - Dressage,Olympic Tournament,294,Equestrian,马术,2133,,
-6353,"Oberhof (GER), 4x6 km Mixed Relay",,31,Biathlon,滑雪和射击,956,Biathlon Women,女子冬季两项
-46129,UFC 286: Edwards vs. Usman 3,UFC 286: Edwards vs. Usman 3,31,Biathlon,滑雪和射击,956,Biathlon Women,女子冬季两项
-91781,"Pro Tour Xiamen, Women","Pro Tour Xiamen, Women",31,Biathlon,滑雪和射击,955,Biathlon,男子冬季两项
-46130,Futsalligan,Futsalligan,31,Biathlon,滑雪和射击,955,Biathlon,男子冬季两项
-6205,"Hochfilzen II (AUT), 10 km Pursuit","Hochfilzen II (AUT), 10 km Pursuit",31,Biathlon,滑雪和射击,956,Biathlon Women,女子冬季两项
-6226,"Oberhof (GER), 7,5 km Sprint","Oberhof (GER), 7,5 km Sprint",31,Biathlon,滑雪和射击,956,Biathlon Women,女子冬季两项
-6216,"Hochfilzen II (AUT), 15 km Mass Start","Hochfilzen II (AUT), 15 km Mass Start",31,Biathlon,滑雪和射击,955,Biathlon,男子冬季两项
-6747,"Pokljuka (SLO), 4x7,5 km Mixed Relay - WCH",,31,Biathlon,滑雪和射击,955,Biathlon,男子冬季两项
-6003,"Kontiolahti (FIN), 15 km Individual",,31,Biathlon,滑雪和射击,956,Biathlon Women,女子冬季两项
-6919,"Nove Mesto (CZE), 7,5 km Sprint",,31,Biathlon,滑雪和射击,956,Biathlon Women,女子冬季两项
-6560,"Pokljuka (SLO), 10 km Sprint - WCH",,31,Biathlon,滑雪和射击,955,Biathlon,男子冬季两项
-6668,"Pokljuka (SLO), 15 km Individual - WCH",,31,Biathlon,滑雪和射击,956,Biathlon Women,女子冬季两项
-6562,"Pokljuka (SLO), 4x6 km Relay - WCH",,31,Biathlon,滑雪和射击,956,Biathlon Women,女子冬季两项
-6423,"Oberhof (GER), 12,5 km Mass Start",,31,Biathlon,滑雪和射击,956,Biathlon Women,女子冬季两项
-6883,"Pokljuka (SLO), 12,5 km Mass Start - WCH",,31,Biathlon,滑雪和射击,956,Biathlon Women,女子冬季两项
-6163,"Hochfilzen II (AUT), 10 km Sprint","Hochfilzen II (AUT), 10 km Sprint",31,Biathlon,滑雪和射击,955,Biathlon,男子冬季两项
-6170,"Hochfilzen II (AUT), 7,5 km Sprint","Hochfilzen II (AUT), 7,5 km Sprint",31,Biathlon,滑雪和射击,956,Biathlon Women,女子冬季两项
-46658,"ITF USA F3B, Men Doubles","ITF USA F3B, Men Doubles",31,Biathlon,滑雪和射击,955,Biathlon,男子冬季两项
-19946,"Antholz-Anterselva, Women","Antholz-Anterselva, Women",31,Biathlon,滑雪和射击,3051,,
-86864,Saudi Cup Meeting 2024,,31,Biathlon,滑雪和射击,955,Biathlon,男子冬季两项
-101737,First Class Series South Africa A vs Sri Lanka A,First Class Series South Africa A vs Sri Lanka A,31,Biathlon,滑雪和射击,955,Biathlon,男子冬季两项
-6085,"Kontiolahti (FIN), 4x6 km Relay","Kontiolahti (FIN), 4x6 km Relay",31,Biathlon,滑雪和射击,956,Biathlon Women,女子冬季两项
-15912,"Oestersund, Women",厄斯特松德IBU冬季两项世界杯女子个人赛,31,Biathlon,滑雪和射击,2960,,
-4505,"Sprint, World Cup","Sprint, World Cup",31,Biathlon,滑雪和射击,955,Biathlon,男子冬季两项
-6503,"Antholz - Anterselva (ITA), 15 km Mass Start",,31,Biathlon,滑雪和射击,955,Biathlon,男子冬季两项
-6079,"Kontiolahti II (FIN), 7,5 km Sprint","Kontiolahti II (FIN), 7,5 km Sprint",31,Biathlon,滑雪和射击,956,Biathlon Women,女子冬季两项
-7636,Biathlon 2021/22,Biathlon 2021/22,31,Biathlon,滑雪和射击,955,Biathlon,男子冬季两项
-6498,"Antholz - Anterselva (ITA), 4x7,5 km Relay",,31,Biathlon,滑雪和射击,955,Biathlon,男子冬季两项
-104822,Bowra & ODea Nexus Advisernet WA Open 2024,Bowra & ODea Nexus Advisernet WA Open 2024,31,Biathlon,滑雪和射击,955,Biathlon,男子冬季两项
-47154,Challenge Cup,Challenge Cup,31,Biathlon,滑雪和射击,955,Biathlon,男子冬季两项
-5664,"Sprint, World Cup","Sprint, World Cup",31,Biathlon,滑雪和射击,956,Biathlon Women,女子冬季两项
-12625,"Relay, World Cup","Relay, World Cup",31,Biathlon,滑雪和射击,956,Biathlon Women,女子冬季两项
-6446,"Antholz - Anterselva (ITA), 20 km Individual",,31,Biathlon,滑雪和射击,955,Biathlon,男子冬季两项
-7637,Biathlon 2021/22,Biathlon 2021/22,31,Biathlon,滑雪和射击,956,Biathlon Women,女子冬季两项
-6561,"Pokljuka (SLO), 20 km Individual - WCH",,31,Biathlon,滑雪和射击,955,Biathlon,男子冬季两项
-4397,Biathlon 2020/21,Biathlon 2020/21,31,Biathlon,滑雪和射击,956,Biathlon Women,女子冬季两项
-6343,"Oberhof (GER), 12,5 km Pursuit",,31,Biathlon,滑雪和射击,955,Biathlon,男子冬季两项
-6217,"Hochfilzen II (AUT), 12,5 km Mass Start","Hochfilzen II (AUT), 12,5 km Mass Start",31,Biathlon,滑雪和射击,956,Biathlon Women,女子冬季两项
-6089,"Kontiolahti (FIN), 10 km Pursuit","Kontiolahti (FIN), 10 km Pursuit",31,Biathlon,滑雪和射击,956,Biathlon Women,女子冬季两项
-6365,"Oberhof II (GER), 7,5 km Sprint",,31,Biathlon,滑雪和射击,956,Biathlon Women,女子冬季两项
-6524,"Pokljuka (SLO), 7,5 km Sprint - WCH",,31,Biathlon,滑雪和射击,956,Biathlon Women,女子冬季两项
-104736,T20 Bhutan Quadrangular Series,T20 Bhutan Quadrangular Series,31,Biathlon,滑雪和射击,956,Biathlon Women,女子冬季两项
-6008,Kontiolahti,冬季两项男子冲刺赛孔蒂奥拉赫蒂站,31,Biathlon,滑雪和射击,1003,Sprint,短跑
-6007,"Kontiolahti (FIN), 7,5 km Sprint","Kontiolahti (FIN), 7,5 km Sprint",31,Biathlon,滑雪和射击,956,Biathlon Women,女子冬季两项
-6510,"Antholz - Anterselva (ITA), 4x6 km Relay",,31,Biathlon,滑雪和射击,956,Biathlon Women,女子冬季两项
-6164,"Hochfilzen (AUT), 10 km Sprint","Hochfilzen (AUT), 10 km Sprint",31,Biathlon,滑雪和射击,955,Biathlon,男子冬季两项
-6009,"Kontiolahti, Women",冬季两项女子冲刺赛孔蒂奥拉赫蒂站,31,Biathlon,滑雪和射击,1004,Sprint Women,女子短跑
-98140,"ITF Romania 10A, Women Doubles","ITF Romania 10A, Women Doubles",31,Biathlon,滑雪和射击,956,Biathlon Women,女子冬季两项
-6884,"Pokljuka (SLO), 15 km Mass Start - WCH",,31,Biathlon,滑雪和射击,955,Biathlon,男子冬季两项
-6419,"Oberhof (GER), 4x7,5 km Relay",,31,Biathlon,滑雪和射击,955,Biathlon,男子冬季两项
-6366,"Oberhof II (GER), 10 km Sprint",,31,Biathlon,滑雪和射击,955,Biathlon,男子冬季两项
-12628,"Relay, World Cup","Relay, World Cup",31,Biathlon,滑雪和射击,955,Biathlon,男子冬季两项
-4396,Biathlon 2020/21,Biathlon 2020/21,31,Biathlon,滑雪和射击,955,Biathlon,男子冬季两项
-6084,"Kontiolahti (FIN), 12,5 km Pursuit","Kontiolahti (FIN), 12,5 km Pursuit",31,Biathlon,滑雪和射击,955,Biathlon,男子冬季两项
-6182,"Hochfilzen II (AUT), 12,5 km Pursuit","Hochfilzen II (AUT), 12,5 km Pursuit",31,Biathlon,滑雪和射击,955,Biathlon,男子冬季两项
-6354,"Oberhof (GER), Single Mixed Relay",,31,Biathlon,滑雪和射击,956,Biathlon Women,女子冬季两项
-6492,"Antholz - Anterselva (ITA), 12,5 km Mass Start",,31,Biathlon,滑雪和射击,956,Biathlon Women,女子冬季两项
-6870,"Pokljuka (SLO), Single Mixed Relay - WCH",,31,Biathlon,滑雪和射击,956,Biathlon Women,女子冬季两项
-6918,"Nove Mesto (CZE), 10 km Sprint",,31,Biathlon,滑雪和射击,955,Biathlon,男子冬季两项
-6227,"Oberhof (GER), 10 km Sprint","Oberhof (GER), 10 km Sprint",31,Biathlon,滑雪和射击,955,Biathlon,男子冬季两项
-6662,"Pokljuka (SLO), 4x7,5 km Relay - WCH",,31,Biathlon,滑雪和射击,955,Biathlon,男子冬季两项
-15911,Oestersund,厄斯特松德IBU冬季两项世界杯男子个人赛,31,Biathlon,滑雪和射击,2959,,
-6405,"Oberhof (GER), 15 km Mass Start",,31,Biathlon,滑雪和射击,955,Biathlon,男子冬季两项
-6061,"Kontiolahti II (FIN), 10 km Sprint",,31,Biathlon,滑雪和射击,955,Biathlon,男子冬季两项
-6448,"Antholz - Anterselva (ITA), 15 km Individual",,31,Biathlon,滑雪和射击,956,Biathlon Women,女子冬季两项
-6424,"Oberhof (GER), 4x6 km Relay",,31,Biathlon,滑雪和射击,956,Biathlon Women,女子冬季两项
-46127,Hilton Grand Vacations Tournament of Champions,Hilton Grand Vacations Tournament of Champions,31,Biathlon,滑雪和射击,955,Biathlon,男子冬季两项
 18704,"Lck Cl, Spring, Group Stage","Lck Cl, Spring, Group Stage",30,League of Legends,英雄联盟,1049,,
 4379,Lla,Lla,30,League of Legends,英雄联盟,954,Riot LoL,拳头 英雄联盟
 20206,"Turkey Academy League, Winter Season","Turkey Academy League, Winter Season",30,League of Legends,英雄联盟,954,Riot LoL,拳头 英雄联盟
 8806,"Nlc, Summer Season","Nlc, Summer Season",30,League of Legends,英雄联盟,1696,,
 18972,"Prime League 1St Division, Spring","Prime League 1St Division, Spring",30,League of Legends,英雄联盟,954,Riot LoL,拳头 英雄联盟
-6787,"Pokljuka (SLO), 12,5 km Pursuit - WCH",,31,Biathlon,滑雪和射击,955,Biathlon,男子冬季两项
 18993,Nlc,Nlc,30,League of Legends,英雄联盟,3047,Freaks4u Gaming,Freaks4u Gaming
 8842,Lvp Superliga,Lvp Superliga,30,League of Legends,英雄联盟,1627,,
 7465,Esport Balkan League,电子竞技英雄联盟巴尔干半岛联赛,30,League of Legends,英雄联盟,1036,Fortuna LoL,Fortuna 英雄联盟
@@ -7098,154 +6679,6 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 5785,Elitserien,超级联赛,48,Bandy,曲棍球,20,Sweden,瑞典
 5704,Superliga,超级联赛,48,Bandy,曲棍球,46,Russia,俄罗斯
 54054,Italian Open 2023,Italian Open 2023,48,Bandy,曲棍球,44,International,国际
-39353,Andalucia Masters 2022,Andalucia Masters 2022,46,Alpine Skiing,高山滑雪,988,Alpine Women,女子高山滑雪
-6235,"Madonna di Campiglio (ITA), Slalom","Madonna di Campiglio (ITA), Slalom",46,Alpine Skiing,高山滑雪,987,Alpine,男子高山滑雪
-21309,Olympic Games,奥林匹克高山滑雪男子大回转,46,Alpine Skiing,高山滑雪,989,Giant Slalom,大回转
-6958,"Val di Fassa (ITA), Downhill - Replaces: Garmisch-Partenkirchen",,46,Alpine Skiing,高山滑雪,988,Alpine Women,女子高山滑雪
-17172,"St. Moritz, Women, Day 2",高山滑雪女子超级大回转圣莫里兹站第2比赛日,46,Alpine Skiing,高山滑雪,1007,Super G Women,
-105253,"US Presidential Election - Popular Vote, Donald Tr","US Presidential Election - Popular Vote, Donald Tr",46,Alpine Skiing,高山滑雪,987,Alpine,男子高山滑雪
-5894,"Levi 2 (FIN), Slalom",,46,Alpine Skiing,高山滑雪,988,Alpine Women,女子高山滑雪
-6950,Bansko,高山滑雪男子大回转班斯科站,46,Alpine Skiing,高山滑雪,989,Giant Slalom,大回转
-6597,"Chamonix 2 (FRA), Slalom",,46,Alpine Skiing,高山滑雪,987,Alpine,男子高山滑雪
-6712,"Cortina d'Ampezzo (ITA), Combined",,46,Alpine Skiing,高山滑雪,987,Alpine,男子高山滑雪
-5565,"Downhill, World Cup","Downhill, World Cup",46,Alpine Skiing,高山滑雪,987,Alpine,男子高山滑雪
-6180,"Val Gardena (ITA), Super-G","Val Gardena (ITA), Super-G",46,Alpine Skiing,高山滑雪,987,Alpine,男子高山滑雪
-6769,"Cortina d'Ampezzo (ITA), Giant Slalom",,46,Alpine Skiing,高山滑雪,987,Alpine,男子高山滑雪
-12251,Ski Alpine 2021/22,Ski Alpine 2021/22,46,Alpine Skiing,高山滑雪,987,Alpine,男子高山滑雪
-6513,Kitzbuehel,高山滑雪男子超级大回转基茨比厄尔站,46,Alpine Skiing,高山滑雪,1010,Super G,Super G赛
-6068,"St. Moritz 1 (SUI), Super-G",,46,Alpine Skiing,高山滑雪,988,Alpine Women,女子高山滑雪
-6505,"Crans Montana (SUI), Super-G - Replaces: St. Moritz",,46,Alpine Skiing,高山滑雪,988,Alpine Women,女子高山滑雪
-5288,Soelden,高山滑雪男子大回转瑟尔登站,46,Alpine Skiing,高山滑雪,989,Giant Slalom,大回转
-5583,"Slalom, World Cup","Slalom, World Cup",46,Alpine Skiing,高山滑雪,988,Alpine Women,女子高山滑雪
-5582,"Giant Slalom, World Cup","Giant Slalom, World Cup",46,Alpine Skiing,高山滑雪,988,Alpine Women,女子高山滑雪
-16553,Beaver Creek,高山滑雪男子超级大回转比弗溪站,46,Alpine Skiing,高山滑雪,1010,Super G,Super G赛
-6574,Chamonix,Chamonix,46,Alpine Skiing,高山滑雪,1013,Slalom,回转赛
-47002,"Spindleruv Mlyn, Women",高山滑雪女子回转赛什平德莱鲁夫姆林站,46,Alpine Skiing,高山滑雪,1016,Downhill Women,
-16249,Lake Louise,高山滑雪男子超级大回转莱克路易斯站,46,Alpine Skiing,高山滑雪,1010,Super G,Super G赛
-6860,"Cortina d'Ampezzo (ITA), Team Parallel",,46,Alpine Skiing,高山滑雪,987,Alpine,男子高山滑雪
-6512,"Kitzbuehel (AUT), Super-G",,46,Alpine Skiing,高山滑雪,987,Alpine,男子高山滑雪
-6376,"Flachau (AUT), Slalom",,46,Alpine Skiing,高山滑雪,988,Alpine Women,女子高山滑雪
-16065,"Killington, Women",高山滑雪女子大回转基灵顿站,46,Alpine Skiing,高山滑雪,990,Giant Slalom Women,女子大回转
-6349,Adelboden,高山滑雪男子回转赛阿德尔博登站,46,Alpine Skiing,高山滑雪,1013,Slalom,回转赛
-6275,Zagreb,高山滑雪男子回转赛萨格勒布站,46,Alpine Skiing,高山滑雪,1013,Slalom,回转赛
-6350,"St. Anton (AUT), Super-G",,46,Alpine Skiing,高山滑雪,988,Alpine Women,女子高山滑雪
-5973,"Lech / Zuers (AUT), Parallel",,46,Alpine Skiing,高山滑雪,988,Alpine Women,女子高山滑雪
-16667,Beaver Creek,高山滑雪男子滑降赛比弗溪站,46,Alpine Skiing,高山滑雪,1011,Downhill,高山速降
-99804,"ITF China 15A, Women Doubles","ITF China 15A, Women Doubles",46,Alpine Skiing,高山滑雪,988,Alpine Women,女子高山滑雪
-5581,"Super-G, World Cup","Super-G, World Cup",46,Alpine Skiing,高山滑雪,988,Alpine Women,女子高山滑雪
-6845,"Cortina d'Ampezzo (ITA), Parallel",,46,Alpine Skiing,高山滑雪,987,Alpine,男子高山滑雪
-6569,"Chamonix 1 (FRA), Slalom",,46,Alpine Skiing,高山滑雪,987,Alpine,男子高山滑雪
-6179,"Alta Badia (ITA), Giant Slalom","Alta Badia (ITA), Giant Slalom",46,Alpine Skiing,高山滑雪,987,Alpine,男子高山滑雪
-22889,Kvitfjell,高山滑雪男子超级大回转科威菲站,46,Alpine Skiing,高山滑雪,1010,Super G,Super G赛
-19415,Wengen,高山滑雪男子滑降赛翁根站,46,Alpine Skiing,高山滑雪,1011,Downhill,高山速降
-23054,"Are, Women",高山滑雪女子大回转奥勒站,46,Alpine Skiing,高山滑雪,990,Giant Slalom Women,女子大回转
-6790,"Cortina D`ampezzo, Women",高山滑雪女子滑降赛科尔蒂纳丹佩佐站,46,Alpine Skiing,高山滑雪,1016,Downhill Women,
-6530,"Kronplatz, Women",高山滑雪女子大回转科隆普拉茨山,46,Alpine Skiing,高山滑雪,990,Giant Slalom Women,女子大回转
-22767,Kvitfjell,高山滑雪男子滑降赛科威菲站,46,Alpine Skiing,高山滑雪,1011,Downhill,高山速降
-6529,Schladming,高山滑雪男子回转赛施拉德明站,46,Alpine Skiing,高山滑雪,1013,Slalom,回转赛
-6770,"Cortina d'Ampezzo (ITA), Slalom",,46,Alpine Skiing,高山滑雪,988,Alpine Women,女子高山滑雪
-6165,"Alta Badia (ITA), Slalom","Alta Badia (ITA), Slalom",46,Alpine Skiing,高山滑雪,987,Alpine,男子高山滑雪
-44578,Liga EBA,西班牙EBA联赛,46,Alpine Skiing,高山滑雪,988,Alpine Women,女子高山滑雪
-17162,Val D'Isere,高山滑雪男子回转赛瓦勒迪泽尔站,46,Alpine Skiing,高山滑雪,1013,Slalom,回转赛
-5566,"Downhill, World Cup","Downhill, World Cup",46,Alpine Skiing,高山滑雪,988,Alpine Women,女子高山滑雪
-16067,"Killington, Women",高山滑雪女子回转赛基灵顿站,46,Alpine Skiing,高山滑雪,1000,Slalom Women,
-5575,"Super-G, World Cup","Super-G, World Cup",46,Alpine Skiing,高山滑雪,987,Alpine,男子高山滑雪
-6494,"Crans Montana 2 (SUI), Downhill",,46,Alpine Skiing,高山滑雪,988,Alpine Women,女子高山滑雪
-6592,"Garmisch-Partenkirchen, Women",高山滑雪女子超级大回转加米施-帕滕基兴站,46,Alpine Skiing,高山滑雪,1007,Super G Women,
-6183,Val Gardena / Groeden,高山滑雪男子超级大回转瓦尔加尔德纳/格勒登站,46,Alpine Skiing,高山滑雪,1010,Super G,Super G赛
-23740,Courchevel,Courchevel,46,Alpine Skiing,高山滑雪,989,Giant Slalom,大回转
-6768,"Cortina d'Ampezzo (ITA), Slalom",,46,Alpine Skiing,高山滑雪,987,Alpine,男子高山滑雪
-6062,"St. Moritz, Women",高山滑雪女子超级大回转圣莫里兹站,46,Alpine Skiing,高山滑雪,1007,Super G Women,
-6125,"Courchevel, Women",高山滑雪女子大回转高雪维尔站,46,Alpine Skiing,高山滑雪,990,Giant Slalom Women,女子大回转
-17601,"Val Disere, Women",高山滑雪女子滑降赛瓦勒迪泽尔站,46,Alpine Skiing,高山滑雪,1016,Downhill Women,
-7252,Kranjska Gora,高山滑雪男子回转赛克拉尼斯卡戈拉站,46,Alpine Skiing,高山滑雪,1013,Slalom,回转赛
-6070,"Santa Caterina Valfurva 1 (ITA), Giant Slalom - Replaces Val d'Isere 1","Santa Caterina Valfurva 1 (ITA), Giant Slalom - Replaces Val d'Isere 1",46,Alpine Skiing,高山滑雪,987,Alpine,男子高山滑雪
-7189,"Are, Women",高山滑雪女子回转赛奥勒站,46,Alpine Skiing,高山滑雪,1000,Slalom Women,
-6203,"Val d'Isere 2 (FRA), Downhill","Val d'Isere 2 (FRA), Downhill",46,Alpine Skiing,高山滑雪,988,Alpine Women,女子高山滑雪
-6496,"Kitzbuehel (AUT), Downhill",,46,Alpine Skiing,高山滑雪,987,Alpine,男子高山滑雪
-16711,"Lake Louise, Women",高山滑雪女子超级大回转莱克路易斯站,46,Alpine Skiing,高山滑雪,1007,Super G Women,
-29839,Aso Iizuka Challenged Golf Tournament 2022,Aso Iizuka Challenged Golf Tournament 2022,46,Alpine Skiing,高山滑雪,987,Alpine,男子高山滑雪
-6274,"Zagreb (CRO), Slalom",,46,Alpine Skiing,高山滑雪,987,Alpine,男子高山滑雪
-6742,"Cortina d'Ampezzo (ITA), Downhill",,46,Alpine Skiing,高山滑雪,988,Alpine Women,女子高山滑雪
-6589,"Garmisch Partenkirchen (GER), Super-G - Replaces St. Moritz",,46,Alpine Skiing,高山滑雪,988,Alpine Women,女子高山滑雪
-6710,"Cortina d'Ampezzo (ITA), Super-G",,46,Alpine Skiing,高山滑雪,987,Alpine,男子高山滑雪
-5983,"Lech / Zuers (AUT), Parallel",,46,Alpine Skiing,高山滑雪,987,Alpine,男子高山滑雪
-23739,"Courchevel/Meribel, Women","Courchevel/Meribel, Women",46,Alpine Skiing,高山滑雪,1007,Super G Women,
-6678,"Garmisch Partenkirchen (GER), Super-G",,46,Alpine Skiing,高山滑雪,987,Alpine,男子高山滑雪
-19115,"Schladming, Women","Schladming, Women",46,Alpine Skiing,高山滑雪,1000,Slalom Women,
-5577,"Slalom, World Cup","Slalom, World Cup",46,Alpine Skiing,高山滑雪,987,Alpine,男子高山滑雪
-6479,"Schladming (AUT), Slalom",,46,Alpine Skiing,高山滑雪,987,Alpine,男子高山滑雪
-6171,"Val d'Isere (FRA), Downhill","Val d'Isere (FRA), Downhill",46,Alpine Skiing,高山滑雪,987,Alpine,男子高山滑雪
-6181,"Val Gardena (ITA), Downhill","Val Gardena (ITA), Downhill",46,Alpine Skiing,高山滑雪,987,Alpine,男子高山滑雪
-22774,"Lenzerheide, Women","Lenzerheide, Women",46,Alpine Skiing,高山滑雪,1007,Super G Women,
-6208,Alta Badia,高山滑雪男子大回转阿尔塔巴迪亚站,46,Alpine Skiing,高山滑雪,989,Giant Slalom,大回转
-19273,Wengen,Wengen,46,Alpine Skiing,高山滑雪,1010,Super G,Super G赛
-5576,"Giant Slalom, World Cup","Giant Slalom, World Cup",46,Alpine Skiing,高山滑雪,987,Alpine,男子高山滑雪
-5296,"Soelden, Women",高山滑雪女子大回转瑟尔登站,46,Alpine Skiing,高山滑雪,990,Giant Slalom Women,女子大回转
-7190,Kranjska Gora,高山滑雪男子大回转克拉尼斯卡戈拉站,46,Alpine Skiing,高山滑雪,989,Giant Slalom,大回转
-19513,Wengen,高山滑雪男子回转赛翁根站,46,Alpine Skiing,高山滑雪,1013,Slalom,回转赛
-20493,"Garmisch-Partenkirchen, Women",高山滑雪女子滑降赛加米施-帕滕基兴站,46,Alpine Skiing,高山滑雪,1016,Downhill Women,
-6771,"Cortina d'Ampezzo (ITA), Giant Slalom",,46,Alpine Skiing,高山滑雪,988,Alpine Women,女子高山滑雪
-16936,Val Disere,高山滑雪男子大回转瓦勒迪泽尔站,46,Alpine Skiing,高山滑雪,989,Giant Slalom,大回转
-6606,"Garmisch Partenkirchen (GER), Super-G",,46,Alpine Skiing,高山滑雪,988,Alpine Women,女子高山滑雪
-6728,"Cortina d'Ampezzo (ITA), Downhill",,46,Alpine Skiing,高山滑雪,987,Alpine,男子高山滑雪
-6207,Val Gardena / Groeden,高山滑雪男子滑降赛瓦尔加尔德纳/格勒登站,46,Alpine Skiing,高山滑雪,1011,Downhill,高山速降
-23798,"Courchevel, Women",高山滑雪女子回转赛高雪维尔站,46,Alpine Skiing,高山滑雪,1000,Slalom Women,
-5858,"Levi, Women",高山滑雪女子回转赛列维站,46,Alpine Skiing,高山滑雪,1000,Slalom Women,
-6248,"Semmering, Women",高山滑雪女子回转赛塞默灵站,46,Alpine Skiing,高山滑雪,1000,Slalom Women,
-6240,Madonna Di Campiglio,高山滑雪男子回转赛马东纳-迪坎皮利奥站,46,Alpine Skiing,高山滑雪,1013,Slalom,回转赛
-6124,"Courchevel 1 (FRA), Giant Slalom","Courchevel 1 (FRA), Giant Slalom",46,Alpine Skiing,高山滑雪,988,Alpine Women,女子高山滑雪
-6324,"Adelboden 1 (SUI), Giant Slalom",,46,Alpine Skiing,高山滑雪,987,Alpine,男子高山滑雪
-5884,"Levi 1 (FIN), Slalom",,46,Alpine Skiing,高山滑雪,988,Alpine Women,女子高山滑雪
-18992,"Kranjska Gora, Women",高山滑雪女子回转赛克拉尼斯卡戈拉站,46,Alpine Skiing,高山滑雪,1000,Slalom Women,
-6322,Adelboden,高山滑雪男子大回转阿德尔博登站,46,Alpine Skiing,高山滑雪,989,Giant Slalom,大回转
-6469,"Kitzbuehel (AUT), Downhill - Replaces: Wengen",,46,Alpine Skiing,高山滑雪,987,Alpine,男子高山滑雪
-6527,"Kronplatz (ITA), Giant Slalom",,46,Alpine Skiing,高山滑雪,988,Alpine Women,女子高山滑雪
-6333,"Adelboden (SUI), Slalom",,46,Alpine Skiing,高山滑雪,987,Alpine,男子高山滑雪
-6168,"Val d'Isere 1 (FRA), Downhill","Val d'Isere 1 (FRA), Downhill",46,Alpine Skiing,高山滑雪,988,Alpine Women,女子高山滑雪
-5198,Ski Alpine 2020/21,Ski Alpine 2020/21,46,Alpine Skiing,高山滑雪,988,Alpine Women,女子高山滑雪
-18184,Bormio,高山滑雪男子超级大回转博尔米奥站,46,Alpine Skiing,高山滑雪,1010,Super G,Super G赛
-6211,"Val d'Isere (FRA), Super-G","Val d'Isere (FRA), Super-G",46,Alpine Skiing,高山滑雪,988,Alpine Women,女子高山滑雪
-6258,Bormio,高山滑雪男子滑降赛博尔米奥站,46,Alpine Skiing,高山滑雪,1011,Downhill,高山速降
-48813,"Uganda International Challenge, Singles","Uganda International Challenge, Singles",46,Alpine Skiing,高山滑雪,3082,,
-6472,"Crans Montana 1 (SUI), Downhill",,46,Alpine Skiing,高山滑雪,988,Alpine Women,女子高山滑雪
-12492,Ski Alpine 2021/22,Ski Alpine 2021/22,46,Alpine Skiing,高山滑雪,988,Alpine Women,女子高山滑雪
-5287,"Soelden (AUT), Giant Slalom","Soelden (AUT), Giant Slalom",46,Alpine Skiing,高山滑雪,987,Alpine,男子高山滑雪
-6264,"Zagreb, Women",高山滑雪女子回转赛萨格勒布,46,Alpine Skiing,高山滑雪,1000,Slalom Women,
-7117,Saalbach-Hinterglemm,Saalbach-Hinterglemm,46,Alpine Skiing,高山滑雪,1010,Super G,Super G赛
-6401,"Flachau (AUT), Slalom - Replaces: Kitzbuehel",,46,Alpine Skiing,高山滑雪,987,Alpine,男子高山滑雪
-18845,"Kranjska Gora, Women",高山滑雪女子大回转克拉尼斯卡戈拉站,46,Alpine Skiing,高山滑雪,990,Giant Slalom Women,女子大回转
-19972,"Cortina D`ampezzo, Women",高山滑雪女子超级大回转科尔蒂纳丹佩佐站,46,Alpine Skiing,高山滑雪,1007,Super G Women,
-6435,"Kranjska Gora 2 (SLO), Giant Slalom - Replaces: Maribor",,46,Alpine Skiing,高山滑雪,988,Alpine Women,女子高山滑雪
-16673,"Lake Louise, Women, Day 2",高山滑雪女子滑降赛莱克路易斯站第2比赛日,46,Alpine Skiing,高山滑雪,1016,Downhill Women,
-23741,Courchevel/Meribel,Courchevel/Meribel,46,Alpine Skiing,高山滑雪,1010,Super G,Super G赛
-6568,"Garmisch Partenkirchen (GER), Downhill",,46,Alpine Skiing,高山滑雪,988,Alpine Women,女子高山滑雪
-6253,"Semmering (AUT), Slalom",,46,Alpine Skiing,高山滑雪,988,Alpine Women,女子高山滑雪
-6713,"Cortina d'Ampezzo (ITA), Super-G",,46,Alpine Skiing,高山滑雪,988,Alpine Women,女子高山滑雪
-6329,"St. Anton (AUT), Downhill",,46,Alpine Skiing,高山滑雪,988,Alpine Women,女子高山滑雪
-6393,"Kranjska Gora 1 (SLO), Giant Slalom - Replaces: Maribor",,46,Alpine Skiing,高山滑雪,988,Alpine Women,女子高山滑雪
-6669,"Cortina d'Ampezzo (ITA), Combined",,46,Alpine Skiing,高山滑雪,988,Alpine Women,女子高山滑雪
-5295,"Soelden (AUT), Giant Slalom","Soelden (AUT), Giant Slalom",46,Alpine Skiing,高山滑雪,988,Alpine Women,女子高山滑雪
-16585,"Lake Louise, Women",高山滑雪女子滑降赛莱克路易斯站,46,Alpine Skiing,高山滑雪,1016,Downhill Women,
-6088,"Santa Caterina Valfurva 2 (ITA), Giant Slalom - Replaces Val d'Isere 2","Santa Caterina Valfurva 2 (ITA), Giant Slalom - Replaces Val d'Isere 2",46,Alpine Skiing,高山滑雪,987,Alpine,男子高山滑雪
-6486,Kitzbuehel,高山滑雪男子滑降赛基茨比厄尔站,46,Alpine Skiing,高山滑雪,1011,Downhill,高山速降
-16110,Lake Louise,高山滑雪男子滑降赛莱克路易斯站,46,Alpine Skiing,高山滑雪,1011,Downhill,高山速降
-6497,"Crans-Montana Ii, Women",高山滑雪女子滑降赛克莱恩-蒙塔纳站,46,Alpine Skiing,高山滑雪,1016,Downhill Women,
-6396,"Kitzbuehel (AUT), Slalom - Replaces: Wengen",,46,Alpine Skiing,高山滑雪,987,Alpine,男子高山滑雪
-6397,Kitzbuehel,高山滑雪男子回转赛基茨比厄尔站,46,Alpine Skiing,高山滑雪,1013,Slalom,回转赛
-6377,"Flachau, Women",高山滑雪女子回转赛弗拉肖站,46,Alpine Skiing,高山滑雪,1000,Slalom Women,
-6949,"Bansko 1 (BUL), Giant Slalom",,46,Alpine Skiing,高山滑雪,987,Alpine,男子高山滑雪
-5197,Ski Alpine 2020/21,Ski Alpine 2020/21,46,Alpine Skiing,高山滑雪,987,Alpine,男子高山滑雪
-5751,Ski Alpine 2019/20,Ski Alpine 2019/20,46,Alpine Skiing,高山滑雪,988,Alpine Women,女子高山滑雪
-6263,"Zagreb (CRO), Slalom",,46,Alpine Skiing,高山滑雪,988,Alpine Women,女子高山滑雪
-42277,"ATP Challenger Andria, Italy Men Double","ATP Challenger Andria, Italy Men Doubles",46,Alpine Skiing,高山滑雪,988,Alpine Women,女子高山滑雪
-6340,"Adelboden 2 (SUI), Giant Slalom",,46,Alpine Skiing,高山滑雪,987,Alpine,男子高山滑雪
-6256,"Bormio (ITA), Downhill",,46,Alpine Skiing,高山滑雪,987,Alpine,男子高山滑雪
-6506,"Crans-Montana, Women",高山滑雪女子超级大回转克莱恩-蒙塔纳站,46,Alpine Skiing,高山滑雪,1007,Super G Women,
-52446,Kansai Open Golf Championship 2023,Kansai Open Golf Championship 2023,46,Alpine Skiing,高山滑雪,987,Alpine,男子高山滑雪
-6403,"Flachau (AUT), Slalom - Replaces: Wengen",,46,Alpine Skiing,高山滑雪,987,Alpine,男子高山滑雪
-22351,"Crans Montana, Women","Crans Montana, Women",46,Alpine Skiing,高山滑雪,1016,Downhill Women,
-6846,"Cortina d'Ampezzo (ITA), Parallel",,46,Alpine Skiing,高山滑雪,988,Alpine Women,女子高山滑雪
 6623,Liga Pro,Liga Pro,52,eNBA,eBasketball,1023,Liga Pro,Liga Pro
 6595,Eastern Conference,Eastern Conference,52,eNBA,eBasketball,1019,Cyber Live Arena,Cyber Live Arena
 6599,All Stars League,All Stars League,52,eNBA,eBasketball,1019,Cyber Live Arena,Cyber Live Arena
@@ -7257,9 +6690,6 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 10860,The Ticket,NBA 2K联盟入场卷,52,eNBA,eBasketball,1561,,
 6601,World Cup,World Cup,53,eIce Hockey,eIce Hockey,1019,Cyber Live Arena,Cyber Live Arena
 6602,Champions Cup,Champions Cup,53,eIce Hockey,eIce Hockey,1019,Cyber Live Arena,Cyber Live Arena
-51439,"ATP Challenger Girona, Spain Men Doubles","ATP Challenger Girona, Spain Men Doubles",55,Nordic Combined,高山越野滑雪,1028,Nordic Combined,北欧越野滑雪
-6968,"Oberstdorf (GER), HS 106/10 km",,55,Nordic Combined,高山越野滑雪,1028,Nordic Combined,北欧越野滑雪
-7089,"Vysshaya Liga, Playoffs","Vysshaya Liga, Playoffs",55,Nordic Combined,高山越野滑雪,1028,Nordic Combined,北欧越野滑雪
 4549,Elitserien,精英赛,22,Speedway,沙地摩托车,20,Sweden,瑞典
 4260,Ekstraliga,波兰沙地摩托车联赛,22,Speedway,沙地摩托车,3,Poland,波兰
 7730,Speedway World Championship,Speedway World Championship,22,Speedway,沙地摩托车,44,International,国际
@@ -7292,9 +6722,7 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 19439,World Rally Championship 2022,World Rally Championship 2022,54,Rally,汽车拉力赛,953,Rally,拉力赛
 37837,Swiss Challenge 2022,Swiss Challenge 2022,54,Rally,汽车拉力赛,953,Rally,拉力赛
 41341,Super League Darts Germany,Super League Darts Germany,54,Rally,汽车拉力赛,953,Rally,拉力赛
-9533,2024 Olympic Tournament - Surfing - Men,Olympic Tournament,296,Surfing,冲浪,44,International,国际
 8131,"World Championship, Women",世界女子锦标赛,94,Curling,冰壶,44,International,国际
-9534,2024 Olympic Tournament - Surfing - Women,Olympic Tournament Women,296,Surfing,冲浪,44,International,国际
 7647,World Championship,世界男子冰壶球锦标赛,94,Curling,冰壶,44,International,国际
 15592,European Championship,欧洲锦标赛,94,Curling,冰壶,44,International,国际
 20203,Olympic Mixed,Olympic Mixed,94,Curling,冰壶,44,International,国际
@@ -7311,12 +6739,6 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 16318,"Kpl Fall, Playoffs","Kpl Fall, Playoffs",127,ESport King of Glory,电竞王者荣耀,1264,,
 8879,Superpesis,芬兰棒球男子超级联赛,193,Pesapallo,芬兰棒球,31,Finland,芬兰
 8883,"Superpesis, Women",芬兰棒球女子超级联赛,193,Pesapallo,芬兰棒球,31,Finland,芬兰
-9571,2024 Olympic Tournament - Rowing - Men,Olympic Tournament,297,Rowing,赛艇,44,International,国际
-9484,Olympic Tournament Women,Olympic Tournament Women,259,Fencing,击剑,44,International,国际
-9483,Olympic Tournament,Olympic Tournament,259,Fencing,击剑,44,International,国际
-9572,2024 Olympic Tournament - Rowing - Women,Olympic Tournament Women,297,Rowing,赛艇,44,International,国际
-9532,2024 Olympic Tournament - Skateboarding - Men,Olympic Tournament,295,Skateboarding,滑板,44,International,国际
-9725,2024 Olympic Tournament - Skateboarding - Women,Olympic Tournament Women,295,Skateboarding,滑板,44,International,国际
 24263,"National Lacrosse League, Regular Season",National Lacrosse League,589,Lacrosse,长曲棍球,62,USA,美国
 19626,"India International (ic), Women Doubles","India International (ic), Women Doubles",23,Badminton,羽毛球,44,International,国际
 13529,"Thomas Cup, Singles","Thomas Cup, Singles",23,Badminton,羽毛球,44,International,国际
@@ -7563,12 +6985,7 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 9935,NFL Preseason,美国橄榄球职业联盟季前赛,14,American Football,美式橄榄球,62,USA,美国
 19384,NFL Pro Bowl,国家橄榄球联盟职业碗,14,American Football,美式橄榄球,62,USA,美国
 17650,NCAA Division II National Championship,NCAA Division II National Championship,14,American Football,美式橄榄球,62,USA,美国
-9576,2024 Olympic Tournament - Triathlon - Men,Olympic Tournament,299,Triathlon,铁人三项,44,International,国际
-9535,2024 Olympic Tournament - Sailing - Men,Olympic Tournament,50,Sailing,帆船赛,44,International,国际
 29730,"ITF Thailand 10A, Women Doubles","ITF Thailand 10A, Women Doubles",14,American Football,美式橄榄球,44,International,国际
-6177,Americas Cup,美洲杯,50,Sailing,帆船赛,44,International,国际
-9536,2024 Olympic Tournament - Sailing - Women,Olympic Tournament Women,50,Sailing,帆船赛,44,International,国际
-9577,2024 Olympic Tournament - Triathlon - Women,Olympic Tournament Women,299,Triathlon,铁人三项,44,International,国际
 15040,Americup,Americup,60,3x3 Basketball,3对3篮球,44,International,国际
 10633,"Women Series, Constanta","Women Series, Constanta",60,3x3 Basketball,3对3篮球,44,International,国际
 11805,World Tour Montreal,World Tour Montreal,60,3x3 Basketball,3对3篮球,44,International,国际
@@ -7601,17 +7018,7 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 11235,World Tour Debrecen,World Tour Debrecen,60,3x3 Basketball,3对3篮球,44,International,国际
 12481,World Tour Prague,World Tour Prague,60,3x3 Basketball,3对3篮球,44,International,国际
 9465,2024 Olympic Tournament 3x3 Basketball - Women,"Olympic Tournament, Women",60,3x3 Basketball,3对3篮球,44,International,国际
-9862,Olympic Tournament,Olympic Tournament,358,Judo,柔道,44,International,国际
 24204,"World Cup, Qualification","World Cup, Qualification",60,3x3 Basketball,3对3篮球,44,International,国际
-9881,2024 Olympic Tournament - Modern Pentathlon - Women,2024 Olympic Tournament - Modern Pentathlon - Women,391,Modern Pentathlon,现代五项运动,44,International,国际
-9920,"Olympic Tournament, Women","Olympic Tournament, Women",358,Judo,柔道,44,International,国际
-9887,"Olympic Tournament, Women","Olympic Tournament, Women",392,Taekwondo,跆拳道,44,International,国际
-9882,Olympic Tournament,Olympic Tournament,392,Taekwondo,跆拳道,44,International,国际
-9880,2024 Olympic Tournament - Modern Pentathlon - Men,2024 Olympic Tournament - Modern Pentathlon - Men,391,Modern Pentathlon,现代五项运动,44,International,国际
-9884,Olympic Tournament,Olympic Tournament,393,Canoeing,独木舟,2225,,
-9980,"Olympic Tournament, Women","Olympic Tournament, Women",393,Canoeing,独木舟,44,International,国际
-9889,"Olympic Tournament, Women","Olympic Tournament, Women",393,Canoeing,独木舟,2225,,
-9976,Olympic Tournament,Olympic Tournament,393,Canoeing,独木舟,44,International,国际
 6150,World Grand Prix,World Grand Prix,27,Snooker,桌球,44,International,国际
 6077,Scottish Open,Scottish Open,27,Snooker,桌球,44,International,国际
 6146,World Open,斯诺克世界公开赛,27,Snooker,桌球,44,International,国际
@@ -8805,98 +8212,3 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 5324,Kansas Lottery 300,Kansas Lottery 300,19,Stock Car Racing,改装车竞赛,944,Nascar,纳斯卡赛车锦标赛
 22121,Nascar Xfinity Series 2022,Nascar Xfinity Series 2022,19,Stock Car Racing,改装车竞赛,944,Nascar,纳斯卡赛车锦标赛
 4278,Darlington,Darlington,19,Stock Car Racing,改装车竞赛,944,Nascar,纳斯卡赛车锦标赛
-6254,"Oberstdorf (GER), HS 137",,36,Ski Jumping,高山滑雪,965,Ski Jumping,
-6277,"Innsbruck (AUT), HS 128",,36,Ski Jumping,高山滑雪,965,Ski Jumping,
-6418,"Zakopane (POL), Team HS 140",,36,Ski Jumping,高山滑雪,965,Ski Jumping,
-6680,"Klingenthal (GER), HS140 - replaces Sapporo",,36,Ski Jumping,高山滑雪,965,Ski Jumping,
-6960,"Oberstdorf (GER), HS 106",,36,Ski Jumping,高山滑雪,1027,Ski Jumping Women,女子跳台滑雪
-6071,"Nizhny Tagil (RUS), HS 134",,36,Ski Jumping,高山滑雪,965,Ski Jumping,
-4428,"Overall, World Cup","Overall, World Cup",36,Ski Jumping,高山滑雪,965,Ski Jumping,
-5538,Ski Flying World Championship,Ski Flying World Championship,36,Ski Jumping,高山滑雪,965,Ski Jumping,
-54606,"Southeast Asian Games, Singles, Women","Southeast Asian Games, Singles, Women",36,Ski Jumping,高山滑雪,965,Ski Jumping,
-6681,1st Round,,36,Ski Jumping,高山滑雪,965,Ski Jumping,
-6286,"Bischofshofen (AUT), HS 142",,36,Ski Jumping,高山滑雪,965,Ski Jumping,
-6188,"Engelberg (SUI), HS 140","Engelberg (SUI), HS 140",36,Ski Jumping,高山滑雪,965,Ski Jumping,
-6572,Willingen 6,,36,Ski Jumping,高山滑雪,965,Ski Jumping,
-45504,National League,National League,36,Ski Jumping,高山滑雪,965,Ski Jumping,
-6876,"Rasnov (ROU), HS 97",,36,Ski Jumping,高山滑雪,965,Ski Jumping,
-5892,"Wisla (POL), Team HS 134",,36,Ski Jumping,高山滑雪,965,Ski Jumping,
-6416,"Zakopane (POL), HS 140",,36,Ski Jumping,高山滑雪,965,Ski Jumping,
-6004,"Ruka (FIN), HS 142",,36,Ski Jumping,高山滑雪,965,Ski Jumping,
-6331,"Titisee-Neustadt (GER), HS 142",,36,Ski Jumping,高山滑雪,965,Ski Jumping,
-96158,Le Vaudreuil Golf Challenge 2024,Le Vaudreuil Golf Challenge 2024,36,Ski Jumping,高山滑雪,965,Ski Jumping,
-91999,LIV Golf Invitational Tour Singapore 2024,LIV Golf Invitational Tour Singapore 2024,36,Ski Jumping,高山滑雪,965,Ski Jumping,
-6565,"Willingen (GER), HS 147",,36,Ski Jumping,高山滑雪,965,Ski Jumping,
-22133,"Overall, World Cup","Overall, World Cup",36,Ski Jumping,高山滑雪,965,Ski Jumping,
-6126,Four Hills Tournament,Four Hills Tournament,36,Ski Jumping,高山滑雪,965,Ski Jumping,
-6490,"Lahti (FIN), Team HS 130",,36,Ski Jumping,高山滑雪,965,Ski Jumping,
-6823,Raw Air Tournament,,36,Ski Jumping,高山滑雪,965,Ski Jumping,
-6489,"Lahti (FIN), HS 130",,36,Ski Jumping,高山滑雪,965,Ski Jumping,
-5896,"Wisla (POL), HS 134","Wisla (POL), HS 134",36,Ski Jumping,高山滑雪,965,Ski Jumping,
-6262,"Garmisch-Partenkirchen (GER), HS 142",,36,Ski Jumping,高山滑雪,965,Ski Jumping,
-46996,"ATP Challenger Tenerife 2, Spain Men Doubles","ATP Challenger Tenerife 2, Spain Men Doubles",36,Ski Jumping,高山滑雪,965,Ski Jumping,
-6974,"Oberstdorf (GER), Team HS 106",,36,Ski Jumping,高山滑雪,1027,Ski Jumping Women,女子跳台滑雪
-6956,"Oberstdorf (GER), HS 106",,36,Ski Jumping,高山滑雪,965,Ski Jumping,
-6083,Qualification,Qualification,36,Ski Jumping,高山滑雪,965,Ski Jumping,
-52953,"National Volleyball Championship, Women","National Volleyball Championship, Women",36,Ski Jumping,高山滑雪,965,Ski Jumping,
-6781,"Zakopane (POL), HS 140 - replaces Beijing",,36,Ski Jumping,高山滑雪,965,Ski Jumping,
-6604,"Falun (SWE), Sprint C",,32,Cross-country,越野,959,Cross-country Women,女子越野滑雪
-6499,"Lahti (FIN), 15 km/15 km Skiathlon",,32,Cross-country,越野,958,Cross-country,
-43558,Pro Tour Subic Bay,Pro Tour Subic Bay,32,Cross-country,越野,959,Cross-country Women,女子越野滑雪
-13745,Cross Country 2021/22,Cross Country 2021/22,32,Cross-country,越野,958,Cross-country,
-6342,"Val di Fiemme (ITA), Sprint C",,32,Cross-country,越野,958,Cross-country,
-6590,"Falun (SWE), 15 km C Mass Start",,32,Cross-country,越野,958,Cross-country,
-4402,Cross Country 2020/21,Cross Country 2020/21,32,Cross-country,越野,959,Cross-country Women,女子越野滑雪
-6206,"Dresden (GER), Sprint F","Dresden (GER), Sprint F",32,Cross-country,越野,958,Cross-country,
-6603,"Falun (SWE), Sprint C",,32,Cross-country,越野,958,Cross-country,
-5974,"Ruka (FIN), Sprint C","Ruka (FIN), Sprint C",32,Cross-country,越野,959,Cross-country Women,女子越野滑雪
-6493,"Lahti (FIN), 7.5 km/7.5 km Skiathlon",,32,Cross-country,越野,959,Cross-country Women,女子越野滑雪
-6006,"Ruka (FIN), 15 km F Pursuit","Ruka (FIN), 15 km F Pursuit",32,Cross-country,越野,958,Cross-country,
-6250,"Val Müstair (SUI), Sprint F",,32,Cross-country,越野,959,Cross-country Women,女子越野滑雪
-4401,Cross Country 2020/21,Cross Country 2020/21,32,Cross-country,越野,958,Cross-country,
-6973,"Oberstdorf (GER), 15 km/15 km Skiathlon",,32,Cross-country,越野,958,Cross-country,
-6724,"Oberstdorf (GER), 15 km F",,32,Cross-country,越野,958,Cross-country,
-6508,"Lahti (FIN), 4x7,5 km Relay M",,32,Cross-country,越野,958,Cross-country,
-6751,"Oberstdorf (GER), Team Sprint",,32,Cross-country,越野,958,Cross-country,
-6664,"Oberstdorf (GER), Sprint C",,32,Cross-country,越野,958,Cross-country,
-6303,"Toblach (ITA), 10 km F",,32,Cross-country,越野,959,Cross-country Women,女子越野滑雪
-47779,Lalla Meryem Cup 2023,Lalla Meryem Cup 2023,32,Cross-country,越野,958,Cross-country,
-6571,"Falun (SWE), 15 km F",,32,Cross-country,越野,958,Cross-country,
-6011,"Ruka (FIN), 10 km F Pursuit","Ruka (FIN), 10 km F Pursuit",32,Cross-country,越野,959,Cross-country Women,女子越野滑雪
-6345,"Val di Fiemme (ITA), Sprint C",,32,Cross-country,越野,959,Cross-country Women,女子越野滑雪
-6351,"Val di Fiemme (ITA), 10 km F Mass Start Final Climb",,32,Cross-country,越野,958,Cross-country,
-6323,"Toblach (ITA), 15 km C Pursuit",,32,Cross-country,越野,958,Cross-country,
-5944,Cross Country 2019/20,Cross Country 2019/20,32,Cross-country,越野,958,Cross-country,
-47721,EuroBasket Women,欧洲女篮锦标赛,32,Cross-country,越野,958,Cross-country,
-5989,"Ruka (FIN), 15 km C","Ruka (FIN), 15 km C",32,Cross-country,越野,958,Cross-country,
-6663,"Oberstdorf (GER), Sprint C",,32,Cross-country,越野,959,Cross-country Women,女子越野滑雪
-6542,"Falun (SWE), 10 km C Mass Start",,32,Cross-country,越野,959,Cross-country Women,女子越野滑雪
-6543,"Falun (SWE), 10 km F",,32,Cross-country,越野,959,Cross-country Women,女子越野滑雪
-6291,"Toblach (ITA), 15 km F",,32,Cross-country,越野,958,Cross-country,
-6269,"Val Müstair (SUI), 15 km C Mass Start",,32,Cross-country,越野,958,Cross-country,
-6507,"Lahti (FIN), 4x5 km Relay M",,32,Cross-country,越野,959,Cross-country Women,女子越野滑雪
-6276,"Val Müstair (SUI), 10 km F Pursuit",,32,Cross-country,越野,959,Cross-country Women,女子越野滑雪
-6251,"Val Müstair (SUI), Sprint F",,32,Cross-country,越野,958,Cross-country,
-5990,"Ruka (FIN), 10 km C","Ruka (FIN), 10 km C",32,Cross-country,越野,959,Cross-country Women,女子越野滑雪
-42847,"Welsh International, Mixed Doubles","Welsh International, Mixed Doubles",32,Cross-country,越野,958,Cross-country,
-6749,"Oberstdorf (GER), 4x5 km Relay M",,32,Cross-country,越野,959,Cross-country Women,女子越野滑雪
-6327,"Val di Fiemme (ITA), 10 km C Mass Start",,32,Cross-country,越野,959,Cross-country Women,女子越野滑雪
-6278,"Val Müstair (SUI), 15 km F Pursuit",,32,Cross-country,越野,958,Cross-country,
-6976,"Oberstdorf (GER), 7.5 km/7.5 km Skiathlon",,32,Cross-country,越野,959,Cross-country Women,女子越野滑雪
-6723,"Oberstdorf (GER), 10 km F",,32,Cross-country,越野,959,Cross-country Women,女子越野滑雪
-93187,"WTT Feeder Cappadocia, XD","WTT Feeder Cappadocia, XD",32,Cross-country,越野,958,Cross-country,
-6690,"Ulricehamn (SWE), Team Sprint F",,32,Cross-country,越野,959,Cross-country Women,女子越野滑雪
-6750,"Oberstdorf (GER), Team Sprint",,32,Cross-country,越野,959,Cross-country Women,女子越野滑雪
-42846,"Welsh International, Doubles","Welsh International, Doubles",32,Cross-country,越野,959,Cross-country Women,女子越野滑雪
-6214,"Dresden (GER), Team Sprint","Dresden (GER), Team Sprint",32,Cross-country,越野,959,Cross-country Women,女子越野滑雪
-6204,"Dresden (GER), Sprint F","Dresden (GER), Sprint F",32,Cross-country,越野,959,Cross-country Women,女子越野滑雪
-5199,"Sprint, World Cup","Sprint, World Cup",32,Cross-country,越野,958,Cross-country,
-6666,"Ulricehamn (SWE), Sprint F",,32,Cross-country,越野,959,Cross-country Women,女子越野滑雪
-6215,"Dresden (GER), Team Sprint F","Dresden (GER), Team Sprint F",32,Cross-country,越野,958,Cross-country,
-6665,"Ulricehamn (SWE), Sprint F",,32,Cross-country,越野,958,Cross-country,
-6748,"Oberstdorf (GER), 4x10 km Relay M",,32,Cross-country,越野,958,Cross-country,
-6326,"Val di Fiemme (ITA), 15 km C Mass Start",,32,Cross-country,越野,958,Cross-country,
-6348,"Val di Fiemme (ITA), 10 km F Mass Start Final Climb",,32,Cross-country,越野,959,Cross-country Women,女子越野滑雪
-6691,"Ulricehamn (SWE), Team Sprint F",,32,Cross-country,越野,958,Cross-country,
-5200,"Sprint, World Cup","Sprint, World Cup",32,Cross-country,越野,959,Cross-country Women,女子越野滑雪
-6268,"Val Müstair (SUI), 10 km C Mass start",,32,Cross-country,越野,959,Cross-country Women,女子越野滑雪
