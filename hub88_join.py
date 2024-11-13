@@ -151,3 +151,13 @@ matched_rows.to_csv('matched_rows.csv', index=False, encoding='utf-8')
 
 # 将未匹配的行保存到 CSV 文件
 unmatched_rows.to_csv('unmatched_rows.csv', index=False, encoding='utf-8')
+
+sportIds = list(set(unmatched_rows["sportId"].tolist()))
+leagueIds = list(set(unmatched_rows["id_league"].tolist()))
+white_dict = {
+   "sportIds":sportIds,
+    "leagueIds":leagueIds
+}
+import json
+with open('hub88_process_whitelist.json', 'w') as f:
+    json.dump(white_dict, f, indent=4)
