@@ -5,7 +5,7 @@ import yaml
 # 导入 hub88_api 模块
 import hub88_api as hub88
 
-df = pd.read_json(r'/Users/wys/hub88-config/pwd.json')
+df = pd.read_json(r'pwd.json')
 
 clientId = df['clientId'][0]  # 获取第一行的username
 password = df['password'][0]  # 获取第一行的password
@@ -18,12 +18,12 @@ token = hub88.get_token(clientId, password)
 def get_market_dict(token,eventId):
   event = hub88.get_eventInfo(token, eventId)
   df_event = pd.DataFrame(event['markets'])
-  save_path = r'/Users/wys/hub88-config/event.json'
+  save_path = r'event.json'
   df_event.to_json(save_path, orient='records', force_ascii=False, indent=4)
 
   # 过滤 trading_status = 1 的行
   df_event_filtered = df_event[df_event['tradingStatus'] == 0]
-
+  # print(df_event_filtered)
   # 按 id 列升序排序
   df_event_filtered = df_event_filtered.sort_values(by='id', ascending=True)
 
@@ -45,7 +45,7 @@ def get_market_dict(token,eventId):
       marketId_2 = id_list[1]
   return marketId_1,marketId_2
 
-df_eventIds = pd.read_csv(r'/Users/wys/hub88-config/schedule_filtered.csv')
+df_eventIds = pd.read_csv(r'schedule_filtered.csv')
 dict_data = df_eventIds[['id', 'sport_id']].to_dict(orient='records')
 # print(dict_data)
 # break
@@ -80,24 +80,37 @@ for event in dict_data:
   event_dict_2 = {}
   i += 1
   print(f"{i}/{len(dict_data)}")
+  # break
   # if i == 5:
   #   break
 # print(tag_list)
 df_tag = pd.DataFrame(tag_list)
 # print(df_tag)
-save_path = r'/Users/wys/hub88-config/tag.json'
+save_path = r'tag.json'
 df_tag.to_json(save_path, orient='records', force_ascii=False, indent=4)
 
-df_yaml = pd.read_json(r'/Users/wys/hub88-config/tag.json')
+df_yaml = pd.read_json(r'tag.json')
 df_yaml = df_yaml[['eventId', 'marketId', 'tag']]
 df_yaml = df_yaml[df_yaml['marketId'] != 0]
 
 # 3. 将数据转换为 YAML 格式并保存
-save_path = r'/Users/wys/hub88-config/tag.yaml'
+save_path = r'tag.yaml'
 
-# 方法1：使用 DataFrame
+import yaml
+
+# 读取 JSON 文件并转换为 DataFrame
+df_yaml = pd.read_json(r'tag.json')
+df_yaml = df_yaml[['eventId', 'marketId', 'tag']]
+df_yaml = df_yaml[df_yaml['marketId'] != 0]
+
+# 构建包含顶级键的字典
+yaml_data = {'activityTag': df_yaml.to_dict(orient='records')}
+
+# 将数据转换为 YAML 格式并保存
+save_path = r'activityTag.yaml'
 with open(save_path, 'w', encoding='utf-8') as f:
-  yaml.dump(df_yaml.to_dict(orient='records'), f, 
+  yaml.dump(yaml_data, f, 
   allow_unicode=True,  # 支持中文
   default_flow_style=False,  # 使用块状格式
-  sort_keys=False)  # 不对键进行排序
+  sort_keys=False,  # 不对键进行排序
+  indent=2)  # 设置缩进为2个字符

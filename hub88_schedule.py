@@ -3,7 +3,7 @@ import pandas as pd
 # 导入 hub88_api 模块
 import hub88_api as hub88
 
-df = pd.read_json(r'/Users/wys/hub88-config/pwd.json')
+df = pd.read_json(r'pwd.json')
 
 clientId = df['clientId'][0]  # 获取第一行的username
 password = df['password'][0]  # 获取第一行的password
@@ -12,15 +12,15 @@ print(clientId, password)
 
 token = hub88.get_token(clientId, password)
 
-startDate_list = ["2024-11-08","2024-11-09","2024-11-10","2024-11-11"]
+startDate_list = ["2024-11-13","2024-11-14","2024-11-15","2024-11-16",  "2024-11-17", "2024-11-18", "2024-11-19"]
 sportIds = [1,8,7,4,14,11,17,25,457,6]
-locationIds = [66,25,22,23,1,59]
+locationIds = [44,66,25,22,23,1,59]
 schedule = []
 for startDate in startDate_list:
     data = hub88.get_schedule(token, startDate, sportIds, locationIds)
     schedule = schedule + data
 df_schedule = pd.DataFrame(schedule)
-save_path = r'/Users/wys/hub88-config/schedule.json'
+save_path = r'schedule.json'
 df_schedule.to_json(save_path, orient='records', force_ascii=False, indent=4)
 
 # 读取 JSON 文件
