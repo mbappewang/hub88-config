@@ -91,6 +91,11 @@ match_list = [
   'ukraine',
   'Reserves',
   '预备',
+  "serie c",
+  "serie d",
+  "3rd",
+  "4th",
+  "2nd"
 ]
 
 # 去重
