@@ -1,0 +1,1576 @@
+activityTag:
+- eventId: 6214055
+  marketId: 3022086
+  tag: 100% Cashback
+- eventId: 6214055
+  marketId: 3022097
+  tag: 50% Freebet
+- eventId: 6413051
+  marketId: 1
+  tag: 100% Cashback
+- eventId: 6413051
+  marketId: 2
+  tag: 50% Freebet
+- eventId: 6407640
+  marketId: 3022086
+  tag: 100% Cashback
+- eventId: 6407640
+  marketId: 3022211
+  tag: 100% Freebet
+- eventId: 6403654
+  marketId: 3022086
+  tag: 100% Freebet
+- eventId: 6403654
+  marketId: 3022092
+  tag: 100% Cashback
+- eventId: 6214051
+  marketId: 3022086
+  tag: Best Odds
+- eventId: 6214051
+  marketId: 3022092
+  tag: 100% Cashback
+- eventId: 6413015
+  marketId: 3182981
+  tag: 100% Freebet
+- eventId: 6413015
+  marketId: 4042394
+  tag: 100% Cashback
+- eventId: 6402477
+  marketId: 3030162
+  tag: 50% Freebet
+- eventId: 6402477
+  marketId: 4042394
+  tag: 100% Cashback
+- eventId: 6214228
+  marketId: 3022086
+  tag: 50% Freebet
+- eventId: 6214228
+  marketId: 3022095
+  tag: 100% Cashback
+- eventId: 6214074
+  marketId: 3022086
+  tag: 100% Cashback
+- eventId: 6214074
+  marketId: 3022099
+  tag: 50% Freebet
+- eventId: 6402471
+  marketId: 3149528
+  tag: Best Odds
+- eventId: 6402471
+  marketId: 4042394
+  tag: 100% Cashback
+- eventId: 6214192
+  marketId: 3022086
+  tag: Best Odds
+- eventId: 6214192
+  marketId: 3022092
+  tag: 100% Freebet
+- eventId: 6219186
+  marketId: 1
+  tag: 50% Freebet
+- eventId: 6219186
+  marketId: 2
+  tag: 100% Cashback
+- eventId: 6409067
+  marketId: 3134044
+  tag: Best Odds
+- eventId: 6409067
+  marketId: 3149527
+  tag: 100% Cashback
+- eventId: 6214136
+  marketId: 3022086
+  tag: Best Odds
+- eventId: 6214136
+  marketId: 3022098
+  tag: 100% Cashback
+- eventId: 6109858
+  marketId: 3145185
+  tag: 100% Freebet
+- eventId: 6109858
+  marketId: 3540419
+  tag: Best Odds
+- eventId: 6402470
+  marketId: 3470153
+  tag: 100% Freebet
+- eventId: 6402470
+  marketId: 3540419
+  tag: 50% Freebet
+- eventId: 6213859
+  marketId: 3022086
+  tag: 100% Cashback
+- eventId: 6213859
+  marketId: 3022139
+  tag: Best Odds
+- eventId: 6214501
+  marketId: 3022086
+  tag: Best Odds
+- eventId: 6214501
+  marketId: 3022099
+  tag: 100% Freebet
+- eventId: 6214056
+  marketId: 3022086
+  tag: 50% Freebet
+- eventId: 6214056
+  marketId: 3022173
+  tag: 100% Cashback
+- eventId: 6325979
+  marketId: 3021939
+  tag: Best Odds
+- eventId: 6325979
+  marketId: 3021940
+  tag: 100% Cashback
+- eventId: 6402473
+  marketId: 4042394
+  tag: 100% Freebet
+- eventId: 6402473
+  marketId: 13225524
+  tag: 100% Cashback
+- eventId: 6401643
+  marketId: 3092311
+  tag: 50% Freebet
+- eventId: 6401643
+  marketId: 3468556
+  tag: Best Odds
+- eventId: 6214015
+  marketId: 3022086
+  tag: 100% Freebet
+- eventId: 6214015
+  marketId: 3022091
+  tag: 100% Cashback
+- eventId: 6225235
+  marketId: 3632757
+  tag: 100% Freebet
+- eventId: 6225235
+  marketId: 3656207
+  tag: Best Odds
+- eventId: 6405994
+  marketId: 3022086
+  tag: 50% Freebet
+- eventId: 6405994
+  marketId: 3022174
+  tag: Best Odds
+- eventId: 6214166
+  marketId: 3022086
+  tag: 100% Freebet
+- eventId: 6214166
+  marketId: 3022172
+  tag: Best Odds
+- eventId: 6226188
+  marketId: 3057855
+  tag: 100% Freebet
+- eventId: 6226188
+  marketId: 3155966
+  tag: 100% Cashback
+- eventId: 6225382
+  marketId: 3023611
+  tag: 50% Freebet
+- eventId: 6225382
+  marketId: 3997188
+  tag: 100% Freebet
+- eventId: 6226232
+  marketId: 3030155
+  tag: 50% Freebet
+- eventId: 6226232
+  marketId: 3037525
+  tag: Best Odds
+- eventId: 6401642
+  marketId: 3281680
+  tag: Best Odds
+- eventId: 6401642
+  marketId: 3800554
+  tag: 100% Freebet
+- eventId: 6225428
+  marketId: 3865653
+  tag: 100% Freebet
+- eventId: 6225428
+  marketId: 4042394
+  tag: Best Odds
+- eventId: 6225666
+  marketId: 3023611
+  tag: 100% Cashback
+- eventId: 6225666
+  marketId: 3997189
+  tag: 100% Freebet
+- eventId: 6214036
+  marketId: 3022086
+  tag: Best Odds
+- eventId: 6214036
+  marketId: 3022088
+  tag: 50% Freebet
+- eventId: 6145638
+  marketId: 3788988
+  tag: 50% Freebet
+- eventId: 6145638
+  marketId: 3999312
+  tag: Best Odds
+- eventId: 6214114
+  marketId: 3022086
+  tag: 50% Freebet
+- eventId: 6214114
+  marketId: 3022169
+  tag: 100% Freebet
+- eventId: 6219323
+  marketId: 1
+  tag: 50% Freebet
+- eventId: 6219323
+  marketId: 2
+  tag: 100% Freebet
+- eventId: 6240650
+  marketId: 3022877
+  tag: 50% Freebet
+- eventId: 6240650
+  marketId: 3022879
+  tag: 100% Cashback
+- eventId: 6225504
+  marketId: 3956305
+  tag: Best Odds
+- eventId: 6225504
+  marketId: 3988715
+  tag: 100% Cashback
+- eventId: 6225561
+  marketId: 3029195
+  tag: 50% Freebet
+- eventId: 6225561
+  marketId: 3037525
+  tag: 100% Freebet
+- eventId: 6406396
+  marketId: 3022086
+  tag: 100% Cashback
+- eventId: 6406396
+  marketId: 3022087
+  tag: 50% Freebet
+- eventId: 6325981
+  marketId: 3021994
+  tag: 100% Freebet
+- eventId: 6214039
+  marketId: 3022086
+  tag: 100% Freebet
+- eventId: 6214039
+  marketId: 3022096
+  tag: 50% Freebet
+- eventId: 6406609
+  marketId: 3022086
+  tag: 100% Freebet
+- eventId: 6406609
+  marketId: 3022176
+  tag: Best Odds
+- eventId: 6396696
+  marketId: 3022086
+  tag: Best Odds
+- eventId: 6396696
+  marketId: 3022099
+  tag: 100% Freebet
+- eventId: 6407639
+  marketId: 3022086
+  tag: 50% Freebet
+- eventId: 6407639
+  marketId: 3022098
+  tag: Best Odds
+- eventId: 6225653
+  marketId: 3134043
+  tag: 100% Cashback
+- eventId: 6225653
+  marketId: 4042394
+  tag: Best Odds
+- eventId: 6407163
+  marketId: 3022086
+  tag: 100% Freebet
+- eventId: 6407163
+  marketId: 3022100
+  tag: 50% Freebet
+- eventId: 6214007
+  marketId: 3022086
+  tag: 100% Cashback
+- eventId: 6214007
+  marketId: 3022102
+  tag: Best Odds
+- eventId: 6402469
+  marketId: 3274376
+  tag: 50% Freebet
+- eventId: 6402469
+  marketId: 4042394
+  tag: 100% Freebet
+- eventId: 6225005
+  marketId: 3023611
+  tag: 100% Freebet
+- eventId: 6225005
+  marketId: 4040902
+  tag: Best Odds
+- eventId: 6214088
+  marketId: 3022086
+  tag: 100% Cashback
+- eventId: 6214088
+  marketId: 3022088
+  tag: 50% Freebet
+- eventId: 6214247
+  marketId: 3022086
+  tag: 100% Freebet
+- eventId: 6214247
+  marketId: 3022087
+  tag: Best Odds
+- eventId: 6402476
+  marketId: 3788988
+  tag: 100% Freebet
+- eventId: 6402476
+  marketId: 4042394
+  tag: 50% Freebet
+- eventId: 6214027
+  marketId: 3022086
+  tag: Best Odds
+- eventId: 6214027
+  marketId: 3022087
+  tag: 100% Cashback
+- eventId: 6401640
+  marketId: 3029195
+  tag: 50% Freebet
+- eventId: 6401640
+  marketId: 4042394
+  tag: Best Odds
+- eventId: 6325980
+  marketId: 3021938
+  tag: 100% Freebet
+- eventId: 6325980
+  marketId: 3021949
+  tag: 50% Freebet
+- eventId: 6225390
+  marketId: 3179515
+  tag: 100% Freebet
+- eventId: 6225390
+  marketId: 3612624
+  tag: Best Odds
+- eventId: 6109859
+  marketId: 3179515
+  tag: 50% Freebet
+- eventId: 6109859
+  marketId: 3909684
+  tag: Best Odds
+- eventId: 6401091
+  marketId: 3023611
+  tag: 100% Cashback
+- eventId: 6401091
+  marketId: 4040902
+  tag: Best Odds
+- eventId: 6225702
+  marketId: 3656207
+  tag: 50% Freebet
+- eventId: 6225702
+  marketId: 3906534
+  tag: 100% Cashback
+- eventId: 6214022
+  marketId: 3022086
+  tag: Best Odds
+- eventId: 6214022
+  marketId: 3022212
+  tag: 100% Freebet
+- eventId: 6213999
+  marketId: 3022086
+  tag: 100% Cashback
+- eventId: 6213999
+  marketId: 3022092
+  tag: 100% Freebet
+- eventId: 6226214
+  marketId: 3468556
+  tag: 100% Cashback
+- eventId: 6226214
+  marketId: 3769336
+  tag: 50% Freebet
+- eventId: 6375202
+  marketId: 1
+  tag: 100% Cashback
+- eventId: 6375202
+  marketId: 2
+  tag: 100% Freebet
+- eventId: 6219453
+  marketId: 1
+  tag: Best Odds
+- eventId: 6219453
+  marketId: 2
+  tag: 100% Cashback
+- eventId: 6406487
+  marketId: 3022086
+  tag: 50% Freebet
+- eventId: 6406487
+  marketId: 3022100
+  tag: 100% Freebet
+- eventId: 6401632
+  marketId: 3145185
+  tag: 50% Freebet
+- eventId: 6401632
+  marketId: 3332894
+  tag: 100% Cashback
+- eventId: 6240646
+  marketId: 3022877
+  tag: 50% Freebet
+- eventId: 6240646
+  marketId: 3022879
+  tag: Best Odds
+- eventId: 6109860
+  marketId: 3865653
+  tag: Best Odds
+- eventId: 6109860
+  marketId: 3997187
+  tag: 100% Freebet
+- eventId: 6407694
+  marketId: 1
+  tag: 100% Cashback
+- eventId: 6407694
+  marketId: 2
+  tag: Best Odds
+- eventId: 6401644
+  marketId: 3526621
+  tag: 100% Freebet
+- eventId: 6401644
+  marketId: 4042394
+  tag: Best Odds
+- eventId: 6402472
+  marketId: 3158324
+  tag: 100% Freebet
+- eventId: 6402472
+  marketId: 4042394
+  tag: Best Odds
+- eventId: 6402509
+  marketId: 3956305
+  tag: 100% Cashback
+- eventId: 6402509
+  marketId: 4042394
+  tag: 50% Freebet
+- eventId: 6225642
+  marketId: 3526621
+  tag: 100% Freebet
+- eventId: 6225642
+  marketId: 4000974
+  tag: Best Odds
+- eventId: 6402504
+  marketId: 3909684
+  tag: Best Odds
+- eventId: 6402504
+  marketId: 4042394
+  tag: 50% Freebet
+- eventId: 6406001
+  marketId: 3022086
+  tag: Best Odds
+- eventId: 6406001
+  marketId: 3022101
+  tag: 100% Cashback
+- eventId: 6225461
+  marketId: 3660568
+  tag: 100% Freebet
+- eventId: 6225461
+  marketId: 4000851
+  tag: 50% Freebet
+- eventId: 6213905
+  marketId: 3022212
+  tag: 100% Freebet
+- eventId: 6213905
+  marketId: 3023262
+  tag: 50% Freebet
+- eventId: 6226179
+  marketId: 3281680
+  tag: 50% Freebet
+- eventId: 6226179
+  marketId: 3315878
+  tag: 100% Cashback
+- eventId: 6225667
+  marketId: 3057855
+  tag: 50% Freebet
+- eventId: 6225667
+  marketId: 3134044
+  tag: 100% Freebet
+- eventId: 6225267
+  marketId: 3023612
+  tag: 100% Freebet
+- eventId: 6225267
+  marketId: 4000974
+  tag: 100% Cashback
+- eventId: 6225720
+  marketId: 3029194
+  tag: 100% Cashback
+- eventId: 6225720
+  marketId: 3037525
+  tag: 50% Freebet
+- eventId: 6225674
+  marketId: 3057855
+  tag: Best Odds
+- eventId: 6225674
+  marketId: 3134044
+  tag: 50% Freebet
+- eventId: 6409099
+  marketId: 13625914
+  tag: 100% Cashback
+- eventId: 6409099
+  marketId: 21769490
+  tag: 50% Freebet
+- eventId: 6214098
+  marketId: 3022086
+  tag: 100% Freebet
+- eventId: 6214098
+  marketId: 3022140
+  tag: 50% Freebet
+- eventId: 6407633
+  marketId: 1
+  tag: 100% Freebet
+- eventId: 6407633
+  marketId: 25
+  tag: 100% Cashback
+- eventId: 6214182
+  marketId: 3022086
+  tag: 100% Cashback
+- eventId: 6214182
+  marketId: 3022172
+  tag: 50% Freebet
+- eventId: 6214119
+  marketId: 3022086
+  tag: 100% Cashback
+- eventId: 6214119
+  marketId: 3022169
+  tag: Best Odds
+- eventId: 6407160
+  marketId: 3022086
+  tag: 50% Freebet
+- eventId: 6407160
+  marketId: 3022092
+  tag: 100% Cashback
+- eventId: 6213948
+  marketId: 3022086
+  tag: Best Odds
+- eventId: 6213948
+  marketId: 3022099
+  tag: 100% Cashback
+- eventId: 6214067
+  marketId: 3022212
+  tag: 50% Freebet
+- eventId: 6214067
+  marketId: 3026073
+  tag: Best Odds
+- eventId: 6214273
+  marketId: 3022086
+  tag: 50% Freebet
+- eventId: 6214273
+  marketId: 3022092
+  tag: Best Odds
+- eventId: 6398203
+  marketId: 3022086
+  tag: 100% Freebet
+- eventId: 6398203
+  marketId: 3022098
+  tag: 50% Freebet
+- eventId: 6214087
+  marketId: 3022086
+  tag: 50% Freebet
+- eventId: 6214087
+  marketId: 3022102
+  tag: 100% Cashback
+- eventId: 6214112
+  marketId: 3022086
+  tag: 50% Freebet
+- eventId: 6214112
+  marketId: 3022101
+  tag: Best Odds
+- eventId: 6225200
+  marketId: 3281680
+  tag: 50% Freebet
+- eventId: 6225200
+  marketId: 3662206
+  tag: Best Odds
+- eventId: 6213925
+  marketId: 3022086
+  tag: 50% Freebet
+- eventId: 6213925
+  marketId: 3022092
+  tag: Best Odds
+- eventId: 6409861
+  marketId: 77
+  tag: 100% Freebet
+- eventId: 6409861
+  marketId: 179
+  tag: 100% Cashback
+- eventId: 6214189
+  marketId: 3022086
+  tag: 100% Freebet
+- eventId: 6214189
+  marketId: 3022092
+  tag: 100% Cashback
+- eventId: 6396700
+  marketId: 3022086
+  tag: 100% Cashback
+- eventId: 6396700
+  marketId: 3022102
+  tag: Best Odds
+- eventId: 6396704
+  marketId: 3022086
+  tag: Best Odds
+- eventId: 6396704
+  marketId: 3022211
+  tag: 50% Freebet
+- eventId: 6406481
+  marketId: 3022086
+  tag: Best Odds
+- eventId: 6406481
+  marketId: 3022089
+  tag: 100% Cashback
+- eventId: 6398204
+  marketId: 3022086
+  tag: 100% Cashback
+- eventId: 6398204
+  marketId: 3022099
+  tag: 50% Freebet
+- eventId: 6213991
+  marketId: 3022086
+  tag: 100% Freebet
+- eventId: 6213991
+  marketId: 3022096
+  tag: 100% Cashback
+- eventId: 6219486
+  marketId: 1
+  tag: 50% Freebet
+- eventId: 6219486
+  marketId: 2
+  tag: 100% Freebet
+- eventId: 6219534
+  marketId: 1
+  tag: 50% Freebet
+- eventId: 6219534
+  marketId: 2
+  tag: 100% Cashback
+- eventId: 6215123
+  marketId: 3022086
+  tag: 50% Freebet
+- eventId: 6215123
+  marketId: 3022175
+  tag: 100% Freebet
+- eventId: 6223694
+  marketId: 1
+  tag: 100% Freebet
+- eventId: 6223694
+  marketId: 2
+  tag: 100% Cashback
+- eventId: 6214804
+  marketId: 3022086
+  tag: 100% Cashback
+- eventId: 6214804
+  marketId: 3022087
+  tag: Best Odds
+- eventId: 6219507
+  marketId: 1
+  tag: 100% Freebet
+- eventId: 6219507
+  marketId: 2
+  tag: 50% Freebet
+- eventId: 6221611
+  marketId: 1
+  tag: Best Odds
+- eventId: 6221611
+  marketId: 2
+  tag: 100% Cashback
+- eventId: 6407773
+  marketId: 1
+  tag: Best Odds
+- eventId: 6407773
+  marketId: 72
+  tag: 100% Freebet
+- eventId: 6218363
+  marketId: 1
+  tag: Best Odds
+- eventId: 6218363
+  marketId: 2
+  tag: 100% Cashback
+- eventId: 6221405
+  marketId: 1
+  tag: 50% Freebet
+- eventId: 6221405
+  marketId: 2
+  tag: 100% Freebet
+- eventId: 6219401
+  marketId: 1
+  tag: 100% Freebet
+- eventId: 6219401
+  marketId: 2
+  tag: Best Odds
+- eventId: 6219462
+  marketId: 1
+  tag: Best Odds
+- eventId: 6219462
+  marketId: 2
+  tag: 50% Freebet
+- eventId: 6221597
+  marketId: 1
+  tag: 100% Cashback
+- eventId: 6221597
+  marketId: 2
+  tag: 50% Freebet
+- eventId: 6219290
+  marketId: 1
+  tag: 100% Freebet
+- eventId: 6219290
+  marketId: 2
+  tag: Best Odds
+- eventId: 6407774
+  marketId: 1
+  tag: 50% Freebet
+- eventId: 6407774
+  marketId: 2
+  tag: 100% Cashback
+- eventId: 6219467
+  marketId: 1
+  tag: 100% Cashback
+- eventId: 6219467
+  marketId: 2
+  tag: 50% Freebet
+- eventId: 6409351
+  marketId: 3022086
+  tag: Best Odds
+- eventId: 6409351
+  marketId: 3022172
+  tag: 100% Cashback
+- eventId: 6407772
+  marketId: 1
+  tag: Best Odds
+- eventId: 6407772
+  marketId: 2
+  tag: 100% Freebet
+- eventId: 6221481
+  marketId: 1
+  tag: Best Odds
+- eventId: 6221481
+  marketId: 2
+  tag: 100% Cashback
+- eventId: 6221572
+  marketId: 1
+  tag: 100% Cashback
+- eventId: 6221572
+  marketId: 2
+  tag: Best Odds
+- eventId: 6221860
+  marketId: 1
+  tag: 100% Cashback
+- eventId: 6221860
+  marketId: 2
+  tag: 50% Freebet
+- eventId: 6222152
+  marketId: 1
+  tag: Best Odds
+- eventId: 6222152
+  marketId: 2
+  tag: 50% Freebet
+- eventId: 6347384
+  marketId: 1
+  tag: 50% Freebet
+- eventId: 6347384
+  marketId: 25
+  tag: 100% Freebet
+- eventId: 6347386
+  marketId: 1
+  tag: Best Odds
+- eventId: 6347386
+  marketId: 2
+  tag: 100% Freebet
+- eventId: 6221371
+  marketId: 1
+  tag: Best Odds
+- eventId: 6221371
+  marketId: 2
+  tag: 50% Freebet
+- eventId: 6410609
+  marketId: 1
+  tag: Best Odds
+- eventId: 6410609
+  marketId: 2
+  tag: 100% Cashback
+- eventId: 6222290
+  marketId: 1
+  tag: 50% Freebet
+- eventId: 6222290
+  marketId: 2
+  tag: 100% Cashback
+- eventId: 6408890
+  marketId: 1
+  tag: 50% Freebet
+- eventId: 6408890
+  marketId: 2
+  tag: Best Odds
+- eventId: 6214935
+  marketId: 3022086
+  tag: 100% Cashback
+- eventId: 6214935
+  marketId: 3022099
+  tag: 50% Freebet
+- eventId: 6220644
+  marketId: 1
+  tag: 100% Freebet
+- eventId: 6220644
+  marketId: 2
+  tag: Best Odds
+- eventId: 6221588
+  marketId: 1
+  tag: 100% Cashback
+- eventId: 6221588
+  marketId: 2
+  tag: 100% Freebet
+- eventId: 6371902
+  marketId: 1
+  tag: Best Odds
+- eventId: 6371902
+  marketId: 2
+  tag: 50% Freebet
+- eventId: 6214779
+  marketId: 3022086
+  tag: 100% Freebet
+- eventId: 6214779
+  marketId: 3022171
+  tag: 50% Freebet
+- eventId: 6219717
+  marketId: 1
+  tag: Best Odds
+- eventId: 6219717
+  marketId: 2
+  tag: 100% Freebet
+- eventId: 6223013
+  marketId: 1
+  tag: 50% Freebet
+- eventId: 6223013
+  marketId: 2
+  tag: 100% Cashback
+- eventId: 6220617
+  marketId: 1
+  tag: 100% Freebet
+- eventId: 6220617
+  marketId: 2
+  tag: 100% Cashback
+- eventId: 6407787
+  marketId: 1
+  tag: 50% Freebet
+- eventId: 6407787
+  marketId: 2
+  tag: 100% Cashback
+- eventId: 6407775
+  marketId: 1
+  tag: 50% Freebet
+- eventId: 6407775
+  marketId: 2
+  tag: 100% Freebet
+- eventId: 6409197
+  marketId: 77
+  tag: 100% Cashback
+- eventId: 6409197
+  marketId: 105
+  tag: 50% Freebet
+- eventId: 6409201
+  marketId: 77
+  tag: Best Odds
+- eventId: 6409201
+  marketId: 105
+  tag: 100% Freebet
+- eventId: 6223345
+  marketId: 1
+  tag: 50% Freebet
+- eventId: 6223345
+  marketId: 2
+  tag: Best Odds
+- eventId: 6411113
+  marketId: 1
+  tag: 50% Freebet
+- eventId: 6411113
+  marketId: 2
+  tag: Best Odds
+- eventId: 6221197
+  marketId: 1
+  tag: Best Odds
+- eventId: 6221197
+  marketId: 2
+  tag: 50% Freebet
+- eventId: 6217755
+  marketId: 1
+  tag: 50% Freebet
+- eventId: 6217755
+  marketId: 2
+  tag: Best Odds
+- eventId: 6217294
+  marketId: 1
+  tag: 100% Cashback
+- eventId: 6217294
+  marketId: 2
+  tag: 50% Freebet
+- eventId: 6218127
+  marketId: 1
+  tag: 50% Freebet
+- eventId: 6218127
+  marketId: 2
+  tag: 100% Freebet
+- eventId: 6223417
+  marketId: 1
+  tag: Best Odds
+- eventId: 6223417
+  marketId: 2
+  tag: 100% Cashback
+- eventId: 6360213
+  marketId: 1
+  tag: 100% Cashback
+- eventId: 6360213
+  marketId: 2
+  tag: Best Odds
+- eventId: 6360201
+  marketId: 1
+  tag: 100% Cashback
+- eventId: 6360201
+  marketId: 2
+  tag: 50% Freebet
+- eventId: 6360210
+  marketId: 1
+  tag: 100% Cashback
+- eventId: 6360210
+  marketId: 2
+  tag: 100% Freebet
+- eventId: 6360203
+  marketId: 1
+  tag: 100% Cashback
+- eventId: 6360203
+  marketId: 2
+  tag: 100% Freebet
+- eventId: 6223218
+  marketId: 1
+  tag: 50% Freebet
+- eventId: 6223218
+  marketId: 2
+  tag: 100% Cashback
+- eventId: 6214535
+  marketId: 3022086
+  tag: 100% Cashback
+- eventId: 6214535
+  marketId: 3022174
+  tag: Best Odds
+- eventId: 6219600
+  marketId: 1
+  tag: 100% Cashback
+- eventId: 6219600
+  marketId: 2
+  tag: Best Odds
+- eventId: 6217401
+  marketId: 1
+  tag: 50% Freebet
+- eventId: 6217401
+  marketId: 2
+  tag: 100% Freebet
+- eventId: 6217765
+  marketId: 1
+  tag: 100% Cashback
+- eventId: 6217765
+  marketId: 2
+  tag: 100% Freebet
+- eventId: 6217734
+  marketId: 1
+  tag: Best Odds
+- eventId: 6217734
+  marketId: 2
+  tag: 50% Freebet
+- eventId: 6217804
+  marketId: 1
+  tag: 100% Freebet
+- eventId: 6217804
+  marketId: 2
+  tag: Best Odds
+- eventId: 6412754
+  marketId: 1
+  tag: Best Odds
+- eventId: 6412754
+  marketId: 2
+  tag: 100% Cashback
+- eventId: 6219494
+  marketId: 1
+  tag: 100% Freebet
+- eventId: 6219494
+  marketId: 2
+  tag: 50% Freebet
+- eventId: 6219972
+  marketId: 1
+  tag: 50% Freebet
+- eventId: 6219972
+  marketId: 2
+  tag: Best Odds
+- eventId: 6219262
+  marketId: 1
+  tag: 50% Freebet
+- eventId: 6219262
+  marketId: 2
+  tag: 100% Cashback
+- eventId: 6218212
+  marketId: 1
+  tag: 100% Cashback
+- eventId: 6218212
+  marketId: 2
+  tag: Best Odds
+- eventId: 6219011
+  marketId: 1
+  tag: 100% Cashback
+- eventId: 6219011
+  marketId: 2
+  tag: 100% Freebet
+- eventId: 6217230
+  marketId: 1
+  tag: Best Odds
+- eventId: 6217230
+  marketId: 2
+  tag: 100% Freebet
+- eventId: 6217409
+  marketId: 1
+  tag: 100% Cashback
+- eventId: 6217409
+  marketId: 2
+  tag: Best Odds
+- eventId: 6218112
+  marketId: 1
+  tag: 100% Freebet
+- eventId: 6218112
+  marketId: 2
+  tag: 100% Cashback
+- eventId: 6218434
+  marketId: 1
+  tag: 100% Cashback
+- eventId: 6218434
+  marketId: 2
+  tag: 100% Freebet
+- eventId: 6221167
+  marketId: 1
+  tag: Best Odds
+- eventId: 6221167
+  marketId: 2
+  tag: 100% Cashback
+- eventId: 6181792
+  marketId: 3183822
+  tag: 100% Cashback
+- eventId: 6181792
+  marketId: 3972246
+  tag: 50% Freebet
+- eventId: 6413041
+  marketId: 77
+  tag: Best Odds
+- eventId: 6413041
+  marketId: 78
+  tag: 50% Freebet
+- eventId: 6218227
+  marketId: 1
+  tag: 100% Cashback
+- eventId: 6218227
+  marketId: 2
+  tag: Best Odds
+- eventId: 6219925
+  marketId: 1
+  tag: 100% Freebet
+- eventId: 6219925
+  marketId: 2
+  tag: 100% Cashback
+- eventId: 6217419
+  marketId: 1
+  tag: 50% Freebet
+- eventId: 6217419
+  marketId: 2
+  tag: 100% Freebet
+- eventId: 6217683
+  marketId: 1
+  tag: 50% Freebet
+- eventId: 6217683
+  marketId: 2
+  tag: 100% Freebet
+- eventId: 6408424
+  marketId: 77
+  tag: 50% Freebet
+- eventId: 6408424
+  marketId: 107
+  tag: Best Odds
+- eventId: 6219659
+  marketId: 1
+  tag: 50% Freebet
+- eventId: 6219659
+  marketId: 2
+  tag: Best Odds
+- eventId: 6219555
+  marketId: 1
+  tag: 100% Freebet
+- eventId: 6219555
+  marketId: 2
+  tag: 100% Cashback
+- eventId: 6219535
+  marketId: 1
+  tag: 100% Freebet
+- eventId: 6219535
+  marketId: 2
+  tag: 100% Cashback
+- eventId: 6219322
+  marketId: 1
+  tag: 100% Freebet
+- eventId: 6219322
+  marketId: 2
+  tag: 50% Freebet
+- eventId: 6219456
+  marketId: 1
+  tag: 50% Freebet
+- eventId: 6219456
+  marketId: 2
+  tag: 100% Freebet
+- eventId: 6219558
+  marketId: 1
+  tag: Best Odds
+- eventId: 6219558
+  marketId: 2
+  tag: 100% Cashback
+- eventId: 6219197
+  marketId: 1
+  tag: 100% Cashback
+- eventId: 6219197
+  marketId: 2
+  tag: 100% Freebet
+- eventId: 6219608
+  marketId: 1
+  tag: Best Odds
+- eventId: 6219608
+  marketId: 67
+  tag: 50% Freebet
+- eventId: 6219128
+  marketId: 1
+  tag: 100% Freebet
+- eventId: 6219128
+  marketId: 2
+  tag: 100% Cashback
+- eventId: 6219563
+  marketId: 1
+  tag: Best Odds
+- eventId: 6219563
+  marketId: 2
+  tag: 100% Freebet
+- eventId: 6219269
+  marketId: 1
+  tag: Best Odds
+- eventId: 6219269
+  marketId: 2
+  tag: 100% Freebet
+- eventId: 6219758
+  marketId: 1
+  tag: Best Odds
+- eventId: 6219758
+  marketId: 2
+  tag: 100% Cashback
+- eventId: 6219423
+  marketId: 1
+  tag: 50% Freebet
+- eventId: 6219423
+  marketId: 2
+  tag: Best Odds
+- eventId: 6219620
+  marketId: 1
+  tag: 50% Freebet
+- eventId: 6219620
+  marketId: 66
+  tag: 100% Cashback
+- eventId: 6222123
+  marketId: 1
+  tag: 50% Freebet
+- eventId: 6222123
+  marketId: 2
+  tag: 100% Freebet
+- eventId: 6219661
+  marketId: 1
+  tag: Best Odds
+- eventId: 6219661
+  marketId: 2
+  tag: 100% Freebet
+- eventId: 5951570
+  marketId: 3183822
+  tag: 100% Cashback
+- eventId: 5951570
+  marketId: 3972246
+  tag: 100% Freebet
+- eventId: 6219481
+  marketId: 1
+  tag: Best Odds
+- eventId: 6219481
+  marketId: 2
+  tag: 100% Cashback
+- eventId: 6295129
+  marketId: 3183822
+  tag: Best Odds
+- eventId: 6295129
+  marketId: 3972247
+  tag: 100% Freebet
+- eventId: 6219399
+  marketId: 1
+  tag: 100% Cashback
+- eventId: 6219399
+  marketId: 2
+  tag: Best Odds
+- eventId: 6219622
+  marketId: 1
+  tag: 50% Freebet
+- eventId: 6219622
+  marketId: 2
+  tag: 100% Cashback
+- eventId: 6219612
+  marketId: 1
+  tag: Best Odds
+- eventId: 6219612
+  marketId: 2
+  tag: 100% Freebet
+- eventId: 6219611
+  marketId: 1
+  tag: 100% Freebet
+- eventId: 6219611
+  marketId: 2
+  tag: 100% Cashback
+- eventId: 6219465
+  marketId: 1
+  tag: Best Odds
+- eventId: 6219465
+  marketId: 2
+  tag: 100% Cashback
+- eventId: 6219648
+  marketId: 1
+  tag: 100% Cashback
+- eventId: 6219648
+  marketId: 25
+  tag: Best Odds
+- eventId: 6219512
+  marketId: 1
+  tag: 50% Freebet
+- eventId: 6219512
+  marketId: 2
+  tag: 100% Freebet
+- eventId: 6219616
+  marketId: 1
+  tag: 50% Freebet
+- eventId: 6219616
+  marketId: 2
+  tag: 100% Cashback
+- eventId: 6219546
+  marketId: 1
+  tag: Best Odds
+- eventId: 6219546
+  marketId: 2
+  tag: 50% Freebet
+- eventId: 6219158
+  marketId: 1
+  tag: Best Odds
+- eventId: 6219158
+  marketId: 2
+  tag: 100% Freebet
+- eventId: 6219038
+  marketId: 1
+  tag: 50% Freebet
+- eventId: 6219038
+  marketId: 2
+  tag: 100% Cashback
+- eventId: 6219596
+  marketId: 1
+  tag: Best Odds
+- eventId: 6219596
+  marketId: 2
+  tag: 50% Freebet
+- eventId: 6219657
+  marketId: 1
+  tag: 100% Cashback
+- eventId: 6219657
+  marketId: 2
+  tag: 100% Freebet
+- eventId: 6219626
+  marketId: 1
+  tag: 100% Freebet
+- eventId: 6219626
+  marketId: 2
+  tag: 50% Freebet
+- eventId: 5951575
+  marketId: 3183822
+  tag: Best Odds
+- eventId: 5951575
+  marketId: 3972246
+  tag: 50% Freebet
+- eventId: 6219568
+  marketId: 1
+  tag: 50% Freebet
+- eventId: 6219568
+  marketId: 2
+  tag: Best Odds
+- eventId: 6219630
+  marketId: 1
+  tag: Best Odds
+- eventId: 6219630
+  marketId: 2
+  tag: 100% Freebet
+- eventId: 6219584
+  marketId: 1
+  tag: 100% Cashback
+- eventId: 6219584
+  marketId: 2
+  tag: 100% Freebet
+- eventId: 6219082
+  marketId: 1
+  tag: 100% Cashback
+- eventId: 6219082
+  marketId: 2
+  tag: Best Odds
+- eventId: 6219640
+  marketId: 1
+  tag: 50% Freebet
+- eventId: 6219640
+  marketId: 47
+  tag: 100% Freebet
+- eventId: 6360233
+  marketId: 1
+  tag: 100% Freebet
+- eventId: 6360233
+  marketId: 2
+  tag: Best Odds
+- eventId: 6360234
+  marketId: 1
+  tag: 100% Cashback
+- eventId: 6360234
+  marketId: 2
+  tag: Best Odds
+- eventId: 6221705
+  marketId: 1
+  tag: 50% Freebet
+- eventId: 6221705
+  marketId: 2
+  tag: 100% Cashback
+- eventId: 5951565
+  marketId: 3972246
+  tag: Best Odds
+- eventId: 5951565
+  marketId: 3972247
+  tag: 100% Freebet
+- eventId: 6375240
+  marketId: 3183822
+  tag: 100% Freebet
+- eventId: 6375240
+  marketId: 3972247
+  tag: 50% Freebet
+- eventId: 6219113
+  marketId: 1
+  tag: 100% Cashback
+- eventId: 6219113
+  marketId: 2
+  tag: 50% Freebet
+- eventId: 6219615
+  marketId: 1
+  tag: Best Odds
+- eventId: 6219615
+  marketId: 2
+  tag: 50% Freebet
+- eventId: 6219214
+  marketId: 1
+  tag: 100% Cashback
+- eventId: 6219214
+  marketId: 2
+  tag: 50% Freebet
+- eventId: 6219591
+  marketId: 1
+  tag: 100% Freebet
+- eventId: 6219591
+  marketId: 2
+  tag: 50% Freebet
+- eventId: 6219451
+  marketId: 1
+  tag: 100% Cashback
+- eventId: 6219451
+  marketId: 2
+  tag: Best Odds
+- eventId: 6219635
+  marketId: 1
+  tag: Best Odds
+- eventId: 6219635
+  marketId: 2
+  tag: 100% Cashback
+- eventId: 6219623
+  marketId: 1
+  tag: 100% Cashback
+- eventId: 6219623
+  marketId: 2
+  tag: Best Odds
+- eventId: 6219314
+  marketId: 1
+  tag: 50% Freebet
+- eventId: 6219314
+  marketId: 68
+  tag: 100% Cashback
+- eventId: 6219475
+  marketId: 1
+  tag: 100% Freebet
+- eventId: 6219475
+  marketId: 47
+  tag: Best Odds
+- eventId: 6219578
+  marketId: 1
+  tag: Best Odds
+- eventId: 6219578
+  marketId: 2
+  tag: 100% Cashback
+- eventId: 6219485
+  marketId: 1
+  tag: 100% Freebet
+- eventId: 6219485
+  marketId: 2
+  tag: 50% Freebet
+- eventId: 6219582
+  marketId: 1
+  tag: 100% Cashback
+- eventId: 6219582
+  marketId: 2
+  tag: 100% Freebet
+- eventId: 6140528
+  marketId: 3183822
+  tag: 100% Cashback
+- eventId: 6140528
+  marketId: 3972246
+  tag: 100% Freebet
+- eventId: 6219543
+  marketId: 1
+  tag: 100% Freebet
+- eventId: 6219543
+  marketId: 2
+  tag: 50% Freebet
+- eventId: 5229632
+  marketId: 3183822
+  tag: 100% Cashback
+- eventId: 5229632
+  marketId: 3972247
+  tag: 50% Freebet
+- eventId: 6375241
+  marketId: 3972246
+  tag: 100% Freebet
+- eventId: 6375241
+  marketId: 3972247
+  tag: 50% Freebet
+- eventId: 6219259
+  marketId: 1
+  tag: Best Odds
+- eventId: 6219259
+  marketId: 2
+  tag: 100% Freebet
+- eventId: 6219530
+  marketId: 1
+  tag: 50% Freebet
+- eventId: 6219530
+  marketId: 66
+  tag: Best Odds
+- eventId: 6219587
+  marketId: 1
+  tag: 50% Freebet
+- eventId: 6219587
+  marketId: 2
+  tag: Best Odds
+- eventId: 6219176
+  marketId: 1
+  tag: 50% Freebet
+- eventId: 6219176
+  marketId: 2
+  tag: 100% Cashback
+- eventId: 6219554
+  marketId: 1
+  tag: 100% Freebet
+- eventId: 6219554
+  marketId: 2
+  tag: Best Odds
+- eventId: 6219645
+  marketId: 1
+  tag: 50% Freebet
+- eventId: 6219645
+  marketId: 2
+  tag: 100% Cashback
+- eventId: 6219607
+  marketId: 1
+  tag: 100% Cashback
+- eventId: 6219607
+  marketId: 2
+  tag: Best Odds
+- eventId: 6397010
+  marketId: 1
+  tag: 50% Freebet
+- eventId: 6397010
+  marketId: 68
+  tag: Best Odds
+- eventId: 6407657
+  marketId: 18243059
+  tag: 100% Cashback
+- eventId: 6396003
+  marketId: 1
+  tag: 100% Freebet
+- eventId: 6396003
+  marketId: 68
+  tag: 100% Cashback
+- eventId: 6407770
+  marketId: 18243059
+  tag: 100% Freebet
+- eventId: 6407022
+  marketId: 18243059
+  tag: Best Odds
+- eventId: 6407769
+  marketId: 18243059
+  tag: 50% Freebet
+- eventId: 6407780
+  marketId: 18243059
+  tag: 50% Freebet
+- eventId: 6407777
+  marketId: 18243059
+  tag: 100% Freebet
+- eventId: 6407771
+  marketId: 18243059
+  tag: Best Odds
+- eventId: 6393860
+  marketId: 1
+  tag: 100% Cashback
+- eventId: 6393860
+  marketId: 2
+  tag: 50% Freebet
+- eventId: 6407024
+  marketId: 18243059
+  tag: 100% Freebet
+- eventId: 6407658
+  marketId: 18243059
+  tag: Best Odds
+- eventId: 6407695
+  marketId: 18243059
+  tag: 100% Cashback
+- eventId: 6407701
+  marketId: 18243059
+  tag: 100% Cashback
+- eventId: 6396306
+  marketId: 1
+  tag: 100% Cashback
+- eventId: 6396306
+  marketId: 67
+  tag: 100% Freebet
+- eventId: 6407023
+  marketId: 18243059
+  tag: 100% Cashback
+- eventId: 6402564
+  marketId: 1
+  tag: 100% Freebet
+- eventId: 6402564
+  marketId: 47
+  tag: 100% Cashback
+- eventId: 6396304
+  marketId: 1
+  tag: Best Odds
+- eventId: 6396304
+  marketId: 47
+  tag: 50% Freebet
+- eventId: 6407704
+  marketId: 18243059
+  tag: 50% Freebet
+- eventId: 6389593
+  marketId: 18243059
+  tag: Best Odds
+- eventId: 6347131
+  marketId: 1
+  tag: Best Odds
+- eventId: 6347131
+  marketId: 66
+  tag: 100% Cashback
+- eventId: 6347123
+  marketId: 1
+  tag: 100% Cashback
+- eventId: 6347123
+  marketId: 66
+  tag: 50% Freebet
+- eventId: 6385267
+  marketId: 1
+  tag: 50% Freebet
+- eventId: 6385267
+  marketId: 83
+  tag: 100% Freebet
