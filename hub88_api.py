@@ -54,7 +54,7 @@ def get_market_type(token,params,includeFreeText):
   url = f'https://wintokens-dev-tradeart-api.trading.io/api/schema/market-types?sportId={params}&includeFreeText={includeFreeText}'
   headers = {'Authorization': f'Bearer {token}'}
   # payload = {'includeFreeText': includeFreeText}
-# https://wintokens-tradeart-api.tradingstage.io/api/schema/market-types?sportId=1&includeFreeText=false
+# https://wintokens-dev-tradeart-api.trading.io/api/schema/market-types?sportId=1&includeFreeText=false
   response = requests.get(url, headers=headers)
   if response.status_code == 200:
     data = response.json()

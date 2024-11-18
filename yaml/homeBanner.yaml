@@ -1,0 +1,396 @@
+- eventId: 6435019
+  marketId: 1
+  leagueId: 8655
+  image: https://assets.wintokens.io/webpage/sports/banners/8655.png
+  away: Australia
+  home: Bahrain
+- eventId: 6347123
+  marketId: 1
+  leagueId: 8655
+  image: https://assets.wintokens.io/webpage/sports/banners/8655.png
+  away: Paraguay
+  home: Bolivia
+- eventId: 6347131
+  marketId: 1
+  leagueId: 8655
+  image: https://assets.wintokens.io/webpage/sports/banners/8655.png
+  away: Ecuador
+  home: Colombia
+- eventId: 6347171
+  marketId: 1
+  leagueId: 8655
+  image: https://assets.wintokens.io/webpage/sports/banners/8655.png
+  away: Venezuela
+  home: Chile
+- eventId: 6347170
+  marketId: 1
+  leagueId: 8655
+  image: https://assets.wintokens.io/webpage/sports/banners/8655.png
+  away: Peru
+  home: Argentina
+- eventId: 6347173
+  marketId: 1
+  leagueId: 8655
+  image: https://assets.wintokens.io/webpage/sports/banners/8655.png
+  away: Uruguay
+  home: Brazil
+- eventId: 6345963
+  marketId: 1
+  leagueId: 29
+  image: https://assets.wintokens.io/webpage/sports/banners/29.png
+  away: Real Valladolid
+  home: CF Getafe
+- eventId: 6344015
+  marketId: 1
+  leagueId: 1
+  image: https://assets.wintokens.io/webpage/sports/banners/1.png
+  away: FC Augsburg
+  home: FC Bayern Munich
+- eventId: 6345995
+  marketId: 1
+  leagueId: 28
+  image: https://assets.wintokens.io/webpage/sports/banners/28.png
+  away: Juventus Turin
+  home: AC Milan
+- eventId: 6345996
+  marketId: 1
+  leagueId: 28
+  image: https://assets.wintokens.io/webpage/sports/banners/28.png
+  away: Inter Milano
+  home: Hellas Verona
+- eventId: 6345994
+  marketId: 1
+  leagueId: 28
+  image: https://assets.wintokens.io/webpage/sports/banners/28.png
+  away: Atalanta Bergamasca Calcio
+  home: Parma Calcio 1913
+- eventId: 6333748
+  marketId: 1
+  leagueId: 33
+  image: https://assets.wintokens.io/webpage/sports/banners/33.png
+  away: Chelsea FC
+  home: Leicester City
+- eventId: 6333744
+  marketId: 1
+  leagueId: 33
+  image: https://assets.wintokens.io/webpage/sports/banners/33.png
+  away: Nottingham Forest
+  home: Arsenal FC
+- eventId: 6333749
+  marketId: 1
+  leagueId: 33
+  image: https://assets.wintokens.io/webpage/sports/banners/33.png
+  away: Brighton & Hove Albion
+  home: AFC Bournemouth
+- eventId: 6333741
+  marketId: 1
+  leagueId: 33
+  image: https://assets.wintokens.io/webpage/sports/banners/33.png
+  away: Wolverhampton Wanderers
+  home: Fulham FC
+- eventId: 6333746
+  marketId: 1
+  leagueId: 33
+  image: https://assets.wintokens.io/webpage/sports/banners/33.png
+  away: Tottenham Hotspur
+  home: Manchester City
+- eventId: 6333750
+  marketId: 1
+  leagueId: 33
+  image: https://assets.wintokens.io/webpage/sports/banners/33.png
+  away: Crystal Palace
+  home: Aston Villa
+- eventId: 6333754
+  marketId: 1
+  leagueId: 33
+  image: https://assets.wintokens.io/webpage/sports/banners/33.png
+  away: Brentford FC
+  home: Everton FC
+- eventId: 6345965
+  marketId: 1
+  leagueId: 29
+  image: https://assets.wintokens.io/webpage/sports/banners/29.png
+  away: Deportivo Alaves Sad
+  home: Atletico Madrid
+- eventId: 6344012
+  marketId: 1
+  leagueId: 1
+  image: https://assets.wintokens.io/webpage/sports/banners/1.png
+  away: 1. FC Heidenheim 1846
+  home: Bayer 04 Leverkusen
+- eventId: 6345964
+  marketId: 1
+  leagueId: 29
+  image: https://assets.wintokens.io/webpage/sports/banners/29.png
+  away: Real Betis Balompie
+  home: CF Valencia
+- eventId: 6345970
+  marketId: 1
+  leagueId: 29
+  image: https://assets.wintokens.io/webpage/sports/banners/29.png
+  away: RCD Espanyol Barcelona
+  home: Girona FC
+- eventId: 6344007
+  marketId: 1
+  leagueId: 1
+  image: https://assets.wintokens.io/webpage/sports/banners/1.png
+  away: Werder Bremen
+  home: Eintracht Frankfurt
+- eventId: 6345976
+  marketId: 1
+  leagueId: 29
+  image: https://assets.wintokens.io/webpage/sports/banners/29.png
+  away: FC Barcelona
+  home: RC Celta de Vigo
+- eventId: 6345966
+  marketId: 1
+  leagueId: 29
+  image: https://assets.wintokens.io/webpage/sports/banners/29.png
+  away: RCD Mallorca
+  home: UD Las Palmas
+- eventId: 6344011
+  marketId: 1
+  leagueId: 1
+  image: https://assets.wintokens.io/webpage/sports/banners/1.png
+  away: SC Freiburg
+  home: Borussia Dortmund
+- eventId: 6344009
+  marketId: 1
+  leagueId: 1
+  image: https://assets.wintokens.io/webpage/sports/banners/1.png
+  away: RB Leipzig
+  home: TSG 1899 Hoffenheim
+- eventId: 6344010
+  marketId: 1
+  leagueId: 1
+  image: https://assets.wintokens.io/webpage/sports/banners/1.png
+  away: VfL Bochum
+  home: VfB Stuttgart
+- eventId: 6344008
+  marketId: 1
+  leagueId: 1
+  image: https://assets.wintokens.io/webpage/sports/banners/1.png
+  away: 1. FC Union Berlin
+  home: VfL Wolfsburg
+- eventId: 6346002
+  marketId: 1
+  leagueId: 28
+  image: https://assets.wintokens.io/webpage/sports/banners/28.png
+  away: ACF Fiorentina
+  home: Como 1907
+- eventId: 6345981
+  marketId: 1
+  leagueId: 29
+  image: https://assets.wintokens.io/webpage/sports/banners/29.png
+  away: Real Sociedad
+  home: Athletic Bilbao
+- eventId: 6345980
+  marketId: 1
+  leagueId: 29
+  image: https://assets.wintokens.io/webpage/sports/banners/29.png
+  away: Real Madrid
+  home: CD Leganes
+- eventId: 6345999
+  marketId: 1
+  leagueId: 28
+  image: https://assets.wintokens.io/webpage/sports/banners/28.png
+  away: AS Roma
+  home: SSC Napoli
+- eventId: 6345998
+  marketId: 1
+  leagueId: 28
+  image: https://assets.wintokens.io/webpage/sports/banners/28.png
+  away: AC Monza
+  home: FC Torino
+- eventId: 6333726
+  marketId: 1
+  leagueId: 33
+  image: https://assets.wintokens.io/webpage/sports/banners/33.png
+  away: Liverpool FC
+  home: Southampton FC
+- eventId: 6345997
+  marketId: 1
+  leagueId: 28
+  image: https://assets.wintokens.io/webpage/sports/banners/28.png
+  away: Cagliari Calcio
+  home: Genoa CFC
+- eventId: 6344014
+  marketId: 1
+  leagueId: 1
+  image: https://assets.wintokens.io/webpage/sports/banners/1.png
+  away: 1. FSV Mainz 05
+  home: Holstein Kiel
+- eventId: 6344013
+  marketId: 1
+  leagueId: 1
+  image: https://assets.wintokens.io/webpage/sports/banners/1.png
+  away: FC St. Pauli
+  home: Borussia Monchengladbach
+- eventId: 6345975
+  marketId: 1
+  leagueId: 29
+  image: https://assets.wintokens.io/webpage/sports/banners/29.png
+  away: Rayo Vallecano
+  home: FC Sevilla
+- eventId: 6346000
+  marketId: 1
+  leagueId: 28
+  image: https://assets.wintokens.io/webpage/sports/banners/28.png
+  away: Bologna FC
+  home: SS Lazio Roma
+- eventId: 6333747
+  marketId: 1
+  leagueId: 33
+  image: https://assets.wintokens.io/webpage/sports/banners/33.png
+  away: Manchester United
+  home: Ipswich Town
+- eventId: 6345974
+  marketId: 1
+  leagueId: 29
+  image: https://assets.wintokens.io/webpage/sports/banners/29.png
+  away: CF Villarreal
+  home: CA Osasuna
+- eventId: 6333740
+  marketId: 1
+  leagueId: 33
+  image: https://assets.wintokens.io/webpage/sports/banners/33.png
+  away: West Ham United
+  home: Newcastle United
+- eventId: 6346003
+  marketId: 1
+  leagueId: 28
+  image: https://assets.wintokens.io/webpage/sports/banners/28.png
+  away: US Lecce
+  home: Venezia
+- eventId: 6346001
+  marketId: 1
+  leagueId: 28
+  image: https://assets.wintokens.io/webpage/sports/banners/28.png
+  away: Udinese Calcio
+  home: FC Empoli
+- eventId: 6389725
+  marketId: 1
+  leagueId: 33
+  image: https://assets.wintokens.io/webpage/sports/banners/33.png
+  away: Southampton FC
+  home: Brighton & Hove Albion
+- eventId: 6395140
+  marketId: 1
+  leagueId: 28
+  image: https://assets.wintokens.io/webpage/sports/banners/28.png
+  away: Hellas Verona
+  home: Cagliari Calcio
+- eventId: 6394641
+  marketId: 1
+  leagueId: 1
+  image: https://assets.wintokens.io/webpage/sports/banners/1.png
+  away: Holstein Kiel
+  home: FC St. Pauli
+- eventId: 6389707
+  marketId: 1
+  leagueId: 33
+  image: https://assets.wintokens.io/webpage/sports/banners/33.png
+  away: Newcastle United
+  home: Crystal Palace
+- eventId: 6395943
+  marketId: 1
+  leagueId: 29
+  image: https://assets.wintokens.io/webpage/sports/banners/29.png
+  away: RC Celta de Vigo
+  home: RCD Espanyol Barcelona
+- eventId: 6395966
+  marketId: 1
+  leagueId: 29
+  image: https://assets.wintokens.io/webpage/sports/banners/29.png
+  away: Atletico Madrid
+  home: Real Valladolid
+- eventId: 6395138
+  marketId: 1
+  leagueId: 28
+  image: https://assets.wintokens.io/webpage/sports/banners/28.png
+  away: AC Monza
+  home: Como 1907
+- eventId: 6395143
+  marketId: 1
+  leagueId: 28
+  image: https://assets.wintokens.io/webpage/sports/banners/28.png
+  away: FC Empoli
+  home: AC Milan
+- eventId: 6394674
+  marketId: 1
+  leagueId: 1
+  image: https://assets.wintokens.io/webpage/sports/banners/1.png
+  away: Bayer 04 Leverkusen
+  home: 1. FC Union Berlin
+- eventId: 6394675
+  marketId: 1
+  leagueId: 1
+  image: https://assets.wintokens.io/webpage/sports/banners/1.png
+  away: VfL Wolfsburg
+  home: RB Leipzig
+- eventId: 6395929
+  marketId: 1
+  leagueId: 29
+  image: https://assets.wintokens.io/webpage/sports/banners/29.png
+  away: UD Las Palmas
+  home: FC Barcelona
+- eventId: 6395134
+  marketId: 1
+  leagueId: 28
+  image: https://assets.wintokens.io/webpage/sports/banners/28.png
+  away: Venezia
+  home: Bologna FC
+- eventId: 6389723
+  marketId: 1
+  leagueId: 33
+  image: https://assets.wintokens.io/webpage/sports/banners/33.png
+  away: AFC Bournemouth
+  home: Wolverhampton Wanderers
+- eventId: 6394673
+  marketId: 1
+  leagueId: 1
+  image: https://assets.wintokens.io/webpage/sports/banners/1.png
+  away: FC Bayern Munich
+  home: Borussia Dortmund
+- eventId: 6394639
+  marketId: 1
+  leagueId: 1
+  image: https://assets.wintokens.io/webpage/sports/banners/1.png
+  away: VfL Bochum
+  home: FC Augsburg
+- eventId: 6389715
+  marketId: 1
+  leagueId: 33
+  image: https://assets.wintokens.io/webpage/sports/banners/33.png
+  away: Ipswich Town
+  home: Nottingham Forest
+- eventId: 6394659
+  marketId: 1
+  leagueId: 1
+  image: https://assets.wintokens.io/webpage/sports/banners/1.png
+  away: VfB Stuttgart
+  home: Werder Bremen
+- eventId: 6394678
+  marketId: 1
+  leagueId: 1
+  image: https://assets.wintokens.io/webpage/sports/banners/1.png
+  away: Borussia Monchengladbach
+  home: SC Freiburg
+- eventId: 6395933
+  marketId: 1
+  leagueId: 29
+  image: https://assets.wintokens.io/webpage/sports/banners/29.png
+  away: CD Leganes
+  home: Deportivo Alaves Sad
+- eventId: 6389720
+  marketId: 1
+  leagueId: 33
+  image: https://assets.wintokens.io/webpage/sports/banners/33.png
+  away: Leicester City
+  home: Brentford FC
+- eventId: 6389739
+  marketId: 1
+  leagueId: 33
+  image: https://assets.wintokens.io/webpage/sports/banners/33.png
+  away: Arsenal FC
+  home: West Ham United

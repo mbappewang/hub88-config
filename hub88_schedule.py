@@ -1,4 +1,5 @@
 import pandas as pd
+from datetime import datetime, timedelta
 
 # 导入 hub88_api 模块
 import hub88_api as hub88
@@ -12,9 +13,16 @@ print(clientId, password)
 
 token = hub88.get_token(clientId, password)
 
-startDate_list = ["2024-11-13","2024-11-14","2024-11-15","2024-11-16",  "2024-11-17", "2024-11-18", "2024-11-19"]
-sportIds = [1,8,7,4,14,11,17,25,457,6]
-locationIds = [44,66,25,22,23,1,59]
+start_date = datetime(2024, 11, 17)
+end_date = datetime(2024, 11, 30)
+startDate_list = []
+current_date = start_date
+while current_date <= end_date:
+    startDate_list.append(current_date.strftime('%Y-%m-%d'))
+    current_date += timedelta(days=1)
+
+sportIds = [1]
+locationIds = []
 schedule = []
 for startDate in startDate_list:
     data = hub88.get_schedule(token, startDate, sportIds, locationIds)

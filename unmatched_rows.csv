@@ -21,9 +21,12 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 8284,"European Silver League, Women","European Silver League, Women",11,Volleyball,排球,44,International,国际
 8427,"International Friendly Games, Women",国际友谊赛,11,Volleyball,排球,44,International,国际
 6192,"Division B, Women","Division B, Women",11,Volleyball,排球,8,Belarus,白俄罗斯
+4473,1st Bundesliga Women,女子甲级联赛,11,Volleyball,排球,1,Germany,德国
 4605,"Campeonato Nacional, Women","Campeonato Nacional, Women",11,Volleyball,排球,17,Portugal,葡萄牙
 4875,"Campeonato Paulista, Women","Campeonato Paulista, Women",11,Volleyball,排球,58,Brazil,巴西
 4577,"First Division, Women","First Division, Women",11,Volleyball,排球,15,Turkey,土耳其
+4743,Serie A1 Women,甲级联赛，女子,11,Volleyball,排球,22,Italy,意大利
+4472,1st Bundesliga,甲级联赛,11,Volleyball,排球,1,Germany,德国
 5084,Eliteserien Women,超级联赛,11,Volleyball,排球,29,Norway,挪威
 8140,Youth Cup,Youth Cup,11,Volleyball,排球,46,Russia,俄罗斯
 5208,"Lithuania Championship, Women","Lithuania Championship, Women",11,Volleyball,排球,24,Lithuania,立陶宛
@@ -35,9 +38,11 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 5293,"Super League, Qualification, Group 1","Super League, Qualification, Group 1",11,Volleyball,排球,19,Bulgaria,保加利亚
 12041,"Premier League, Women","Premier League, Women",11,Volleyball,排球,40,Syrian Arab Republic,叙利亚
 4881,"Vyscha Liga, Women","Vyscha Liga, Women",11,Volleyball,排球,30,Ukraine,乌克兰
+5658,Div 1,罗马尼亚排球甲级联赛,11,Volleyball,排球,26,Romania,罗马尼亚
 11321,Zava,Zava,11,Volleyball,排球,231,Zambia,赞比亚
 15458,Copa Aclav,Copa Aclav,11,Volleyball,排球,185,Argentina,阿根廷
 6925,"Superliga B, Women","Superliga B, Women",11,Volleyball,排球,58,Brazil,巴西
+5173,"Prva Liga, Women",克罗地亚女排甲级联赛,11,Volleyball,排球,6,Croatia,克罗地亚
 6196,II Liga,II Liga,11,Volleyball,排球,3,Poland,波兰
 6526,"Taca de Portugal, Women","Taca de Portugal, Women",11,Volleyball,排球,17,Portugal,葡萄牙
 5227,Super Cup,超级杯,11,Volleyball,排球,1,Germany,德国
@@ -60,12 +65,14 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 6501,Superliga2,Superliga2,11,Volleyball,排球,23,Spain,西班牙
 7358,Winner State Cup,Winner State Cup,11,Volleyball,排球,2,Israel,以色列
 16201,FiVB Club World Championships Women,国际排联世界女排俱乐部锦标赛,11,Volleyball,排球,44,International,国际
+5069,"Nationalliga A, Women",瑞士排球全国甲级联赛，女子,11,Volleyball,排球,35,Switzerland,瑞士
 4748,"Cup, Women","Cup, Women",11,Volleyball,排球,12,Serbia,塞尔维亚
 4569,Extraliga,捷克排球超级联赛,11,Volleyball,排球,14,Czech Republic,捷克
 26525,Cup Mai Linh,Cup Mai Linh,11,Volleyball,排球,9,Vietnam,越南
 7629,"Cup, Women",希腊女排杯,11,Volleyball,排球,43,Greece,希腊
 5140,"Cup, Women","Cup, Women",11,Volleyball,排球,16,Slovenia,斯洛文尼亚
 21419,Bsi Proliga,Bsi Proliga,11,Volleyball,排球,160,Indonesia,印尼
+5188,"A1, Women",甲级联赛，女子,11,Volleyball,排球,43,Greece,希腊
 11322,"Zava, Women","Zava, Women",11,Volleyball,排球,231,Zambia,赞比亚
 11819,"Metro Division de Honor, Women","Metro Division de Honor, Women",11,Volleyball,排球,185,Argentina,阿根廷
 6198,1. Division,1. Division,11,Volleyball,排球,33,Denmark,丹麦
@@ -119,14 +126,18 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 7347,Emir Cup,Emir Cup,11,Volleyball,排球,155,Qatar,卡塔尔
 5667,"Ligat Al, Women","Ligat Al, Women",11,Volleyball,排球,2,Israel,以色列
 12451,"National Games, Women","National Games, Women",11,Volleyball,排球,76,China,中国
+5070,Nationalliga A,瑞士排球全国甲级联赛,11,Volleyball,排球,35,Switzerland,瑞士
 5865,"Premier League, Women","Premier League, Women",11,Volleyball,排球,47,Ireland,爱尔兰
 7934,Cavb African Club Championship,Cavb African Club Championship,11,Volleyball,排球,44,International,国际
 14208,"1. Division, Women","1. Division, Women",11,Volleyball,排球,29,Norway,挪威
 6425,V League 2,V League 2,11,Volleyball,排球,59,Japan,日本
+5224,Eredivisie,荷兰排球甲级联赛,11,Volleyball,排球,156,Netherlands,荷兰
 5021,Baltic Volleyball League,波罗的海排球联赛,11,Volleyball,排球,44,International,国际
+4408,Liga Siatkowki,波兰男排甲级联赛,11,Volleyball,排球,3,Poland,波兰
 4359,"Russian Cup, Women","Russian Cup, Women",11,Volleyball,排球,46,Russia,俄罗斯
 4900,Super Liga,Super Liga,11,Volleyball,排球,30,Ukraine,乌克兰
 26674,3. Bundesliga,3. Bundesliga,11,Volleyball,排球,1,Germany,德国
+5044,Premier League,波斯尼亚男排甲级联赛,11,Volleyball,排球,104,Bosnia & Herzegovina,波斯尼亚和黑塞哥维那
 6030,Cup,"白俄罗斯杯, 男子",11,Volleyball,排球,8,Belarus,白俄罗斯
 5897,National League,National League,11,Volleyball,排球,53,Kazakhstan,哈萨克斯坦
 6471,"Puchar Polski, Women",波兰女子杯,11,Volleyball,排球,3,Poland,波兰
@@ -149,6 +160,7 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 8437,European League Women,欧洲女排联赛,11,Volleyball,排球,44,International,国际
 4988,Mestaruusliiga,芬兰排球冠军联赛,11,Volleyball,排球,31,Finland,芬兰
 13869,Division 1 Norra,Division 1 Norra,11,Volleyball,排球,20,Sweden,瑞典
+4868,1st league,甲级联赛,11,Volleyball,排球,74,Belgium,比利时
 5774,"China Volleyball League, Women",中国排球联赛，女子,11,Volleyball,排球,76,China,中国
 16584,"Nationale 1A, Women","Nationale 1A, Women",11,Volleyball,排球,142,Algeria,阿尔及利亚
 7243,"First League, Women, Playoffs","First League, Women, Playoffs",11,Volleyball,排球,16,Slovenia,斯洛文尼亚
@@ -178,15 +190,18 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 14840,Copa Centroamericana,Copa Centroamericana,11,Volleyball,排球,44,International,国际
 6117,National Cup,National Cup,11,Volleyball,排球,63,Tunisia,突尼斯
 8216,"NCAA Division I, National Championship","NCAA Division I, National Championship",11,Volleyball,排球,62,USA,美国
+5043,VolleyLigaen,丹麦排球甲级联赛,11,Volleyball,排球,33,Denmark,丹麦
 14237,1. Division,1. Division,11,Volleyball,排球,29,Norway,挪威
 47507,San Remo Festival,San Remo Festival,11,Volleyball,排球,153,Bahrain,巴林
 4427,"Liga Pro Challenge Tour, Women","Liga Pro Challenge Tour, Women",11,Volleyball,排球,39,Electronic Leagues,电子联盟
 5660,Superliga C,Superliga C,11,Volleyball,排球,58,Brazil,巴西
 22256,"Cup, Women","Cup, Women",11,Volleyball,排球,142,Algeria,阿尔及利亚
+4660,"1. Bundesliga, Women",女子甲级联赛,11,Volleyball,排球,37,Austria,奥地利
 4827,"NB I, Women","Nb I, Women",11,Volleyball,排球,21,Hungary,匈牙利
 5885,"1. Liga, Women","1. Liga, Women",11,Volleyball,排球,3,Poland,波兰
 11838,"Cup of Siberia And The Far East, Women","Cup of Siberia And The Far East, Women",11,Volleyball,排球,46,Russia,俄罗斯
 5366,MEVZA,中欧排球联合会赛,11,Volleyball,排球,44,International,国际
+5866,Div 1,甲组联赛,11,Volleyball,排球,7,Montenegro,黑山
 5693,Challenge Cup Women,挑战杯，女子,11,Volleyball,排球,44,International,国际
 4798,"Extraliga, Women",斯洛伐克排球超级联赛，女子,11,Volleyball,排球,42,Slovakia,斯洛伐克
 6765,"Cup, Women","Cup, Women",11,Volleyball,排球,15,Turkey,土耳其
@@ -207,11 +222,13 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 7502,"Polish International, Women, Singles","Polish International, Women, Singles",11,Volleyball,排球,141,Morocco,摩洛哥
 11340,"Championship, Women","Championship, Women",11,Volleyball,排球,34,Costa Rica,哥斯达黎加
 5358,Extraliga,斯洛伐克排球超级联赛,11,Volleyball,排球,42,Slovakia,斯洛伐克
+4796,Ligue A,法国排球甲级联赛,11,Volleyball,排球,66,France,法国
 15698,"Tvl, Women","Tvl, Women",11,Volleyball,排球,36,Chinese Taipei,中华台北
 6197,"National League, Women","National League, Women",11,Volleyball,排球,2,Israel,以色列
 5341,"V League, Women",V联赛，女子,11,Volleyball,排球,11,Republic of Korea,韩国
 8645,Nations League,Nations League,11,Volleyball,排球,44,International,国际
 5298,Cup,匈牙利杯男排赛,11,Volleyball,排球,21,Hungary,匈牙利
+5547,"Div 1, Women",罗马尼亚女子排球甲级联赛,11,Volleyball,排球,26,Romania,罗马尼亚
 5446,Superliga,超级联赛,11,Volleyball,排球,58,Brazil,巴西
 15266,"Vyschaya Liga, Women","Vyschaya Liga, Women",11,Volleyball,排球,53,Kazakhstan,哈萨克斯坦
 6194,"Superliga2, Women","Superliga2, Women",11,Volleyball,排球,23,Spain,西班牙
@@ -227,6 +244,7 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 13746,Cup,Cup,11,Volleyball,排球,74,Belgium,比利时
 14900,"Pre League, Women","Pre League, Women",11,Volleyball,排球,43,Greece,希腊
 4772,"Vysshaya Liga B, Women","Vysshaya Liga B, Women",11,Volleyball,排球,46,Russia,俄罗斯
+5225,"Eredivisie, Women",荷兰排球甲级联赛，女子,11,Volleyball,排球,156,Netherlands,荷兰
 5464,"Cup, Women","Cup, Women",11,Volleyball,排球,53,Kazakhstan,哈萨克斯坦
 60397,KSW 84,Ksw 84,11,Volleyball,排球,11,Republic of Korea,韩国
 6979,"First League, Playoffs","附加赛,男子",11,Volleyball,排球,16,Slovenia,斯洛文尼亚
@@ -242,6 +260,7 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 4214,Pro League,Pro League,11,Volleyball,排球,46,Russia,俄罗斯
 5579,Cup,Cup,11,Volleyball,排球,30,Ukraine,乌克兰
 4619,Super Cup,超级杯,11,Volleyball,排球,22,Italy,意大利
+4754,Ligue A Women,法国排球甲级联赛，女子,11,Volleyball,排球,66,France,法国
 14150,Liga Nacional de Voleibol,Liga Nacional de Voleibol,11,Volleyball,排球,118,Peru,秘鲁
 18828,Championnat Nationale Deux,Championnat Nationale Deux,11,Volleyball,排球,142,Algeria,阿尔及利亚
 7925,Hoa Lu Cup,Hoa Lu Cup,11,Volleyball,排球,9,Vietnam,越南
@@ -280,15 +299,18 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 5802,"1St League, Women","1St League, Women",11,Volleyball,排球,7,Montenegro,黑山
 5339,League Cup,联赛杯,11,Volleyball,排球,43,Greece,希腊
 7752,"II Liga, Women","II Liga, Women",11,Volleyball,排球,3,Poland,波兰
+4640,"Liga Siatkowki, Women",波兰排球甲级联赛，女子,11,Volleyball,排球,3,Poland,波兰
 9114,"Liverj Liga A, Women","Liverj Liga A, Women",11,Volleyball,排球,58,Brazil,巴西
 4947,"Super Cup, Women",超级杯，女子,11,Volleyball,排球,1,Germany,德国
 17251,"Cup, Women","Cup, Women",11,Volleyball,排球,7,Montenegro,黑山
 68301,Yeangder TPC 2023,Yeangder Tpc 2023,11,Volleyball,排球,44,International,国际
 12185,Asian Championship,亚洲排球锦标赛,11,Volleyball,排球,44,International,国际
 90821,Pro Tour Guadalajara,Pro Tour Guadalajara,11,Volleyball,排球,50,Latvia,拉脱维亚
+5030,"Volleyligaen, Women",丹麦排球甲级联赛，女子,11,Volleyball,排球,33,Denmark,丹麦
 24754,Cup,Cup,11,Volleyball,排球,142,Algeria,阿尔及利亚
 4181,Ural Volleyball Championship,Ural Volleyball Championship,11,Volleyball,排球,46,Russia,俄罗斯
 7885,Cup,Cup,11,Volleyball,排球,79,Cyprus,塞浦路斯
+4744,"Serie A2, Women",乙级联赛，女子,11,Volleyball,排球,22,Italy,意大利
 5397,Cup,Cup,11,Volleyball,排球,53,Kazakhstan,哈萨克斯坦
 5037,Division A,Division A,11,Volleyball,排球,8,Belarus,白俄罗斯
 8273,National League 2,National League 2,11,Volleyball,排球,2,Israel,以色列
@@ -299,6 +321,7 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 17754,"Coppa Italia A2, Women","Coppa Italia A2, Women",11,Volleyball,排球,22,Italy,意大利
 5999,Cup,Cup,11,Volleyball,排球,19,Bulgaria,保加利亚
 9368,"Pro League, Women","Pro League, Women",11,Volleyball,排球,46,Russia,俄罗斯
+4661,1. Bundesliga,甲级联赛,11,Volleyball,排球,37,Austria,奥地利
 6652,Copa Del Rey,Copa Del Rey,11,Volleyball,排球,23,Spain,西班牙
 6854,Qatar Cup,Qatar Cup,11,Volleyball,排球,155,Qatar,卡塔尔
 20639,"Prva Liga, Women","Prva Liga, Women",11,Volleyball,排球,12,Serbia,塞尔维亚
@@ -338,6 +361,7 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 4941,Elitserien Women,超级联赛，女子,11,Volleyball,排球,20,Sweden,瑞典
 13132,Cup,杯,11,Volleyball,排球,43,Greece,希腊
 4559,"2. Bundesliga North, Women","2. Bundesliga North, Women",11,Volleyball,排球,1,Germany,德国
+4967,"Premier League, Women",波斯尼亚女排甲级联赛,11,Volleyball,排球,104,Bosnia & Herzegovina,波斯尼亚和黑塞哥维那
 4239,Club Friendly Games,Club Friendly Games,11,Volleyball,排球,44,International,国际
 24589,"PVL, Women, Open Conference","Premier Volleyball League, Women",11,Volleyball,排球,239,Philippines,菲律宾
 26497,"Asian Club Championship, Women","Asian Club Championship, Women",11,Volleyball,排球,44,International,国际
@@ -351,6 +375,7 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 19968,"Bsi Proliga, Women","Bsi Proliga, Women",11,Volleyball,排球,160,Indonesia,印尼
 5893,Premier League,Premier League,11,Volleyball,排球,47,Ireland,爱尔兰
 18830,Division 1,Division 1,11,Volleyball,排球,57,Iran,伊朗
+4575,Extraliga,捷克共和国地板球甲级联赛,39,Floorball,地板球,14,Czech Republic,捷克
 4792,Salibandyliigan,福乐球联赛,39,Floorball,地板球,31,Finland,芬兰
 16108,"World Championship, Women",世界女子锦标赛,39,Floorball,地板球,44,International,国际
 4933,"Allsvenskan, Sodra",瑞典超级联赛,39,Floorball,地板球,20,Sweden,瑞典
@@ -360,10 +385,13 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 5020,Svenska Superligan,瑞典地板球超级联赛,39,Floorball,地板球,20,Sweden,瑞典
 7362,"Allsvenskan, Promotion Playoffs",瑞典超级联赛，晋级季后赛,39,Floorball,地板球,20,Sweden,瑞典
 16424,World Championship,世界男子地板球锦标赛,39,Floorball,地板球,44,International,国际
+23176,UFL,丹麦地板球甲级联赛,39,Floorball,地板球,33,Denmark,丹麦
 20968,Fifa Futsal Copa America,Fifa Futsal Copa America,21,Futsal,五人制足球,44,International,国际
+4491,1. Sfl,斯洛文尼亚五人制足球甲级联赛,21,Futsal,五人制足球,16,Slovenia,斯洛文尼亚
 21484,Cupa Romania,Cupa Romania,21,Futsal,五人制足球,26,Romania,罗马尼亚
 4757,Extra-Liga,Extra-Liga,21,Futsal,五人制足球,30,Ukraine,乌克兰
 9291,"Copa Rs, Women","Copa Rs, Women",21,Futsal,五人制足球,58,Brazil,巴西
+12371,Futsal Liga,黑山五人制足球甲级联赛,21,Futsal,五人制足球,7,Montenegro,黑山
 5343,Alf Futsal League,Alf Futsal League,21,Futsal,五人制足球,8,Belarus,白俄罗斯
 14998,Uefa Futsal Euro,Uefa Futsal Euro,21,Futsal,五人制足球,44,International,国际
 8016,"Coppa Italia, Women","Coppa Italia, Women",21,Futsal,五人制足球,22,Italy,意大利
@@ -371,6 +399,8 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 15164,Campeonato Citadino Porto Alegre,Campeonato Citadino Porto Alegre,21,Futsal,五人制足球,58,Brazil,巴西
 7112,League 2,League 2,21,Futsal,五人制足球,55,Georgia,格鲁吉亚
 5013,Premier League,Premier League,21,Futsal,五人制足球,9,Vietnam,越南
+27801,Premijer Liga,波斯尼亚黑塞哥维那甲级五人制足球联赛,21,Futsal,五人制足球,104,Bosnia & Herzegovina,波斯尼亚和黑塞哥维那
+23523,National Kampionati Kombetar,阿尔巴尼亚甲级五人制足球联赛,21,Futsal,五人制足球,49,Albania,阿尔巴尼亚
 7504,"World Team League, Group Stage","World Team League, Group Stage",21,Futsal,五人制足球,22,Italy,意大利
 5695,"FIFA Futsal World Cup Qualification, UEFA","FIFA Futsal World Cup Qualification, UEFA",21,Futsal,五人制足球,44,International,国际
 4816,Copa Paulista,Copa Paulista,21,Futsal,五人制足球,58,Brazil,巴西
@@ -383,6 +413,7 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 8876,"2A Divisao, Serie Acores","2A Divisao, Serie Acores",21,Futsal,五人制足球,17,Portugal,葡萄牙
 18144,Super Cup,超级杯,21,Futsal,五人制足球,17,Portugal,葡萄牙
 7412,Copa de Espana,西班牙国王杯,21,Futsal,五人制足球,23,Spain,西班牙
+5610,Meistriliiga,爱沙尼亚五人制足球甲级联赛,21,Futsal,五人制足球,27,Estonia,爱沙尼亚
 5259,"Serie A, Women","Serie A, Women",21,Futsal,五人制足球,22,Italy,意大利
 24419,Copa Tronadon,Copa Tronadon,21,Futsal,五人制足球,58,Brazil,巴西
 5918,2A Divisao B,2A Divisao B,21,Futsal,五人制足球,17,Portugal,葡萄牙
@@ -390,29 +421,40 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 5696,International Friendly Games,International Friendly Games,21,Futsal,五人制足球,44,International,国际
 6806,Taca Brazil,Taca Brazil,21,Futsal,五人制足球,58,Brazil,巴西
 4566,NB I,NB I,21,Futsal,五人制足球,21,Hungary,匈牙利
+4256,1st Liga,捷克五人制足球甲级联赛,21,Futsal,五人制足球,14,Czech Republic,捷克
 5626,"Uefa Futsal Euro, Qualification",欧足联五人制足球锦标赛外围赛,21,Futsal,五人制足球,44,International,国际
 5381,Greece Futsal Cup,Greece Futsal Cup,21,Futsal,五人制足球,43,Greece,希腊
+4366,Liga Futsal,巴西五人制足球甲级联赛,21,Futsal,五人制足球,58,Brazil,巴西
 26693,"1st Division, Playoffs","1St Division, Playoffs",21,Futsal,五人制足球,12,Serbia,塞尔维亚
+4955,Primera Division,甲级联赛,21,Futsal,五人制足球,23,Spain,西班牙
 5120,Uefa Futsal Champ. League,欧洲五人制足球冠军联赛,21,Futsal,五人制足球,10,International Clubs,国际俱乐部
 10921,"Taca Brazil, Women","Taca Brazil, Women",21,Futsal,五人制足球,58,Brazil,巴西
 4345,Vyshaya Liga,Vyshaya Liga,21,Futsal,五人制足球,46,Russia,俄罗斯
 7206,"1. Sfl, Playoffs","1. Sfl, Playoffs",21,Futsal,五人制足球,16,Slovenia,斯洛文尼亚
+27558,"Soccer League Futsal, North",以色列五人制足球甲级联赛,21,Futsal,五人制足球,2,Israel,以色列
 11971,FIFA Futsal World Cup,FIFA Futsal World Cup,21,Futsal,五人制足球,44,International,国际
+5483,Segunda Division,西班牙五人制足球乙级联赛,21,Futsal,五人制足球,23,Spain,西班牙
 4642,Superliga,俄罗斯五人制足球超级联赛,21,Futsal,五人制足球,46,Russia,俄罗斯
 5943,Copa Del Rey,国王杯,21,Futsal,五人制足球,23,Spain,西班牙
 7980,Cup,Cup,21,Futsal,五人制足球,16,Slovenia,斯洛文尼亚
+5263,Liga 1,甲级联赛,21,Futsal,五人制足球,26,Romania,罗马尼亚
 5784,Division de Honor Femenina,Division de Honor Femenina,21,Futsal,五人制足球,23,Spain,西班牙
 6897,Cup,Cup,21,Futsal,五人制足球,12,Serbia,塞尔维亚
 5465,Division 1,Division 1,21,Futsal,五人制足球,184,Thailand,泰国
 5668,Magyar Kupa,Magyar Kupa,21,Futsal,五人制足球,21,Hungary,匈牙利
 18901,Cup,Cup,21,Futsal,五人制足球,17,Portugal,葡萄牙
+19376,1St Division,塞浦路斯五人制足球甲级联赛,21,Futsal,五人制足球,79,Cyprus,塞浦路斯
 5794,SEQ Premier League,SEQ Premier League,21,Futsal,五人制足球,45,Australia,澳大利亚
+4815,1St Division,塞尔维亚五人制足球甲级联赛,21,Futsal,五人制足球,12,Serbia,塞尔维亚
+5143,Serie A,甲级联赛,21,Futsal,五人制足球,22,Italy,意大利
+4392,Ekstraklasa,波兰五人制足球甲级联赛,21,Futsal,五人制足球,3,Poland,波兰
 4336,Vyshchaya Liga,Vyshchaya Liga,21,Futsal,五人制足球,8,Belarus,白俄罗斯
 13334,2A Divisao A,2A Divisao A,21,Futsal,五人制足球,17,Portugal,葡萄牙
 6257,Division de Honor,Division de Honor,21,Futsal,五人制足球,185,Argentina,阿根廷
 7235,"Extra-Liga, Playoffs","Extra-Liga, Playoffs",21,Futsal,五人制足球,30,Ukraine,乌克兰
 17809,Supercup,意大利五人制足球超级杯,21,Futsal,五人制足球,22,Italy,意大利
 4596,Club Friendly Games,俱乐部友谊赛,21,Futsal,五人制足球,10,International Clubs,国际俱乐部
+18926,1St Division,瑞士五人制足球甲级联赛,21,Futsal,五人制足球,35,Switzerland,瑞士
 14907,Primera Division,Primera Division,21,Futsal,五人制足球,204,Uruguay,乌拉圭
 74541,Pacific Championships Bowl,,21,Futsal,五人制足球,53,Kazakhstan,哈萨克斯坦
 4878,Premier League,Premier League,21,Futsal,五人制足球,184,Thailand,泰国
@@ -429,6 +471,7 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 4189,Euro Beach Soccer League,欧洲沙滩足球联赛,13,Beach Soccer,沙滩足球,44,International,国际
 14638,Intercontinental Cup,洲际杯,13,Beach Soccer,沙滩足球,44,International,国际
 4550,Euro Winners Cup,Euro Winners Cup,13,Beach Soccer,沙滩足球,44,International,国际
+17841,1St Division,立陶宛五人制足球甲级联赛,21,Futsal,五人制足球,24,Lithuania,立陶宛
 10662,Beach Soccer World Cup,国际足联沙滩足球世界杯,13,Beach Soccer,沙滩足球,44,International,国际
 14411,Mundialito De Clubes,国际足联世界俱乐部杯,13,Beach Soccer,沙滩足球,44,International,国际
 9125,"FIFA Beach Soccer World Cup Qualification, UEFA","FIFA Beach Soccer World Cup Qualification, UEFA",13,Beach Soccer,沙滩足球,44,International,国际
@@ -589,47 +632,82 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 16259,Pdc World Youth Championship 2021,Pdc World Youth Championship 2021,18,Darts,飞镖,44,International,国际
 46190,Guild Awards - Best Female Actor,Guild Awards - Best Female Actor,18,Darts,飞镖,44,International,国际
 38631,"World Team Championship, Championship Division","World Team Championship, Championship Division",18,Darts,飞镖,44,International,国际
+219,Kategoria e Pare,阿尔巴尼亚甲级联赛,1,Soccer,足球,49,Albania,阿尔巴尼亚
 7,Prva NL,Prva NL,1,Soccer,足球,6,Croatia,克罗地亚
+1,Bundesliga,甲级联赛,1,Soccer,足球,1,Germany,德国
+680,China League,甲级联赛,1,Soccer,足球,76,China,中国
 771,Supercup,超级杯,1,Soccer,足球,49,Albania,阿尔巴尼亚
 253,Albania Cup,阿尔巴尼亚国家杯,1,Soccer,足球,49,Albania,阿尔巴尼亚
 31290,"Malaysia Open, Mixed Doubles","Malaysia Open, Mixed Doubles",1,Soccer,足球,130,Colombia,哥伦比亚
 215,J.League,J联赛,1,Soccer,足球,59,Japan,日本
 250,Major League Soccer,美国职业足球大联盟,1,Soccer,足球,62,USA,美国
 101,Euro 2024,欧洲足球锦标赛,1,Soccer,足球,44,International,国际
+30,LaLiga 2,乙级联赛,1,Soccer,足球,23,Spain,西班牙
+221,Brasileiro Serie A,巴西甲级联赛,1,Soccer,足球,58,Brazil,巴西
 4004,Gold Coast Premier League Reserve,Gold Coast Premier League Reserve,1,Soccer,足球,45,Australia,澳大利亚
 4005,Gold Coast Veto League 1 Reserve,Gold Coast Veto League 1 Reserve,1,Soccer,足球,45,Australia,澳大利亚
+3,National League,以色列足球甲级联赛,1,Soccer,足球,2,Israel,以色列
+4,I Liga,波兰乙级联赛,1,Soccer,足球,3,Poland,波兰
 4002,"NPL Western Australia, Women","NPL Western Australia, Women",1,Soccer,足球,45,Australia,澳大利亚
 4003,Brisbane Capital League 1 Reserve,Brisbane Capital League 1 Reserve,1,Soccer,足球,45,Australia,澳大利亚
 5,"Urvalsdeild, Women",冰岛足球超级联赛，女子,1,Soccer,足球,4,Iceland,冰岛
 6,Yokary Liga,土库曼斯坦足球超级联赛,1,Soccer,足球,5,Turkmenistan,土库曼斯坦
+8,1. Cfl,黑山足球甲级联赛,1,Soccer,足球,7,Montenegro,黑山
+11,V-League,越南职业足球甲级联赛,1,Soccer,足球,9,Vietnam,越南
 10,Urvalsdeild,冰岛足球超级联赛,1,Soccer,足球,4,Iceland,冰岛
 9,Vysshaya Liga,白俄罗斯足球超级联赛,1,Soccer,足球,8,Belarus,白俄罗斯
 12,Club Friendly Games,俱乐部友谊赛,1,Soccer,足球,10,International Clubs,国际俱乐部
 13,K-League 1,K1联赛,1,Soccer,足球,11,Republic of Korea,韩国
 14,Superliga,塞尔维亚超级联赛,1,Soccer,足球,12,Serbia,塞尔维亚
 15,Cup,爱尔兰杯,1,Soccer,足球,4,Iceland,冰岛
+17,1. Liga,捷克足球甲级联赛,1,Soccer,足球,14,Czech Republic,捷克
+23,First Professional League,保加利亚足球甲级职业联赛,1,Soccer,足球,19,Bulgaria,保加利亚
 24,Allsvenskan,瑞典超级联赛,1,Soccer,足球,20,Sweden,瑞典
 22,Premier League,亚美尼亚足球超级联赛,1,Soccer,足球,18,Armenia,亚美尼亚
 16,Premier League,法罗群岛足球超级联赛,1,Soccer,足球,13,Faroe Islands,法罗群岛
+19,PrvaLiga,斯洛文尼亚足球甲级联赛,1,Soccer,足球,16,Slovenia,斯洛文尼亚
 18,Super Lig,土耳其超级联赛,1,Soccer,足球,15,Turkey,土耳其
 21,Primeira Liga,葡萄牙足球超级联赛,1,Soccer,足球,17,Portugal,葡萄牙
+27,NB I,匈牙利甲级联赛,1,Soccer,足球,21,Hungary,匈牙利
+29,LaLiga,甲级联赛,1,Soccer,足球,23,Spain,西班牙
+26,Women Bundesliga,德国女足甲级联赛,1,Soccer,足球,1,Germany,德国
+28,Serie A,意大利甲级联赛,1,Soccer,足球,22,Italy,意大利
 32,Championship,英格兰冠军联赛,1,Soccer,足球,25,England,英格兰
+31,1 Lyga,立陶宛乙级联赛,1,Soccer,足球,24,Lithuania,立陶宛
 33,Premier League,超级联赛,1,Soccer,足球,25,England,英格兰
+34,II Liga,波兰乙级联赛,1,Soccer,足球,3,Poland,波兰
 35,Coppa Italia,意大利杯,1,Soccer,足球,22,Italy,意大利
+36,Liga I,罗马尼亚甲级联赛,1,Soccer,足球,26,Romania,罗马尼亚
+40,Serie B,意大利乙级足球级联赛,1,Soccer,足球,22,Italy,意大利
 38,West Bank League,巴勒斯坦西岸联赛,1,Soccer,足球,28,Palestine,巴勒斯坦
 39,Eliteserien,超级联赛,1,Soccer,足球,29,Norway,挪威
+43,Ekstraklasa,波兰甲级联赛,1,Soccer,足球,3,Poland,波兰
+37,Premium Liiga,爱沙尼亚足球甲级联赛,1,Soccer,足球,27,Estonia,爱沙尼亚
+45,"Kakkonen, Group B",乙级联赛，B组,1,Soccer,足球,31,Finland,芬兰
+44,K-League 2,韩国职业足球乙级联赛,1,Soccer,足球,11,Republic of Korea,韩国
+41,V-League 2,越南职业足球乙级联赛,1,Soccer,足球,9,Vietnam,越南
 46,"Vysshaya League, Women","Vysshaya League, Women",1,Soccer,足球,8,Belarus,白俄罗斯
 47,Superliga,科索沃超级联赛,1,Soccer,足球,32,Kosovo,科索沃
 48,Superligaen,丹麦超级联赛,1,Soccer,足球,33,Denmark,丹麦
 51,Super League,超级联赛,1,Soccer,足球,35,Switzerland,瑞士
+49,"Primera Division, Clausura",甲级联赛，秋季赛,1,Soccer,足球,34,Costa Rica,哥斯达黎加
 50,K3 League,全国联赛,1,Soccer,足球,11,Republic of Korea,韩国
+52,League One,英格兰甲级联赛,1,Soccer,足球,25,England,英格兰
+54,1st Division,丹麦甲级联赛,1,Soccer,足球,33,Denmark,丹麦
 53,DFB Pokal,德国杯,1,Soccer,足球,1,Germany,德国
 60,"Kansallinen Liiga, Women","Kansallinen Liiga, Women",1,Soccer,足球,31,Finland,芬兰
+58,Esiliiga,爱沙尼亚乙级联赛,1,Soccer,足球,27,Estonia,爱沙尼亚
+61,"Kakkonen, Group A",乙级联赛，A组,1,Soccer,足球,31,Finland,芬兰
 63,Bundesliga,奥地利超级联赛,1,Soccer,足球,37,Austria,奥地利
+59,A Lyga,立陶宛甲级联赛,1,Soccer,足球,24,Lithuania,立陶宛
+65,Druga Liga Crne Gore,黑山乙级联赛,1,Soccer,足球,7,Montenegro,黑山
 64,Premier League,超级联赛,1,Soccer,足球,38,Tanzania,坦桑尼亚
 66,Premier League,以色列足球超级联赛,1,Soccer,足球,2,Israel,以色列
 67,"Kvindeligaen, Women",丹麦足球精英联赛，女子,1,Soccer,足球,33,Denmark,丹麦
 68,Vtoraya Liga,Vtoraya Liga,1,Soccer,足球,8,Belarus,白俄罗斯
+81,Pervaya Liga,白俄罗斯甲级联赛,1,Soccer,足球,8,Belarus,白俄罗斯
+69,"Kakkonen, Group C",乙级联赛，C组,1,Soccer,足球,31,Finland,芬兰
+82,2. Liga,奥地利足球乙级联赛,1,Soccer,足球,37,Austria,奥地利
 85,Syrian League,叙利亚足球超级联赛,1,Soccer,足球,40,Syrian Arab Republic,叙利亚
 86,Pro Liga,Pro Liga,1,Soccer,足球,41,Uzbekistan,乌兹别克斯坦
 92,Superliga,斯洛伐克超级联赛,1,Soccer,足球,42,Slovakia,斯洛伐克
@@ -637,10 +715,14 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 97,Super League 1,希腊超级联赛,1,Soccer,足球,43,Greece,希腊
 106,Premier League,俄罗斯足球超级联赛,1,Soccer,足球,46,Russia,俄罗斯
 98,FA Cup,英格兰足总杯,1,Soccer,足球,25,England,英格兰
+94,2. Liga,斯洛伐克乙级联赛,1,Soccer,足球,42,Slovakia,斯洛伐克
+96,Superettan,超甲级联赛,1,Soccer,足球,20,Sweden,瑞典
 99,UEFA Nations League,欧足协国际联赛,1,Soccer,足球,44,International,国际
 104,"Victoria, Npl1","澳大利亚全国超级联赛,维多利亚",1,Soccer,足球,45,Australia,澳大利亚
 100,Copa America,美洲杯,1,Soccer,足球,44,International,国际
+107,1. Lig,土耳其甲级联赛,1,Soccer,足球,15,Turkey,土耳其
 105,"NPL, South Australia","澳大利亚全国超级联赛,南澳大利亚",1,Soccer,足球,45,Australia,澳大利亚
+108,Prva Liga,塞尔维亚甲级联赛,1,Soccer,足球,12,Serbia,塞尔维亚
 110,Premier League,新加坡足球超级联赛,1,Soccer,足球,48,Singapore,新加坡
 109,Premier Division,爱尔兰足球超级联赛,1,Soccer,足球,47,Ireland,爱尔兰
 111,Damallsvenskan,女子超级联赛,1,Soccer,足球,20,Sweden,瑞典
@@ -648,34 +730,46 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 113,DBU Pokalen,丹麦杯,1,Soccer,足球,33,Denmark,丹麦
 114,Suomen Cup,芬兰杯,1,Soccer,足球,31,Finland,芬兰
 117,Kosovo Fa Cup,科索沃足协杯,1,Soccer,足球,32,Kosovo,科索沃
+123,1st deild,法罗群岛乙级联赛,1,Soccer,足球,13,Faroe Islands,法罗群岛
 124,"Alf Championship, Basic League","Alf Championship, Basic League",1,Soccer,足球,8,Belarus,白俄罗斯
 125,"Alf Championship, Second League","Alf Championship, Second League",1,Soccer,足球,8,Belarus,白俄罗斯
 126,Swiss Cup,瑞士杯,1,Soccer,足球,35,Switzerland,瑞士
 128,Veikkausliiga,超级联赛,1,Soccer,足球,31,Finland,芬兰
 129,Virsliga,拉脱维亚高级联赛,1,Soccer,足球,50,Latvia,拉脱维亚
+130,Liga de Ascenso,乙级联赛,1,Soccer,足球,34,Costa Rica,哥斯达黎加
+146,1st deild,冰岛甲级联赛,1,Soccer,足球,4,Iceland,冰岛
 145,Greece Cup,希腊杯,1,Soccer,足球,43,Greece,希腊
 144,Puchar Polski,波兰杯,1,Soccer,足球,3,Poland,波兰
 135,WK-League,韩国女子联赛,1,Soccer,足球,11,Republic of Korea,韩国
+132,2. Deild,冰岛女子足球乙级联赛,1,Soccer,足球,4,Iceland,冰岛
 148,Vyscha League Zaporizhya Region,Vyscha League Zaporizhya Region,1,Soccer,足球,30,Ukraine,乌克兰
 153,LFF Cup,立陶宛LFF杯,1,Soccer,足球,24,Lithuania,立陶宛
 152,"Zone Moskovskaya Oblast, Group B","Zone Moskovskaya Oblast, Group B",1,Soccer,足球,46,Russia,俄罗斯
+154,1st Division,甲级联赛,1,Soccer,足球,29,Norway,挪威
 149,Vyscha League Kriviy Rih Region,Vyscha League Kriviy Rih Region,1,Soccer,足球,30,Ukraine,乌克兰
+158,Tajik League,塔吉克斯坦足球甲级联赛,1,Soccer,足球,52,Tajikistan,塔吉克斯坦
 151,Vyscha League Poltava Region,Vyscha League Poltava Region,1,Soccer,足球,30,Ukraine,乌克兰
 150,Vyscha League Kiev Region,Vyscha League Kiev Region,1,Soccer,足球,30,Ukraine,乌克兰
 156,Bulgarian Cup,保加利亚杯,1,Soccer,足球,19,Bulgaria,保加利亚
+155,Challenge League,瑞士甲级联赛,1,Soccer,足球,35,Switzerland,瑞士
 159,Esiliiga B,Esiliiga B,1,Soccer,足球,27,Estonia,爱沙尼亚
 157,"NB I, Women","NB I, Women",1,Soccer,足球,21,Hungary,匈牙利
 160,Women A Lyga,Women A Lyga,1,Soccer,足球,24,Lithuania,立陶宛
 161,Premier League,哈萨克斯坦足球超级联赛,1,Soccer,足球,53,Kazakhstan,哈萨克斯坦
 167,First League Women,First League Women,1,Soccer,足球,6,Croatia,克罗地亚
+163,Meistriliiga Women,爱沙尼亚足球女子甲级联赛,1,Soccer,足球,27,Estonia,爱沙尼亚
+165,"1st Division, Women",甲级联赛，女子,1,Soccer,足球,29,Norway,挪威
 164,"Puchar Polski, Women","Puchar Polski, Women",1,Soccer,足球,3,Poland,波兰
 168,Small Cup,爱沙尼亚Small杯,1,Soccer,足球,27,Estonia,爱沙尼亚
+172,"1. Deild, Women",冰岛女子足球甲级联赛,1,Soccer,足球,4,Iceland,冰岛
 171,1. ZFL,1. ZFL,1,Soccer,足球,7,Montenegro,黑山
 180,Vyscha League Ternopil Region,Vyscha League Ternopil Region,1,Soccer,足球,30,Ukraine,乌克兰
 177,Slovensky Pohar,斯洛伐克杯,1,Soccer,足球,42,Slovakia,斯洛伐克
 182,Jordan League,约旦足球联赛,1,Soccer,足球,54,Jordan,约旦
 179,European Championship Qualification,欧洲锦标赛预选赛,1,Soccer,足球,44,International,国际
+173,League Two,英格兰乙级联赛,1,Soccer,足球,25,England,英格兰
 178,Turkiye Kupasi,土耳其杯,1,Soccer,足球,15,Turkey,土耳其
+183,First Division,爱尔兰甲级联赛,1,Soccer,足球,47,Ireland,爱尔兰
 184,Erovnuli Liga,超级联赛,1,Soccer,足球,55,Georgia,格鲁吉亚
 181,"NPL Queensland, Women","澳大利亚全国超级联赛,女子",1,Soccer,足球,45,Australia,澳大利亚
 189,Reserve League,Reserve League,1,Soccer,足球,5,Turkmenistan,土库曼斯坦
@@ -690,6 +784,7 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 195,Romania Cup,罗马尼亚杯,1,Soccer,足球,26,Romania,罗马尼亚
 199,Cup,捷克杯,1,Soccer,足球,14,Czech Republic,捷克
 204,Pro League,伊朗职业联赛,1,Soccer,足球,57,Iran,伊朗
+208,Brasileiro Serie B,巴西乙级联赛,1,Soccer,足球,58,Brazil,巴西
 205,UEFA Europa League,欧足联欧洲联赛,1,Soccer,足球,10,International Clubs,国际俱乐部
 209,3 Division West Group C,3 Division West Group C,1,Soccer,足球,31,Finland,芬兰
 211,"Alf Championship, First League","Alf Championship, First League",1,Soccer,足球,8,Belarus,白俄罗斯
@@ -702,23 +797,30 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 217,Russian Cup,俄罗斯杯,1,Soccer,足球,46,Russia,俄罗斯
 222,Ykkonen,Ykkonen,1,Soccer,足球,31,Finland,芬兰
 223,Football Queensland Premier League,Football Queensland Premier League,1,Soccer,足球,45,Australia,澳大利亚
+227,"Premier League, Women",法罗群岛女足甲级联赛,1,Soccer,足球,13,Faroe Islands,法罗群岛
 232,3 Division South 2,3 Division South 2,1,Soccer,足球,31,Finland,芬兰
 231,3 Division South 1,3 Division South 1,1,Soccer,足球,31,Finland,芬兰
+226,Erovnuli Liga 2,甲级联赛,1,Soccer,足球,55,Georgia,格鲁吉亚
 230,Cup,爱沙尼亚杯,1,Soccer,足球,27,Estonia,爱沙尼亚
 229,National League,全国联赛,1,Soccer,足球,25,England,英格兰
 233,3 Division West Group B,3 Division West Group B,1,Soccer,足球,31,Finland,芬兰
 238,"Club Friendly Games, Women","Club Friendly Games, Women",1,Soccer,足球,10,International Clubs,国际俱乐部
 234,Vyscha League Kirovohrad Region,Vyscha League Kirovohrad Region,1,Soccer,足球,30,Ukraine,乌克兰
 241,Cupa Moldova,摩尔多瓦杯,1,Soccer,足球,61,Moldova,摩尔多瓦
+246,"Ykkonen, Women",芬兰甲级联赛，女子,1,Soccer,足球,31,Finland,芬兰
 251,Armenian Cup,亚美尼亚杯,1,Soccer,足球,18,Armenia,亚美尼亚
 247,Vyscha League Sumy Region,Vyscha League Sumy Region,1,Soccer,足球,30,Ukraine,乌克兰
 244,Pucharu Polski Malopolski Zpn,Pucharu Polski Malopolski Zpn,1,Soccer,足球,3,Poland,波兰
 254,Regionalliga Playoffs,Regionalliga Playoffs,1,Soccer,足球,1,Germany,德国
 255,"NPL, Western Australia","澳大利亚全国超级联赛,西澳大利亚",1,Soccer,足球,45,Australia,澳大利亚
 252,Svenska Cup,瑞典杯,1,Soccer,足球,20,Sweden,瑞典
+256,J.League 2,乙级联赛,1,Soccer,足球,59,Japan,日本
 258,"Belarus Cup, Women",白罗斯女子杯,1,Soccer,足球,8,Belarus,白俄罗斯
 259,Vyscha League Kharkiv Region,Vyscha League Kharkiv Region,1,Soccer,足球,30,Ukraine,乌克兰
+262,Ligue 2,突尼斯足球乙级联赛,1,Soccer,足球,63,Tunisia,突尼斯
 261,"NPL, South Australia, Women Premier League","澳大利亚全国超级联赛,南澳大利亚，女子超级联赛",1,Soccer,足球,45,Australia,澳大利亚
+264,Azadegan League,伊朗足球甲级联赛,1,Soccer,足球,57,Iran,伊朗
+268,Liga 2,罗马尼亚乙级联赛,1,Soccer,足球,26,Romania,罗马尼亚
 267,National Womens Soccer League,美国足球全国女子联赛,1,Soccer,足球,62,USA,美国
 265,Persha League Ivano Frankivsk Region,Persha League Ivano Frankivsk Region,1,Soccer,足球,30,Ukraine,乌克兰
 270,"Liga Alef, Playoffs","Liga Alef, Playoffs",1,Soccer,足球,2,Israel,以色列
@@ -742,10 +844,12 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 288,"Premier League, Women","Premier League, Women",1,Soccer,足球,19,Bulgaria,保加利亚
 294,Coupe de la Ligue,联赛杯,1,Soccer,足球,66,France,法国
 293,Coupe de France,法国杯,1,Soccer,足球,66,France,法国
+297,Ligue 2,法国乙级联赛,1,Soccer,足球,66,France,法国
 300,League Cup,联赛杯,1,Soccer,足球,17,Portugal,葡萄牙
 295,Alf First League Cup,Alf First League Cup,1,Soccer,足球,8,Belarus,白俄罗斯
 301,Cambodian Premier League,柬埔寨足球联赛,1,Soccer,足球,67,Cambodia,柬埔寨
 296,Vyscha League Zhytomyr Region,Vyscha League Zhytomyr Region,1,Soccer,足球,30,Ukraine,乌克兰
+299,1.Liga,拉脱维亚乙级联赛,1,Soccer,足球,50,Latvia,拉脱维亚
 303,Brisbane Premier League,布里斯班超级联赛,1,Soccer,足球,45,Australia,澳大利亚
 307,Logmanssteypid,法罗群岛杯,1,Soccer,足球,13,Faroe Islands,法罗群岛
 315,Tajik Cup,塔吉克斯坦杯,1,Soccer,足球,52,Tajikistan,塔吉克斯坦
@@ -757,6 +861,7 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 323,Nicaragua Cup,Nicaragua Cup,1,Soccer,足球,71,Nicaragua,尼加拉瓜
 327,Rostov Region Championship,Rostov Region Championship,1,Soccer,足球,46,Russia,俄罗斯
 326,Premiership,苏格兰足球超级联赛,1,Soccer,足球,68,Scotland,苏格兰
+324,Primera Divisio,安道尔足球甲级联赛,1,Soccer,足球,70,Andorra,安道尔
 325,Croatian Cup,克罗地亚杯,1,Soccer,足球,6,Croatia,克罗地亚
 321,Sunshine Coast Premier League Reserve,Sunshine Coast Premier League Reserve,1,Soccer,足球,45,Australia,澳大利亚
 329,Canadian Premier League,加拿大足球超级联赛,1,Soccer,足球,73,Canada,加拿大
@@ -765,27 +870,42 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 330,DBU Sjælland Serie 3 Pulje 8,,1,Soccer,足球,33,Denmark,丹麦
 331,"NPL Western Australia, Women","NPL Western Australia, Women",1,Soccer,足球,45,Australia,澳大利亚
 335,Azerbaijan Cup,阿塞拜疆杯,1,Soccer,足球,56,Azerbaijan,阿塞拜疆
+340,First Division B,比利时足球甲级联赛B,1,Soccer,足球,74,Belgium,比利时
 341,"WC Qualification, UEFA",世界锦标赛欧洲区预选赛,1,Soccer,足球,44,International,国际
 336,"Superliga, Women",乌兹别克斯坦PFL杯，女足,1,Soccer,足球,41,Uzbekistan,乌兹别克斯坦
 349,EFL Cup,英格兰联赛杯,1,Soccer,足球,25,England,英格兰
 356,AFC Asian Cup QF,亚足联亚洲杯资格赛,1,Soccer,足球,44,International,国际
+358,Ligue 1,甲级联赛,1,Soccer,足球,66,France,法国
 357,NM Cup,挪威杯,1,Soccer,足球,29,Norway,挪威
+393,Eerste Divisie,荷兰乙级联赛,1,Soccer,足球,156,Netherlands,荷兰
+361,Eredivisie,荷兰甲级联赛,1,Soccer,足球,156,Netherlands,荷兰
 386,Liigacup,芬兰联赛杯,1,Soccer,足球,31,Finland,芬兰
 392,J. League Cup,J联赛杯,1,Soccer,足球,59,Japan,日本
+362,First Division A,比利时足球甲级联赛A,1,Soccer,足球,74,Belgium,比利时
 405,Copa de la Liga,马拉多纳杯,1,Soccer,足球,185,Argentina,阿根廷
 397,Gold Cup,美洲金杯,1,Soccer,足球,44,International,国际
+411,1st Division,塞浦路斯甲级联赛,1,Soccer,足球,79,Cyprus,塞浦路斯
 424,Super League 2,超级联赛2,1,Soccer,足球,43,Greece,希腊
 442,Championship,苏格兰足球冠军联赛,1,Soccer,足球,68,Scotland,苏格兰
+435,1. MFL,马其顿足球甲级联赛,1,Soccer,足球,105,North Macedonia,北马其顿
 431,FAI Cup,爱尔兰足协杯,1,Soccer,足球,47,Ireland,爱尔兰
 430,League Cup,联赛杯,1,Soccer,足球,47,Ireland,爱尔兰
 440,Football National League,足球全国联赛,1,Soccer,足球,46,Russia,俄罗斯
 448,Super Cup,超级杯,1,Soccer,足球,23,Spain,西班牙
+443,League One,苏格兰甲级联赛,1,Soccer,足球,68,Scotland,苏格兰
 454,Super Cup,超级杯,1,Soccer,足球,30,Ukraine,乌克兰
+444,League Two,苏格兰乙级联赛,1,Soccer,足球,68,Scotland,苏格兰
+462,Segunda Liga,葡萄牙足球甲级联赛,1,Soccer,足球,17,Portugal,葡萄牙
 456,Premijer Liga,波黑足球超级联赛,1,Soccer,足球,104,Bosnia & Herzegovina,波斯尼亚和黑塞哥维那
+463,LigaPro Primera A,甲级联赛,1,Soccer,足球,108,Ecuador,厄瓜多尔
 465,AFC Asian Cup,亚足联亚洲杯,1,Soccer,足球,44,International,国际
 467,Cymru Premier,Cymru Premier,1,Soccer,足球,91,Wales,威尔士
+459,Primera Division,甲级联赛,1,Soccer,足球,134,Venezuela,委内瑞拉
 470,Liga Kupa,匈牙利联赛杯,1,Soccer,足球,21,Hungary,匈牙利
+472,Primera Division,甲级联赛,1,Soccer,足球,204,Uruguay,乌拉圭
 471,Africa Cup of Nations,非洲国家杯,1,Soccer,足球,44,International,国际
+480,"Football League 2, Gr 2",希腊足球乙級聯賽-第二组,1,Soccer,足球,43,Greece,希腊
+476,"Football League 2, Gr 1",希腊足球乙級聯賽-第一组,1,Soccer,足球,43,Greece,希腊
 482,Magyar Kupa,匈牙利杯,1,Soccer,足球,21,Hungary,匈牙利
 477,"World Cup, Women","世界杯, Women",1,Soccer,足球,44,International,国际
 488,Cyprus Cup,塞浦路斯杯,1,Soccer,足球,79,Cyprus,塞浦路斯
@@ -817,6 +937,7 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 531,FAW Welsh Cup,威尔士杯,1,Soccer,足球,91,Wales,威尔士
 536,Super Cup,超级杯,1,Soccer,足球,46,Russia,俄罗斯
 533,EAFF E-1 Football Championship,EAFF E-1 Football Championship,1,Soccer,足球,44,International,国际
+540,Primera Division,甲级联赛,1,Soccer,足球,118,Peru,秘鲁
 539,"EAFF E-1 Football Championship, Women","EAFF E-1 Football Championship, Women",1,Soccer,足球,44,International,国际
 547,Super Cup,超级杯,1,Soccer,足球,21,Hungary,匈牙利
 542,Algarve Cup Women,阿尔加夫杯，女子足球赛,1,Soccer,足球,44,International,国际
@@ -833,32 +954,48 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 563,US Open Cup,美国公开杯,1,Soccer,足球,62,USA,美国
 564,CONCACAF Champions League,中北美及加勒比冠军联赛,1,Soccer,足球,10,International Clubs,国际俱乐部
 571,Super Cup,超级杯,1,Soccer,足球,3,Poland,波兰
+578,Segunda División RFEF,乙级B联赛 RFEF,1,Soccer,足球,23,Spain,西班牙
 570,Super Cup,超级杯,1,Soccer,足球,19,Bulgaria,保加利亚
 579,Super Cup,超级杯,1,Soccer,足球,79,Cyprus,塞浦路斯
 583,Belarus Cup,白罗斯杯,1,Soccer,足球,8,Belarus,白俄罗斯
 585,Premiership,新西兰超級足球聯賽,1,Soccer,足球,97,New Zealand,新西兰
 592,FA Trophy,英格兰业余联赛足总杯，资格赛,1,Soccer,足球,25,England,英格兰
 589,Gulf Cup,海湾杯,1,Soccer,足球,44,International,国际
+591,"Liga 2, Seria 2",罗马尼亚乙级联赛-2组,1,Soccer,足球,26,Romania,罗马尼亚
 587,League Cup,联赛杯,1,Soccer,足球,69,Northern Ireland,北爱尔兰
 586,AFF Suzuki Cup,铃木杯,1,Soccer,足球,44,International,国际
 584,Bosnia & Herzegovina Cup,波黑杯,1,Soccer,足球,104,Bosnia & Herzegovina,波斯尼亚和黑塞哥维那
+594,First Division,马耳他甲级联赛,1,Soccer,足球,92,Malta,马耳他
 598,African Nations Ch.ship,非洲冠军杯,1,Soccer,足球,44,International,国际
 596,FA Trophy,马耳他足协杯,1,Soccer,足球,92,Malta,马耳他
 593,Premier League,马耳他足球超级联赛,1,Soccer,足球,92,Malta,马耳他
 604,AFC Champions League 2,亚足联冠军联赛 2,1,Soccer,足球,10,International Clubs,国际俱乐部
 602,Chinese Super League,中国超级联赛,1,Soccer,足球,76,China,中国
 603,Singapore Cup,新加坡杯,1,Soccer,足球,48,Singapore,新加坡
+619,Division Nationale,卢森堡甲级联赛,1,Soccer,足球,114,Luxembourg,卢森堡
+607,First League,亚美尼亚甲级联赛,1,Soccer,足球,18,Armenia,亚美尼亚
 605,League Cup,联赛杯,1,Soccer,足球,48,Singapore,新加坡
 615,Super Cup,超级杯,1,Soccer,足球,42,Slovakia,斯洛伐克
 626,Championship,Championship,1,Soccer,足球,69,Northern Ireland,北爱尔兰
+627,Welsh League Div One,威尔士甲级联赛,1,Soccer,足球,91,Wales,威尔士
 624,Super Cup,超级杯,1,Soccer,足球,26,Romania,罗马尼亚
+628,Primera Nacional,阿根廷足球乙级联赛,1,Soccer,足球,185,Argentina,阿根廷
 623,UEFA Champions League Women,女子欧洲冠军联赛,1,Soccer,足球,10,International Clubs,国际俱乐部
+635,Divizia A,摩尔多瓦甲级联赛,1,Soccer,足球,61,Moldova,摩尔多瓦
+639,2. MFL,马其顿乙级联赛,1,Soccer,足球,105,North Macedonia,北马其顿
+636,"Prva Liga, Rep of Srpska",波斯尼亚甲级联赛-波黑塞族共和国,1,Soccer,足球,104,Bosnia & Herzegovina,波斯尼亚和黑塞哥维那
+637,Prva Liga,波斯尼亚甲级联赛-波黑塞族共和国,1,Soccer,足球,104,Bosnia & Herzegovina,波斯尼亚和黑塞哥维那
+640,Huws Gray Alliance,威尔士甲级联赛,1,Soccer,足球,91,Wales,威尔士
+644,Promotion d&apos;Honneur,卢森堡乙级联赛,1,Soccer,足球,114,Luxembourg,卢森堡
+645,2. HNL,克罗地亚乙级联赛,1,Soccer,足球,6,Croatia,克罗地亚
 649,Setanta Sports Cup,塞坦塔体育杯,1,Soccer,足球,10,International Clubs,国际俱乐部
 646,Super Cup,超级杯,1,Soccer,足球,92,Malta,马耳他
+659,Second Division,乙级联赛,1,Soccer,足球,70,Andorra,安道尔
 654,Campionato Sammarinese,圣马力诺锦标赛,1,Soccer,足球,167,San Marino,圣马力诺
 655,Cup Crne Gore,黑山杯,1,Soccer,足球,7,Montenegro,黑山
 650,Cup,格鲁吉亚杯,1,Soccer,足球,55,Georgia,格鲁吉亚
 653,Coppa Titano,蒂塔诺杯,1,Soccer,足球,167,San Marino,圣马力诺
+652,First Division,阿塞拜疆甲级联赛,1,Soccer,足球,56,Azerbaijan,阿塞拜疆
 662,Kazakhstan Cup,哈萨克斯坦杯,1,Soccer,足球,53,Kazakhstan,哈萨克斯坦
 666,FL1 Aktiv-Cup,列支敦士登杯,1,Soccer,足球,191,Liechtenstein,
 668,Coupe de Luxembourg,卢森堡杯,1,Soccer,足球,114,Luxembourg,卢森堡
@@ -868,10 +1005,15 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 670,Irish Cup,爱尔兰杯,1,Soccer,足球,69,Northern Ireland,北爱尔兰
 679,"World Cup, Women",女足世界杯,1,Soccer,足球,44,International,国际
 674,Super Cup,超级杯,1,Soccer,足球,8,Belarus,白俄罗斯
+681,Pervaya Liga,哈萨克斯坦甲级联赛,1,Soccer,足球,53,Kazakhstan,哈萨克斯坦
 682,Super Cup,超级杯,1,Soccer,足球,4,Iceland,冰岛
 684,Super Cup,超级杯,1,Soccer,足球,6,Croatia,克罗地亚
+686,Premier League,埃及足球甲级联赛,1,Soccer,足球,143,Egypt,埃及
 695,Stars League,卡塔尔足球明星联赛,1,Soccer,足球,155,Qatar,卡塔尔
+697,Ligue 1,阿尔及利亚甲级联赛,1,Soccer,足球,142,Algeria,阿尔及利亚
+693,"1. Liga, Women",捷克女子甲级联赛,1,Soccer,足球,14,Czech Republic,捷克
 698,WAFF Championship,西亚足球联盟锦标赛,1,Soccer,足球,44,International,国际
+701,I-League,印度足球甲级联赛,1,Soccer,足球,154,India,印度
 699,Premier League,巴林足球超级联赛,1,Soccer,足球,153,Bahrain,巴林
 713,Youth League,俄罗斯青年联赛,1,Soccer,足球,46,Russia,俄罗斯
 703,Int. Friendly Games,国际友谊赛,1,Soccer,足球,44,International,国际
@@ -883,18 +1025,23 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 726,"Liga Nacional, Relegation Playoff","Liga Nacional, Relegation Playoff",1,Soccer,足球,177,Honduras,洪都拉斯
 723,Super Cup,超级杯,1,Soccer,足球,105,North Macedonia,北马其顿
 729,Crown Prince Cup,王储杯,1,Soccer,足球,149,Kuwait,科威特
+728,Botola,摩洛哥足球甲级联赛,1,Soccer,足球,141,Morocco,摩洛哥
 731,Federation Cup,联合会杯,1,Soccer,足球,149,Kuwait,科威特
 732,Saudi Prof. League,沙特阿拉伯职业联赛,1,Soccer,足球,144,Saudi Arabia,沙特阿拉伯
 734,Omani League,阿曼足球联赛,1,Soccer,足球,174,Oman,阿曼
 735,Arabian Gulf League,阿联酋阿拉伯海湾联赛,1,Soccer,足球,139,United Arab Emirates,阿联酋
 738,Super League,超级联赛,1,Soccer,足球,242,Malaysia,马来西亚
 739,Premier League,超级联赛,1,Soccer,足球,149,Kuwait,科威特
+737,Ligue 1,甲级联赛,1,Soccer,足球,63,Tunisia,突尼斯
+740,Elite One,甲级联赛,1,Soccer,足球,171,Cameroon,喀麦隆
 742,Liga 1,Liga 1,1,Soccer,足球,160,Indonesia,印尼
 741,Copa del Sol,太阳杯,1,Soccer,足球,10,International Clubs,国际俱乐部
 746,Copa Argentina,阿根廷杯,1,Soccer,足球,185,Argentina,阿根廷
 744,Cyprus Women Cup,塞浦路斯女子杯,1,Soccer,足球,44,International,国际
+748,Thai League 1,泰国足球甲级联赛,1,Soccer,足球,184,Thailand,泰国
 745,FA Cup,足协杯,1,Soccer,足球,146,South Africa,南非
 749,The FA Women's Super League,The FA Women's Super League,1,Soccer,足球,25,England,英格兰
+768,Promotion League,瑞士乙级联赛,1,Soccer,足球,35,Switzerland,瑞士
 752,CAF Champions League,非洲冠军联赛,1,Soccer,足球,10,International Clubs,国际俱乐部
 754,Baltic Cup,波罗的海杯,1,Soccer,足球,44,International,国际
 755,NM Cup Women,挪威杯，女子,1,Soccer,足球,29,Norway,挪威
@@ -903,19 +1050,26 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 777,Supercopa de Catalunya,Supercopa de Catalunya,1,Soccer,足球,23,Spain,西班牙
 778,MTN 8,MTN 8,1,Soccer,足球,146,South Africa,南非
 780,Premier League 2,Premier League 2,1,Soccer,足球,25,England,英格兰
+779,Primera Division Women,女子甲级联赛,1,Soccer,足球,23,Spain,西班牙
 787,Premier League,超级联赛,1,Soccer,足球,199,Ghana,加纳
 784,Premier League,巴基斯坦足球超级联赛,1,Soccer,足球,213,Pakistan,巴基斯坦
 781,"Isthmian League, Pr. Div","Isthmian League, Pr. Div",1,Soccer,足球,25,England,英格兰
 788,League Cup,联赛杯,1,Soccer,足球,146,South Africa,南非
+783,Second Prof. League,保加利亚足球乙级职业联赛,1,Soccer,足球,19,Bulgaria,保加利亚
+785,Division 1 Women,法国甲组女子足球联赛,1,Soccer,足球,66,France,法国
 786,Caribbean Cup,加勒比海杯,1,Soccer,足球,44,International,国际
 790,Copa Centroamericana,中美洲国家杯,1,Soccer,足球,44,International,国际
 793,Winter League,冬季联赛,1,Soccer,足球,14,Czech Republic,捷克
 792,OFC Champions League,大洋洲联赛冠军杯,1,Soccer,足球,10,International Clubs,国际俱乐部
 794,Premier League,超级联赛,1,Soccer,足球,250,Senegal,塞内加尔
+789,Ligue 1,科特迪瓦足球甲级联赛,1,Soccer,足球,170,,
 791,Copa Chile,智利杯,1,Soccer,足球,187,Chile,智利
 795,Torneos de Verano,Torneos de Verano,1,Soccer,足球,10,International Clubs,国际俱乐部
 797,Super Cup,超级杯,1,Soccer,足球,9,Vietnam,越南
+798,Primera B,乙级联赛,1,Soccer,足球,130,Colombia,哥伦比亚
+799,Primera B,乙级联赛,1,Soccer,足球,187,Chile,智利
 800,NextGen Series,NextGen Series,1,Soccer,足球,172,International Youth,国际青少年
+804,Segunda Division,巴拉圭足球乙级联赛,1,Soccer,足球,133,Paraguay,巴拉圭
 803,CAF Super Cup,CAF超级杯,1,Soccer,足球,10,International Clubs,国际俱乐部
 811,Nsw Npl 1,"澳大利亚全国超级联赛,新南威尔士",1,Soccer,足球,45,Australia,澳大利亚
 801,Viareggio Cup,Viareggio Cup,1,Soccer,足球,172,International Youth,国际青少年
@@ -929,7 +1083,9 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 822,Copa Colombia,哥伦比亚杯,1,Soccer,足球,130,Colombia,哥伦比亚
 823,Int. Champions Cup,Int. Champions Cup,1,Soccer,足球,10,International Clubs,国际俱乐部
 838,Morocco Cup,摩洛哥杯,1,Soccer,足球,141,Morocco,摩洛哥
+824,NB II,匈牙利足球乙级联赛,1,Soccer,足球,21,Hungary,匈牙利
 825,Supercup,超级杯,1,Soccer,足球,167,San Marino,圣马力诺
+826,Primera B,乙级联赛,1,Soccer,足球,185,Argentina,阿根廷
 843,National Premier League,全国超级联赛,1,Soccer,足球,45,Australia,澳大利亚
 827,CLJ,波兰中央青年联赛,1,Soccer,足球,3,Poland,波兰
 842,UEFA Youth League,欧洲足球青年联赛,1,Soccer,足球,10,International Clubs,国际俱乐部
@@ -972,24 +1128,31 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 899,Supercoppa Primavera,青年超级杯,1,Soccer,足球,22,Italy,意大利
 897,National First Division,National First Division,1,Soccer,足球,146,South Africa,南非
 903,"FA Trophy, Qualification",英格兰业余联赛足总杯，资格赛,1,Soccer,足球,25,England,英格兰
+898,Segunda Division,乙级联赛,1,Soccer,足球,204,Uruguay,乌拉圭
 906,Lebanon Cup,黎巴嫩杯,1,Soccer,足球,176,Lebanon,黎巴嫩
 900,Super Cup,超级杯,1,Soccer,足球,18,Armenia,亚美尼亚
 902,"CONCACAF Championship, Women",中北美洲及加勒比海女子冠军联赛,1,Soccer,足球,44,International,国际
 901,Berlusconi Trophy,贝卢斯科尼奖杯,1,Soccer,足球,10,International Clubs,国际俱乐部
 904,Sultan Cup,苏丹杯,1,Soccer,足球,174,Oman,阿曼
+908,"Premier League 1, Women",苏格兰足球甲级联赛，女子,1,Soccer,足球,68,Scotland,苏格兰
 910,League Cup,冰岛联赛杯,1,Soccer,足球,4,Iceland,冰岛
 907,Egypt Cup,埃及杯,1,Soccer,足球,143,Egypt,埃及
+913,Professional League,尼日利亚足球甲级职业联赛,1,Soccer,足球,197,Nigeria,尼日利亚
 912,Kings Cup,沙特阿拉伯国王杯,1,Soccer,足球,144,Saudi Arabia,沙特阿拉伯
 917,COSAFA Cup,南非洲杯,1,Soccer,足球,44,International,国际
 915,Super League,赞比亚足球超级联赛,1,Soccer,足球,231,Zambia,赞比亚
+918,Girabola,安哥拉足球甲级联赛,1,Soccer,足球,189,Angola,安哥拉
 920,Toulon Tournament,土伦锦标赛,1,Soccer,足球,172,International Youth,国际青少年
+925,"Eredivisie, Women",荷兰足球甲级联赛，女子,1,Soccer,足球,156,Netherlands,荷兰
 922,Super Cup,超级杯,1,Soccer,足球,2,Israel,以色列
 919,FA Cup,足协杯,1,Soccer,足球,199,Ghana,加纳
 923,Trofeo de Campeon de Campeones,Trofeo de Campeon de Campeones,1,Soccer,足球,89,Mexico,墨西哥
 924,"Super League, Women",超级联赛，女子,1,Soccer,足球,74,Belgium,比利时
+928,Division 1,甲级联赛,1,Soccer,足球,144,Saudi Arabia,沙特阿拉伯
 926,Joan Gamper Trophy,Joan Gamper Trophy,1,Soccer,足球,10,International Clubs,国际俱乐部
 931,UEFA Youth League,UEFA Youth League,1,Soccer,足球,172,International Youth,国际青少年
 927,Super Cup,超级杯,1,Soccer,足球,144,Saudi Arabia,沙特阿拉伯
+933,Campionato Primavera 1,意大利青年甲组联赛,1,Soccer,足球,22,Italy,意大利
 929,Super Cup,超级杯,1,Soccer,足球,139,United Arab Emirates,阿联酋
 937,Super Cup,超级杯,1,Soccer,足球,176,Lebanon,黎巴嫩
 935,Gaza Strip Premier League,巴勒斯坦加沙地带超级联赛,1,Soccer,足球,28,Palestine,巴勒斯坦
@@ -1010,27 +1173,42 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 958,Supercopa Peruana,秘鲁超级杯,1,Soccer,足球,118,Peru,秘鲁
 961,Coupe Nationale,国家杯,1,Soccer,足球,170,,
 960,"League Cup, National","League Cup, National",1,Soccer,足球,2,Israel,以色列
+963,Cfl,甲级联赛,1,Soccer,足球,14,Czech Republic,捷克
 962,Msfl,摩拉维亚-西里西亚足球联赛,1,Soccer,足球,14,Czech Republic,捷克
+967,"Bundesliga, Women",甲级联赛，女子,1,Soccer,足球,37,Austria,奥地利
+969,First League,科索沃甲级联赛,1,Soccer,足球,32,Kosovo,科索沃
+970,Ligue 2,阿尔及利亚乙级联赛,1,Soccer,足球,142,Algeria,阿尔及利亚
 972,"Africa Cup of Nations, Women",非洲女子足球国家杯,1,Soccer,足球,44,International,国际
 975,Florida Cup,佛罗利达杯,1,Soccer,足球,10,International Clubs,国际俱乐部
 976,Premier League,乌干达足球超级联赛,1,Soccer,足球,233,Uganda,乌干达
+979,LigaPro Primera B,乙级联赛,1,Soccer,足球,108,Ecuador,厄瓜多尔
 974,Campeonato De Portugal,葡萄牙足球全国联赛,1,Soccer,足球,17,Portugal,葡萄牙
 978,Copa Verde,绿色杯,1,Soccer,足球,58,Brazil,巴西
 977,J-League New Year Cup,J-League New Year Cup,1,Soccer,足球,59,Japan,日本
 982,FA Cup,足协杯,1,Soccer,足球,150,"Hong Kong, China",香港，中国
 980,"Campeonato Brasileiro, Women",巴西女子锦标赛,1,Soccer,足球,58,Brazil,巴西
+985,Segunda Division,乙级联赛,1,Soccer,足球,118,Peru,秘鲁
 991,Federation Cup,Federation Cup,1,Soccer,足球,154,India,印度
 990,Premier Development League,Premier Development League,1,Soccer,足球,62,USA,美国
+993,China League 2,乙级联赛,1,Soccer,足球,76,China,中国
 995,King´s Cup,King´s Cup,1,Soccer,足球,44,International,国际
 997,"Tournament of Nations, Women","Tournament of Nations, Women",1,Soccer,足球,44,International,国际
 998,CONCACAF League,中北美洲及加勒比海联赛,1,Soccer,足球,10,International Clubs,国际俱乐部
+1010,Division 1,甲级联赛,1,Soccer,足球,139,United Arab Emirates,阿联酋
 1005,"Coupe de France, Women",法国杯，女子,1,Soccer,足球,66,France,法国
+1001,"Ekstraliga, Women",甲级联赛，女子,1,Soccer,足球,3,Poland,波兰
+1011,Primera Division,甲级联赛,1,Soccer,足球,71,Nicaragua,尼加拉瓜
+1006,Campionato Primavera 2,意大利青年乙组联赛,1,Soccer,足球,22,Italy,意大利
 1008,Premier League,马来西亚足球超级联赛,1,Soccer,足球,242,Malaysia,马来西亚
+1007,Division 1,甲组联赛,1,Soccer,足球,150,"Hong Kong, China",香港，中国
+1009,Thai League 2,泰国足球乙级联赛,1,Soccer,足球,184,Thailand,泰国
 1015,Pro League,特立尼达及多巴哥职业足球联赛,1,Soccer,足球,195,Trinidad and Tobago,
 1013,National League,全国联赛,1,Soccer,足球,218,Myanmar,缅甸
+1012,1. League Women,斯洛伐克女子足球甲级联赛,1,Soccer,足球,42,Slovakia,斯洛伐克
 1023,Copa Venezuela,委内瑞拉杯,1,Soccer,足球,134,Venezuela,委内瑞拉
 1017,"Chinese Super League, Women",中国超级联赛，女子,1,Soccer,足球,76,China,中国
 1020,"Campeonato Nacional, Women",全国联赛，女子,1,Soccer,足球,17,Portugal,葡萄牙
+1025,Botola 2,摩洛哥足球乙级联赛,1,Soccer,足球,141,Morocco,摩洛哥
 1016,"Brisbane Premier League, Women",澳大利亚布里斯班女子超级联赛,1,Soccer,足球,45,Australia,澳大利亚
 1027,Hazfi Cup,哈兹法杯,1,Soccer,足球,57,Iran,伊朗
 1028,Super Cup,超级杯,1,Soccer,足球,170,,
@@ -1048,23 +1226,41 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 1048,Indian Super Cup,印度超级杯,1,Soccer,足球,154,India,印度
 1044,Premier League,超级联赛,1,Soccer,足球,251,Congo,刚果
 1046,"Ligat Al, Women",以色列女子超级联赛,1,Soccer,足球,2,Israel,以色列
+1047,Jordan 1st Division,约旦甲级联赛,1,Soccer,足球,54,Jordan,约旦
 1067,"International Champions Cup, Women","International Champions Cup, Women",1,Soccer,足球,10,International Clubs,国际俱乐部
 1064,Intercontinental Cup,洲际杯,1,Soccer,足球,44,International,国际
 1066,Emir Cup,科威特埃米尔杯,1,Soccer,足球,149,Kuwait,科威特
 1063,Copa de SM La Reina,西班牙皇后杯,1,Soccer,足球,23,Spain,西班牙
 1074,Super 8,Super 8,1,Soccer,足球,233,Uganda,乌干达
+1100,Tweede Divisie,荷兰足球乙级联赛,1,Soccer,足球,156,Netherlands,荷兰
 1106,Campeones Cup,北美足球锦标赛冠军杯,1,Soccer,足球,10,International Clubs,国际俱乐部
+1120,"Primera A, Clausura",甲级联赛，春季赛,1,Soccer,足球,130,Colombia,哥伦比亚
+1121,"Primera A, Clausura",甲级联赛，春季赛,1,Soccer,足球,130,Colombia,哥伦比亚
+1123,"Primera Division, Clausura",甲级联赛，秋季赛,1,Soccer,足球,159,El Salvador,萨尔瓦多
+1122,"Primera Division, Apertura",甲级联赛，春季赛,1,Soccer,足球,159,El Salvador,萨尔瓦多
+1126,"Primera Division, Apertura",甲级联赛，春季赛,1,Soccer,足球,133,Paraguay,巴拉圭
+1127,"Primera Division, Clausura",甲级联赛，秋季赛,1,Soccer,足球,133,Paraguay,巴拉圭
 1128,"Liga Panamena De Futbol, Apertura",巴拿马足球联赛，春季赛,1,Soccer,足球,194,Panama,巴拿马
+1124,"Primera Division, Apertura",甲级联赛，春季赛,1,Soccer,足球,34,Costa Rica,哥斯达黎加
 1129,"Liga Panamena de Futbol, Clausura",巴拿马足球联赛，秋季赛,1,Soccer,足球,194,Panama,巴拿马
+1135,"Liga De Expansion Mx, Clausura",乙级联赛，春季赛,1,Soccer,足球,89,Mexico,墨西哥
 1139,Liga Nacional. Apertura,全国联赛，秋季赛,1,Soccer,足球,177,Honduras,洪都拉斯
 1141,CONCACAF Nations League,中北美洲及加勒比海国家联赛,1,Soccer,足球,44,International,国际
 1140,Liga Nacional. Clausura,全国联赛，春季赛,1,Soccer,足球,177,Honduras,洪都拉斯
 1136,Liga Nacional. Apertura,全国联赛，秋季赛,1,Soccer,足球,157,Guatemala,危地马拉
 1137,Liga Nacional. Clausura,全国联赛，春季赛,1,Soccer,足球,157,Guatemala,危地马拉
+1134,"Liga de Expansion MX, Apertura",乙级联赛，秋季赛,1,Soccer,足球,89,Mexico,墨西哥
 1142,Copa Federacion,西班牙足协杯,1,Soccer,足球,23,Spain,西班牙
+1143,"Primera Division, Apertura",甲级联赛，春季赛,1,Soccer,足球,89,Mexico,墨西哥
+1145,"Primera Divison, Apertura",智利足球甲级联赛,1,Soccer,足球,187,Chile,智利
+1144,"Primera Division, Clausura",甲级联赛，春季赛,1,Soccer,足球,89,Mexico,墨西哥
+1146,"Primera Divison, Clausura",智利足球甲级联赛,1,Soccer,足球,187,Chile,智利
 1151,"FA Cup, Women ",足协杯，女子,1,Soccer,足球,25,England,英格兰
 1149,Fa Womens League Cup,足总女子联赛杯,1,Soccer,足球,25,England,英格兰
+1150,Primera Division,甲级联赛,1,Soccer,足球,187,Chile,智利
 1148,Y-League,青年联赛,1,Soccer,足球,45,Australia,澳大利亚
+1157,"Liga de Ascenso, Apertura",乙级联赛，秋季赛,1,Soccer,足球,34,Costa Rica,哥斯达黎加
+1156,"Liga De Ascenso, Clausura",乙级联赛，春季赛,1,Soccer,足球,34,Costa Rica,哥斯达黎加
 1158,Four Nations Tournament Women,Four Nations Tournament Women,1,Soccer,足球,44,International,国际
 1162,Brasiliense,巴西利亚联赛,1,Soccer,足球,58,Brazil,巴西
 1161,Premier League,孟加拉国足球超级联赛,1,Soccer,足球,181,Bangladesh,孟加拉国
@@ -1073,14 +1269,17 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 1170,"Coppa Italia, Women",意大利杯，女子,1,Soccer,足球,22,Italy,意大利
 1166,Super Cup,超级杯,1,Soccer,足球,204,Uruguay,乌拉圭
 1167,"League Cup A, Women",联赛杯A区，女子,1,Soccer,足球,4,Iceland,冰岛
+1172,USL League One,美足联甲级联赛,1,Soccer,足球,62,USA,美国
 1169,"Potiguar, Grand Final","Potiguar, Grand Final",1,Soccer,足球,58,Brazil,巴西
 1173,"Viareggio Cup, Women",维亚莱乔杯世界足球锦标赛,1,Soccer,足球,172,International Youth,国际青少年
 1174,National Premier Soccer League,美国足球全国超级级联赛,1,Soccer,足球,62,USA,美国
 1177,Copa de la Liga,Copa Diego Armando Maradona,1,Soccer,足球,185,Argentina,阿根廷
 1184,"Liga MX, Women, Apertura","Liga MX, Women, Apertura",1,Soccer,足球,89,Mexico,墨西哥
 1179,"Southern Football League, Championship Playoff","Southern Football League, Championship Playoff",1,Soccer,足球,25,England,英格兰
+1181,USL League Two,美足联乙级联赛,1,Soccer,足球,62,USA,美国
 1178,"Super Cup, Women",超级杯，女子,1,Soccer,足球,4,Iceland,冰岛
 1186,Copa Paraguay,Copa Paraguay,1,Soccer,足球,133,Paraguay,巴拉圭
+1185,"Liga Mx, Women, Clausura",墨西哥甲级联赛，女子，春季赛,1,Soccer,足球,89,Mexico,墨西哥
 1188,Czech-Slovak Supercup,Czech-Slovak Supercup,1,Soccer,足球,10,International Clubs,国际俱乐部
 1187,League Cup,联赛杯,1,Soccer,足球,41,Uzbekistan,乌兹别克斯坦
 1190,Copa Ecuador,Copa Ecuador,1,Soccer,足球,108,Ecuador,厄瓜多尔
@@ -1102,6 +1301,7 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 1224,"Pinatar Cup, Women","Pinatar Cup, Women",1,Soccer,足球,44,International,国际
 1226,Supercup,埃及超级杯,1,Soccer,足球,143,Egypt,埃及
 1227,Federation Cup,摩尔多瓦联合会杯,1,Soccer,足球,61,Moldova,摩尔多瓦
+1229,"Brasileiro Serie A2, Women",巴西足球乙级联赛，女子,1,Soccer,足球,58,Brazil,巴西
 1230,Super Cup,突尼斯超级杯,1,Soccer,足球,63,Tunisia,突尼斯
 2169,World Cup,世界杯,1,Soccer,足球,44,International,国际
 2161,Div 3 - SÖ Götaland,,1,Soccer,足球,20,Sweden,瑞典
@@ -1120,8 +1320,10 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 2578,Svenska Cup Women,瑞典杯，女子,1,Soccer,足球,20,Sweden,瑞典
 2588,Bayernliga South,巴伐利亚足球联赛南区,1,Soccer,足球,1,Germany,德国
 2594,Oberliga Niederrhein,德国下莱茵河上级联赛,1,Soccer,足球,1,Germany,德国
+2755,"2. Bundesliga, Women",德国女子足球乙级联赛,1,Soccer,足球,1,Germany,德国
 2587,Bayernliga North,巴伐利亚足球联赛北区,1,Soccer,足球,1,Germany,德国
 2597,Oberliga Rheinland-Pfalz,莱茵-普法尔茨/萨尔上级联赛,1,Soccer,足球,1,Germany,德国
+2861,"Division 2, Promotion Playoffs",乙级联赛，晋级季后赛,1,Soccer,足球,20,Sweden,瑞典
 2926,DFB-Pokal Junioren,德国足协青年俱乐部杯,1,Soccer,足球,1,Germany,德国
 3989,"Leinster Senior League, Senior Division",爱尔兰伦斯特高级联赛,1,Soccer,足球,47,Ireland,爱尔兰
 4010,Gold Coast Premier League,Gold Coast Premier League,1,Soccer,足球,45,Australia,澳大利亚
@@ -1171,6 +1373,7 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 4071,"Capital NPL, Women","Capital NPL, Women",1,Soccer,足球,45,Australia,澳大利亚
 4076,"Prva Hnl Academy, Juniori",克罗地亚足球青年学球学院,1,Soccer,足球,6,Croatia,克罗地亚
 4073,National Independent Soccer Association,National Independent Soccer Association,1,Soccer,足球,62,USA,美国
+4077,"Nadeshiko League, Div 2, Women",抚子联赛乙级联赛，女子,1,Soccer,足球,59,Japan,日本
 4078,Moscow Region Championship,Moscow Region Championship,1,Soccer,足球,46,Russia,俄罗斯
 4079,"Srpska Liga, Belgrade","Srpska Liga, Belgrade",1,Soccer,足球,12,Serbia,塞尔维亚
 4081,"Srpska Liga, Zapad","Srpska Liga, Zapad",1,Soccer,足球,12,Serbia,塞尔维亚
@@ -1211,6 +1414,7 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 4151,Afl Cup,Afl Cup,1,Soccer,足球,19,Bulgaria,保加利亚
 4147,"Slovenia Cup, Women","Slovenia Cup, Women",1,Soccer,足球,16,Slovenia,斯洛文尼亚
 4157,Vorarlbergliga,Vorarlbergliga,1,Soccer,足球,37,Austria,奥地利
+4158,"Ligue 2, Relegation Round",突尼斯足球乙级联赛降级赛,1,Soccer,足球,63,Tunisia,突尼斯
 4150,Women League,Women League,1,Soccer,足球,105,North Macedonia,北马其顿
 4162,Cup Epsana (East Attica Zone),Cup Epsana (East Attica Zone),1,Soccer,足球,43,Greece,希腊
 4164,Cup Epsa (Athens Zone),Cup Epsa (Athens Zone),1,Soccer,足球,43,Greece,希腊
@@ -1226,8 +1430,10 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 4631,Derde Divisie,Derde Divisie,1,Soccer,足球,156,Netherlands,荷兰
 4719,"NWSL Fall Series, Women","NWSL Fall Series, Women",1,Soccer,足球,62,USA,美国
 4693,Reserve League,,1,Soccer,足球,33,Denmark,丹麦
+4727,Primera Division Amateur,乌拉圭乙级业余联赛,1,Soccer,足球,204,Uruguay,乌拉圭
 4753,Cup - Republic of Srpska,波黑塞族共和国杯,1,Soccer,足球,104,Bosnia & Herzegovina,波斯尼亚和黑塞哥维那
 4742,Sudan Premier League,,1,Soccer,足球,182,Sudan,
+4740,"Division 1, Women",比利时女足甲级联赛,1,Soccer,足球,74,Belgium,比利时
 4800,Pro Liga,Pro Liga,1,Soccer,足球,41,Uzbekistan,乌兹别克斯坦
 4805,Croatian Women Cup,克罗地亚女子杯赛,1,Soccer,足球,6,Croatia,克罗地亚
 4817,Vfv Cup,奥地利VFV杯,1,Soccer,足球,37,Austria,奥地利
@@ -1241,6 +1447,7 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 4969,"Russian Cup, Women","Russian Cup, Women",1,Soccer,足球,46,Russia,俄罗斯
 4976,Super Cup,Super Cup,1,Soccer,足球,5,Turkmenistan,土库曼斯坦
 5028,"Suomen Cup, Women",苏门杯，女子,1,Soccer,足球,31,Finland,芬兰
+5091,"1st Division, Women",塞浦路斯女子足球甲级联赛,1,Soccer,足球,79,Cyprus,塞浦路斯
 5036,"Presidents Cup, Preliminary Round",阿联酋总统杯，预赛轮,1,Soccer,足球,139,United Arab Emirates,阿联酋
 5110,"Magyar Kupa, Women",匈牙利杯，女足,1,Soccer,足球,21,Hungary,匈牙利
 5113,Wiener Landescup,维也纳TOTO杯,1,Soccer,足球,37,Austria,奥地利
@@ -1279,13 +1486,17 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 5578,"Cosafa Cup, Women","Cosafa Cup, Women",1,Soccer,足球,44,International,国际
 5641,Liga III,Liga III,1,Soccer,足球,26,Romania,罗马尼亚
 5625,Copa FGF,Copa FGF,1,Soccer,足球,58,Brazil,巴西
+5703,Segunda Division,委内瑞拉足球乙级联赛,1,Soccer,足球,134,Venezuela,委内瑞拉
 5630,Bfa Cup,巴林足协杯,1,Soccer,足球,153,Bahrain,巴林
 5690,PFL,PFL,1,Soccer,足球,46,Russia,俄罗斯
 5659,National League,,1,Soccer,足球,55,Georgia,格鲁吉亚
 5713,Tasmania Lakoseljac Cup,,1,Soccer,足球,45,Australia,澳大利亚
 5706,Primera Nacional Women,Primera Nacional Women,1,Soccer,足球,23,Spain,西班牙
 5720,Cambodia Cup,,1,Soccer,足球,67,Cambodia,柬埔寨
+5721,Kakkonen,乙级联赛,1,Soccer,足球,31,Finland,芬兰
+5718,Division De Honor Juvenil,西班牙青年甲级联赛-第七组,1,Soccer,足球,23,Spain,西班牙
 5731,Brisbane Capital League 1,Brisbane Capital League 1,1,Soccer,足球,45,Australia,澳大利亚
+5750,Women 1St,波黑女足甲级联赛,1,Soccer,足球,104,Bosnia & Herzegovina,波斯尼亚和黑塞哥维那
 5737,Division 1,Division 1,1,Soccer,足球,20,Sweden,瑞典
 5764,Liga Women,Liga Women,1,Soccer,足球,130,Colombia,哥伦比亚
 5796,Nifl Development League,Nifl Development League,1,Soccer,足球,69,Northern Ireland,北爱尔兰
@@ -1312,10 +1523,14 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 5970,Women's EURO - Qualification - Group H,,1,Soccer,足球,44,International,国际
 5978,"Gaucho, Women","Gaucho, Women",1,Soccer,足球,58,Brazil,巴西
 5981,Liga Alef - North,,1,Soccer,足球,2,Israel,以色列
+5984,1st Division,澳门足球甲级联赛,1,Soccer,足球,214,Macao,
 5986,Superdivision,布基纳法索超级联赛,1,Soccer,足球,219,Burkina Faso,
 5982,Liga Alef - South,,1,Soccer,足球,2,Israel,以色列
 6014,Liga Alef,Liga Alef,1,Soccer,足球,2,Israel,以色列
 6032,Women League,Women League,1,Soccer,足球,54,Jordan,约旦
+6043,1St League,刚果甲级联赛,1,Soccer,足球,205,DR Congo,
+6048,"Primera Division, Women",女子甲级联赛,1,Soccer,足球,185,Argentina,阿根廷
+6050,Ligue 2,阿尔及利亚乙级联赛,1,Soccer,足球,142,Algeria,阿尔及利亚
 6052,"Premier League, Reserve","Premier League, Reserve",1,Soccer,足球,146,South Africa,南非
 6055,Reserve League,Reserve League,1,Soccer,足球,155,Qatar,卡塔尔
 6059,Cameroon Championship W,,1,Soccer,足球,171,Cameroon,喀麦隆
@@ -1339,8 +1554,10 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 6302,Federation Cup,Federation Cup,1,Soccer,足球,181,Bangladesh,孟加拉国
 6318,Arena Cup,Arena Cup,1,Soccer,足球,10,International Clubs,国际俱乐部
 6352,"Campeonato Pernambucano, Women","Campeonato Pernambucano, Women",1,Soccer,足球,58,Brazil,巴西
+6371,Mocambola,莫桑比克甲级联赛,1,Soccer,足球,229,Mozambique,
 6378,Premier League,Premier League,1,Soccer,足球,261,Mauritius,
 6436,Copa Santa Catarina,Copa Santa Catarina,1,Soccer,足球,58,Brazil,巴西
+6430,"Torneo Federal A, Playoffs","阿根廷全国足球甲级联赛, 附加赛",1,Soccer,足球,185,Argentina,阿根廷
 6450,Super Cup,Super Cup,1,Soccer,足球,70,Andorra,安道尔
 6444,Nepal Womens Football League,Nepal Womens Football League,1,Soccer,足球,254,Nepal,
 6449,Reykjavik Cup,Reykjavik Cup,1,Soccer,足球,4,Iceland,冰岛
@@ -1348,7 +1565,10 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 6548,Premier League,斐济全国足球联赛,1,Soccer,足球,230,Fiji,
 6525,Npl Night Series,Npl Night Series,1,Soccer,足球,45,Australia,澳大利亚
 6549,"National Football League, Women","National Football League, Women",1,Soccer,足球,230,Fiji,
+6566,Division 2,甘比亚乙级联赛,1,Soccer,足球,275,Gambia,
 6567,Alagoano Cup,Alagoano Cup,1,Soccer,足球,58,Brazil,巴西
+6622,Gfa League First Division,甘比亚甲级联赛,1,Soccer,足球,275,Gambia,
+6660,2. Ligi - Group 2 (Kirmizi),土耳其乙级联赛-红组,1,Soccer,足球,15,Turkey,土耳其
 6745,"Cup, Women",塞浦路斯女足杯,1,Soccer,足球,79,Cyprus,塞浦路斯
 6701,"Campeonato Potiguar, Women","Campeonato Potiguar, Women",1,Soccer,足球,58,Brazil,巴西
 6647,"Campeonato Cearense, Women","Campeonato Cearense, Women",1,Soccer,足球,58,Brazil,巴西
@@ -1365,6 +1585,7 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 6946,Karnataka W,,1,Soccer,足球,154,India,印度
 6899,FA Cup,FA Cup,1,Soccer,足球,38,Tanzania,坦桑尼亚
 6920,Benin Ligue 1,,1,Soccer,足球,99,Benin,
+6959,Ligue 1,贝宁足球甲级联赛,1,Soccer,足球,99,Benin,
 6961,Premier League,桑吉巴尔超级联赛,1,Soccer,足球,273,,
 7007,Super Cup,Super Cup,1,Soccer,足球,41,Uzbekistan,乌兹别克斯坦
 6965,Division One,Division One,1,Soccer,足球,199,Ghana,加纳
@@ -1375,6 +1596,7 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 7108,Women's League,印度女足联赛,1,Soccer,足球,154,India,印度
 7058,Division d'Honneur Guadeloupe,,1,Soccer,足球,102,Guadeloupe,
 7133,"Cup, Women","Cup, Women",1,Soccer,足球,105,North Macedonia,北马其顿
+7166,"Division Profesional, Apertura","玻利维亚足球甲级联赛, 春季赛",1,Soccer,足球,163,Bolivia,玻利维亚
 7126,"Cupei Romaniei, Women",罗马尼亚杯-女子,1,Soccer,足球,26,Romania,罗马尼亚
 7204,National League,National League,1,Soccer,足球,197,Nigeria,尼日利亚
 7188,Shield Cup,Shield Cup,1,Soccer,足球,54,Jordan,约旦
@@ -1393,10 +1615,12 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 7375,Nepal. Division 3,,1,Soccer,足球,254,Nepal,
 7354,Concacaf Olympic Qualification,Concacaf Olympic Qualification,1,Soccer,足球,172,International Youth,国际青少年
 7394,Menpora Cup,Menpora Cup,1,Soccer,足球,160,Indonesia,印尼
+7388,Big League,乌干达足球甲级联赛,1,Soccer,足球,233,Uganda,乌干达
 7461,"Pinnacle Cup, Playoffs","Pinnacle Cup, Playoffs",1,Soccer,足球,45,Australia,澳大利亚
 7396,Indonesian Cup,,1,Soccer,足球,160,Indonesia,印尼
 7460,Queensland Premier League 2,Queensland Premier League 2,1,Soccer,足球,45,Australia,澳大利亚
 7452,"NPL 2, Victoria","NPL 2, Victoria",1,Soccer,足球,45,Australia,澳大利亚
+7448,Elite Two,喀麦隆乙级联赛,1,Soccer,足球,171,Cameroon,喀麦隆
 7490,Camp. de Reserva de Primera Division B National,Camp. de Reserva de Primera Division B National,1,Soccer,足球,185,Argentina,阿根廷
 7506,"National Championship, Women","National Championship, Women",1,Soccer,足球,171,Cameroon,喀麦隆
 7496,Piala Presiden,Piala Presiden,1,Soccer,足球,194,Panama,巴拿马
@@ -1408,6 +1632,7 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 7528,"Faz League, Women","Faz League, Women",1,Soccer,足球,231,Zambia,赞比亚
 7523,Central League,Central League,1,Soccer,足球,97,New Zealand,新西兰
 7526,"National League, Women","National League, Women",1,Soccer,足球,271,Liberia,
+7524,First Division Women,甲级联赛 Women,1,Soccer,足球,142,Algeria,阿尔及利亚
 7515,"Mato-Grossense, Women","Mato-Grossense, Women",1,Soccer,足球,58,Brazil,巴西
 7582,District League,District League,1,Soccer,足球,83,Bhutan,不丹
 7555,"Victoria State Knockout Cup, Women","Victoria State Knockout Cup, Women",1,Soccer,足球,45,Australia,澳大利亚
@@ -1426,6 +1651,7 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 7695,Cup,Cup,1,Soccer,足球,40,Syrian Arab Republic,叙利亚
 7720,Championnat National de Premiere Division,Championnat National de Premiere Division,1,Soccer,足球,243,Togo,
 7692,Super D1,Super D1,1,Soccer,足球,202,Mauritania,
+7714,Division 1 Ligue Haitienne,海地足球甲级联赛,1,Soccer,足球,223,Haiti,
 7722,Moscow Supercup,Moscow Supercup,1,Soccer,足球,46,Russia,俄罗斯
 7658,Super D2,Super D2,1,Soccer,足球,202,Mauritania,
 7724,"Western Australia State Cup, Women","Western Australia State Cup, Women",1,Soccer,足球,45,Australia,澳大利亚
@@ -1502,6 +1728,7 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 8295,Liga 1. Women,,1,Soccer,足球,26,Romania,罗马尼亚
 8297,Championnat National,,1,Soccer,足球,243,Togo,
 8326,Premier League,Premier League,1,Soccer,足球,200,Namibia,Namibia
+8316,Tajikistan premier League,塔吉克斯坦足球甲级联赛,1,Soccer,足球,52,Tajikistan,塔吉克斯坦
 8391,Soap Soccer League,,1,Soccer,足球,44,International,国际
 8333,Division de Honor,阿鲁巴荣耀联赛,1,Soccer,足球,208,Aruba,
 8393,Premier League,,1,Soccer,足球,175,,
@@ -1523,6 +1750,7 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 8528,CFU Club Championship,,1,Soccer,足球,44,International,国际
 8531,Division 2,,1,Soccer,足球,233,Uganda,乌干达
 8456,Tasmania Northern Championship,Tasmania Northern Championship,1,Soccer,足球,45,Australia,澳大利亚
+8486,Division de Honor Juvenil - Grupo II,西班牙青年甲级联赛-第二组,1,Soccer,足球,23,Spain,西班牙
 8542,"Samoa Premier League, Women","Samoa Premier League, Women",1,Soccer,足球,286,,
 8544,Cup,Cup,1,Soccer,足球,266,,
 8548,"Primera Division, Relegation Playoffs","Primera Division, Relegation Playoffs",1,Soccer,足球,34,Costa Rica,哥斯达黎加
@@ -1539,10 +1767,12 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 8634,Leningrad Region Championship,Leningrad Region Championship,1,Soccer,足球,46,Russia,俄罗斯
 8632,Premier Division,Premier Division,1,Soccer,足球,96,Grenada,
 8655,FIFA World Cup 2026 Qualification,世界杯 预选赛  资格,1,Soccer,足球,44,International,国际
+8651,Primera Division,甲级联赛,1,Soccer,足球,118,Peru,秘鲁
 8705,"Fitzpatrick Cup, Women","Fitzpatrick Cup, Women",1,Soccer,足球,97,New Zealand,新西兰
 8735,SuperLeague,,1,Soccer,足球,251,Congo,刚果
 8724,Womens Premier Soccer League,美国足球女子超级联赛,1,Soccer,足球,62,USA,美国
 8771,Bhutan Championship Women,,1,Soccer,足球,83,Bhutan,不丹
+8715,"Liga Nacional de Ascenso, Playoffs",巴拿马乙级联赛，季后赛,1,Soccer,足球,194,Panama,巴拿马
 8738,Campeonato Brasileiro,,1,Soccer,足球,44,International,国际
 8739,AFC Cup Play-offs Round,亚足联杯-E组,1,Soccer,足球,44,International,国际
 8756,CAF Super Cup,,1,Soccer,足球,44,International,国际
@@ -1618,6 +1848,7 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 9461,Copa Mendoza,,1,Soccer,足球,185,Argentina,阿根廷
 9482,FA Cup,FA Cup,1,Soccer,足球,214,Macao,
 9479,UEFA Conference League,,1,Soccer,足球,44,International,国际
+9490,First Division,库拉索甲级联赛,1,Soccer,足球,235,Curacao,
 9501,Bosnia & Herzegovina. Regional Cup,,1,Soccer,足球,104,Bosnia & Herzegovina,波斯尼亚和黑塞哥维那
 9497,Super Cup,超级杯,1,Soccer,足球,3,Poland,波兰
 9494,6x6 Liga Pro,,1,Soccer,足球,46,Russia,俄罗斯
@@ -1656,6 +1887,7 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 9793,Aiteo Cup,Aiteo Cup,1,Soccer,足球,197,Nigeria,尼日利亚
 9792,"Super League, Women","Super League, Women",1,Soccer,足球,53,Kazakhstan,哈萨克斯坦
 9801,Kakkonen Women,,1,Soccer,足球,31,Finland,芬兰
+9827,Primera División ,阿根廷甲级联赛,1,Soccer,足球,185,Argentina,阿根廷
 9838,Campeón de Campeones,,1,Soccer,足球,89,Mexico,墨西哥
 9829,Olympics 2020 Soccer,,1,Soccer,足球,44,International,国际
 9843,"Queensland Super Cup, Women","Queensland Super Cup, Women",1,Soccer,足球,45,Australia,澳大利亚
@@ -1709,6 +1941,7 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 11529,"China League 2, Promotion Round, Group D","China League 2, Promotion Round, Group D",1,Soccer,足球,76,China,中国
 11396,League Two,,1,Soccer,足球,65,Mongolia,蒙古
 11533,"Premier League, Women",威尔士女足超级联赛,1,Soccer,足球,91,Wales,威尔士
+11818,"Nb Ii, Women",匈牙利女足乙级联赛,1,Soccer,足球,21,Hungary,匈牙利
 11823,"Championship, Women",英格兰足球协会女子锦标赛,1,Soccer,足球,25,England,英格兰
 11824,"3. Liga, West","3. Liga, West",1,Soccer,足球,42,Slovakia,斯洛伐克
 11963,"Primera B, Women","Primera B, Women",1,Soccer,足球,185,Argentina,阿根廷
@@ -1738,6 +1971,7 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 13509,Iraqi FA Cup,Iraqi FA Cup,1,Soccer,足球,186,Iraq,伊拉克
 13343,County Antrim Shield,北爱尔兰安特里姆郡盾赛,1,Soccer,足球,69,Northern Ireland,北爱尔兰
 13354,Fsb Cup,Fsb Cup,1,Soccer,足球,12,Serbia,塞尔维亚
+13511,"Primera Division, Women",智利女子足球甲级联赛,1,Soccer,足球,187,Chile,智利
 13533,League Cup,泰国联赛杯,1,Soccer,足球,184,Thailand,泰国
 13532,"Catarinense, Women","Catarinense, Women",1,Soccer,足球,58,Brazil,巴西
 13534,Coupe de La Ligue,Coupe de La Ligue,1,Soccer,足球,237,Mali,
@@ -1764,6 +1998,8 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 15102,Second Division,Second Division,1,Soccer,足球,269,Rwanda,卢旺达
 15104,"Campeonato Capixaba, Women","Campeonato Capixaba, Women",1,Soccer,足球,58,Brazil,巴西
 15691,Santosh Trophy,Santosh Trophy,1,Soccer,足球,154,India,印度
+15206,A-Division league,尼泊尔足球甲级联赛,1,Soccer,足球,254,Nepal,
+15736,Division 1,科威特甲级联赛,1,Soccer,足球,149,Kuwait,科威特
 15689,"Sergipano, Women","Sergipano, Women",1,Soccer,足球,58,Brazil,巴西
 15658,"Amazonense, Women","Amazonense, Women",1,Soccer,足球,58,Brazil,巴西
 15917,"Gaucho, Serie A2","Gaucho, Serie A2",1,Soccer,足球,58,Brazil,巴西
@@ -2346,9 +2582,13 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 7639,Premier League,Premier League,5,Handball,手球,40,Syrian Arab Republic,叙利亚
 12154,Super Cup,Super Cup,5,Handball,手球,15,Turkey,土耳其
 5946,"Cup, Women","Cup, Women",5,Handball,手球,6,Croatia,克罗地亚
+4292,Bundesliga,德国手球甲级联赛,5,Handball,手球,1,Germany,德国
+4494,SM Liiga,甲级联赛,5,Handball,手球,31,Finland,芬兰
+5435,"A1, Women",甲级联赛，女子,5,Handball,手球,43,Greece,希腊
 13332,"South And Central American Championship, Women","South And Central American Championship, Women",5,Handball,手球,44,International,国际
 4409,2A Divisao,2A Divisao,5,Handball,手球,17,Portugal,葡萄牙
 5546,A Rhg,A Rhg,5,Handball,手球,19,Bulgaria,保加利亚
+4411,HLA 2,奥地利HLA手球乙级联赛,5,Handball,手球,37,Austria,奥地利
 14437,"Cup, Women","Cup, Women",5,Handball,手球,14,Czech Republic,捷克
 33944,ICC World Cup Challenge League,ICC World Cup Challenge League B,5,Handball,手球,44,International,国际
 14918,"Campeonato Metropolitano, Men","Campeonato Metropolitano, Men",5,Handball,手球,133,Paraguay,巴拉圭
@@ -2370,6 +2610,7 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 4965,"1 Division, Norra, Women","1 Division, Norra, Women",5,Handball,手球,20,Sweden,瑞典
 13401,"Cup, Women","Cup, Women",5,Handball,手球,16,Slovenia,斯洛文尼亚
 18402,"Algeria Cup, Women","Algeria Cup, Women",5,Handball,手球,142,Algeria,阿尔及利亚
+4291,Women Bundesliga,德国女子手球甲级联赛,5,Handball,手球,1,Germany,德国
 4786,A1,手球锦标赛,5,Handball,手球,43,Greece,希腊
 4685,"1 Division, Women","1 Division, Women",5,Handball,手球,105,North Macedonia,北马其顿
 10567,Super Cup Women,超级杯，女子,5,Handball,手球,1,Germany,德国
@@ -2380,6 +2621,7 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 4490,Division De Honor Fem.,西班牙女子手球荣耀联赛,5,Handball,手球,23,Spain,西班牙
 8979,"African Nations Championship, Women",非洲国家杯女子手球锦标赛,5,Handball,手球,44,International,国际
 4488,Super Liga,Super Liga,5,Handball,手球,105,North Macedonia,北马其顿
+4571,"1. Division, Women",挪威女子手球甲级联赛,5,Handball,手球,29,Norway,挪威
 4367,Liga Asobal,西班牙Asobal杯手球赛,5,Handball,手球,23,Spain,西班牙
 9371,"Cup, Women","Cup, Women",5,Handball,手球,63,Tunisia,突尼斯
 7069,Copa del Rey,国王杯,5,Handball,手球,23,Spain,西班牙
@@ -2391,10 +2633,13 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 5432,"Allsvenskan, Women",瑞典女子手球超级联赛,5,Handball,手球,20,Sweden,瑞典
 4174,Club Friendly Games,俱乐部友谊赛,5,Handball,手球,44,International,国际
 12158,Supertaca,超级杯,5,Handball,手球,17,Portugal,葡萄牙
+4413,"1. Division, Women",丹麦女子手球甲级联赛,5,Handball,手球,33,Denmark,丹麦
 6477,"Extraliga, Women","Extraliga, Women",5,Handball,手球,14,Czech Republic,捷克
 5174,"SM-Liiga, Women","SM-Liiga, Women",5,Handball,手球,31,Finland,芬兰
 5127,"European Cup, Women",挑战赛,5,Handball,手球,44,International,国际
+4169,1.liga,斯洛文尼亚手球甲级联赛,5,Handball,手球,16,Slovenia,斯洛文尼亚
 5319,"A Rhg, Women","A Rhg, Women",5,Handball,手球,19,Bulgaria,保加利亚
+4465,LNH Division 1,法国手球全国甲级联赛,5,Handball,手球,66,France,法国
 7076,"Superliga, Division 2","Superliga, Division 2",5,Handball,手球,8,Belarus,白俄罗斯
 4353,Super League Reserve,Super League Reserve,5,Handball,手球,46,Russia,俄罗斯
 8763,"Serie A2, Women","Serie A2, Women",5,Handball,手球,22,Italy,意大利
@@ -2421,6 +2666,7 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 8613,Serie A1,Serie A1,5,Handball,手球,22,Italy,意大利
 4233,Super League,超级联赛,5,Handball,手球,46,Russia,俄罗斯
 5775,Superliga B,Superliga B,5,Handball,手球,12,Serbia,塞尔维亚
+4215,"NB I, Women",甲级联赛，女子镇,5,Handball,手球,21,Hungary,匈牙利
 4584,1a Divisao,葡萄牙手球超级联赛,5,Handball,手球,17,Portugal,葡萄牙
 14350,"Arab Clubs Handball Championship, Women","Arab Clubs Handball Championship, Women",5,Handball,手球,44,International,国际
 55322,Test Series England vs Ireland,Test Series England vs Ireland,5,Handball,手球,104,Bosnia & Herzegovina,波斯尼亚和黑塞哥维那
@@ -2440,6 +2686,7 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 13014,Kuwaiti Handball League,Kuwaiti Handball League,5,Handball,手球,149,Kuwait,科威特
 5367,"1St Division, Women","1St Division, Women",5,Handball,手球,24,Lithuania,立陶宛
 8319,Cup,Cup,5,Handball,手球,79,Cyprus,塞浦路斯
+4235,1. Division,丹麦手球甲级联赛,5,Handball,手球,33,Denmark,丹麦
 82164,Hilton Grand Vacations Tournament of Champions 202,Hilton Grand Vacations Tournament of Champions 202,5,Handball,手球,54,Jordan,约旦
 4390,National A,National A,5,Handball,手球,63,Tunisia,突尼斯
 4341,Extraliga,斯洛伐克手球超级联赛,5,Handball,手球,42,Slovakia,斯洛伐克
@@ -2453,8 +2700,10 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 8555,Cup,Cup,5,Handball,手球,15,Turkey,土耳其
 13391,"Ehf Euro Cup, Women","Ehf Euro Cup, Women",5,Handball,手球,44,International,国际
 105241,"ITF Italy F34, Men Doubles","ITF Italy F34, Men Doubles",5,Handball,手球,37,Austria,奥地利
+4972,Division 1,甲级联赛,5,Handball,手球,2,Israel,以色列
 4232,Superliga,波兰手球超级联赛,5,Handball,手球,3,Poland,波兰
 4381,Champions League Women,欧洲冠军联赛，女子,5,Handball,手球,44,International,国际
+5145,1. HRL Women,克罗地亚女子甲级联赛,5,Handball,手球,6,Croatia,克罗地亚
 4564,Allsvenskan,瑞典超级联赛,5,Handball,手球,20,Sweden,瑞典
 7621,2 Division,2 Division,5,Handball,手球,7,Montenegro,黑山
 5183,"Liga Nationala, Women",罗马尼亚全国篮球联赛，女子,5,Handball,手球,26,Romania,罗马尼亚
@@ -2479,6 +2728,7 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 5953,Cup,Cup,5,Handball,手球,6,Croatia,克罗地亚
 21414,"Cup, Women","Cup, Women",5,Handball,手球,2,Israel,以色列
 4696,Liga Nationala,罗马尼亚全国手球联赛,5,Handball,手球,26,Romania,罗马尼亚
+4204,Handboldligaen,丹麦男子甲级手球联赛,5,Handball,手球,33,Denmark,丹麦
 5332,Vyschaya Liga,Vyschaya Liga,5,Handball,手球,46,Russia,俄罗斯
 6115,"Club Friendly Games, W",俱乐部友谊赛，女子,5,Handball,手球,44,International,国际
 4363,Superliga Women,超级联赛，女子,5,Handball,手球,3,Poland,波兰
@@ -2497,8 +2747,10 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 8063,"Cup, Women","Cup, Women",5,Handball,手球,21,Hungary,匈牙利
 7103,"Super Liga, Playoffs","Super Liga, Playoffs",5,Handball,手球,105,North Macedonia,北马其顿
 4872,States Cup,States Cup,5,Handball,手球,2,Israel,以色列
+4797,I Liga,波兰手球甲级联赛,5,Handball,手球,3,Poland,波兰
 12867,Super Paulista,Super Paulista,5,Handball,手球,58,Brazil,巴西
 7754,Cup,Cup,5,Handball,手球,19,Bulgaria,保加利亚
+4217,NB I,甲级联赛,5,Handball,手球,21,Hungary,匈牙利
 8019,"Greece Cup, Women","Greece Cup, Women",5,Handball,手球,43,Greece,希腊
 4352,"Super League Reserve, Women","Super League Reserve, Women",5,Handball,手球,46,Russia,俄罗斯
 5281,Esiliiga,Esiliiga,5,Handball,手球,27,Estonia,爱沙尼亚
@@ -2523,6 +2775,7 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 4344,"2. Bundesliga, Women","2. Bundesliga, Women",5,Handball,手球,1,Germany,德国
 11295,"Japan Handball League, Women","Japan Handball League, Women",5,Handball,手球,59,Japan,日本
 5942,1 Division,1 Division,5,Handball,手球,7,Montenegro,黑山
+5082,Meistriliiga,甲级联赛,5,Handball,手球,27,Estonia,爱沙尼亚
 4873,Winner Cup,Winner Cup,5,Handball,手球,2,Israel,以色列
 6868,"World Championship Qualification, Women",世界女子手球锦标赛-资格赛,5,Handball,手球,44,International,国际
 14906,"1.lig, Group B","1.lig, Group B",5,Handball,手球,15,Turkey,土耳其
@@ -2531,7 +2784,9 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 4342,"Urvalsdeild, Women","Urvalsdeild, Women",5,Handball,手球,4,Iceland,冰岛
 26834,"1. Division, Promotion Group, Women","1. Division, Promotion Group, Women",5,Handball,手球,29,Norway,挪威
 5022,Superlig,超级杯,5,Handball,手球,15,Turkey,土耳其
+4361,"LFH Division 1, Women",法国手球甲级联赛，女子,5,Handball,手球,66,France,法国
 10981,Super Cup,超级杯,5,Handball,手球,33,Denmark,丹麦
+4410,1. Division,挪威手球甲级联赛,5,Handball,手球,29,Norway,挪威
 4867,Lnh Proligue,法国手球全国职业联赛,5,Handball,手球,66,France,法国
 19776,Asian Championship,Asian Championship,5,Handball,手球,44,International,国际
 4277,World Championship,世界男子手球锦标赛,5,Handball,手球,44,International,国际
@@ -2545,6 +2800,7 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 6656,"Cup, Women","Cup, Women",5,Handball,手球,30,Ukraine,乌克兰
 4993,Int. Friendly Games W,国际友谊赛，女子,5,Handball,手球,44,International,国际
 14541,Nacional Clubes A,Nacional Clubes A,5,Handball,手球,185,Argentina,阿根廷
+4918,Premijer Liga,克罗地亚男子手球甲级联赛,5,Handball,手球,6,Croatia,克罗地亚
 4370,Champions League,男子手球冠军联赛,5,Handball,手球,44,International,国际
 11180,South And Central American Clubs Championship,South And Central American Clubs Championship,5,Handball,手球,44,International,国际
 5880,Divizia A,Divizia A,5,Handball,手球,26,Romania,罗马尼亚
@@ -2575,6 +2831,7 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 33328,ECS Italy Super Series,ECS Italy Super Series,9,Formula 1,一级方程式,927,Formula 1,世界一级方程式锦标赛
 35503,"ATP Challenger Nonthaburi, Thailand Men Doubles","ATP Challenger Nonthaburi, Thailand Men Doubles",9,Formula 1,一级方程式,927,Formula 1,世界一级方程式锦标赛
 32961,The Senior Open 2022,The Senior Open 2022,9,Formula 1,一级方程式,927,Formula 1,世界一级方程式锦标赛
+38140,1st Division,德国五人制足球甲级联赛,9,Formula 1,一级方程式,927,Formula 1,世界一级方程式锦标赛
 32778,"ITF Canada 01A, Women Singles","ITF Canada 01A, Women Singles",9,Formula 1,一级方程式,927,Formula 1,世界一级方程式锦标赛
 62909,European Cricket Series T10 Switzerland Edition,European Cricket Series T10 Switzerland Edition,4,Tennis,网球,924,ITF Women,ITF女子
 63779,West Japan University Championship,West Japan University Championship,4,Tennis,网球,924,ITF Women,ITF女子
@@ -5346,6 +5603,8 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 5895,International Hockey League,International Hockey League,6,Ice Hockey,冰上曲棍球,44,International,国际
 26661,"World Championship Division 1, Group A",世界冰球一级锦标赛，A组,6,Ice Hockey,冰上曲棍球,44,International,国际
 25119,"World Championship, Women, Div III","World Championship, Women, Div III",6,Ice Hockey,冰上曲棍球,44,International,国际
+26307,"World Championship, Div II, Group A",世界冰球乙级锦标赛，A组,6,Ice Hockey,冰上曲棍球,44,International,国际
+4749,Erste Liga,奥地利冰球乙级联赛,6,Ice Hockey,冰上曲棍球,44,International,国际
 7241,"Nmhl (Mhl-B), Playoffs","Nmhl (Mhl-B), Playoffs",6,Ice Hockey,冰上曲棍球,46,Russia,俄罗斯
 7641,"World Championship, Women",世界女子锦标赛,6,Ice Hockey,冰上曲棍球,44,International,国际
 10474,Presidents Cup,Presidents Cup,6,Ice Hockey,冰上曲棍球,44,International,国际
@@ -5354,22 +5613,26 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 26305,"World Championship Division 1, Group B",世界冰球一级锦标赛，B组,6,Ice Hockey,冰上曲棍球,44,International,国际
 12100,Slovak Kup,Slovak Kup,6,Ice Hockey,冰上曲棍球,42,Slovakia,斯洛伐克
 12516,Erste Liga,Erste Liga,6,Ice Hockey,冰上曲棍球,21,Hungary,匈牙利
+26039,"World Championship, Div II, Group B",世界冰球乙级锦标赛，B组,6,Ice Hockey,冰上曲棍球,44,International,国际
 5661,"International Friendly Games, Women","International Friendly Games, Women",6,Ice Hockey,冰上曲棍球,44,International,国际
 13463,OHL,加拿大安大略冰球联盟,6,Ice Hockey,冰上曲棍球,73,Canada,加拿大
 23625,"2.Liga, Playout","2.Liga, Playout",6,Ice Hockey,冰上曲棍球,14,Czech Republic,捷克
 4778,Pro Hockey League,高级联赛,6,Ice Hockey,冰上曲棍球,53,Kazakhstan,哈萨克斯坦
+4997,1st League,甲级联赛,6,Ice Hockey,冰上曲棍球,42,Slovakia,斯洛伐克
 4194,KHL,俄罗斯大陆冰球联盟,6,Ice Hockey,冰上曲棍球,46,Russia,俄罗斯
 4226,VHL,俄罗斯超级冰球联赛,6,Ice Hockey,冰上曲棍球,46,Russia,俄罗斯
 20039,Romanian Hockey League,Romanian Hockey League,6,Ice Hockey,冰上曲棍球,26,Romania,罗马尼亚
 4828,Premier League,Premier League,6,Ice Hockey,冰上曲棍球,24,Lithuania,立陶宛
 12114,Extraliga Juniors,Extraliga Juniors,6,Ice Hockey,冰上曲棍球,14,Czech Republic,捷克
 25031,"World Championship, Women, Div I, Group B","World Championship, Women, Div I, Group B",6,Ice Hockey,冰上曲棍球,44,International,国际
+4970,Swiss League,瑞士冰球乙级联赛,6,Ice Hockey,冰上曲棍球,35,Switzerland,瑞士
 4733,Nmhl (Mhl - B),俄罗斯冰球青年B联赛,6,Ice Hockey,冰上曲棍球,46,Russia,俄罗斯
 4991,Young Stars League,青年群星联盟,6,Ice Hockey,冰上曲棍球,37,Austria,奥地利
 5005,Eliteserien,超级联赛,6,Ice Hockey,冰上曲棍球,29,Norway,挪威
 7666,Elite League,英格兰冰球精英联赛,6,Ice Hockey,冰上曲棍球,25,England,英格兰
 6454,Cup,Cup,6,Ice Hockey,冰上曲棍球,53,Kazakhstan,哈萨克斯坦
 26484,"World Championship, Women, Div I, Group A","World Championship, Women, Div I, Group A",6,Ice Hockey,冰上曲棍球,44,International,国际
+5104,1St Division,"克罗地亚冰球甲级联赛,男子",6,Ice Hockey,冰上曲棍球,6,Croatia,克罗地亚
 7231,Whl,加拿大女子冰球联赛,6,Ice Hockey,冰上曲棍球,73,Canada,加拿大
 6243,Echl,Echl,6,Ice Hockey,冰上曲棍球,62,USA,美国
 7217,"Vysshaya Liga, Playoffs","Vysshaya Liga, Playoffs",6,Ice Hockey,冰上曲棍球,8,Belarus,白俄罗斯
@@ -5382,9 +5645,11 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 17901,Christmas Cup,Christmas Cup,6,Ice Hockey,冰上曲棍球,44,International,国际
 4254,CLA  E-hokey World Cup,CLA  E-hokey World Cup,6,Ice Hockey,冰上曲棍球,39,Electronic Leagues,电子联盟
 5634,Int. Friendly Games,国际友谊赛,6,Ice Hockey,冰上曲棍球,44,International,国际
+4793,1st Division,挪威冰球甲级联赛,6,Ice Hockey,冰上曲棍球,29,Norway,挪威
 9936,Salei Cup,Salei Cup,6,Ice Hockey,冰上曲棍球,8,Belarus,白俄罗斯
 4296,Liiga,Liiga,6,Ice Hockey,冰上曲棍球,31,Finland,芬兰
 6651,Poland Cup,Poland Cup,6,Ice Hockey,冰上曲棍球,3,Poland,波兰
+19516,1. Liga,波兰冰球甲级联赛,6,Ice Hockey,冰上曲棍球,3,Poland,波兰
 22940,"2.Liga, Playoffs","2.Liga, Playoffs",6,Ice Hockey,冰上曲棍球,14,Czech Republic,捷克
 20638,Ffhg Division 1,Ffhg Division 1,6,Ice Hockey,冰上曲棍球,66,France,法国
 4795,National League,全国联赛,6,Ice Hockey,冰上曲棍球,35,Switzerland,瑞士
@@ -5398,6 +5663,7 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 5675,DEL 2,德国二线冰球联赛,6,Ice Hockey,冰上曲棍球,1,Germany,德国
 16733,Emirates Ice Hockey League,Emirates Ice Hockey League,6,Ice Hockey,冰上曲棍球,139,United Arab Emirates,阿联酋
 5771,MagentaSport Cup,MagentaSport Cup,6,Ice Hockey,冰上曲棍球,44,International,国际
+4823,Ligue Magnus,法国冰球Magnus甲级联赛,6,Ice Hockey,冰上曲棍球,66,France,法国
 4433,Professional Hockey League,Professional Hockey League,6,Ice Hockey,冰上曲棍球,30,Ukraine,乌克兰
 15407,WHL,WHL,6,Ice Hockey,冰上曲棍球,46,Russia,俄罗斯
 4271,SHL,SHL,6,Ice Hockey,冰上曲棍球,20,Sweden,瑞典
@@ -5408,7 +5674,9 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 4756,Extraliga,超级联赛,6,Ice Hockey,冰上曲棍球,42,Slovakia,斯洛伐克
 9385,Nzihl,新西兰冰球联盟,6,Ice Hockey,冰上曲棍球,97,New Zealand,新西兰
 5040,Quebec Major Junior Hockey League,魁北克青年曲棍球大联盟,6,Ice Hockey,冰上曲棍球,73,Canada,加拿大
+4825,Mestis,芬兰冰球乙级联赛,6,Ice Hockey,冰上曲棍球,31,Finland,芬兰
 4751,Vhl-B,Vhl-B,6,Ice Hockey,冰上曲棍球,46,Russia,俄罗斯
+4716,Superisligaen,丹麦冰球甲级联赛,6,Ice Hockey,冰上曲棍球,33,Denmark,丹麦
 20957,NHL All Star Game,美国冰球职业联盟全明星赛,6,Ice Hockey,冰上曲棍球,62,USA,美国
 19113,Dp Liga Playoffs,Dp Liga Playoffs,6,Ice Hockey,冰上曲棍球,16,Slovenia,斯洛文尼亚
 12475,NHL Preseason,美国冰球职业联盟-季前赛,6,Ice Hockey,冰上曲棍球,62,USA,美国
@@ -5426,9 +5694,11 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 4407,Allsvenskan,瑞典超级联赛,6,Ice Hockey,冰上曲棍球,20,Sweden,瑞典
 4356,Extraliga,捷克冰球超级联赛,6,Ice Hockey,冰上曲棍球,14,Czech Republic,捷克
 4493,"SDHL, Women",瑞典女子曲棍球联赛,6,Ice Hockey,冰上曲棍球,20,Sweden,瑞典
+4592,1st Liga,甲级联赛,6,Ice Hockey,冰上曲棍球,14,Czech Republic,捷克
 26746,Australian Ice Hockey League,澳大利亚冰球联盟,6,Ice Hockey,冰上曲棍球,45,Australia,澳大利亚
 22369,ISHF Top League,ISHF Top League,6,Ice Hockey,冰上曲棍球,44,International,国际
 18970,Meistriliiga,Meistriliiga,6,Ice Hockey,冰上曲棍球,27,Estonia,爱沙尼亚
+4886,HockeyEttan,甲级联赛,6,Ice Hockey,冰上曲棍球,20,Sweden,瑞典
 5810,NCAA Men,一级男子篮球锦标赛,6,Ice Hockey,冰上曲棍球,62,USA,美国
 5672,Germany Cup,德国杯,6,Ice Hockey,冰上曲棍球,44,International,国际
 4210,Liga Pro,Liga Pro,6,Ice Hockey,冰上曲棍球,46,Russia,俄罗斯
@@ -5526,6 +5796,7 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 7338,Pre-Season Friendlies,Pre-Season Friendlies,7,Baseball,棒球,11,Republic of Korea,韩国
 9234,"Olympic Games, Final Qualifier","Olympic Games, Final Qualifier",7,Baseball,棒球,44,International,国际
 8764,"Olympic Games, Americas Qualifier","Olympic Games, Americas Qualifier",7,Baseball,棒球,44,International,国际
+25480,1st Bundesliga,德国棒球甲级联赛,7,Baseball,棒球,1,Germany,德国
 14489,Lidom,多米尼加共和国职业棒球联盟,7,Baseball,棒球,80,Dominican Republic,多米尼加共和国
 23912,"CPBL, Preseason","CPBL, Preseason",7,Baseball,棒球,36,Chinese Taipei,中华台北
 24743,"NCAA, Regular Season",国家大学体育协会，常规赛季,7,Baseball,棒球,62,USA,美国
@@ -6017,6 +6288,7 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 4418,T20 Series England vs. Australia,T20 Series England vs. Australia,20,Cricket,板球,44,International,国际
 24383,List-A Series Namibia A vs Ireland A,List-A Series Namibia A vs Ireland A,20,Cricket,板球,44,International,国际
 12813,Everest Premier League,Everest Premier League,20,Cricket,板球,254,Nepal,
+5906,"County Championship, Division 2",英国板球郡冠军赛乙级联赛,20,Cricket,板球,25,England,英格兰
 8334,ODI Series Ireland A vs Netherlands A,ODI Series Ireland A vs Netherlands A,20,Cricket,板球,44,International,国际
 7115,"Odi Series India Vs. South Africa, Women","Odi Series India Vs. South Africa, Women",20,Cricket,板球,44,International,国际
 5755,ODI Series Australia vs. India,ODI Series Australia vs. India,20,Cricket,板球,44,International,国际
@@ -6122,6 +6394,7 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 15260,Sri Lanka V West Indies,Sri Lanka V West Indies,20,Cricket,板球,44,International,国际
 19692,Bangladesh Premier League,Bangladesh Premier League,20,Cricket,板球,181,Bangladesh,孟加拉国
 27517,T20 Valletta Cup,T20 Valletta Cup,20,Cricket,板球,44,International,国际
+5907,"County Championship, Division 1",英国板球郡冠军赛甲级联赛,20,Cricket,板球,25,England,英格兰
 6785,IPL All Stars series SRL,IPL All Stars series SRL,20,Cricket,板球,51,Simulated Reality League,Simulated Reality League
 31183,Mediterranean Games,Mediterranean Games,20,Cricket,板球,44,International,国际
 6970,Test Series Afghanistan vs Zimbabwe,Test Series Afghanistan vs Zimbabwe,20,Cricket,板球,44,International,国际
@@ -6359,8 +6632,10 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 24894,"Junior World Cup, Women","Junior World Cup, Women",42,Field hockey,草地曲棍球,44,International,国际
 6176,Len Euro Cup,LEN欧洲杯,49,Waterpolo,水球,44,International,国际
 43724,Kenya T20 Cup,Kenya T20 Cup,42,Field hockey,草地曲棍球,44,International,国际
+5719,Serie A1,甲级A1,49,Waterpolo,水球,22,Italy,意大利
 5832,Champions League,冠军联赛,49,Waterpolo,水球,44,International,国际
 6325,World League,世界联赛,49,Waterpolo,水球,44,International,国际
+8283,OB I,OB甲级联赛,49,Waterpolo,水球,21,Hungary,匈牙利
 6952,"Euro League, Women",欧洲联赛，女子,49,Waterpolo,水球,44,International,国际
 6559,International Friendly Games,国际友谊赛,49,Waterpolo,水球,44,International,国际
 7527,Adriatic League,国际水球亚得里亚海联赛,49,Waterpolo,水球,44,International,国际
@@ -6738,6 +7013,7 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 13166,"Kpl Fall, Regular Season","Kpl Fall, Regular Season",127,ESport King of Glory,电竞王者荣耀,1264,,
 16318,"Kpl Fall, Playoffs","Kpl Fall, Playoffs",127,ESport King of Glory,电竞王者荣耀,1264,,
 8879,Superpesis,芬兰棒球男子超级联赛,193,Pesapallo,芬兰棒球,31,Finland,芬兰
+8885,Ykkospesis,芬兰棒球甲级联赛,193,Pesapallo,芬兰棒球,31,Finland,芬兰
 8883,"Superpesis, Women",芬兰棒球女子超级联赛,193,Pesapallo,芬兰棒球,31,Finland,芬兰
 24263,"National Lacrosse League, Regular Season",National Lacrosse League,589,Lacrosse,长曲棍球,62,USA,美国
 19626,"India International (ic), Women Doubles","India International (ic), Women Doubles",23,Badminton,羽毛球,44,International,国际
@@ -7580,11 +7856,14 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 13003,Swiss Challenge 2021,Swiss Challenge 2021,16,Golf,高尔夫,939,Men,男子
 8871,D+D Real Czech Challenge 2021,D+D Real Czech Challenge 2021,16,Golf,高尔夫,939,Men,男子
 6123,NBL,NBL,8,Basketball,篮球,45,Australia,澳大利亚
+5039,"Nb I, Women",匈牙利女子篮球甲级联赛,8,Basketball,篮球,21,Hungary,匈牙利
 6161,NBA Preseason,NBA Preseason,8,Basketball,篮球,62,USA,美国
 8025,Nbl,乌干达男子联赛,8,Basketball,篮球,233,Uganda,乌干达
 6051,BBL,全英篮球联赛,8,Basketball,篮球,25,England,英格兰
+21409,1St Division,甲级,8,Basketball,篮球,33,Denmark,丹麦
 7989,"First League, Women","First League, Women",8,Basketball,篮球,105,North Macedonia,北马其顿
 7659,"A2, Women",意大利 女篮A2联赛,8,Basketball,篮球,22,Italy,意大利
+7889,2. Lig,土耳其篮球乙级联赛,8,Basketball,篮球,15,Turkey,土耳其
 5430,"Afrobasket, Qualifiers","Afrobasket, Qualifiers",8,Basketball,篮球,44,International,国际
 4193,Supercoppa,Supercoppa,8,Basketball,篮球,22,Italy,意大利
 27227,Filbasket League,Filbasket League,8,Basketball,篮球,239,Philippines,菲律宾
@@ -7592,18 +7871,23 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 6880,"Kvinneligaen, Women",挪威女子联赛,8,Basketball,篮球,29,Norway,挪威
 16655,"Championnat National, Women",喀麦隆女子国家冠军赛,8,Basketball,篮球,171,Cameroon,喀麦隆
 7690,National League,越南国家联赛,8,Basketball,篮球,9,Vietnam,越南
+4904,KLS,塞尔维亚篮球甲级联赛,8,Basketball,篮球,12,Serbia,塞尔维亚
 7501,D1 League,叙利亚D1联赛,8,Basketball,篮球,40,Syrian Arab Republic,叙利亚
 7893,"Nbl1 Women, South","Nbl1 Women, South",8,Basketball,篮球,45,Australia,澳大利亚
 7337,College Basketball Invitational,College Basketball Invitational,8,Basketball,篮球,62,USA,美国
+7783,"Division 1, Women",塞内加尔女篮甲级联赛,8,Basketball,篮球,250,Senegal,塞内加尔
 8086,Wnba Preseason,Wnba Preseason,8,Basketball,篮球,62,USA,美国
 7847,"Nbl1, South","Nbl1, South",8,Basketball,篮球,45,Australia,澳大利亚
 4495,NBL,捷克全国篮球联赛,8,Basketball,篮球,14,Czech Republic,捷克
 6755,Cup,Cup,8,Basketball,篮球,3,Poland,波兰
+7210,1. DBBL,德国篮球甲级联赛,8,Basketball,篮球,1,Germany,德国
+5357,Erste Liga,黑山甲级联赛,8,Basketball,篮球,7,Montenegro,黑山
 5213,LNA,瑞士篮球超级联赛,8,Basketball,篮球,35,Switzerland,瑞士
 5881,"Cup, Women",哈萨克斯坦杯，女子,8,Basketball,篮球,53,Kazakhstan,哈萨克斯坦
 9257,CEBL,CEBL,8,Basketball,篮球,73,Canada,加拿大
 5940,"World Cup Qualification, Europe",世界杯资格赛，欧洲,8,Basketball,篮球,44,International,国际
 16478,Division I,阿联酋一级联赛,8,Basketball,篮球,139,United Arab Emirates,阿联酋
+5168,First League,北马其顿甲级联赛,8,Basketball,篮球,105,North Macedonia,北马其顿
 6580,BBL Trophy,BBL Trophy,8,Basketball,篮球,25,England,英格兰
 4996,"Multigyn Moteru Lyga, Division A, Women",立陶宛女篮联赛,8,Basketball,篮球,24,Lithuania,立陶宛
 14829,1. Division B,1. Division B,8,Basketball,篮球,31,Finland,芬兰
@@ -7623,11 +7907,14 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 8640,Taca Nacional de Seniores,Nacional de Seniores 杯,8,Basketball,篮球,17,Portugal,葡萄牙
 4682,United League,篮球联盟,8,Basketball,篮球,44,International,国际
 5619,Russian Cup,Russian Cup,8,Basketball,篮球,46,Russia,俄罗斯
+4580,Liga ACB,西班牙职业篮球甲级联赛,8,Basketball,篮球,23,Spain,西班牙
 5670,Super League,超级联赛,8,Basketball,篮球,57,Iran,伊朗
 7245,"Cup, Women",突尼斯杯，女子,8,Basketball,篮球,63,Tunisia,突尼斯
 13182,"Premier League, Women",肯尼亚女篮超级联赛,8,Basketball,篮球,228,Kenya,肯尼亚
+7849,Lbl,拉脱维亚篮球甲级联赛,8,Basketball,篮球,50,Latvia,拉脱维亚
 5427,Wjbl,日本女子篮球联赛,8,Basketball,篮球,59,Japan,日本
 6954,Emir Cup,卡塔尔埃米尔杯,8,Basketball,篮球,155,Qatar,卡塔尔
+15161,"1. Liga, Women",波兰篮球女子甲级联赛,8,Basketball,篮球,3,Poland,波兰
 5089,AWBL,奥地利女子篮球联赛,8,Basketball,篮球,37,Austria,奥地利
 18928,Championnat National,喀麦隆国家冠军赛,8,Basketball,篮球,171,Cameroon,喀麦隆
 4184,Club Friendly Games,俱乐部友谊赛,8,Basketball,篮球,44,International,国际
@@ -7643,10 +7930,13 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 6402,"Division A, Women",突尼斯女篮A级联赛,8,Basketball,篮球,63,Tunisia,突尼斯
 16178,"Empress Cup, Women",日本天皇杯，女子,8,Basketball,篮球,59,Japan,日本
 7211,Championnat National,Championnat National,8,Basketball,篮球,170,,
+8064,"1St Division, Women",摩洛哥女篮甲级联赛,8,Basketball,篮球,141,Morocco,摩洛哥
+4902,Vysshaya Liga,白俄罗斯乙级联赛,8,Basketball,篮球,8,Belarus,白俄罗斯
 22782,1st Division,一级,8,Basketball,篮球,49,Albania,阿尔巴尼亚
 6319,Cup,Cup,8,Basketball,篮球,143,Egypt,埃及
 10050,Coupe de Mali,Coupe de Mali,8,Basketball,篮球,237,Mali,
 6429,Abl,Abl,8,Basketball,篮球,37,Austria,奥地利
+14199,1. Division,挪威甲级联赛,8,Basketball,篮球,29,Norway,挪威
 7371,Womens Basketball Invitational,Womens Basketball Invitational,8,Basketball,篮球,62,USA,美国
 23305,Cup,阿尔及利亚杯,8,Basketball,篮球,142,Algeria,阿尔及利亚
 5733,"Cup, Women",女子杯赛,8,Basketball,篮球,6,Croatia,克罗地亚
@@ -7654,11 +7944,16 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 8906,Group A,阿尔巴尼亚超级联赛,8,Basketball,篮球,49,Albania,阿尔巴尼亚
 8994,Int. Friendly Games,国际友谊赛,8,Basketball,篮球,44,International,国际
 7381,"Ncaa Division I National Championship, Women","Ncaa Division I National Championship, Women",8,Basketball,篮球,62,USA,美国
+5321,LEB Oro,西班牙职业篮球乙级联赛,8,Basketball,篮球,23,Spain,西班牙
 4680,TBSL,土耳其超级联赛,8,Basketball,篮球,15,Turkey,土耳其
 5679,European Championship Qualification,欧洲锦标赛预选赛,8,Basketball,篮球,44,International,国际
 17173,"Cibabaj, Women","Cibabaj, Women",8,Basketball,篮球,89,Mexico,墨西哥
 10254,"Primera Division, Women",危地马拉女篮超级联赛,8,Basketball,篮球,157,Guatemala,危地马拉
 6922,"Copa de la Reina, Women","Copa de la Reina, Women",8,Basketball,篮球,23,Spain,西班牙
+4838,1. A SKL,斯洛文尼亚篮球甲级联赛,8,Basketball,篮球,16,Slovenia,斯洛文尼亚
+7530,Division 1,塞内加尔甲级联赛,8,Basketball,篮球,250,Senegal,塞内加尔
+7587,A-League,格鲁吉亚甲级联赛,8,Basketball,篮球,55,Georgia,格鲁吉亚
+4968,"Superleague, 1St Division, Women",俄罗斯女篮超级联赛-甲级,8,Basketball,篮球,46,Russia,俄罗斯
 5008,A1 Women,意大利女篮A1联赛,8,Basketball,篮球,22,Italy,意大利
 19902,Liga e Pare,Liga e Pare,8,Basketball,篮球,32,Kosovo,科索沃
 5308,Cup,Cup,8,Basketball,篮球,26,Romania,罗马尼亚
@@ -7669,6 +7964,7 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 7936,Kml,爱沙尼亚篮球超级联赛,8,Basketball,篮球,27,Estonia,爱沙尼亚
 7363,"Cba, All Star Game",中国篮球职业联赛，全明星赛,8,Basketball,篮球,76,China,中国
 9002,Liga Super Basketball,巴西篮球超级联赛,8,Basketball,篮球,58,Brazil,巴西
+8578,Division B,女子乙级,8,Basketball,篮球,79,Cyprus,塞浦路斯
 5674,"Super League, Women",爱尔兰女篮超级联赛,8,Basketball,篮球,47,Ireland,爱尔兰
 23591,The Basketball CLassic,The Basketball CLassic,8,Basketball,篮球,62,USA,美国
 5007,Campeonato Nacional Liga Feminina,Campeonato Nacional Liga Feminina,8,Basketball,篮球,17,Portugal,葡萄牙
@@ -7677,13 +7973,17 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 6433,Super Eight,巴西超级8联赛,8,Basketball,篮球,58,Brazil,巴西
 5925,National League,哈萨克斯坦国家联赛,8,Basketball,篮球,53,Kazakhstan,哈萨克斯坦
 24297,P League,P League,8,Basketball,篮球,36,Chinese Taipei,中华台北
+9735,NBL,中国男子篮球甲级联赛,8,Basketball,篮球,76,China,中国
 7104,NBA All Star Game,NBA美国职业篮球联赛全明星赛,8,Basketball,篮球,62,USA,美国
+5184,1st Division,甲级联赛,8,Basketball,篮球,104,Bosnia & Herzegovina,波斯尼亚和黑塞哥维那
 6404,"Eurocup, Women",欧洲杯，女子,8,Basketball,篮球,44,International,国际
 7973,"SBL, Women","SBL, Women",8,Basketball,篮球,36,Chinese Taipei,中华台北
+20724,Division I,科威特篮球甲级联赛,8,Basketball,篮球,149,Kuwait,科威特
 16238,"Eska-Eskana A1, Women",希腊A1女子联赛,8,Basketball,篮球,43,Greece,希腊
 7456,Championship,孟加拉冠军联赛,8,Basketball,篮球,1034,,
 7742,"Nbl1, Central","Nbl1, Central",8,Basketball,篮球,45,Australia,澳大利亚
 7085,Division B,突尼斯B级联赛,8,Basketball,篮球,63,Tunisia,突尼斯
+18703,"Multigyn Moteru Lyga, Division B, Women",立陶宛女篮乙级联赛,8,Basketball,篮球,24,Lithuania,立陶宛
 5767,Supercoppa LNP,全国篮球联赛超级杯,8,Basketball,篮球,22,Italy,意大利
 22768,BNXT League,BNXT League,8,Basketball,篮球,44,International,国际
 5687,"European Championship Qualification, Women",欧洲锦标赛预选赛，女子,8,Basketball,篮球,44,International,国际
@@ -7695,6 +7995,7 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 8355,"Nbl1, North","Nbl1, North",8,Basketball,篮球,45,Australia,澳大利亚
 54590,"Southeast Asian Games, Singles","Southeast Asian Games, Singles",8,Basketball,篮球,194,Panama,巴拿马
 4686,"Coupe De France, Women",法国杯，女子,8,Basketball,篮球,66,France,法国
+8012,"2. Liga, Women",波兰女篮乙级联赛,8,Basketball,篮球,3,Poland,波兰
 23870,"National Basketball League, Women",菲律宾国家女篮联赛,8,Basketball,篮球,239,Philippines,菲律宾
 21610,LBC,LBC,8,Basketball,篮球,92,Malta,马耳他
 5360,Vba,越南篮球联赛,8,Basketball,篮球,9,Vietnam,越南
@@ -7720,6 +8021,7 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 5003,KBL,韩国篮球联赛,8,Basketball,篮球,11,Republic of Korea,韩国
 7372,Womens National Invitation Tournament,Womens National Invitation Tournament,8,Basketball,篮球,62,USA,美国
 5346,"Division A, Women",女子A级,8,Basketball,篮球,19,Bulgaria,保加利亚
+7328,"Vysshaya Liga, Women, Playoffs",白俄罗斯女子篮球乙级联赛，季后赛,8,Basketball,篮球,8,Belarus,白俄罗斯
 18927,"Championnat National, Women","Championnat National, Women",8,Basketball,篮球,170,,
 7947,Cup,格鲁吉亚杯,8,Basketball,篮球,55,Georgia,格鲁吉亚
 27494,"Liga Super Basketball, League B","Liga Super Basketball, League B",8,Basketball,篮球,58,Brazil,巴西
@@ -7736,11 +8038,15 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 17037,"Super Division, Women",阿尔及利亚女子超级联赛,8,Basketball,篮球,142,Algeria,阿尔及利亚
 13400,"SB League, Women","SB League, Women",8,Basketball,篮球,35,Switzerland,瑞士
 15798,"World Cup Qualification, Africa","World Cup Qualification, Africa",8,Basketball,篮球,44,International,国际
+5904,Campeonato Nacional 2. Divisao,葡萄牙国家乙级联赛,8,Basketball,篮球,17,Portugal,葡萄牙
 7749,Coupe Du Senegal,塞内加尔杯,8,Basketball,篮球,250,Senegal,塞内加尔
 10114,NBA Summer League,NBA Summer League,8,Basketball,篮球,62,USA,美国
 6056,Cup,杯,8,Basketball,篮球,24,Lithuania,立陶宛
 12718,Superettan,Superettan,8,Basketball,篮球,20,Sweden,瑞典
 24286,Cup,Cup,8,Basketball,篮球,19,Bulgaria,保加利亚
+4761,Pro B,法国篮球乙级职业联赛,8,Basketball,篮球,66,France,法国
+5371,Division A,甲级联赛,8,Basketball,篮球,79,Cyprus,塞浦路斯
+5649,NBB,巴西NBB篮球甲级联赛,8,Basketball,篮球,58,Brazil,巴西
 9217,Canadian Elite Basketball League,Canadian Elite Basketball League,8,Basketball,篮球,73,Canada,加拿大
 15523,Nba G League Showcase Cup,Nba G League Showcase Cup,8,Basketball,篮球,62,USA,美国
 8917,Copa Sao Paulo,Copa Sao Paulo,8,Basketball,篮球,58,Brazil,巴西
@@ -7753,8 +8059,11 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 6145,Fiba Asia Champions Cup,FIBA Asia Champions Cup,8,Basketball,篮球,44,International,国际
 10026,"Coupe de Mali, Women","Coupe de Mali, Women",8,Basketball,篮球,237,Mali,
 9760,Cup,摩洛哥杯,8,Basketball,篮球,141,Morocco,摩洛哥
+5370,Ligan,瑞典篮球甲级联赛,8,Basketball,篮球,20,Sweden,瑞典
 4568,Lsb League,尼加拉瓜LSB联赛,8,Basketball,篮球,71,Nicaragua,尼加拉瓜
+4833,1 Liga,甲级联赛,8,Basketball,篮球,3,Poland,波兰
 5278,CBA,中国篮球职业联赛,8,Basketball,篮球,76,China,中国
+5318,Pro A,德国职业篮球甲级联赛,8,Basketball,篮球,1,Germany,德国
 4347,Liga Femenina,乌拉圭女子联赛,8,Basketball,篮球,204,Uruguay,乌拉圭
 7495,"Championnat National D1, Women",马里国家女篮锦标赛,8,Basketball,篮球,76,China,中国
 5194,Waba League,WABA联赛,8,Basketball,篮球,44,International,国际
@@ -7765,12 +8074,14 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 5778,Serie A2,意大利篮球A2系列赛,8,Basketball,篮球,22,Italy,意大利
 4250,CLA  Western Conference,CLA  Western Conference,8,Basketball,篮球,39,Electronic Leagues,电子联盟
 4248,El Metro,Metro联赛,8,Basketball,篮球,204,Uruguay,乌拉圭
+4917,"1. Skl, Women",斯洛维尼亚女篮甲级联赛,8,Basketball,篮球,16,Slovenia,斯洛文尼亚
 5073,DBL,荷兰篮球联盟,8,Basketball,篮球,156,Netherlands,荷兰
 22259,T1 League,T1 League,8,Basketball,篮球,36,Chinese Taipei,中华台北
 8159,"Cup, Women",塞内加尔杯，女子,8,Basketball,篮球,250,Senegal,塞内加尔
 15207,LNB Segunda,LNB Segunda,8,Basketball,篮球,159,El Salvador,萨尔瓦多
 6379,Cup,黑山杯,8,Basketball,篮球,7,Montenegro,黑山
 8356,"Nbl1 North, Women","Nbl1 North, Women",8,Basketball,篮球,45,Australia,澳大利亚
+8040,1St Division,摩洛哥乙级联赛,8,Basketball,篮球,141,Morocco,摩洛哥
 15237,TOP League,吉尔吉斯顶级联赛,8,Basketball,篮球,216,Kyrgyzstan,
 4919,"Coppa Italia A2, Women",意大利女篮A2联赛杯,8,Basketball,篮球,22,Italy,意大利
 6406,Leb Plata,西班牙LEB Plata联赛,8,Basketball,篮球,23,Spain,西班牙
@@ -7796,18 +8107,24 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 5157,NBL,保加利亚全国男子篮球联赛,8,Basketball,篮球,19,Bulgaria,保加利亚
 14875,Copa SuperLiga,Copa SuperLiga,8,Basketball,篮球,134,Venezuela,委内瑞拉
 21072,Superleague,Superleague,8,Basketball,篮球,30,Ukraine,乌克兰
+5148,WCBA,中国女子篮球甲级联赛,8,Basketball,篮球,76,China,中国
 4624,Leaders Cup Pro B,Leaders Cup Pro B,8,Basketball,篮球,66,France,法国
 5621,State Cup,国家杯,8,Basketball,篮球,2,Israel,以色列
 8896,National League,卢旺达国家联赛,8,Basketball,篮球,269,Rwanda,卢旺达
 6173,"Super League, Women",以色列女篮超级联赛,8,Basketball,篮球,2,Israel,以色列
 5075,A2,A2,8,Basketball,篮球,43,Greece,希腊
 5066,Premier League Women,俄罗斯篮球女子超级联赛,8,Basketball,篮球,46,Russia,俄罗斯
+5061,NB I,匈牙利篮球甲级联赛,8,Basketball,篮球,21,Hungary,匈牙利
+5320,"A1, Women",甲级联赛，女子,8,Basketball,篮球,43,Greece,希腊
+7505,First Division,甲级联赛,8,Basketball,篮球,176,Lebanon,黎巴嫩
 8354,Cup,杯,8,Basketball,篮球,16,Slovenia,斯洛文尼亚
 7845,"Nbl1 Women, West","Nbl1 Women, West",8,Basketball,篮球,45,Australia,澳大利亚
 5666,ABA Liga 2,ABA Liga 2,8,Basketball,篮球,44,International,国际
+8043,2. Liga,波兰篮球乙级联赛,8,Basketball,篮球,3,Poland,波兰
 19392,Suomen Cup,Suomen Cup,8,Basketball,篮球,31,Finland,芬兰
 5312,Superleague,Superleague,8,Basketball,篮球,55,Georgia,格鲁吉亚
 17038,Cup,约旦杯,8,Basketball,篮球,54,Jordan,约旦
+10336,Division 1,约旦甲级联赛,8,Basketball,篮球,54,Jordan,约旦
 6480,Europe Cup,欧洲杯,8,Basketball,篮球,44,International,国际
 15901,Qbl,卡塔尔篮球联赛,8,Basketball,篮球,155,Qatar,卡塔尔
 6900,"Cup, Women",匈牙利杯，女子,8,Basketball,篮球,21,Hungary,匈牙利
@@ -7847,6 +8164,8 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 4266,NCAA Basketball,NCAA 篮球,8,Basketball,篮球,62,USA,美国
 14910,Liga de Desarrollo,阿根廷发展联盟,8,Basketball,篮球,185,Argentina,阿根廷
 4762,Cup,俄罗斯杯,8,Basketball,篮球,46,Russia,俄罗斯
+5436,Armenia Basketball League A,亚美尼亚篮球甲级联赛,8,Basketball,篮球,18,Armenia,亚美尼亚
+5883,Vyshaya League,哈萨克斯坦乙级联赛,8,Basketball,篮球,53,Kazakhstan,哈萨克斯坦
 6579,A1 Liga,A1 Liga,8,Basketball,篮球,104,Bosnia & Herzegovina,波斯尼亚和黑塞哥维那
 12894,"Asia Cup, Women",女子亚洲杯,8,Basketball,篮球,44,International,国际
 4665,BBL,德国篮球联赛,8,Basketball,篮球,1,Germany,德国
@@ -7863,10 +8182,13 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 14139,"LFB, Women","LFB, Women",8,Basketball,篮球,159,El Salvador,萨尔瓦多
 15937,Vysshaya League,Vysshaya League,8,Basketball,篮球,8,Belarus,白俄罗斯
 7851,"Cup, Women",斯洛维尼亚杯，女子,8,Basketball,篮球,16,Slovenia,斯洛文尼亚
+4687,1st League,捷克篮球甲级联赛,8,Basketball,篮球,14,Czech Republic,捷克
 14876,"SuperLiga, Women","SuperLiga, Women",8,Basketball,篮球,134,Venezuela,委内瑞拉
+4896,Campeonato Nacional 1. Divisao,葡萄牙国家甲级联赛,8,Basketball,篮球,17,Portugal,葡萄牙
 5680,"Catarinense, Women","Catarinense, Women",8,Basketball,篮球,58,Brazil,巴西
 13221,Super Cup,超级杯,8,Basketball,篮球,37,Austria,奥地利
 7451,FIBA Centrob. Ch.sh. W,FIBA Centrob. Ch.sh. W,8,Basketball,篮球,44,International,国际
+18981,Liga I,罗马尼亚甲级联赛,8,Basketball,篮球,26,Romania,罗马尼亚
 13464,"Division A, Women","Division A, Women",8,Basketball,篮球,79,Cyprus,塞浦路斯
 44667,"eXTREMESLAND Festival, Playoffs","Extremesland Festival, Playoffs",8,Basketball,篮球,35,Switzerland,瑞士
 4884,Extraliga,斯洛伐克篮球超级联赛,8,Basketball,篮球,42,Slovakia,斯洛伐克
@@ -7874,10 +8196,13 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 5945,"NCAA, Women","NCAA, Women",8,Basketball,篮球,62,USA,美国
 25045,"UAAP, Senior",菲律宾UAAP篮球联赛,8,Basketball,篮球,239,Philippines,菲律宾
 9008,American Ch.ship Women,泛美女篮锦标赛,8,Basketball,篮球,44,International,国际
+4930,I Liiga,爱沙尼亚篮球甲级联赛,8,Basketball,篮球,27,Estonia,爱沙尼亚
 7739,"Nbl1 Women, Central","Nbl1 Women, Central",8,Basketball,篮球,45,Australia,澳大利亚
+4942,"Vysshaya Liga, Women",白俄罗斯女子篮球乙级联赛,8,Basketball,篮球,8,Belarus,白俄罗斯
 12148,Liga Panamena de Baloncesto Femenina,Liga Panamena de Baloncesto Femenina,8,Basketball,篮球,194,Panama,巴拿马
 14539,"Lbbl, Women","Lbbl, Women",8,Basketball,篮球,114,Luxembourg,卢森堡
 5285,Dameligaen,女子联赛,8,Basketball,篮球,33,Denmark,丹麦
+14409,Bov League 1St Div,马耳他甲级联赛,8,Basketball,篮球,92,Malta,马耳他
 7537,B3.league,日本B3联赛,8,Basketball,篮球,59,Japan,日本
 17132,Paraense,Paraense,8,Basketball,篮球,58,Brazil,巴西
 12845,"Super Cup, Women","Super Cup, Women",8,Basketball,篮球,17,Portugal,葡萄牙
@@ -7889,6 +8214,7 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 13341,1 Division,1 Division,8,Basketball,篮球,31,Finland,芬兰
 71191,"WTT Feeder Doha II, XD","WTT Feeder Doha II, XD",8,Basketball,篮球,44,International,国际
 5819,"Taifa Cup, Women","Taifa Cup, Women",8,Basketball,篮球,38,Tanzania,坦桑尼亚
+4467,Serie A,意大利篮球甲级联赛,8,Basketball,篮球,22,Italy,意大利
 6812,"Liga Nacional, Women","Liga Nacional, Women",8,Basketball,篮球,185,Argentina,阿根廷
 6370,"Cup, Women",塞尔维亚Milan Ciga 女篮杯,8,Basketball,篮球,12,Serbia,塞尔维亚
 5016,Cup,爱沙尼亚杯,8,Basketball,篮球,27,Estonia,爱沙尼亚
@@ -7907,6 +8233,7 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 21244,"World Cup Women, Qualification","World Cup Women, Qualification",8,Basketball,篮球,44,International,国际
 12812,Supercoppa Lnp Serie B,Supercoppa Lnp Serie B,8,Basketball,篮球,22,Italy,意大利
 9030,Liga Mayor de Baloncesto Femenino,Liga Mayor de Baloncesto Femenino,8,Basketball,篮球,159,El Salvador,萨尔瓦多
+6356,"Division 1, Women",女子甲级联赛,8,Basketball,篮球,17,Portugal,葡萄牙
 12147,Cup,韩国杯,8,Basketball,篮球,11,Republic of Korea,韩国
 4172,NBA,美国职业篮球联赛,8,Basketball,篮球,62,USA,美国
 6231,Belgium Cup,比利时杯,8,Basketball,篮球,74,Belgium,比利时
@@ -7923,6 +8250,7 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 94868,"Pro Tour Sveti Vlas, Women","Pro Tour Sveti Vlas, Women",8,Basketball,篮球,184,Thailand,泰国
 5820,Superliga,Superliga,8,Basketball,篮球,134,Venezuela,委内瑞拉
 21856,NBA Rising Stars Challenge,NBA Rising Stars Challenge,8,Basketball,篮球,62,USA,美国
+5604,National A League,国家甲级联赛,8,Basketball,篮球,63,Tunisia,突尼斯
 4926,Cup,杯赛,8,Basketball,篮球,17,Portugal,葡萄牙
 4444,Superleague,埃及超级联赛,8,Basketball,篮球,143,Egypt,埃及
 9133,Arabian Gulf Basketball Clubs Championship,阿拉伯海湾俱乐部锦标赛,8,Basketball,篮球,44,International,国际
@@ -7932,24 +8260,30 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 8932,Iraq Basketball League,Iraq Basketball League,8,Basketball,篮球,186,Iraq,伊拉克
 13004,Arab Club Championship,阿拉伯俱乐部锦标赛,8,Basketball,篮球,44,International,国际
 4834,Cup,杯赛,8,Basketball,篮球,14,Czech Republic,捷克
+7598,"Vysshaya Liga, Playoffs",白俄罗斯乙级联赛，季后赛,8,Basketball,篮球,8,Belarus,白俄罗斯
 6296,2. MLS,2. MLS,8,Basketball,篮球,12,Serbia,塞尔维亚
 8024,"Nbl, Women",乌干达女子来纳塞,8,Basketball,篮球,233,Uganda,乌干达
 7110,Cup,斯洛伐克杯,8,Basketball,篮球,42,Slovakia,斯洛伐克
 7234,IBL,印尼篮球联赛,8,Basketball,篮球,160,Indonesia,印尼
+6073,Division 1,伊朗甲级联赛,8,Basketball,篮球,57,Iran,伊朗
 21701,Niu,Niu,8,Basketball,篮球,92,Malta,马耳他
 4276,Euroleague,欧洲联赛,8,Basketball,篮球,44,International,国际
 7863,China University Basketball League One,China University Basketball League One,8,Basketball,篮球,76,China,中国
 4906,"LFB, Women",法国女子篮球联赛，女子,8,Basketball,篮球,66,France,法国
+4755,Liga Femenina,西班牙篮球女子甲级联赛,8,Basketball,篮球,23,Spain,西班牙
 7091,"Cup, Women","Cup, Women",8,Basketball,篮球,22,Italy,意大利
 5294,CBA Pre-season,CBA Pre-season,8,Basketball,篮球,76,China,中国
+8139,Prva Liga,克罗地亚乙级联赛,8,Basketball,篮球,6,Croatia,克罗地亚
 5074,Saigon Premier League,Saigon Premier League,8,Basketball,篮球,9,Vietnam,越南
 5859,Cup,突尼斯杯,8,Basketball,篮球,63,Tunisia,突尼斯
 5112,"Paulista League, Women",圣保罗女子篮球联赛,8,Basketball,篮球,58,Brazil,巴西
+7715,Morocco Basketball League,摩洛哥篮球甲级联赛,8,Basketball,篮球,141,Morocco,摩洛哥
 16854,"PBA, Governors Cup",菲律宾篮球联盟总督杯,8,Basketball,篮球,239,Philippines,菲律宾
 7532,"Serie A2, LNP Cup","Serie A2, LNP Cup",8,Basketball,篮球,22,Italy,意大利
 25451,NBL,国家篮球联赛,8,Basketball,篮球,73,Canada,加拿大
 24611,Cyprus Cup,塞浦路斯杯,8,Basketball,篮球,79,Cyprus,塞浦路斯
 5758,WNBL,美国女子职业篮球联赛,8,Basketball,篮球,45,Australia,澳大利亚
+6829,Liga Argentina,阿根廷篮球乙级联赛,8,Basketball,篮球,185,Argentina,阿根廷
 9220,NLB,NLB,8,Basketball,篮球,35,Switzerland,瑞士
 5345,Bbl,A级,8,Basketball,篮球,19,Bulgaria,保加利亚
 11419,Superpuchar,波兰超级杯,8,Basketball,篮球,3,Poland,波兰
@@ -7968,6 +8302,7 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 21914,LNB Tercera,LNB Tercera,8,Basketball,篮球,159,El Salvador,萨尔瓦多
 8930,Liga Profesional,Liga Profesional,8,Basketball,篮球,130,Colombia,哥伦比亚
 5258,Eska-Eskana A3,希腊A3联赛,8,Basketball,篮球,43,Greece,希腊
+16357,"Prva A Liga, Women",黑山女子篮球甲级联赛,8,Basketball,篮球,7,Montenegro,黑山
 18013,All Star Game,All Star Game,8,Basketball,篮球,66,France,法国
 4949,BBL-Pokal,德国篮球联赛杯,8,Basketball,篮球,1,Germany,德国
 30777,Kpmg Womens Pga Championship 2022,Kpmg Womens Pga Championship 2022,8,Basketball,篮球,71,Nicaragua,尼加拉瓜
@@ -7977,6 +8312,7 @@ id_league,league-en,league-zh,sportId,sport-en,sport-zh,locationId,region-en,reg
 7270,National Invitation Tournament,National Invitation Tournament,8,Basketball,篮球,62,USA,美国
 53606,"Asia Championships, Women Doubles","Asia Championships, Women Doubles",8,Basketball,篮球,44,International,国际
 4914,ZBL,捷克女子篮球联赛,8,Basketball,篮球,14,Czech Republic,捷克
+13467,"1. Lig, Women",土耳其篮球甲级联赛，女子,8,Basketball,篮球,15,Turkey,土耳其
 4567,"Cup, Women",女子杯赛,8,Basketball,篮球,46,Russia,俄罗斯
 26987,Liga de Lima,秘鲁利马联赛,8,Basketball,篮球,118,Peru,秘鲁
 7102,"LBF, Women","LBF, Women",8,Basketball,篮球,58,Brazil,巴西

@@ -31,8 +31,6 @@ match_list = [
   'U21',
   'U22',
   'U23',
-  '甲',
-  '乙',
   '丙',
   '丁',
   '州',
@@ -154,10 +152,10 @@ unmatched_rows.to_csv('unmatched_rows.csv', index=False, encoding='utf-8')
 
 sportIds = list(set(unmatched_rows["sportId"].tolist()))
 leagueIds = list(set(unmatched_rows["id_league"].tolist()))
-white_dict = {
-   "sportIds":sportIds,
-    "leagueIds":leagueIds
-}
+white_list = [
+   {"sportIds":sportIds},
+    {"leagueIds":leagueIds}
+]
 import json
 with open('hub88_process_whitelist.json', 'w') as f:
-    json.dump(white_dict, f, indent=4)
+    json.dump(white_list, f, indent=2)
