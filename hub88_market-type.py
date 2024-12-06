@@ -3,7 +3,7 @@ import pandas as pd
 # 导入 hub88_api 模块
 import hub88_api as hub88
 
-df = pd.read_json(r'C:\Users\wys94\hub88-config\pwd.json')
+df = pd.read_json(r'/Users/wys/dev/hub88-config/pwd.json')
 
 clientId = df['clientId'][0]  # 获取第一行的username
 password = df['password'][0]  # 获取第一行的password

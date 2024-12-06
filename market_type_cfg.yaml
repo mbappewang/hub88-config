@@ -1,0 +1,302 @@
+- sportId: 1
+  sportName: Soccer
+  FirstType: 1
+  FirstTypeName: 1x2
+  SecondType: 47
+  SecondTypeName: Handicap
+  ThirdType: 66
+  ThirdTypeName: Total
+- sportId: 2
+  sportName: Table Tennis
+  FirstType: 28169
+  FirstTypeName: Winner
+  ThirdType: 28599
+  ThirdTypeName: Total points
+  SecondType: 2108017
+  SecondTypeName: HANDICAP
+- sportId: 4
+  sportName: Tennis
+  FirstType: 28169
+  FirstTypeName: Winner
+  SecondType: 28170
+  SecondTypeName: Game handicap
+  ThirdType: 28175
+  ThirdTypeName: Total games
+- sportId: 5
+  sportName: Handball
+  FirstType: 1
+  FirstTypeName: 1x2
+  SecondType: 47
+  SecondTypeName: Handicap
+  ThirdType: 66
+  ThirdTypeName: Total
+- sportId: 6
+  sportName: Ice Hockey
+  FirstType: 1
+  FirstTypeName: 1x2
+  SecondType: 47
+  SecondTypeName: Handicap
+  ThirdType: 66
+  ThirdTypeName: Total
+- sportId: 7
+  sportName: Baseball
+  ThirdType: 28210
+  ThirdTypeName: Total (incl. extra innings)
+  FirstType: 28232
+  FirstTypeName: Winner (incl. extra innings)
+  SecondType: 41728
+  SecondTypeName: Handicap {hcp} (incl. extra innings)
+- sportId: 8
+  sportName: Basketball
+  FirstType: 28243
+  FirstTypeName: Winner (incl. overtime)
+  SecondType: 28244
+  SecondTypeName: Handicap (incl. overtime)
+  ThirdType: 28260
+  ThirdTypeName: Total (incl. overtime)
+- sportId: 9
+  sportName: Formula 1
+- sportId: 11
+  sportName: Volleyball
+  FirstType: 28169
+  FirstTypeName: Winner
+  ThirdType: 28599
+  ThirdTypeName: Total points
+  SecondType: 28779
+  SecondTypeName: Point handicap
+- sportId: 12
+  sportName: Beach Volley
+  FirstType: 28169
+  FirstTypeName: Winner
+  ThirdType: 28599
+  ThirdTypeName: Total points
+  SecondType: 28779
+  SecondTypeName: Point handicap
+- sportId: 13
+  sportName: Beach Soccer
+- sportId: 14
+  sportName: American Football
+  FirstType: 28243
+  FirstTypeName: Winner (incl. overtime)
+  SecondType: 28244
+  SecondTypeName: Handicap (incl. overtime)
+  ThirdType: 28260
+  ThirdTypeName: Total (incl. overtime)
+- sportId: 15
+  sportName: Cycling
+- sportId: 16
+  sportName: Golf
+- sportId: 17
+  sportName: MMA
+  FirstType: 28169
+  FirstTypeName: Winner
+- sportId: 18
+  sportName: Darts
+  FirstType: 28169
+  FirstTypeName: Winner
+  SecondType: 28172
+  SecondTypeName: Set handicap
+  ThirdType: 31495
+  ThirdTypeName: Total sets
+- sportId: 19
+  sportName: Stock Car Racing
+- sportId: 20
+  sportName: Cricket
+  FirstType: 120646
+  FirstTypeName: Winner (incl. super over)
+- sportId: 21
+  sportName: Futsal
+  FirstType: 1
+  FirstTypeName: 1x2
+  SecondType: 47
+  SecondTypeName: Handicap
+  ThirdType: 66
+  ThirdTypeName: Total
+- sportId: 22
+  sportName: Speedway
+- sportId: 23
+  sportName: Badminton
+  FirstType: 28169
+  FirstTypeName: Winner
+  ThirdType: 28599
+  ThirdTypeName: Total points
+  SecondType: 1480730
+  SecondTypeName: Asian Handicap Sets
+- sportId: 25
+  sportName: Boxing
+  FirstType: 28169
+  FirstTypeName: Winner
+  SecondType: 333194
+  SecondTypeName: Asian Total
+- sportId: 26
+  sportName: Specials
+- sportId: 27
+  sportName: Snooker
+  FirstType: 28169
+  FirstTypeName: Winner
+- sportId: 28
+  sportName: Gaelic Football
+- sportId: 29
+  sportName: Motorsport
+- sportId: 30
+  sportName: League of Legends
+  FirstType: 28169
+  FirstTypeName: Winner
+  SecondType: 159035
+  SecondTypeName: Map handicap {hcp}
+  ThirdType: 159039
+  ThirdTypeName: Total maps
+- sportId: 33
+  sportName: Bowls
+- sportId: 34
+  sportName: Touring Car Racing
+- sportId: 35
+  sportName: Motorcycle Racing
+- sportId: 37
+  sportName: Counter-Strike
+  FirstType: 28169
+  FirstTypeName: Winner
+  SecondType: 159035
+  SecondTypeName: Map handicap {hcp}
+  ThirdType: 159039
+  ThirdTypeName: Total maps
+- sportId: 38
+  sportName: Gaelic Hurling
+- sportId: 39
+  sportName: Floorball
+  FirstType: 1
+  FirstTypeName: 1x2
+  SecondType: 66
+  SecondTypeName: Total
+- sportId: 40
+  sportName: Indy Racing
+- sportId: 41
+  sportName: Squash
+  FirstType: 28169
+  FirstTypeName: Winner
+  ThirdType: 28599
+  ThirdTypeName: Total points
+  SecondType: 28779
+  SecondTypeName: Point handicap
+- sportId: 42
+  sportName: Field hockey
+  FirstType: 1
+  FirstTypeName: 1x2
+  ThirdType: 66
+  ThirdTypeName: Total
+- sportId: 43
+  sportName: Overwatch
+  FirstType: 28169
+  FirstTypeName: Winner
+- sportId: 45
+  sportName: Dota 2
+  FirstType: 28169
+  FirstTypeName: Winner
+  SecondType: 159037
+  SecondTypeName: Map handicap
+  ThirdType: 159039
+  ThirdTypeName: Total maps
+- sportId: 47
+  sportName: Call of Duty
+  FirstType: 28169
+  FirstTypeName: Winner
+- sportId: 48
+  sportName: Bandy
+  FirstType: 1
+  FirstTypeName: 1x2
+  ThirdType: 66
+  ThirdTypeName: Total
+- sportId: 49
+  sportName: Waterpolo
+  FirstType: 1
+  FirstTypeName: 1x2
+  ThirdType: 66
+  ThirdTypeName: Total
+- sportId: 51
+  sportName: eSoccer
+  FirstType: 1
+  FirstTypeName: 1x2
+- sportId: 52
+  sportName: eBasketball
+  FirstType: 28243
+  FirstTypeName: Winner (incl. overtime)
+  SecondType: 28244
+  SecondTypeName: Handicap (incl. overtime)
+  ThirdType: 28260
+  ThirdTypeName: Total (incl. overtime)
+- sportId: 53
+  sportName: eIce Hockey
+  FirstType: 1
+  FirstTypeName: 1x2
+  SecondType: 333189
+  SecondTypeName: Asian Handicap
+  ThirdType: 333194
+  ThirdTypeName: Asian Total
+- sportId: 54
+  sportName: Rally
+- sportId: 56
+  sportName: Rugby League
+  FirstType: 5
+  FirstTypeName: Draw no bet
+  SecondType: 47
+  SecondTypeName: Handicap
+  ThirdType: 66
+  ThirdTypeName: Total
+- sportId: 57
+  sportName: Rugby Union
+  FirstType: 5
+  FirstTypeName: Draw no bet
+  SecondType: 47
+  SecondTypeName: Handicap
+  ThirdType: 66
+  ThirdTypeName: Total
+- sportId: 58
+  sportName: Australian Rules
+- sportId: 59
+  sportName: Formula E
+- sportId: 60
+  sportName: Basketball 3x3
+- sportId: 61
+  sportName: Rocket League
+  FirstType: 28169
+  FirstTypeName: Winner
+- sportId: 62
+  sportName: StarCraft
+  FirstType: 28169
+  FirstTypeName: Winner
+  SecondType: 159037
+  SecondTypeName: Map handicap
+  ThirdType: 159039
+  ThirdTypeName: Total maps
+- sportId: 63
+  sportName: Rainbow Six
+  FirstType: 28169
+  FirstTypeName: Winner
+- sportId: 94
+  sportName: Curling
+  FirstType: 28169
+  FirstTypeName: Winner
+- sportId: 127
+  sportName: ESport King of Glory
+  FirstType: 28169
+  FirstTypeName: Winner
+- sportId: 193
+  sportName: Pesapallo
+  FirstType: 1
+  FirstTypeName: 1x2
+- sportId: 457
+  sportName: Thoroughbred
+- sportId: 589
+  sportName: Lacrosse
+- sportId: 622
+  sportName: Sumo
+  FirstType: 28169
+  FirstTypeName: Winner
+- sportId: 886
+  sportName: ESport Valorant
+- sportId: 1117
+  sportName: ESport World of Warcraft
+- sportId: 1183
+  sportName: WWE
+- sportId: 1381
+  sportName: Entertainment

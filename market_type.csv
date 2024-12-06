@@ -45,6 +45,8 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 4015900,Rally Greece 2024 - Winner,54,Rally,,,False,False
 2599252,Rally Japan - Top 3,54,Rally,,,False,False
 2597669,Rally Japan - Winner,54,Rally,,,False,False
+4452310,Rally Japan 2024 - Top 3,54,Rally,,,False,False
+4452254,Rally Japan 2024 - Winner,54,Rally,,,False,False
 3758237,Rally Latvia 2024 - Top 3,54,Rally,,,False,False
 3758221,Rally Latvia 2024 - Winner,54,Rally,,,False,False
 2859426,Rally Monte Carlo 2024 - Winner,54,Rally,,,False,False
@@ -174,6 +176,10 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 699840,WIN FX,459,Harness,235.0,TAB,False,False
 3737032,Esports World Cup 2024 - To Reach the Final,61,Rocket League,,,False,False
 3737031,Esports World Cup 2024 - Winner,61,Rocket League,,,False,False
+4465601,FIFAe World Cup 2024 - Group A - Winner,61,Rocket League,,,False,False
+4465602,FIFAe World Cup 2024 - Group B - Winner,61,Rocket League,,,False,False
+4465603,FIFAe World Cup 2024 - To Reach the Final,61,Rocket League,,,False,False
+4465600,FIFAe World Cup 2024 - Winner,61,Rocket League,,,False,False
 3289802,RLCS Major 1 2024 - Top 2,61,Rocket League,,,False,False
 3276374,RLCS Major 1 2024 - Winner,61,Rocket League,,,False,False
 3290052,RLCS Major 1 2024 - Winning Region,61,Rocket League,,,False,False
@@ -303,6 +309,8 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 4108849,AFL Premiership 2024 - Stage of Elimination - Geelong Cats,58,Australian Rules,,,False,False
 4108846,AFL Premiership 2024 - Stage of Elimination - Port Adelaide Power,58,Australian Rules,,,False,False
 4108847,AFL Premiership 2024 - Stage of Elimination - Sydney Swans,58,Australian Rules,,,False,False
+4510400,AFL Premiership 2025 - Regular Season - To Miss the Top 4,58,Australian Rules,,,False,False
+4510399,AFL Premiership 2025 - Regular Season - To Miss the Top 8,58,Australian Rules,,,False,False
 2844718,AFL Premiership Grand Final - Winner,58,Australian Rules,,,False,False
 333189,Asian Handicap,58,Australian Rules,1.0,Main,True,False
 310154,Asian Handicap 1st Period,58,Australian Rules,29.0,Quarter Markets,True,False
@@ -315,6 +323,7 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 333194,Asian Total,58,Australian Rules,1.0,Main,True,False
 2,Double chance,58,Australian Rules,1.0,Main,False,False
 5,Draw no bet,58,Australian Rules,1.0,Main,False,False
+3671138,First Goalscorer,58,Australian Rules,33.0,Player Markets,False,False
 581572,First Player To Score,58,Australian Rules,33.0,Player Markets,False,False
 293993,First Team To Score,58,Australian Rules,6.0,Goals,False,False
 2011276,Goals Range Away Team,58,Australian Rules,6.0,Goals,False,False
@@ -323,7 +332,9 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 47,Handicap,58,Australian Rules,1.0,Main,True,False
 107,Highest scoring half,58,Australian Rules,31.0,Extra Markets,False,False
 28497,Highest scoring period,58,Australian Rules,31.0,Extra Markets,False,False
+4505074,Home Team - First Goalscorer,58,Australian Rules,33.0,Player Markets,False,False
 155,Last goal,58,Australian Rules,1.0,Main,False,False
+3671140,Last Goalscorer,58,Australian Rules,33.0,Player Markets,False,False
 301024,Last Team To Score,58,Australian Rules,6.0,Goals,False,False
 4144611,Most Disposals Group,58,Australian Rules,31.0,Extra Markets,False,False
 4143886,Norm Smith Medal,58,Australian Rules,31.0,Extra Markets,False,False
@@ -503,6 +514,49 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2840787,European Championship 2024 - Top Goalscorer - Serbia,5,Handball,,,False,False
 2840786,European Championship 2024 - Top Goalscorer - Slovenia,5,Handball,,,False,False
 2840773,European Championship 2024 - Top Goalscorer - Switzerland,5,Handball,,,False,False
+4616319,European Championship Women - Main Round Group I - Winner,5,Handball,,,False,False
+4616318,European Championship Women - Main Round Group II - Winner,5,Handball,,,False,False
+4474033,European Championship Women 2024 - Best finishing position - Austria vs Slovenia,5,Handball,,,False,False
+4474036,European Championship Women 2024 - Best finishing position - Denmark vs Sweden,5,Handball,,,False,False
+4474037,European Championship Women 2024 - Best finishing position - France vs Norway,5,Handball,,,False,False
+4474053,European Championship Women 2024 - Best finishing position - Germany vs Netherlands,5,Handball,,,False,False
+4474054,European Championship Women 2024 - Best finishing position - Hungary vs Romania,5,Handball,,,False,False
+4474056,European Championship Women 2024 - Best finishing position - Poland vs Serbia,5,Handball,,,False,False
+4474055,European Championship Women 2024 - Best finishing position - Portugal vs Switzerland,5,Handball,,,False,False
+4474052,European Championship Women 2024 - Best finishing position - Spain vs Montenegro,5,Handball,,,False,False
+4473734,European Championship Women 2024 - Group A - Winner,5,Handball,,,False,False
+4473736,European Championship Women 2024 - Group B - Winner,5,Handball,,,False,False
+4473739,European Championship Women 2024 - Group C - Winner,5,Handball,,,False,False
+4473737,European Championship Women 2024 - Group D - Winner,5,Handball,,,False,False
+4473738,European Championship Women 2024 - Group E - Winner,5,Handball,,,False,False
+4473733,European Championship Women 2024 - Group F - Winner,5,Handball,,,False,False
+4496524,European Championship Women 2024 - Stage of Elimination - Austria,5,Handball,,,False,False
+4496522,European Championship Women 2024 - Stage of Elimination - Croatia,5,Handball,,,False,False
+4496523,European Championship Women 2024 - Stage of Elimination - Czechia,5,Handball,,,False,False
+4496519,European Championship Women 2024 - Stage of Elimination - Denmark,5,Handball,,,False,False
+4496529,European Championship Women 2024 - Stage of Elimination - Faroe Islands,5,Handball,,,False,False
+4496527,European Championship Women 2024 - Stage of Elimination - France,5,Handball,,,False,False
+4496528,European Championship Women 2024 - Stage of Elimination - Germany,5,Handball,,,False,False
+4496525,European Championship Women 2024 - Stage of Elimination - Hungary,5,Handball,,,False,False
+4496526,European Championship Women 2024 - Stage of Elimination - Iceland,5,Handball,,,False,False
+4496520,European Championship Women 2024 - Stage of Elimination - Montenegro,5,Handball,,,False,False
+4496521,European Championship Women 2024 - Stage of Elimination - Netherlands,5,Handball,,,False,False
+4496536,European Championship Women 2024 - Stage of Elimination - North Macedonia,5,Handball,,,False,False
+4496538,European Championship Women 2024 - Stage of Elimination - Norway,5,Handball,,,False,False
+4496535,European Championship Women 2024 - Stage of Elimination - Poland,5,Handball,,,False,False
+4496546,European Championship Women 2024 - Stage of Elimination - Portugal,5,Handball,,,False,False
+4496547,European Championship Women 2024 - Stage of Elimination - Romania,5,Handball,,,False,False
+4496544,European Championship Women 2024 - Stage of Elimination - Serbia,5,Handball,,,False,False
+4496545,European Championship Women 2024 - Stage of Elimination - Slovakia,5,Handball,,,False,False
+4496543,European Championship Women 2024 - Stage of Elimination - Slovenia,5,Handball,,,False,False
+4496542,European Championship Women 2024 - Stage of Elimination - Spain,5,Handball,,,False,False
+4496540,European Championship Women 2024 - Stage of Elimination - Sweden,5,Handball,,,False,False
+4496541,European Championship Women 2024 - Stage of Elimination - Switzerland,5,Handball,,,False,False
+4496537,European Championship Women 2024 - Stage of Elimination - Turkey,5,Handball,,,False,False
+4496539,European Championship Women 2024 - Stage of Elimination - Ukraine,5,Handball,,,False,False
+4474303,European Championship Women 2024 - Top 2,5,Handball,,,False,False
+4511502,European Championship Women 2024 - Top Goalscorer,5,Handball,,,False,False
+4473735,European Championship Women 2024 - Winning Group,5,Handball,,,False,False
 82,Goal range,5,Handball,6.0,Goals,False,False
 102,Halftime/fulltime,5,Handball,23.0,Combo,False,False
 47,Handicap,5,Handball,1.0,Main,True,False
@@ -660,6 +714,19 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 28363,Head2head,55,Nordic Combined,,,False,False
 3779203,Call of Duty Challengers 2024 - Finals - To Reach the Final,47,Call of Duty,,,False,False
 3779202,Call of Duty Challengers 2024 - Finals - Winner,47,Call of Duty,,,False,False
+4497826,Call of Duty League  2024 - Major 1 Quals - Winner,47,Call of Duty,,,False,False
+4498127,Call of Duty League  2025 - Major 1 Qualifier Total Wins - Atlanta FaZe,47,Call of Duty,,,False,False
+4498124,Call of Duty League  2025 - Major 1 Qualifier Total Wins - Boston Breach,47,Call of Duty,,,False,False
+4498131,Call of Duty League  2025 - Major 1 Qualifier Total Wins - Carolina Royal Ravens,47,Call of Duty,,,False,False
+4498125,Call of Duty League  2025 - Major 1 Qualifier Total Wins - Cloud9 New York,47,Call of Duty,,,False,False
+4498128,Call of Duty League  2025 - Major 1 Qualifier Total Wins - Los Angeles Guerrillas,47,Call of Duty,,,False,False
+4498121,Call of Duty League  2025 - Major 1 Qualifier Total Wins - Los Angeles Thieves,47,Call of Duty,,,False,False
+4498123,Call of Duty League  2025 - Major 1 Qualifier Total Wins - Miami Heretics,47,Call of Duty,,,False,False
+4498130,Call of Duty League  2025 - Major 1 Qualifier Total Wins - Minnesota ROEKKR,47,Call of Duty,,,False,False
+4498132,Call of Duty League  2025 - Major 1 Qualifier Total Wins - OpTic Texas,47,Call of Duty,,,False,False
+4498126,Call of Duty League  2025 - Major 1 Qualifier Total Wins - Toronto Ultra,47,Call of Duty,,,False,False
+4498129,Call of Duty League  2025 - Major 1 Qualifier Total Wins - Vancouver Surge,47,Call of Duty,,,False,False
+4498122,Call of Duty League  2025 - Major 1 Qualifier Total Wins - Vegas Falcons,47,Call of Duty,,,False,False
 2819176,Call of Duty League - Winner,47,Call of Duty,,,False,False
 3754441,Call of Duty League 2024 - Best Finishing Position - Atlanta FaZe vs. New York Subliners,47,Call of Duty,,,False,False
 3754443,Call of Duty League 2024 - Best Finishing Position - Miami Heretics vs. Los Angeles Guerrillas,47,Call of Duty,,,False,False
@@ -824,6 +891,35 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 3638808,Call of Duty League 2024 - To Qualify for Championship Round - Minnesota Roekkr,47,Call of Duty,,,False,False
 3638825,Call of Duty League 2024 - To Qualify for Championship Round - Seattle Surge,47,Call of Duty,,,False,False
 2819177,Call of Duty League 2024 - To Reach the Final,47,Call of Duty,,,False,False
+4445153,Call of Duty League 2025 - Regular Season MVP,47,Call of Duty,,,False,False
+4445082,Call of Duty League 2025 - Regular Season Winner,47,Call of Duty,,,False,False
+4516230,Call of Duty League 2025 - Rookie of the Year,47,Call of Duty,,,False,False
+4498395,Call of Duty League 2025 - Season - Majors Qualifiers Total Wins - Atlanta FaZe,47,Call of Duty,,,False,False
+4498393,Call of Duty League 2025 - Season - Majors Qualifiers Total Wins - Boston Breach,47,Call of Duty,,,False,False
+4498394,Call of Duty League 2025 - Season - Majors Qualifiers Total Wins - Carolina Royal Ravens,47,Call of Duty,,,False,False
+4498408,Call of Duty League 2025 - Season - Majors Qualifiers Total Wins - Cloud9 New York,47,Call of Duty,,,False,False
+4498406,Call of Duty League 2025 - Season - Majors Qualifiers Total Wins - Los Angeles Guerrillas,47,Call of Duty,,,False,False
+4498407,Call of Duty League 2025 - Season - Majors Qualifiers Total Wins - Los Angeles Thieves,47,Call of Duty,,,False,False
+4498404,Call of Duty League 2025 - Season - Majors Qualifiers Total Wins - Miami Heretics,47,Call of Duty,,,False,False
+4498405,Call of Duty League 2025 - Season - Majors Qualifiers Total Wins - Minnesota ROEKKR,47,Call of Duty,,,False,False
+4498403,Call of Duty League 2025 - Season - Majors Qualifiers Total Wins - OpTic Texas,47,Call of Duty,,,False,False
+4498401,Call of Duty League 2025 - Season - Majors Qualifiers Total Wins - Toronto Ultra,47,Call of Duty,,,False,False
+4498402,Call of Duty League 2025 - Season - Majors Qualifiers Total Wins - Vancouver Surge,47,Call of Duty,,,False,False
+4498400,Call of Duty League 2025 - Season - Majors Qualifiers Total Wins - Vegas Falcons,47,Call of Duty,,,False,False
+4499507,Call of Duty League 2025 - To Qualify for Championship Stage - Atlanta FaZe,47,Call of Duty,,,False,False
+4499508,Call of Duty League 2025 - To Qualify for Championship Stage - Boston Breach,47,Call of Duty,,,False,False
+4499505,Call of Duty League 2025 - To Qualify for Championship Stage - Carolina Royal Ravens,47,Call of Duty,,,False,False
+4499503,Call of Duty League 2025 - To Qualify for Championship Stage - Cloud9 New York,47,Call of Duty,,,False,False
+4499504,Call of Duty League 2025 - To Qualify for Championship Stage - Los Angeles Guerrillas,47,Call of Duty,,,False,False
+4499501,Call of Duty League 2025 - To Qualify for Championship Stage - Los Angeles Thieves,47,Call of Duty,,,False,False
+4499502,Call of Duty League 2025 - To Qualify for Championship Stage - Miami Heretics,47,Call of Duty,,,False,False
+4499500,Call of Duty League 2025 - To Qualify for Championship Stage - Minesota ROEKKR,47,Call of Duty,,,False,False
+4499511,Call of Duty League 2025 - To Qualify for Championship Stage - OpTic Texas,47,Call of Duty,,,False,False
+4499509,Call of Duty League 2025 - To Qualify for Championship Stage - Toronto Ultra,47,Call of Duty,,,False,False
+4499510,Call of Duty League 2025 - To Qualify for Championship Stage - Vancouver Surge,47,Call of Duty,,,False,False
+4499506,Call of Duty League 2025 - To Qualify for Championship Stage - Vegas Falcons,47,Call of Duty,,,False,False
+4444956,Call of Duty League 2025 - To Reach the Final,47,Call of Duty,,,False,False
+4444869,Call of Duty League 2025 - Winner,47,Call of Duty,,,False,False
 4197533,Call of Duty Mobile World Championship 2024 - To Reach the Final,47,Call of Duty,,,False,False
 4197265,Call of Duty Mobile World Championship 2024 - Winner,47,Call of Duty,,,False,False
 3737031,Esports World Cup 2024 - Winner,47,Call of Duty,,,False,False
@@ -967,7 +1063,6 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2830250,Six Invitational - Winner,63,Rainbow Six,,,False,False
 2830251,Six Invitational 2024 - To Reach the Final,63,Rainbow Six,,,False,False
 28169,Winner,63,Rainbow Six,1.0,Main,False,False
-3932670,{player} Points,589,Lacrosse,33.0,Player Markets,True,False
 3932671,{player} Saves,589,Lacrosse,33.0,Player Markets,True,False
 1558111,12,589,Lacrosse,1.0,Main,False,False
 1500991,Asian Handicap,589,Lacrosse,1.0,Main,True,False
@@ -985,9 +1080,13 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 334112,{!mapnr} Map - Kill Handicap,45,Dota 2,,,True,False
 333338,{!mapnr} Map - Winner,45,Dota 2,31.0,Extra Markets,False,False
 1,1x2,45,Dota 2,1.0,Main,False,False
+4443013,BLAST Slam 1 - To Reach The Final,45,Dota 2,,,False,False
+4443012,BLAST Slam 1 - Winner,45,Dota 2,,,False,False
 159043,Correct score (in maps),45,Dota 2,31.0,Extra Markets,False,False
 2233998,Dreamleague Season 11 - To Reach the Final,45,Dota 2,,,False,False
 2233994,Dreamleague Season 11 - Winner,45,Dota 2,,,False,False
+4599789,ESL One Bangkok - To Reach The Finals,45,Dota 2,,,False,False
+4465614,ESL One Bangkok - Winner,45,Dota 2,,,False,False
 2998108,ESL One Birmingham - Top 2,45,Dota 2,,,False,False
 2998104,ESL One Birmingham - Winner,45,Dota 2,,,False,False
 3421591,ESL One Birmingham 2024 - Group A,45,Dota 2,,,False,False
@@ -1076,6 +1175,7 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2755460,Golden Globe Awards 2024 - Best Actress Motion Picture - Musical or Comedy,26,Specials,,,False,False
 2755643,Golden Globe Awards 2024 - Best Supporting Actor,26,Specials,,,False,False
 2755640,Golden Globe Awards 2024 - Best Supporting Actress,26,Specials,,,False,False
+4621223,Grammy Awards 2025 - Record Of The Year,26,Specials,,,False,False
 4281955,How many seats will the Komeito Party win?,26,Specials,,,False,False
 4282069,How many seats will the Liberal Democrat party win?,26,Specials,,,False,False
 4281542,How many seats will the Liberal Democrats win?,26,Specials,,,False,False
@@ -1217,10 +1317,21 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 66,Total,42,Field hockey,1.0,Main,True,False
 1558111,12,25,Boxing,1.0,Main,False,False
 1,1x2,25,Boxing,1.0,Main,False,False
+4435218,3+ Knockdowns in the Fight,25,Boxing,,,False,False
+4435595,"A Knockdown in any of Rounds 5, 6, 7 or 8",25,Boxing,,,False,False
+4435272,A Knockdown in Round 1,25,Boxing,,,False,False
+4435340,A Knockdown in Round 2,25,Boxing,,,False,False
+4435355,A Knockdown in Round 3,25,Boxing,,,False,False
+4435364,A Knockdown in Round 4,25,Boxing,,,False,False
 333194,Asian Total,25,Boxing,1.0,Main,True,False
 2,Double chance,25,Boxing,1.0,Main,False,False
 3198554,Fight Specials,25,Boxing,,,False,False
+4435687,Jake Paul to be Knocked Down 2+ Times,25,Boxing,,,False,False
+4435386,Jake Paul to be Knocked Down in either of Rounds 1 or 2,25,Boxing,,,False,False
+4435378,Jake Paul to Win in the 1st Minute of any Round,25,Boxing,,,False,False
 3411775,Knockdowns,25,Boxing,,,False,False
+4435521,Mike Tyson to be Knocked Down 2+ Times,25,Boxing,,,False,False
+4435438,Mike Tyson to Win the Fight and Round 4 to Start,25,Boxing,,,False,False
 3794058,Olympic Games - Boxing Featherweight (57kg) - Winner,25,Boxing,,,False,False
 3793911,Olympic Games - Boxing Flyweight (52kg) - Winner,25,Boxing,,,False,False
 3794140,Olympic Games - Boxing Lightweight (63kg) - Winner,25,Boxing,,,False,False
@@ -1302,16 +1413,24 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2777039,7th Period Winner Home/Away,27,Snooker,29.0,Quarter Markets,False,False
 4245100,8th Period Winner Home/Away,27,Snooker,29.0,Quarter Markets,False,False
 4245102,9th Period Winner Home/Away,27,Snooker,29.0,Quarter Markets,False,False
-4245106,Asian Handicap 10th Period,27,Snooker,,,True,False
-4245108,Asian Handicap 11th Period,27,Snooker,,,True,False
-4245110,Asian Handicap 12th Period,27,Snooker,,,True,False
-4245117,Asian Handicap 13th Period,27,Snooker,,,True,False
-4245118,Asian Handicap 14th Period,27,Snooker,,,True,False
+4245106,Asian Handicap 10th Period,27,Snooker,29.0,Quarter Markets,True,False
+4245108,Asian Handicap 11th Period,27,Snooker,29.0,Quarter Markets,True,False
+4245110,Asian Handicap 12th Period,27,Snooker,29.0,Quarter Markets,True,False
+4245117,Asian Handicap 13th Period,27,Snooker,29.0,Quarter Markets,True,False
+4245118,Asian Handicap 14th Period,27,Snooker,29.0,Quarter Markets,True,False
 4245119,Asian Handicap 15th Period,27,Snooker,,,True,False
-4245120,Asian Handicap 16th Period,27,Snooker,,,True,False
-4245122,Asian Handicap 17th Period,27,Snooker,,,True,False
-4245178,Asian Handicap 18th Period,27,Snooker,,,True,False
+4245120,Asian Handicap 16th Period,27,Snooker,29.0,Quarter Markets,True,False
+4245122,Asian Handicap 17th Period,27,Snooker,29.0,Quarter Markets,True,False
+4245178,Asian Handicap 18th Period,27,Snooker,29.0,Quarter Markets,True,False
 310154,Asian Handicap 1st Period,27,Snooker,29.0,Quarter Markets,True,False
+310158,Asian Handicap 2nd Period,27,Snooker,29.0,Quarter Markets,True,False
+315513,Asian Handicap 3rd Period,27,Snooker,29.0,Quarter Markets,True,False
+315514,Asian Handicap 4th Period,27,Snooker,29.0,Quarter Markets,True,False
+1440085,Asian Handicap 5th Period,27,Snooker,29.0,Quarter Markets,True,False
+1440248,Asian Handicap 6th Period,27,Snooker,29.0,Quarter Markets,True,False
+1440250,Asian Handicap 7th Period,27,Snooker,29.0,Quarter Markets,True,False
+1440251,Asian Handicap 8th Period,27,Snooker,29.0,Quarter Markets,True,False
+4538239,Asian Handicap 9th Period,27,Snooker,,,True,False
 4223265,AWAY_BREAKS_100,27,Snooker,,,False,False
 2253330,British Open 2022 - Winner,27,Snooker,,,False,False
 4133715,British Open 2024 - Winner,27,Snooker,,,False,False
@@ -1411,6 +1530,7 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 3761421,Shanghai Masters 2024 - Winner,27,Snooker,,,False,False
 3761425,Shanghai Masters 2024 - Winning Half,27,Snooker,,,False,False
 3761423,Shanghai Masters 2024 - Winning Nationality,27,Snooker,,,False,False
+4594910,Snooker Shoot Out - Winner,27,Snooker,,,False,False
 2783335,The Masters - First Time Winner?,27,Snooker,,,False,False
 2782992,The Masters - Quarter 1 - Winner,27,Snooker,,,False,False
 2782993,The Masters - Quarter 2 - Winner,27,Snooker,,,False,False
@@ -1423,6 +1543,13 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2800022,The Masters 2024 - Highest Break,27,Snooker,,,False,False
 34394,Total frames,27,Snooker,,,True,False
 4223128,TOTAL_BREAKS_100,27,Snooker,,,False,False
+4473471,UK Championship 2022 - Quarter 1 - Winner,27,Snooker,,,False,False
+4473472,UK Championship 2022 - Quarter 2 - Winner,27,Snooker,,,False,False
+4473469,UK Championship 2022 - Quarter 3 - Winner,27,Snooker,,,False,False
+4473470,UK Championship 2022 - Quarter 4 - Winner,27,Snooker,,,False,False
+4475168,UK Championship 2022 - Winning Half,27,Snooker,,,False,False
+4475167,UK Championship 2022 - Winning Nationality,27,Snooker,,,False,False
+4475166,UK Championship 2022 - Winning Quarter,27,Snooker,,,False,False
 2663030,UK Championship 2023 - Quarter 1 - Winner,27,Snooker,,,False,False
 2663029,UK Championship 2023 - Quarter 2 - Winner,27,Snooker,,,False,False
 2663028,UK Championship 2023 - Quarter 3 - Winner,27,Snooker,,,False,False
@@ -1447,6 +1574,7 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2621330,Uk Championship 2023 Qualification - Section 7 - Winner,27,Snooker,,,False,False
 2621333,Uk Championship 2023 Qualification - Section 8 - Winner,27,Snooker,,,False,False
 2621335,Uk Championship 2023 Qualification - Section 9 - Winner,27,Snooker,,,False,False
+4475165,UK Championship 2024 - First Time Winner?,27,Snooker,,,False,False
 3013501,Welsh Open - Quarter 1 - Winner,27,Snooker,,,False,False
 3013512,Welsh Open - Quarter 2 - Winner,27,Snooker,,,False,False
 3013524,Welsh Open - Quarter 3 - Winner,27,Snooker,,,False,False
@@ -1619,7 +1747,11 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2234722,Svenska Superligan - Winner,39,Floorball,,,False,False
 2238737,Svenska Superligan Women 2023/24 - Winner,39,Floorball,,,False,False
 66,Total,39,Floorball,1.0,Main,True,False
+4490945,World Championship 2022 - Winner,39,Floorball,,,False,False
 2684723,World Championship 2023 Women - Winner,39,Floorball,,,False,False
+4459396,Radiant Asia Invitational - Winner,886,ESport Valorant,,,False,False
+4441344,Red Bull Home Ground #5 - To Reach The Final,886,ESport Valorant,,,False,False
+4441343,Red Bull Home Ground #5 - Winner,886,ESport Valorant,,,False,False
 2838453,VCT - Americas Kickoff 2024 - Best Finishing Position - 100 Thieves vs FURIA,886,ESport Valorant,,,False,False
 2838452,VCT - Americas Kickoff 2024 - Best Finishing Position - Cloud9 vs G2 Esports,886,ESport Valorant,,,False,False
 2838456,VCT - Americas Kickoff 2024 - Best Finishing Position - KRU Esports vs MIBR,886,ESport Valorant,,,False,False
@@ -1832,6 +1964,8 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2108017,HANDICAP,51,eSoccer,1.0,Main,False,False
 2108014,NEXT_GOAL,51,eSoccer,,,False,False
 2108016,REST_OF_THE_MATCH,51,eSoccer,,,False,False
+4606801,PUBG - Global Championship 2024 - Top 3,1414,ESport PlayerUnknowns Battlegrounds,,,False,False
+4606793,PUBG - Global Championship 2024 - Winner,1414,ESport PlayerUnknowns Battlegrounds,,,False,False
 4270572,PUBG - Global Series 5 2024 - Region of Winner,1414,ESport PlayerUnknowns Battlegrounds,,,False,False
 4270573,PUBG - Global Series 5 2024 - Top 3,1414,ESport PlayerUnknowns Battlegrounds,,,False,False
 4270571,PUBG - Global Series 5 2024 - Winner,1414,ESport PlayerUnknowns Battlegrounds,,,False,False
@@ -1989,6 +2123,7 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 333194,Asian Total,48,Bandy,1.0,Main,True,False
 4272314,Elitserien 2024/25 - Winner,48,Bandy,,,False,False
 66,Total,48,Bandy,1.0,Main,True,False
+1558111,12,94,Curling,1.0,Main,False,False
 456381,12 Including Overtime,94,Curling,1.0,Main,False,False
 425035,Asian Handicap Including Overtime,94,Curling,,,True,False
 2012113,Under/Over Including Overtime,94,Curling,,,True,False
@@ -2013,6 +2148,7 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 3580953,GLL 2024 Summer - Winner,30,League of Legends,,,False,False
 3628377,Hitpoint Masters 2024 - Summer - Winner,30,League of Legends,,,False,False
 3676811,LCK CL 2024 Summer - Winner,30,League of Legends,,,False,False
+4617510,LCK Cup 2025 - Winner,30,League of Legends,,,False,False
 2749145,LCS - Spring - Winner,30,League of Legends,,,False,False
 2747300,LEC Winter - Winner,30,League of Legends,,,False,False
 2783410,LFL 2024 - Spring - Winner,30,League of Legends,,,False,False
@@ -2060,6 +2196,7 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 4177451,World Championship 2024 - Top LEC Team,30,League of Legends,,,False,False
 4177445,World Championship 2024 - Top LPL Team,30,League of Legends,,,False,False
 4112154,World Championship 2024 - w/o Gen.G - Winner,30,League of Legends,,,False,False
+4615884,Downhill Beaver Creek - Winner,46,Alpine Skiing,,,False,False
 2688486,Downhill Beaver Creek I - Winner,46,Alpine Skiing,,,False,False
 2706274,Downhill Beaver Creek II - Top 3,46,Alpine Skiing,,,False,False
 2706269,Downhill Beaver Creek II - Winner,46,Alpine Skiing,,,False,False
@@ -2115,6 +2252,8 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 3032052,Giant Slalom Bansko - Leader after 1st Run,46,Alpine Skiing,,,False,False
 3017052,Giant Slalom Bansko - Top 3,46,Alpine Skiing,,,False,False
 3017053,Giant Slalom Bansko - Winner,46,Alpine Skiing,,,False,False
+4614538,Giant Slalom Beaver Creek - Top 3,46,Alpine Skiing,,,False,False
+4597698,Giant Slalom Beaver Creek - Winner,46,Alpine Skiing,,,False,False
 3120329,Giant Slalom Palisades Thaoe - Leader after 1st Run,46,Alpine Skiing,,,False,False
 3098828,Giant Slalom Palisades Thaoe - Top 3,46,Alpine Skiing,,,False,False
 3098829,Giant Slalom Palisades Thaoe - Winner,46,Alpine Skiing,,,False,False
@@ -2129,6 +2268,7 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2874365,Giant Slalom Women Jasna - Leader After 1st Run,46,Alpine Skiing,,,False,False
 2860451,Giant Slalom Women Jasna - Top 3,46,Alpine Skiing,,,False,False
 2859553,Giant Slalom Women Jasna - Winner,46,Alpine Skiing,,,False,False
+4567668,Giant Slalom Women Killington - Leader after 1st Run,46,Alpine Skiing,,,False,False
 2648684,Giant Slalom Women Killington - Winner,46,Alpine Skiing,,,False,False
 2829133,Giant Slalom Women Kranjska Gora - Leader after 1st Run,46,Alpine Skiing,,,False,False
 2818209,Giant Slalom Women Kranjska Gora - Top 3,46,Alpine Skiing,,,False,False
@@ -2171,6 +2311,9 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2857134,Slalom Kitzbuehel - Winner,46,Alpine Skiing,,,False,False
 3185280,Slalom Kranjska Gora - Top 3,46,Alpine Skiing,,,False,False
 3185254,Slalom Kranjska Gora - Winner,46,Alpine Skiing,,,False,False
+4453682,Slalom Levi - Leader after 1st Run,46,Alpine Skiing,,,False,False
+4430562,Slalom Levi - Top 3,46,Alpine Skiing,,,False,False
+4430561,Slalom Levi - Winner,46,Alpine Skiing,,,False,False
 2790251,Slalom Madonna di Campiglio - Leader after 1st Run,46,Alpine Skiing,,,False,False
 2781725,Slalom Madonna di Campiglio - Winner,46,Alpine Skiing,,,False,False
 3265369,Slalom Saalbach - Leader after 1st Run,46,Alpine Skiing,,,False,False
@@ -2186,6 +2329,9 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2781722,Slalom Women Courchevel - Winner,46,Alpine Skiing,,,False,False
 2860032,Slalom Women Flachau - Leader after 1st Run,46,Alpine Skiing,,,False,False
 2857013,Slalom Women Flachau - Winner,46,Alpine Skiing,,,False,False
+4477485,Slalom Women Gurgl - Leader After 1st Run,46,Alpine Skiing,,,False,False
+4463993,Slalom Women Gurgl - Top 3,46,Alpine Skiing,,,False,False
+4463992,Slalom Women Gurgl - Winner,46,Alpine Skiing,,,False,False
 2880020,Slalom Women Jasna - Leader after 1st Run,46,Alpine Skiing,,,False,False
 2864539,Slalom Women Jasna - Top 3,46,Alpine Skiing,,,False,False
 2864535,Slalom Women Jasna - Winner,46,Alpine Skiing,,,False,False
@@ -2194,6 +2340,8 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2833050,Slalom Women Kranjska Gora - Leader after 1st Run,46,Alpine Skiing,,,False,False
 2818354,Slalom Women Kranjska Gora - Top 3,46,Alpine Skiing,,,False,False
 2818322,Slalom Women Kranjska Gora - Winner,46,Alpine Skiing,,,False,False
+4427588,Slalom Women Levi - Top 3,46,Alpine Skiing,,,False,False
+4427589,Slalom Women Levi - Winner,46,Alpine Skiing,,,False,False
 2584968,Slalom Women Levi I - Leader after 1st Run,46,Alpine Skiing,,,False,False
 2574203,Slalom Women Levi I - Top 3,46,Alpine Skiing,,,False,False
 2574200,Slalom Women Levi I - Winner,46,Alpine Skiing,,,False,False
@@ -2265,15 +2413,18 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 43940,{!setnr} set leg {legnr} - total darts,18,Darts,,,True,False
 28850,{!setnr} set leg {legnr} - winner,18,Darts,,,False,False
 28852,{!xth} player to score a 180,18,Darts,,,False,False
-28855,{$competitor1} total 180s,18,Darts,,,True,False
-28856,{$competitor2} total 180s,18,Darts,,,True,False
+28855,{$competitor1} total 180s,18,Darts,530.0,180's,True,False
+28856,{$competitor2} total 180s,18,Darts,530.0,180's,True,False
 4244984,10th Period Winner Home/Away,18,Darts,29.0,Quarter Markets,False,False
+4244987,11th Period Winner Home/Away,18,Darts,29.0,Quarter Markets,False,False
 1558111,12,18,Darts,1.0,Main,False,False
+4244988,12th Period Winner Home/Away,18,Darts,29.0,Quarter Markets,False,False
 4244989,13th Period Winner Home/Away,18,Darts,29.0,Quarter Markets,False,False
+4244990,14th Period Winner Home/Away,18,Darts,29.0,Quarter Markets,False,False
 4244991,15th Period Winner Home/Away,18,Darts,29.0,Quarter Markets,False,False
 4245001,16th Period Winner Home/Away,18,Darts,29.0,Quarter Markets,False,False
 4245002,17th Period Winner Home/Away,18,Darts,29.0,Quarter Markets,False,False
-28853,180s handicap,18,Darts,,,True,False
+28853,180s handicap,18,Darts,1.0,Main,True,False
 288134,1st Period Winner Home/Away,18,Darts,29.0,Quarter Markets,False,False
 1,1x2,18,Darts,1.0,Main,False,False
 295817,2nd Period Winner Home/Away,18,Darts,29.0,Quarter Markets,False,False
@@ -2283,6 +2434,7 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2124307,6th Period Winner Home/Away,18,Darts,29.0,Quarter Markets,False,False
 2777039,7th Period Winner Home/Away,18,Darts,29.0,Quarter Markets,False,False
 4245100,8th Period Winner Home/Away,18,Darts,29.0,Quarter Markets,False,False
+4458292,9 Dart Finish in the match,18,Darts,,,False,False
 4245102,9th Period Winner Home/Away,18,Darts,29.0,Quarter Markets,False,False
 3346190,AWAY_HIGHEST_CHECKOUT,18,Darts,31.0,Extra Markets,False,False
 2846765,Bahrain Darts Masters 2024 - Winner,18,Darts,,,False,False
@@ -2335,7 +2487,8 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2108017,HANDICAP,18,Darts,1.0,Main,False,False
 3346167,HOME_HIGHEST_CHECKOUT,18,Darts,31.0,Extra Markets,False,False
 2235022,HT/FT,18,Darts,34.0,Half Markets,False,False
-80047,Leg handicap,18,Darts,,,True,False
+4458274,Last 180,18,Darts,,,False,False
+80047,Leg handicap,18,Darts,1.0,Main,True,False
 3346322,MATCH_DOUBLE,18,Darts,31.0,Extra Markets,False,False
 3346152,MATCH_HIGHEST_CHECKOUT,18,Darts,31.0,Extra Markets,False,False
 3281118,Modus Super Series  - Series 7 - Week 4 - Winner,18,Darts,,,False,False
@@ -2420,7 +2573,21 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 4073051,Modus Super Series - Series 9 - Week 1 - Group C - Winner,18,Darts,,,False,False
 4058096,Modus Super Series - Series 9 - Week 1 - Winner,18,Darts,,,False,False
 4423853,Modus Super Series - Series 9 - Week 10 - Group A - Winner,18,Darts,,,False,False
+4436488,Modus Super Series - Series 9 - Week 10 - Group B - Winner,18,Darts,,,False,False
+4436487,Modus Super Series - Series 9 - Week 10 - Group C - Winner,18,Darts,,,False,False
 4423824,Modus Super Series - Series 9 - Week 10 - Winner,18,Darts,,,False,False
+4455004,Modus Super Series - Series 9 - Week 11 - Group A - Winner,18,Darts,,,False,False
+4467403,Modus Super Series - Series 9 - Week 11 - Group B - Winner,18,Darts,,,False,False
+4467404,Modus Super Series - Series 9 - Week 11 - Group C - Winner,18,Darts,,,False,False
+4455003,Modus Super Series - Series 9 - Week 11 - Winner,18,Darts,,,False,False
+4486099,Modus Super Series - Series 9 - Week 12 - Group A - Winner,18,Darts,,,False,False
+4520100,Modus Super Series - Series 9 - Week 12 - Group B - Winner,18,Darts,,,False,False
+4520101,Modus Super Series - Series 9 - Week 12 - Group C - Winner,18,Darts,,,False,False
+4486100,Modus Super Series - Series 9 - Week 12 - Winner,18,Darts,,,False,False
+4593537,Modus Super Series - Series 9 - Week 13 - Group A - Winner,18,Darts,,,False,False
+4619623,Modus Super Series - Series 9 - Week 13 - Group B - Winner,18,Darts,,,False,False
+4619624,Modus Super Series - Series 9 - Week 13 - Group C - Winner,18,Darts,,,False,False
+4593450,Modus Super Series - Series 9 - Week 13 - Winner,18,Darts,,,False,False
 4084404,Modus Super Series - Series 9 - Week 2 - Group A - Winner,18,Darts,,,False,False
 4113817,Modus Super Series - Series 9 - Week 2 - Group B - Winner,18,Darts,,,False,False
 4113818,Modus Super Series - Series 9 - Week 2 - Group C - Winner,18,Darts,,,False,False
@@ -2452,7 +2619,7 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 4400342,Modus Super Series - Series 9 - Week 9 - Group C - Winner,18,Darts,,,False,False
 4378408,Modus Super Series - Series 9 - Week 9 - Winner,18,Darts,,,False,False
 2771933,Modus Super Series Week 6 - Winner,18,Darts,,,False,False
-28851,Most 180s,18,Darts,,,False,False
+28851,Most 180s,18,Darts,530.0,180's,False,False
 80053,Odd/even sets,18,Darts,,,False,False
 26649,Outright Winner,18,Darts,1.0,Main,False,False
 2827772,PDC Premier League - 9 Dart Finish Gerwyn Price?,18,Darts,,,False,False
@@ -2544,11 +2711,22 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 3607791,PDC Premier League 2024 Playoffs - Will there be a 9 Dart Finish?,18,Darts,,,False,False
 2768591,PDC World Championship - Finalists,18,Darts,,,False,False
 2689617,PDC World Championship - Most Tournament 180s,18,Darts,,,False,False
+4496478,PDC World Championship - Player 9 Dart Finish - Gary Anderson,18,Darts,,,False,False
+4496479,PDC World Championship - Player 9 Dart Finish - Gerwyn Price,18,Darts,,,False,False
+4496480,PDC World Championship - Player 9 Dart Finish - Luke Humphries,18,Darts,,,False,False
+4496482,PDC World Championship - Player 9 Dart Finish - Luke Littler,18,Darts,,,False,False
+4496483,PDC World Championship - Player 9 Dart Finish - Michael Smith,18,Darts,,,False,False
+4496484,PDC World Championship - Player 9 Dart Finish - Michael van Gerwen,18,Darts,,,False,False
 2677425,PDC World Championship - Quarter 1 - Winner,18,Darts,,,False,False
+4496432,PDC World Championship - Quarter 2 - Winner,18,Darts,,,False,False
 2677361,PDC World Championship - Quarter 3 - Winner,18,Darts,,,False,False
 2677360,PDC World Championship - Quarter 4 - Winner,18,Darts,,,False,False
+4512154,PDC World Championship - Stage of Elimination - Luke Humphries,18,Darts,,,False,False
+4512152,PDC World Championship - Stage of Elimination - Michael Smith,18,Darts,,,False,False
+4512153,PDC World Championship - Stage of Elimination - Michael van Gerwen,18,Darts,,,False,False
 2689676,PDC World Championship - Tournament Winning Double,18,Darts,,,False,False
 2677338,PDC World Championship - Winning Half,18,Darts,,,False,False
+4496430,PDC World Championship - Winning Nationality,18,Darts,,,False,False
 2677337,PDC World Championship - Winning Quarter,18,Darts,,,False,False
 2689650,PDC World Championship 2024 - Player 9 Dart Finish - Gary Anderson,18,Darts,,,False,False
 2689651,PDC World Championship 2024 - Player 9 Dart Finish - Gerwyn Price,18,Darts,,,False,False
@@ -2572,6 +2750,18 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2691749,PDC World Championship 2024 - Who will go furthest - Stephen Bunting vs Dave Chisnall,18,Darts,,,False,False
 2691598,PDC World Championship 2024 - Will there be a 170 Finish?,18,Darts,,,False,False
 2689638,PDC World Championship 2024 - Winning Nationality,18,Darts,,,False,False
+4498657,PDC World Championship 2025 - Finalists,18,Darts,,,False,False
+4512149,PDC World Championship 2025 - Stage of Elimination - Gary Anderson,18,Darts,,,False,False
+4512150,PDC World Championship 2025 - Stage of Elimination - Gian van Veen,18,Darts,,,False,False
+4512155,PDC World Championship 2025 - Stage of Elimination - Luke Littler,18,Darts,,,False,False
+4512151,PDC World Championship 2025 - Stage of Elimination - Mike De Decker,18,Darts,,,False,False
+4549421,PDC World Championship 2025 - Stage of Elimination - Wessel Nijman,18,Darts,,,False,False
+4497560,PDC World Championship 2025 - Who will go furthest - Damon Heta vs Dimitri van den Bergh,18,Darts,,,False,False
+4497558,PDC World Championship 2025 - Who will go furthest - Gian van Veen vs Wessel Nijman,18,Darts,,,False,False
+4497563,PDC World Championship 2025 - Who will go furthest - Jonny Clayton vs Nathan Aspinall,18,Darts,,,False,False
+4497561,PDC World Championship 2025 - Who will go furthest - Josh Rock vs Stephen Bunting,18,Darts,,,False,False
+4497562,PDC World Championship 2025 - Who will go furthest - Luke Humphries vs Luke Littler,18,Darts,,,False,False
+4497559,PDC World Championship 2025 - Who will go furthest - Mike De Decker vs Michael Smith,18,Darts,,,False,False
 3703971,Players Championship 12 - Winner,18,Darts,,,False,False
 3754554,Players Championship 14 - Winner,18,Darts,,,False,False
 3853516,Players Championship 15 - Winner,18,Darts,,,False,False
@@ -2599,7 +2789,7 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2892577,The Masters 2024 - Winning Half,18,Darts,,,False,False
 2892575,The Masters 2024 - Winning Nationality,18,Darts,,,False,False
 2892574,The Masters 2024 - Winning Quarter,18,Darts,,,False,False
-28854,Total 180s,18,Darts,,,True,False
+28854,Total 180s,18,Darts,530.0,180's,True,False
 80050,Total legs,18,Darts,1.0,Main,True,False
 31495,Total sets,18,Darts,1.0,Main,True,False
 3356564,TOTAL_LEGS,18,Darts,,,False,False
@@ -2739,6 +2929,7 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2660541,Ruka I HS142 - Winner,36,Ski Jumping,,,False,False
 2662898,Ruka I HS142 Qualifcation - Top 3,36,Ski Jumping,,,False,False
 2660753,Ruka I HS142 Qualifcation - Winner,36,Ski Jumping,,,False,False
+4579003,Ruka II HS142 - Top 3,36,Ski Jumping,,,False,False
 2670632,Ruka II HS142 - Winner,36,Ski Jumping,,,False,False
 3076896,Sapporo I HS134 - Top 3,36,Ski Jumping,,,False,False
 3058266,Sapporo I HS134 - Winner,36,Ski Jumping,,,False,False
@@ -2755,6 +2946,11 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2923895,Ski Flying World Championship 2024 - Kulm Bad Mitterndorf/Tauplitz Team HS235 - Top 3,36,Ski Jumping,,,False,False
 2897080,Ski Flying World Championship 2024 - Kulm Bad Mitterndorf/Tauplitz Team HS235 - Winner,36,Ski Jumping,,,False,False
 2894134,Ski Flying World Championships 2024 - Winner,36,Ski Jumping,,,False,False
+4469344,Ski Flying World Cup 2024/25 - Season H2H - Marius Lindvik vs. Anze Lanisek,36,Ski Jumping,,,False,False
+4469340,Ski Flying World Cup 2024/25 - Season H2H - Michael Hayboeck vs. Johann Andre Forfang,36,Ski Jumping,,,False,False
+4469348,Ski Flying World Cup 2024/25 - Season H2H - Ren Nikaido vs. Gregor Deschwanden,36,Ski Jumping,,,False,False
+4469342,Ski Flying World Cup 2024/25 - Season H2H - Ryoyu Kobayashi vs. Andreas Wellinger,36,Ski Jumping,,,False,False
+4469343,Ski Flying World Cup 2024/25 - Season H2H - Stefan Kraft vs. Timi Zajc,36,Ski Jumping,,,False,False
 2862481,Szczyrk HS104 - Top 3,36,Ski Jumping,,,False,False
 2859404,Szczyrk HS104 - Winner,36,Ski Jumping,,,False,False
 2859403,Szczyrk HS104 Qualification - Top 3,36,Ski Jumping,,,False,False
@@ -3042,6 +3238,8 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2861216,12.5 km Individual Women Antholz-Anterselva - Top 3,31,Biathlon,,,False,False
 2870308,12.5 km Individual Women Antholz-Anterselva - Top 6,31,Biathlon,,,False,False
 2857115,12.5 km Individual Women Antholz-Anterselva - Winner,31,Biathlon,,,False,False
+4599031,12.5 km Individual Women Kontiolahti - Top 3,31,Biathlon,,,False,False
+4464014,12.5 km Individual Women Kontiolahti - Winner,31,Biathlon,,,False,False
 2960683,12.5 km Mass Start Women Nove Mesto - Top 3,31,Biathlon,,,False,False
 2892043,12.5 km Mass Start Women Nove Mesto - Winner,31,Biathlon,,,False,False
 2880776,12.5km Mass Start Women Antholz-Anterselva - Top 3,31,Biathlon,,,False,False
@@ -3080,6 +3278,9 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2887256,15km Mass Start Nove Mesto - Winner,31,Biathlon,,,False,False
 2860092,15km Short Individual Antholz-Anterselva - Top 3,31,Biathlon,,,False,False
 2860057,15km Short Individual Antholz-Anterselva - Winner,31,Biathlon,,,False,False
+4597195,15km Short Individual Kontiolahti - Top 3,31,Biathlon,,,False,False
+4599416,15km Short Individual Kontiolahti - Top 6,31,Biathlon,,,False,False
+4466401,15km Short Individual Kontiolahti - Winner,31,Biathlon,,,False,False
 4266720,20km Individual Lenzerheide - Winner,31,Biathlon,,,False,False
 3055432,20km Individual Nove Mesto - Top 3,31,Biathlon,,,False,False
 2892312,20km Individual Nove Mesto - Winner,31,Biathlon,,,False,False
@@ -3103,6 +3304,7 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 3223304,7.5km Sprint Women Canmore - Winner,31,Biathlon,,,False,False
 2730162,7.5km Sprint Women Hochfilzen - Top 3,31,Biathlon,,,False,False
 2717799,7.5km Sprint Women Hochfilzen - Winner,31,Biathlon,,,False,False
+4618298,7.5Km Sprint Women Kontiolahti - Winner,31,Biathlon,,,False,False
 2760687,7.5km Sprint Women Lenzerheide - Top 3,31,Biathlon,,,False,False
 2751101,7.5km Sprint Women Lenzerheide - Winner,31,Biathlon,,,False,False
 2783405,7.5km Sprint Women Oberhof - Top 3,31,Biathlon,,,False,False
@@ -3143,6 +3345,8 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2874350,Mixed Relay 4x6km Antholz-Anterselva - Winner,31,Biathlon,,,False,False
 2666971,Mixed Relay 4x6km Oestersund - Top 3,31,Biathlon,,,False,False
 2666474,Mixed Relay 4x6km Oestersund - Winner,31,Biathlon,,,False,False
+4568163,Mixed Relay Kontiolahti - Top 3,31,Biathlon,,,False,False
+4484348,Mixed Relay Kontiolahti - Winner,31,Biathlon,,,False,False
 2960627,Mixed Relay Nove Mesto - Top 3,31,Biathlon,,,False,False
 2917365,Mixed Relay Nove Mesto - Winner,31,Biathlon,,,False,False
 3170086,Mixed Relay Oslo Holmenkollen - Top 3,31,Biathlon,,,False,False
@@ -3150,6 +3354,8 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 26649,Outright Winner,31,Biathlon,1.0,Main,False,False
 2874872,Single Mixed Relay Antholz-Anterselva - Top 3,31,Biathlon,,,False,False
 2874179,Single Mixed Relay Antholz-Anterselva - Winner,31,Biathlon,,,False,False
+4568394,Single Mixed Relay Kontiolahti - Top 3,31,Biathlon,,,False,False
+4564779,Single Mixed Relay Kontiolahti - Winner,31,Biathlon,,,False,False
 2667345,Single Mixed Relay Oestersund - Top 3,31,Biathlon,,,False,False
 2666867,Single Mixed Relay Oestersund - Winner,31,Biathlon,,,False,False
 3170092,Single Mixed Relay Oslo Holmenkollen - Top 3,31,Biathlon,,,False,False
@@ -3252,6 +3458,23 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 3928748,Austria Grand Prix - Race Moto3 - Group B - Winner,35,Motorcycle Racing,,,False,False
 3925208,Austria Grand Prix - Race MotoGP - Winning Nationality,35,Motorcycle Racing,,,False,False
 3923942,Austria Grand Prix - Sprint MotoGP - Top 3,35,Motorcycle Racing,,,False,False
+4441486,Barcelona Gran Prix - Race MotoGP - Winning Nationality,35,Motorcycle Racing,,,False,False
+4446469,Barcelona Gran Prix - Sprint MotoGP - Top 3,35,Motorcycle Racing,,,False,False
+4445425,Barcelona Gran Prix - Sprint MotoGP - Winner,35,Motorcycle Racing,,,False,False
+4447709,Barcelona Grand Prix - Qualifying Moto2 - Winner,35,Motorcycle Racing,,,False,False
+4447806,Barcelona Grand Prix - Qualifying Moto3 - Winner,35,Motorcycle Racing,,,False,False
+4445431,Barcelona Grand Prix - Qualifying MotoGP - Winner,35,Motorcycle Racing,,,False,False
+4453643,Barcelona Grand Prix - Race Moto2 - Group 1 - Winner,35,Motorcycle Racing,,,False,False
+4453644,Barcelona Grand Prix - Race Moto2 - Group 2 - Winner,35,Motorcycle Racing,,,False,False
+4446534,Barcelona Grand Prix - Race Moto2 - Top 3,35,Motorcycle Racing,,,False,False
+4441627,Barcelona Grand Prix - Race Moto2 - Winner,35,Motorcycle Racing,,,False,False
+4453640,Barcelona Grand Prix - Race Moto3 - Group 1 - Winner,35,Motorcycle Racing,,,False,False
+4453642,Barcelona Grand Prix - Race Moto3 - Group 2 - Winner,35,Motorcycle Racing,,,False,False
+4446568,Barcelona Grand Prix - Race Moto3 - Top 3,35,Motorcycle Racing,,,False,False
+4441628,Barcelona Grand Prix - Race Moto3 - Winner,35,Motorcycle Racing,,,False,False
+4441467,Barcelona Grand Prix - Race MotoGP - Top 3,35,Motorcycle Racing,,,False,False
+4435501,Barcelona Grand Prix - Race MotoGP - Winner,35,Motorcycle Racing,,,False,False
+4441834,Barcelona Grand Prix - Race MotoGP - Winning Margin,35,Motorcycle Racing,,,False,False
 3867333,British Grand Prix - Sprint MotoGP - Top 3,35,Motorcycle Racing,,,False,False
 3866304,British Grand Prix Race - Qualifying Moto2 - Winner,35,Motorcycle Racing,,,False,False
 2228960,Catalunya Grand Prix - Qualifying Moto2 - Winner,35,Motorcycle Racing,,,False,False
@@ -3423,6 +3646,8 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 3905199,Argentina TC - Buenos Aires - Winning Car,19,Stock Car Racing,,,False,False
 3577541,Argentina TC - Concepcion del Uruguay - Winner,19,Stock Car Racing,,,False,False
 3577543,Argentina TC - Concepcion del Uruguay - Winning Car,19,Stock Car Racing,,,False,False
+4434899,Argentina TC - La Plata - Winner,19,Stock Car Racing,,,False,False
+4434900,Argentina TC - La Plata - Winning Car,19,Stock Car Racing,,,False,False
 3317553,Argentina TC - Neuquen - Winner,19,Stock Car Racing,,,False,False
 3317635,Argentina TC - Neuquen - Winning Car ,19,Stock Car Racing,,,False,False
 4149971,Argentina TC - Parana - Winner,19,Stock Car Racing,,,False,False
@@ -4060,6 +4285,23 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 4187075,NASCAR Cup Series 2024 - YellaWood 500 - Top Toyota Driver,19,Stock Car Racing,,,False,False
 4181994,NASCAR Cup Series 2024 - YellaWood 500 - Winner,19,Stock Car Racing,,,False,False
 4186097,NASCAR Cup Series 2024 - YellaWood 500 - Winning Manufacturer,19,Stock Car Racing,,,False,False
+4470445,NASCAR Cup Series 2025 - Season Wins - AJ Allmendinger,19,Stock Car Racing,,,False,False
+4470476,NASCAR Cup Series 2025 - Season Wins - Austin Dillon,19,Stock Car Racing,,,False,False
+4470447,NASCAR Cup Series 2025 - Season Wins - Carson Hocevar,19,Stock Car Racing,,,False,False
+4470472,NASCAR Cup Series 2025 - Season Wins - Chase Elliott,19,Stock Car Racing,,,False,False
+4470442,NASCAR Cup Series 2025 - Season Wins - Christopher Bell,19,Stock Car Racing,,,False,False
+4470456,NASCAR Cup Series 2025 - Season Wins - Denny Hamlin,19,Stock Car Racing,,,False,False
+4470473,NASCAR Cup Series 2025 - Season Wins - Joey Logano,19,Stock Car Racing,,,False,False
+4470453,NASCAR Cup Series 2025 - Season Wins - Kyle Busch,19,Stock Car Racing,,,False,False
+4470444,NASCAR Cup Series 2025 - Season Wins - Kyle Larson,19,Stock Car Racing,,,False,False
+4470454,NASCAR Cup Series 2025 - Season Wins - Michael McDowell,19,Stock Car Racing,,,False,False
+4470446,NASCAR Cup Series 2025 - Season Wins - Ryan Blaney,19,Stock Car Racing,,,False,False
+4470477,NASCAR Cup Series 2025 - Season Wins - Shane van Gisbergen,19,Stock Car Racing,,,False,False
+4470474,NASCAR Cup Series 2025 - Season Wins - Ty Gibbs,19,Stock Car Racing,,,False,False
+4470443,NASCAR Cup Series 2025 - Season Wins - Tyler Reddick,19,Stock Car Racing,,,False,False
+4470455,NASCAR Cup Series 2025 - Season Wins - William Byron,19,Stock Car Racing,,,False,False
+4616633,NASCAR Cup Series 2025 - Winning Manufacturer,19,Stock Car Racing,,,False,False
+4616634,NASCAR Cup Series 2025 - Winning Team,19,Stock Car Racing,,,False,False
 2406337,NASCAR Truck Series - Baptist Health 200 - Car Number of Race Winner,19,Stock Car Racing,,,False,False
 2407958,NASCAR Truck Series - Baptist Health 200 - Car Number of Race Winner (O/U),19,Stock Car Racing,,,False,False
 2438089,Nascar Truck Series - Baptist Health 200 - Group 1 - Winner,19,Stock Car Racing,,,False,False
@@ -5877,6 +6119,9 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2641465,Abu Dhabi Grand Prix Race - Nico Hulkenberg To Be Classified?,9,Formula 1,,,False,False
 2669410,Abu Dhabi Grand Prix Race - Norris & Russell finish on the podium,9,Formula 1,,,False,False
 2641298,Abu Dhabi Grand Prix Race - Number Of Classified Drivers,9,Formula 1,,,False,False
+4597067,Abu Dhabi Grand Prix Race - Number of Race Leaders,9,Formula 1,,,False,False
+4597064,Abu Dhabi Grand Prix Race - Number of Safety Cars,9,Formula 1,,,False,False
+4597063,Abu Dhabi Grand Prix Race - Number of Virtual Safety Cars,9,Formula 1,,,False,False
 2641463,Abu Dhabi Grand Prix Race - Oscar Piastri To Be Classified?,9,Formula 1,,,False,False
 2641457,Abu Dhabi Grand Prix Race - Pierre Gasly To Be Classified?,9,Formula 1,,,False,False
 2641319,Abu Dhabi Grand Prix Race - Red Bull Racing Both Cars Classified?,9,Formula 1,,,False,False
@@ -5901,6 +6146,8 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2669444,Abu Dhabi Grand Prix Race - Verstappen & Norris finish on the podium,9,Formula 1,,,False,False
 2669447,Abu Dhabi Grand Prix Race - Verstappen & Piastri finish on the podium,9,Formula 1,,,False,False
 2669443,Abu Dhabi Grand Prix Race - Verstappen & Russell finish on the podium,9,Formula 1,,,False,False
+4597025,Abu Dhabi Grand Prix Race - Will there be a Red Flag during Race?,9,Formula 1,,,False,False
+4597065,Abu Dhabi Grand Prix Race - Will there be a Safety Car and a Virtual Safety Car Period during Race?,9,Formula 1,,,False,False
 2641284,Abu Dhabi Grand Prix Race - Will There Be A Safety Car Period During Race?,9,Formula 1,,,False,False
 2641286,Abu Dhabi Grand Prix Race - Will There Be A Virtual Safety Car Period During Race?,9,Formula 1,,,False,False
 2641437,Abu Dhabi Grand Prix Race - Williams Both Cars Classified?,9,Formula 1,,,False,False
@@ -6585,6 +6832,7 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2626263,Las Vegas Grand Prix Qualifying - Top 3,9,Formula 1,,,False,False
 2598423,Las Vegas Grand Prix Qualifying - Winner,9,Formula 1,,,False,False
 2598425,Las Vegas Grand Prix Qualifying - Winning Constructor,9,Formula 1,,,False,False
+4459395,Las Vegas Grand Prix Qualifying - Winning Contructor,9,Formula 1,,,False,False
 2598431,Las Vegas Grand Prix Qualifying - Winning Margin,9,Formula 1,,,False,False
 2598322,Las Vegas Grand Prix Race - Alexander Albon To Be Classified?,9,Formula 1,,,False,False
 2598305,Las Vegas Grand Prix Race - Alfa Romeo Both Cars Classified?,9,Formula 1,,,False,False
@@ -6597,11 +6845,13 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2598395,Las Vegas Grand Prix Race - Alphatauri Both Cars Top 6 Finish?,9,Formula 1,,,False,False
 2598364,Las Vegas Grand Prix Race - Alpine F1 Both Cars Podium Finish?,9,Formula 1,,,False,False
 2598299,Las Vegas Grand Prix Race - Alpine F1 Team Both Cars Classified?,9,Formula 1,,,False,False
+4479824,Las Vegas Grand Prix Race - Alpine F1 Team both Cars Podium Finish?,9,Formula 1,,,False,False
 2598255,Las Vegas Grand Prix Race - Alpine F1 Team Both Cars Points Finish?,9,Formula 1,,,False,False
 2598391,Las Vegas Grand Prix Race - Alpine F1 Team Both Cars Top 6 Finish?,9,Formula 1,,,False,False
 2598220,"Las Vegas Grand Prix Race - Any Driver To Win Race, Pole Position And Fastest Lap",9,Formula 1,,,False,False
 2598382,Las Vegas Grand Prix Race - Aston Martin F1 Both Cars Podium Finish?,9,Formula 1,,,False,False
 2598300,Las Vegas Grand Prix Race - Aston Martin F1 Team Both Cars Classified?,9,Formula 1,,,False,False
+4480872,Las Vegas Grand Prix Race - Aston Martin F1 Team both Cars Podium Finish?,9,Formula 1,,,False,False
 2598264,Las Vegas Grand Prix Race - Aston Martin F1 Team Both Cars Points Finish?,9,Formula 1,,,False,False
 2598392,Las Vegas Grand Prix Race - Aston Martin F1 Team Both Cars Top 6 Finish?,9,Formula 1,,,False,False
 2598124,Las Vegas Grand Prix Race - Car To Set The Fastest Lap,9,Formula 1,,,False,False
@@ -6620,10 +6870,12 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2598164,Las Vegas Grand Prix Race - First Constructor Retirement,9,Formula 1,,,False,False
 2598171,Las Vegas Grand Prix Race - First Driver Retirement,9,Formula 1,,,False,False
 2598184,Las Vegas Grand Prix Race - First Driver To Make A Pit Stop,9,Formula 1,,,False,False
+4481585,Las Vegas Grand Prix Race - Franco Colapinto to be classified?,9,Formula 1,,,False,False
 2598313,Las Vegas Grand Prix Race - George Russell To Be Classified?,9,Formula 1,,,False,False
 2598326,Las Vegas Grand Prix Race - Guanyu Zhou To Be Classified?,9,Formula 1,,,False,False
 2598415,Las Vegas Grand Prix Race - Haas F1 Both Cars Podium Finish?,9,Formula 1,,,False,False
 2598303,Las Vegas Grand Prix Race - Haas F1 Team Both Cars Classified?,9,Formula 1,,,False,False
+4480929,Las Vegas Grand Prix Race - Haas F1 Team both Cars Podium Finish?,9,Formula 1,,,False,False
 2598272,Las Vegas Grand Prix Race - Haas F1 Team Both Cars Points Finish?,9,Formula 1,,,False,False
 2598394,Las Vegas Grand Prix Race - Haas F1 Team Both Cars Top 6 Finish?,9,Formula 1,,,False,False
 2598325,Las Vegas Grand Prix Race - Kevin Magnussen To Be Classified?,9,Formula 1,,,False,False
@@ -6645,23 +6897,38 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2627559,Las Vegas Grand Prix Race - Most Team Points,9,Formula 1,,,False,False
 2598328,Las Vegas Grand Prix Race - Nico Hulkenberg To Be Classified?,9,Formula 1,,,False,False
 2598211,Las Vegas Grand Prix Race - Number Of Classified Drivers,9,Formula 1,,,False,False
+4459364,Las Vegas Grand Prix Race - Number of Race Leaders,9,Formula 1,,,False,False
+4459361,Las Vegas Grand Prix Race - Number of Safety Cars,9,Formula 1,,,False,False
+4459362,Las Vegas Grand Prix Race - Number of Virtual Safety Cars,9,Formula 1,,,False,False
 2598327,Las Vegas Grand Prix Race - Oscar Piastri To Be Classified?,9,Formula 1,,,False,False
 2598320,Las Vegas Grand Prix Race - Pierre Gasly To Be Classified?,9,Formula 1,,,False,False
+4480285,Las Vegas Grand Prix Race - RB Formula One Team both Cars classified?,9,Formula 1,,,False,False
+4480934,Las Vegas Grand Prix Race - RB Formula One Team both Cars Podium Finish?,9,Formula 1,,,False,False
+4480186,Las Vegas Grand Prix Race - RB Formula One Team both Cars Points Finish?,9,Formula 1,,,False,False
+4479945,Las Vegas Grand Prix Race - RB Formula One Team both Cars top 6 Finish?,9,Formula 1,,,False,False
 2598292,Las Vegas Grand Prix Race - Red Bull Racing Both Cars Classified?,9,Formula 1,,,False,False
 2598357,Las Vegas Grand Prix Race - Red Bull Racing Both Cars Podium Finish?,9,Formula 1,,,False,False
 2598245,Las Vegas Grand Prix Race - Red Bull Racing Both Cars Points Finish?,9,Formula 1,,,False,False
 2598385,Las Vegas Grand Prix Race - Red Bull Racing Both Cars Top 6 Finish?,9,Formula 1,,,False,False
+4480227,Las Vegas Grand Prix Race - Sauber both Cars classified?,9,Formula 1,,,False,False
+4480943,Las Vegas Grand Prix Race - Sauber both Cars Podium Finish?,9,Formula 1,,,False,False
+4480205,Las Vegas Grand Prix Race - Sauber both Cars Points Finish?,9,Formula 1,,,False,False
+4480977,Las Vegas Grand Prix Race - Sauber both Cars top 6 Finish?,9,Formula 1,,,False,False
 2598316,Las Vegas Grand Prix Race - Sergio Perez To Be Classified?,9,Formula 1,,,False,False
 2598331,Las Vegas Grand Prix Race - Team Classified Drivers - Alfa Romeo Racing,9,Formula 1,,,False,False
 2598332,Las Vegas Grand Prix Race - Team Classified Drivers - Alphatauri,9,Formula 1,,,False,False
 2598333,Las Vegas Grand Prix Race - Team Classified Drivers - Alpine F1,9,Formula 1,,,False,False
+4459373,Las Vegas Grand Prix Race - Team Classified Drivers - Alpine F1 Team,9,Formula 1,,,False,False
 2598334,Las Vegas Grand Prix Race - Team Classified Drivers - Aston Martin F1 Team,9,Formula 1,,,False,False
 2598338,Las Vegas Grand Prix Race - Team Classified Drivers - Ferrari,9,Formula 1,,,False,False
 2598335,Las Vegas Grand Prix Race - Team Classified Drivers - Haas F1 Team,9,Formula 1,,,False,False
 2598339,Las Vegas Grand Prix Race - Team Classified Drivers - Mclaren,9,Formula 1,,,False,False
 2598336,Las Vegas Grand Prix Race - Team Classified Drivers - Mercedes Amg Motorsport,9,Formula 1,,,False,False
+4459372,Las Vegas Grand Prix Race - Team Classified Drivers - RB Formula One Team,9,Formula 1,,,False,False
 2598340,Las Vegas Grand Prix Race - Team Classified Drivers - Red Bull Racing,9,Formula 1,,,False,False
+4459366,Las Vegas Grand Prix Race - Team Classified Drivers - Sauber,9,Formula 1,,,False,False
 2598337,Las Vegas Grand Prix Race - Team Classified Drivers - Williams,9,Formula 1,,,False,False
+4459284,Las Vegas Grand Prix Race - Top 10,9,Formula 1,,,False,False
 2598202,Las Vegas Grand Prix Race - Top 10 (Points Finish),9,Formula 1,,,False,False
 2598105,Las Vegas Grand Prix Race - Top 3,9,Formula 1,,,False,False
 2598195,Las Vegas Grand Prix Race - Top 6,9,Formula 1,,,False,False
@@ -6669,6 +6936,8 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2627549,Las Vegas Grand Prix Race - Verstappen & Leclerc Finish On The Podium,9,Formula 1,,,False,False
 2627553,Las Vegas Grand Prix Race - Verstappen & Russell Finish On The Podium,9,Formula 1,,,False,False
 2627550,Las Vegas Grand Prix Race - Verstappen & Sainz Finish On The Podium,9,Formula 1,,,False,False
+4459360,Las Vegas Grand Prix Race - Will there be a Red Flag during Race?,9,Formula 1,,,False,False
+4459363,Las Vegas Grand Prix Race - Will there be a Safety Car and a Virtual Safety Car Period during Race?,9,Formula 1,,,False,False
 2598162,Las Vegas Grand Prix Race - Will There Be A Safety Car Period During Race?,9,Formula 1,,,False,False
 2598163,Las Vegas Grand Prix Race - Will There Be A Virtual Safety Car Period During Race?,9,Formula 1,,,False,False
 2598302,Las Vegas Grand Prix Race - Williams Both Cars Classified?,9,Formula 1,,,False,False
@@ -6684,6 +6953,7 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2598226,Las Vegas Grand Prix Race - Winning Margin,9,Formula 1,,,False,False
 2598225,Las Vegas Grand Prix Race - Winning Nationality,9,Formula 1,,,False,False
 2598324,Las Vegas Grand Prix Race - Yuki Tsunoda To Be Classified?,9,Formula 1,,,False,False
+4479851,Las Vegas Grand Prix Race – Liam Lawson to be classified?,9,Formula 1,,,False,False
 4346254,Mexico Grand Prix - Norris & Leclerc finish on the podium?,9,Formula 1,,,False,False
 4346248,Mexico Grand Prix - Sainz & Norris finish on the podium?,9,Formula 1,,,False,False
 4346250,Mexico Grand Prix - Sainz & Verstappen finish on the podium?,9,Formula 1,,,False,False
@@ -6904,10 +7174,16 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2265542,Qatar Grand Prix Race - Alphatauri Both Cars Top 6 Finish?,9,Formula 1,,,False,False
 2265475,Qatar Grand Prix Race - Alpine F1 Both Cars Classified?,9,Formula 1,,,False,False
 2265460,Qatar Grand Prix Race - Alpine F1 Both Cars Points Finish?,9,Formula 1,,,False,False
+4572988,Qatar Grand Prix Race - Alpine F1 Team both Cars classified?,9,Formula 1,,,False,False
+4576215,Qatar Grand Prix Race - Alpine F1 Team both Cars Podium Finish?,9,Formula 1,,,False,False
+4576460,Qatar Grand Prix Race - Alpine F1 Team both Cars Points Finish?,9,Formula 1,,,False,False
 2265537,Qatar Grand Prix Race - Alpine F1 Team Both Cars Top 6 Finish?,9,Formula 1,,,False,False
 2265444,"Qatar Grand Prix Race - Any Driver To Win Race, Pole Position And Fastest Lap",9,Formula 1,,,False,False
 2265476,Qatar Grand Prix Race - Aston Martin F1 Both Cars Classified?,9,Formula 1,,,False,False
 2265461,Qatar Grand Prix Race - Aston Martin F1 Both Cars Points Finish?,9,Formula 1,,,False,False
+4572992,Qatar Grand Prix Race - Aston Martin F1 Team both Cars classified?,9,Formula 1,,,False,False
+4576235,Qatar Grand Prix Race - Aston Martin F1 Team both Cars Podium Finish?,9,Formula 1,,,False,False
+4576461,Qatar Grand Prix Race - Aston Martin F1 Team both Cars Points Finish?,9,Formula 1,,,False,False
 2265538,Qatar Grand Prix Race - Aston Martin F1 Team Both Cars Top 6 Finish?,9,Formula 1,,,False,False
 2265436,Qatar Grand Prix Race - Car To Set The Fastest Lap,9,Formula 1,,,False,False
 2265506,Qatar Grand Prix Race - Carlos Sainz Jr. To Be Classified?,9,Formula 1,,,False,False
@@ -6918,15 +7194,20 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2265603,Qatar Grand Prix Race - Fastest Team Pit Stop,9,Formula 1,,,False,False
 2265500,Qatar Grand Prix Race - Fernando Alonso To Be Classified?,9,Formula 1,,,False,False
 2265472,Qatar Grand Prix Race - Ferrari Both Cars Classified?,9,Formula 1,,,False,False
+4576198,Qatar Grand Prix Race - Ferrari both Cars Podium Finish?,9,Formula 1,,,False,False
 2265458,Qatar Grand Prix Race - Ferrari Both Cars Points Finish?,9,Formula 1,,,False,False
 2265534,Qatar Grand Prix Race - Ferrari Both Cars Top 6 Finish?,9,Formula 1,,,False,False
 2265441,Qatar Grand Prix Race - First Constructor Retirement,9,Formula 1,,,False,False
 2265582,Qatar Grand Prix Race - First Driver Retirement,9,Formula 1,,,False,False
 2265583,Qatar Grand Prix Race - First Driver To Make A Pit Stop,9,Formula 1,,,False,False
+4573212,Qatar Grand Prix Race - Franco Colapinto to be classified?,9,Formula 1,,,False,False
 2265497,Qatar Grand Prix Race - George Russell To Be Classified?,9,Formula 1,,,False,False
 2265511,Qatar Grand Prix Race - Guanyu Zhou To Be Classified?,9,Formula 1,,,False,False
 2265478,Qatar Grand Prix Race - Haas F1 Both Cars Classified?,9,Formula 1,,,False,False
 2265465,Qatar Grand Prix Race - Haas F1 Both Cars Points Finish?,9,Formula 1,,,False,False
+4572998,Qatar Grand Prix Race - Haas F1 Team both Cars classified?,9,Formula 1,,,False,False
+4576250,Qatar Grand Prix Race - Haas F1 Team both Cars Podium Finish?,9,Formula 1,,,False,False
+4576515,Qatar Grand Prix Race - Haas F1 Team both Cars Points Finish?,9,Formula 1,,,False,False
 2265540,Qatar Grand Prix Race - Haas F1 Team Both Cars Top 6 Finish?,9,Formula 1,,,False,False
 2324246,Qatar Grand Prix Race - Hamilton & Norris Finish On The Podium,9,Formula 1,,,False,False
 2265509,Qatar Grand Prix Race - Kevin Magnussen To Be Classified?,9,Formula 1,,,False,False
@@ -6937,31 +7218,50 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2265517,Qatar Grand Prix Race - Logan Sargeant To Be Classified?,9,Formula 1,,,False,False
 2265493,Qatar Grand Prix Race - Max Verstappen To Be Classified?,9,Formula 1,,,False,False
 2265473,Qatar Grand Prix Race - Mclaren Both Cars Classified?,9,Formula 1,,,False,False
+4576225,Qatar Grand Prix Race - McLaren both Cars Podium Finish?,9,Formula 1,,,False,False
 2265459,Qatar Grand Prix Race - Mclaren Both Cars Points Finish?,9,Formula 1,,,False,False
 2265536,Qatar Grand Prix Race - Mclaren Both Cars Top 6 Finish?,9,Formula 1,,,False,False
 2265485,Qatar Grand Prix Race - Mercedes Amg Motorsport Both Cars Classified?,9,Formula 1,,,False,False
+4574056,Qatar Grand Prix Race - Mercedes AMG Motorsport both Cars Podium Finish?,9,Formula 1,,,False,False
 2265454,Qatar Grand Prix Race - Mercedes Amg Motorsport Both Cars Points Finish?,9,Formula 1,,,False,False
 2265531,Qatar Grand Prix Race - Mercedes Amg Motorsport Both Cars Top 6 Finish?,9,Formula 1,,,False,False
 2322198,Qatar Grand Prix Race - Most Team Points,9,Formula 1,,,False,False
 2265515,Qatar Grand Prix Race - Nico Hulkenberg To Be Classified?,9,Formula 1,,,False,False
 2324244,Qatar Grand Prix Race - Norris & Russell Finish On The Podium,9,Formula 1,,,False,False
 2265442,Qatar Grand Prix Race - Number Of Classified Drivers,9,Formula 1,,,False,False
+4493228,Qatar Grand Prix Race - Number of Race Leaders,9,Formula 1,,,False,False
+4493097,Qatar Grand Prix Race - Number of Safety Cars,9,Formula 1,,,False,False
+4493098,Qatar Grand Prix Race - Number of Virtual Safety Cars,9,Formula 1,,,False,False
 2265510,Qatar Grand Prix Race - Oscar Piastri To Be Classified?,9,Formula 1,,,False,False
 2265502,Qatar Grand Prix Race - Pierre Gasly To Be Classified?,9,Formula 1,,,False,False
+4573014,Qatar Grand Prix Race - RB Formula One Team both Cars classified?,9,Formula 1,,,False,False
+4576266,Qatar Grand Prix Race - RB Formula One Team both Cars Podium Finish?,9,Formula 1,,,False,False
+4576511,Qatar Grand Prix Race - RB Formula One Team both Cars Points Finish?,9,Formula 1,,,False,False
+4576304,Qatar Grand Prix Race - RB Formula One Team both Cars top 6 Finish?,9,Formula 1,,,False,False
 2265471,Qatar Grand Prix Race - Red Bull Racing Both Cars Classified?,9,Formula 1,,,False,False
+4576189,Qatar Grand Prix Race - Red Bull Racing both Cars Podium Finish?,9,Formula 1,,,False,False
 2265456,Qatar Grand Prix Race - Red Bull Racing Both Cars Points Finish?,9,Formula 1,,,False,False
 2265532,Qatar Grand Prix Race - Red Bull Racing Both Cars Top 6 Finish?,9,Formula 1,,,False,False
+4576909,Qatar Grand Prix Race - Russell & Norris finish on the podium,9,Formula 1,,,False,False
+4576910,Qatar Grand Prix Race - Russell & Piastri finish on the podium,9,Formula 1,,,False,False
 2324247,Qatar Grand Prix Race - Russell & Verstappen Finish On The Podium,9,Formula 1,,,False,False
+4573021,Qatar Grand Prix Race - Sauber both Cars classified?,9,Formula 1,,,False,False
+4576259,Qatar Grand Prix Race - Sauber both Cars Podium Finish?,9,Formula 1,,,False,False
+4576518,Qatar Grand Prix Race - Sauber both Cars Points Finish?,9,Formula 1,,,False,False
+4576309,Qatar Grand Prix Race - Sauber both Cars top 6 Finish?,9,Formula 1,,,False,False
 2265504,Qatar Grand Prix Race - Sergio Perez To Be Classified?,9,Formula 1,,,False,False
 2265518,Qatar Grand Prix Race - Team Classified Drivers - Alfa Romeo Racing,9,Formula 1,,,False,False
 2265519,Qatar Grand Prix Race - Team Classified Drivers - Alphatauri,9,Formula 1,,,False,False
 2265521,Qatar Grand Prix Race - Team Classified Drivers - Alpine F1,9,Formula 1,,,False,False
+4493130,Qatar Grand Prix Race - Team Classified Drivers - Alpine F1 Team,9,Formula 1,,,False,False
 2265522,Qatar Grand Prix Race - Team Classified Drivers - Aston Martin F1 Team,9,Formula 1,,,False,False
 2265526,Qatar Grand Prix Race - Team Classified Drivers - Ferrari,9,Formula 1,,,False,False
 2265523,Qatar Grand Prix Race - Team Classified Drivers - Haas F1 Team,9,Formula 1,,,False,False
 2265528,Qatar Grand Prix Race - Team Classified Drivers - Mclaren,9,Formula 1,,,False,False
 2265524,Qatar Grand Prix Race - Team Classified Drivers - Mercedes Amg Motorsport,9,Formula 1,,,False,False
+4493122,Qatar Grand Prix Race - Team Classified Drivers - RB Formula One Team,9,Formula 1,,,False,False
 2265529,Qatar Grand Prix Race - Team Classified Drivers - Red Bull Racing,9,Formula 1,,,False,False
+4493118,Qatar Grand Prix Race - Team Classified Drivers - Sauber,9,Formula 1,,,False,False
 2265525,Qatar Grand Prix Race - Team Classified Drivers - Williams,9,Formula 1,,,False,False
 2265433,Qatar Grand Prix Race - Top 10 (points Finish),9,Formula 1,,,False,False
 2265432,Qatar Grand Prix Race - Top 3,9,Formula 1,,,False,False
@@ -6969,9 +7269,14 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2265508,Qatar Grand Prix Race - Valtteri Bottas To Be Classified?,9,Formula 1,,,False,False
 2324249,Qatar Grand Prix Race - Verstappen & Hamilton Finish On The Podium,9,Formula 1,,,False,False
 2324248,Qatar Grand Prix Race - Verstappen & Norris Finish On The Podium,9,Formula 1,,,False,False
+4576913,Qatar Grand Prix Race - Verstappen & Piastri finish on the podium,9,Formula 1,,,False,False
+4576911,Qatar Grand Prix Race - Verstappen & Russel finish on the podium,9,Formula 1,,,False,False
+4493063,Qatar Grand Prix Race - Will there be a Red Flag during Race?,9,Formula 1,,,False,False
+4493101,Qatar Grand Prix Race - Will there be a Safety Car and a Virtual Safety Car Period during Race?,9,Formula 1,,,False,False
 2265438,Qatar Grand Prix Race - Will There Be A Safety Car Period During Race?,9,Formula 1,,,False,False
 2265439,Qatar Grand Prix Race - Will There Be A Virtual Safety Car Period During Race?,9,Formula 1,,,False,False
 2265477,Qatar Grand Prix Race - Williams Both Cars Classified?,9,Formula 1,,,False,False
+4576239,Qatar Grand Prix Race - Williams both Cars Podium Finish?,9,Formula 1,,,False,False
 2265464,Qatar Grand Prix Race - Williams Both Cars Points Finish?,9,Formula 1,,,False,False
 2265539,Qatar Grand Prix Race - Williams Both Cars Top 6 Finish?,9,Formula 1,,,False,False
 2258048,Qatar Grand Prix Race - Winner,9,Formula 1,,,False,False
@@ -6983,6 +7288,10 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2265443,Qatar Grand Prix Race - Winning Margin,9,Formula 1,,,False,False
 2265452,Qatar Grand Prix Race - Winning Nationality,9,Formula 1,,,False,False
 2265507,Qatar Grand Prix Race - Yuki Tsunoda To Be Classified?,9,Formula 1,,,False,False
+4493258,Qatar Grand Prix Sprint Qualifying - Top 3,9,Formula 1,,,False,False
+4493247,Qatar Grand Prix Sprint Qualifying - Winner,9,Formula 1,,,False,False
+4493283,Qatar Grand Prix Sprint Qualifying - Winning Constructor,9,Formula 1,,,False,False
+4493288,Qatar Grand Prix Sprint Qualifying - Winning Margin,9,Formula 1,,,False,False
 2265574,Qatar Grand Prix Sprint Race - Top 3,9,Formula 1,,,False,False
 2265572,Qatar Grand Prix Sprint Race - Winner,9,Formula 1,,,False,False
 2265575,Qatar Grand Prix Sprint Race - Winning Constructor,9,Formula 1,,,False,False
@@ -8062,6 +8371,7 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 3102048,BOTH_TEAMS_RECEIVE_CARD,1,Soccer,13.0,Bookings,False,False
 1850649,BOTH_TEAMS_TO_SCORE_0-15,1,Soccer,31.0,Extra Markets,False,False
 3822345,Brasileiro Serie A - Relegation,1,Soccer,,,False,False
+4442523,Brasileiro Serie A - Top 2,1,Soccer,,,False,False
 3822328,Brasileiro Serie A - Top 4,1,Soccer,,,False,False
 3822339,Brasileiro Serie A - Top 6,1,Soccer,,,False,False
 3988968,Brasileiro Serie A 2024 - Most Assists,1,Soccer,,,False,False
@@ -8572,6 +8882,7 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 25,Handicap {hcp},1,Soccer,1.0,Main,False,False
 3645021,Hat-trick Goalscorer,1,Soccer,33.0,Player Markets,False,False
 107,Highest scoring half,1,Soccer,31.0,Extra Markets,False,False
+4505074,Home Team - First Goalscorer,1,Soccer,33.0,Player Markets,False,False
 1447158,Home Team Number Of Goals,1,Soccer,6.0,Goals,False,False
 1855957,Home Team to Score,1,Soccer,6.0,Goals,False,False
 2053757,Home Team to Score 2nd Half,1,Soccer,4.0,2nd Half,False,False
@@ -10098,11 +10409,9 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 46539,{$competitor2} to win any period,6,Ice Hockey,31.0,Extra Markets,False,False
 78,{$competitor2} total,6,Ice Hockey,6.0,Goals,True,False
 46518,{$competitor2} total (incl. overtime and penalties),6,Ice Hockey,6.0,Goals,True,False
-4264300,{player} Assists,6,Ice Hockey,33.0,Player Markets,True,False
 4310756,{player} Blocked Shots,6,Ice Hockey,33.0,Player Markets,True,False
 4268586,{player} Goals,6,Ice Hockey,33.0,Player Markets,True,False
 4311086,{player} Goals Against,6,Ice Hockey,33.0,Player Markets,True,False
-3932670,{player} Points,6,Ice Hockey,33.0,Player Markets,True,False
 4310593,{player} Power Play Points,6,Ice Hockey,33.0,Player Markets,True,False
 3932671,{player} Saves,6,Ice Hockey,33.0,Player Markets,True,False
 4310250,{player} Shots On Goal,6,Ice Hockey,33.0,Player Markets,True,False
@@ -11727,6 +12036,7 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 1467382,9th Period Winner,7,Baseball,266.0,Innings,False,False
 1439914,A Run in the 1st Inning,7,Baseball,266.0,Innings,False,False
 2625639,Abl Championship 2023/24 - Winner,7,Baseball,,,False,False
+4428092,ABL Championship 2024/25 - Winner,7,Baseball,,,False,False
 3704046,After 1st Inning Both Teams Total Runs Over/Under,7,Baseball,,,False,False
 3751324,After 1st Inning Both Teams Total Runs Over/Under NEW,7,Baseball,32.0,Total Markets,True,False
 3755352,After 1st Inning Home Runs Handicap 2 Way NEW,7,Baseball,,,True,False
@@ -13159,18 +13469,18 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 78,{$competitor2} total,8,Basketball,6.0,Goals,True,False
 28280,{$competitor2} total (incl. overtime),8,Basketball,1.0,Main,True,False
 168343,{$competitor2} total maximum consecutive points,8,Basketball,24.0,Others,True,False
-4264300,{player} Assists,8,Basketball,33.0,Player Markets,True,False
-4302538,{player} Blocks,8,Basketball,,,True,False
+4525146,{player} Assists,8,Basketball,33.0,Player Markets,True,False
+4529612,{player} Blocks,8,Basketball,33.0,Player Markets,True,False
 4302687,{player} Double Double,8,Basketball,,,True,False
-4302734,{player} Made Threes,8,Basketball,33.0,Player Markets,True,False
-3932670,{player} Points,8,Basketball,33.0,Player Markets,True,False
-4303707,{player} Points + Assists,8,Basketball,,,True,False
-4303738,{player} Points + Rebounds,8,Basketball,,,True,False
-4303735,{player} Points + Rebounds + Assists,8,Basketball,33.0,Player Markets,True,False
-4302810,{player} Rebounds,8,Basketball,33.0,Player Markets,True,False
-4302901,{player} Rebounds + Assists,8,Basketball,,,True,False
-4302732,{player} Steals,8,Basketball,,,True,False
-4304294,{player} Steals + Blocks,8,Basketball,,,True,False
+4526691,{player} Made Threes,8,Basketball,33.0,Player Markets,True,False
+4525154,{player} Points,8,Basketball,33.0,Player Markets,True,False
+4527149,{player} Points + Assists,8,Basketball,33.0,Player Markets,True,False
+4530102,{player} Points + Rebounds,8,Basketball,33.0,Player Markets,True,False
+4530170,{player} Points + Rebounds + Assists,8,Basketball,33.0,Player Markets,True,False
+4525911,{player} Rebounds,8,Basketball,33.0,Player Markets,True,False
+4530172,{player} Rebounds + Assists,8,Basketball,33.0,Player Markets,True,False
+4530183,{player} Steals,8,Basketball,33.0,Player Markets,True,False
+4547104,{player} Steals + Blocks,8,Basketball,33.0,Player Markets,True,False
 3670116,{player} to Achieve a Double Double,8,Basketball,33.0,Player Markets,False,False
 3667890,{player} to Achieve a Triple Double,8,Basketball,33.0,Player Markets,False,False
 3667888,{player} Total 3 Point Field Goals,8,Basketball,33.0,Player Markets,False,False
@@ -13183,7 +13493,7 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 3667900,{player} Total Rebounds,8,Basketball,33.0,Player Markets,False,False
 3667968,{player} Total Steals,8,Basketball,33.0,Player Markets,False,False
 4302488,{player} Triple Double,8,Basketball,33.0,Player Markets,True,False
-4302449,{player} Turnovers,8,Basketball,33.0,Player Markets,True,False
+4547096,{player} Turnovers,8,Basketball,33.0,Player Markets,True,False
 1558111,12,8,Basketball,1.0,Main,False,False
 453502,12 2nd Half,8,Basketball,34.0,Half Markets,False,False
 304038,12 Halftime,8,Basketball,34.0,Half Markets,False,False
@@ -13556,11 +13866,15 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2347070,NBA - Regular Season - Player - Most Steals Per Game,8,Basketball,,,False,False
 2347068,NBA - Regular Season - Player - Three Pointers Made Leader,8,Basketball,,,False,False
 2807592,NBA - Regular Season Wins - Atlanta Hawks,8,Basketball,,,False,False
+4471596,NBA - Regular Season Wins - Boston Celtics,8,Basketball,,,False,False
+4538646,NBA - Regular Season Wins - Dallas Mavericks,8,Basketball,,,False,False
 2261176,NBA - Regular Season Wins - Milwaukee Bucks,8,Basketball,,,False,False
 2660856,NBA - Regular Season Wins - Minnesota Timberwolves,8,Basketball,,,False,False
 2660886,NBA - Regular Season Wins - New Orleans Pelicans,8,Basketball,,,False,False
 2993020,NBA - Regular Season Wins - New York Knicks,8,Basketball,,,False,False
+4538660,NBA - Regular Season Wins - Orlando Magic,8,Basketball,,,False,False
 2660619,NBA - Regular Season Wins - San Antonio Spurs,8,Basketball,,,False,False
+4471599,NBA - Regular Season Wins - Washington Wizards,8,Basketball,,,False,False
 2881319,NBA - To Make Eastern Conference Play-In Tournament,8,Basketball,,,False,False
 2881320,NBA - To Make Western Conference Play-In Tournament,8,Basketball,,,False,False
 3739116,NBA - Winning Conference,8,Basketball,,,False,False
@@ -14298,10 +14612,12 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 4363240,NCAA(B) 2024/25 - Atlantic 10 Conference - Winner (reg. season),8,Basketball,,,False,False
 3883370,NCAA(B) 2024/25 - Atlantic Coast Conference - Winner (reg. season),8,Basketball,,,False,False
 3883540,NCAA(B) 2024/25 - Battle 4 Atlantis Tournament - Winner,8,Basketball,,,False,False
+4467313,NCAA(B) 2024/25 - Battle 4 Atlantis Winner,8,Basketball,,,False,False
 3883371,NCAA(B) 2024/25 - Big 12 Conference - Winner (reg. season),8,Basketball,,,False,False
 4363237,NCAA(B) 2024/25 - Big East Conference - Winner (reg. season),8,Basketball,,,False,False
 4363234,NCAA(B) 2024/25 - Big Ten Conference - Winner (reg. season),8,Basketball,,,False,False
 3883598,NCAA(B) 2024/25 - Maui Invitational - Winner,8,Basketball,,,False,False
+4467314,NCAA(B) 2024/25 - Maui Invitational Winner,8,Basketball,,,False,False
 4363239,NCAA(B) 2024/25 - Mountain West Conference - Winner (reg. season),8,Basketball,,,False,False
 3883450,NCAA(B) 2024/25 - Southeastern Conference - Winner (reg. season),8,Basketball,,,False,False
 4363242,NCAA(B) 2024/25 - West Coast Conference - Winner (reg. season),8,Basketball,,,False,False
@@ -14418,6 +14734,7 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2017063,PLAYER_REBOUNDS,8,Basketball,33.0,Player Markets,False,False
 2017062,PLAYER_TOTAL,8,Basketball,33.0,Player Markets,False,False
 2017061,PLAYER_WINNER,8,Basketball,33.0,Player Markets,False,False
+4530865,Player: First Basket Including FT,8,Basketball,33.0,Player Markets,False,False
 28361,Point range,8,Basketball,24.0,Others,False,False
 1954223,Q3_END,8,Basketball,29.0,Quarter Markets,False,False
 46053,Race to {pointnr} points,8,Basketball,24.0,Others,False,False
@@ -15411,6 +15728,7 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 4065710,ANA Open Golf 2024 - Winner,16,Golf,,,False,False
 2242169,ANA Open Golf Tournament 2023 - Winner,16,Golf,,,False,False
 2641154,Andalucia Costa Del Sol Open De Espana 2023 - Winner,16,Golf,,,False,False
+4492758,Andalucia Costa Del Sol Open de Espana 2024 - Winner,16,Golf,,,False,False
 2398446,Andalucia Masters 2023 - 1st Round Leader,16,Golf,,,False,False
 2399669,Andalucia Masters 2023 - 72 Hole Group Betting A,16,Golf,,,False,False
 2399668,Andalucia Masters 2023 - 72 Hole Group Betting B,16,Golf,,,False,False
@@ -16119,6 +16437,90 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 3175723,Blue Bay LPGA 2024 - Winner,16,Golf,,,False,False
 2351374,Blue Label Challenge 2023 - Winner,16,Golf,,,False,False
 4354228,Blue Label Challenge 2024 - Winner,16,Golf,,,False,False
+4460927,BMW Australian PGA Championship - Top 10,16,Golf,,,False,False
+4460886,BMW Australian PGA Championship 2024 - 1st Round Leader,16,Golf,,,False,False
+4461224,BMW Australian PGA Championship 2024 - 72 Hole Group Betting A,16,Golf,,,False,False
+4461236,BMW Australian PGA Championship 2024 - 72 Hole Group Betting B,16,Golf,,,False,False
+4461253,BMW Australian PGA Championship 2024 - 72 Hole Group Betting C,16,Golf,,,False,False
+4461261,BMW Australian PGA Championship 2024 - 72 Hole Group Betting D,16,Golf,,,False,False
+4461265,BMW Australian PGA Championship 2024 - 72 Hole Group Betting E,16,Golf,,,False,False
+4461150,BMW Australian PGA Championship 2024 - 72 Hole Match Bet - C Davis vs L Herbert,16,Golf,,,False,False
+4461155,BMW Australian PGA Championship 2024 - 72 Hole Match Bet - D Hillier vs A Saddier,16,Golf,,,False,False
+4461222,BMW Australian PGA Championship 2024 - 72 Hole Match Bet - D Law vs R Ramsay,16,Golf,,,False,False
+4461189,BMW Australian PGA Championship 2024 - 72 Hole Match Bet - H Higgs vs C Luck,16,Golf,,,False,False
+4461206,BMW Australian PGA Championship 2024 - 72 Hole Match Bet - J Day vs C Smith,16,Golf,,,False,False
+4461187,BMW Australian PGA Championship 2024 - 72 Hole Match Bet - M Leishman vs L Woo,16,Golf,,,False,False
+4461191,BMW Australian PGA Championship 2024 - 72 Hole Match Bet - R Neergaard-Petersen vs J Parry,16,Golf,,,False,False
+4461208,BMW Australian PGA Championship 2024 - 72 Hole Match Bet - V Perez vs J Smith,16,Golf,,,False,False
+4461190,BMW Australian PGA Championship 2024 - 72 Hole Match Bet - W Ding vs D Micheluzzi,16,Golf,,,False,False
+4461194,BMW Australian PGA Championship 2024 - 72 Hole Match Bet - Y Paul vs J Scrivener,16,Golf,,,False,False
+4461111,BMW Australian PGA Championship 2024 - C Davis to make the cut,16,Golf,,,False,False
+4461085,BMW Australian PGA Championship 2024 - C Smith to make the cut,16,Golf,,,False,False
+4461148,BMW Australian PGA Championship 2024 - D Micheluzzi to make the cut,16,Golf,,,False,False
+4461093,BMW Australian PGA Championship 2024 - J Day to make the cut,16,Golf,,,False,False
+4461145,BMW Australian PGA Championship 2024 - J Smith to make the cut,16,Golf,,,False,False
+4461107,BMW Australian PGA Championship 2024 - L Herbert to make the cut,16,Golf,,,False,False
+4461102,BMW Australian PGA Championship 2024 - M Leishman to make the cut,16,Golf,,,False,False
+4461098,BMW Australian PGA Championship 2024 - MW Lee to make the cut,16,Golf,,,False,False
+4461136,BMW Australian PGA Championship 2024 - R Neergaard-Petersen to make the cut,16,Golf,,,False,False
+4462849,BMW Australian PGA Championship 2024 - Round 1 - 18 Hole Match Bet - A Ayora vs C Davis,16,Golf,,,False,False
+4462841,BMW Australian PGA Championship 2024 - Round 1 - 18 Hole Match Bet - D Hillier vs O Lindell,16,Golf,,,False,False
+4462812,BMW Australian PGA Championship 2024 - Round 1 - 18 Hole Match Bet - H Higgs vs M Penge,16,Golf,,,False,False
+4462807,BMW Australian PGA Championship 2024 - Round 1 - 18 Hole Match Bet - J Day vs R Neergaard-Petersen,16,Golf,,,False,False
+4462850,BMW Australian PGA Championship 2024 - Round 1 - 18 Hole Match Bet - L Herbert vs Y Paul,16,Golf,,,False,False
+4462810,BMW Australian PGA Championship 2024 - Round 1 - 18 Hole Match Bet - M Leishman vs C Smith,16,Golf,,,False,False
+4462806,BMW Australian PGA Championship 2024 - Round 1 - 18 Hole Match Bet - MW Lee vs J Smith,16,Golf,,,False,False
+4462818,BMW Australian PGA Championship 2024 - Round 1 - 18 Hole Match Bet - R Ramsay vs E Smylie,16,Golf,,,False,False
+4462846,BMW Australian PGA Championship 2024 - Round 1 - 18 Hole Match Bet - T Clements vs R Williams,16,Golf,,,False,False
+4462839,BMW Australian PGA Championship 2024 - Round 1 - 18 Hole Match Bet - W Ding vs A Saddier,16,Golf,,,False,False
+4470441,BMW Australian PGA Championship 2024 - Round 2 - 18 Hole Match Bet - C Davis vs V Perez,16,Golf,,,False,False
+4470475,BMW Australian PGA Championship 2024 - Round 2 - 18 Hole Match Bet - D Hillier vs O Lindell,16,Golf,,,False,False
+4470450,BMW Australian PGA Championship 2024 - Round 2 - 18 Hole Match Bet - D Micheluzzi vs J Parry,16,Golf,,,False,False
+4470426,BMW Australian PGA Championship 2024 - Round 2 - 18 Hole Match Bet - J Day vs R Neergaard-Petersen,16,Golf,,,False,False
+4470452,BMW Australian PGA Championship 2024 - Round 2 - 18 Hole Match Bet - L Herbert vs Y Paul,16,Golf,,,False,False
+4470425,BMW Australian PGA Championship 2024 - Round 2 - 18 Hole Match Bet - M Leishman vs C Smith,16,Golf,,,False,False
+4470434,BMW Australian PGA Championship 2024 - Round 2 - 18 Hole Match Bet - MW Lee vs J Smith,16,Golf,,,False,False
+4470449,BMW Australian PGA Championship 2024 - Round 2 - 18 Hole Match Bet - R Ramsay vs E Smylie,16,Golf,,,False,False
+4470492,BMW Australian PGA Championship 2024 - Round 2 - 18 Hole Match Bet - T Clements vs R Williams,16,Golf,,,False,False
+4470489,BMW Australian PGA Championship 2024 - Round 2 - 18 Hole Match Bet - W Ding vs A Saddier,16,Golf,,,False,False
+4482258,BMW Australian PGA Championship 2024 - Round 3 - 18 Hole Match Bet - B Akesson vs T Pulkkanen,16,Golf,,,False,False
+4482300,BMW Australian PGA Championship 2024 - Round 3 - 18 Hole Match Bet - D Hillier vs R Ramsay,16,Golf,,,False,False
+4482277,BMW Australian PGA Championship 2024 - Round 3 - 18 Hole Match Bet - F Celli vs A Saddier,16,Golf,,,False,False
+4482372,BMW Australian PGA Championship 2024 - Round 3 - 18 Hole Match Bet - J Buchanan vs R Velzen,16,Golf,,,False,False
+4482368,BMW Australian PGA Championship 2024 - Round 3 - 18 Hole Match Bet - L Herbert vs R Neergaard-Peters,16,Golf,,,False,False
+4482218,BMW Australian PGA Championship 2024 - Round 3 - 18 Hole Match Bet - MW Lee vs C Luck,16,Golf,,,False,False
+4482265,BMW Australian PGA Championship 2024 - Round 3 - 18 Hole Match Bet - N Colsaerts vs L Nemecz,16,Golf,,,False,False
+4482240,BMW Australian PGA Championship 2024 - Round 3 - 18 Hole Match Bet - O Lindell vs J Parry,16,Golf,,,False,False
+4482223,BMW Australian PGA Championship 2024 - Round 3 - 18 Hole Match Bet - T Clements vs H Higgs,16,Golf,,,False,False
+4482339,BMW Australian PGA Championship 2024 - Round 3 - 18 Hole Match Bet - V Perez vs J Smith,16,Golf,,,False,False
+4460929,BMW Australian PGA Championship 2024 - Top 20,16,Golf,,,False,False
+4460926,BMW Australian PGA Championship 2024 - Top 5,16,Golf,,,False,False
+4461314,BMW Australian PGA Championship 2024 - Top American,16,Golf,,,False,False
+4461315,BMW Australian PGA Championship 2024 - Top Asian,16,Golf,,,False,False
+4461316,BMW Australian PGA Championship 2024 - Top Australian,16,Golf,,,False,False
+4461317,BMW Australian PGA Championship 2024 - Top Chinese,16,Golf,,,False,False
+4461318,BMW Australian PGA Championship 2024 - Top Continental Europea,16,Golf,,,False,False
+4461509,BMW Australian PGA Championship 2024 - Top Danish,16,Golf,,,False,False
+4461319,BMW Australian PGA Championship 2024 - Top English,16,Golf,,,False,False
+4461320,BMW Australian PGA Championship 2024 - Top European,16,Golf,,,False,False
+4461321,BMW Australian PGA Championship 2024 - Top Finnish,16,Golf,,,False,False
+4461322,BMW Australian PGA Championship 2024 - Top French,16,Golf,,,False,False
+4461323,BMW Australian PGA Championship 2024 - Top GB + Ireland,16,Golf,,,False,False
+4461324,BMW Australian PGA Championship 2024 - Top German,16,Golf,,,False,False
+4461325,BMW Australian PGA Championship 2024 - Top Italian,16,Golf,,,False,False
+4461334,BMW Australian PGA Championship 2024 - Top Korean,16,Golf,,,False,False
+4461326,BMW Australian PGA Championship 2024 - Top New Zealander,16,Golf,,,False,False
+4461327,BMW Australian PGA Championship 2024 - Top Scandinavian,16,Golf,,,False,False
+4461329,BMW Australian PGA Championship 2024 - Top Scotland,16,Golf,,,False,False
+4461331,BMW Australian PGA Championship 2024 - Top South African,16,Golf,,,False,False
+4461330,BMW Australian PGA Championship 2024 - Top South-American,16,Golf,,,False,False
+4461332,BMW Australian PGA Championship 2024 - Top Spanish,16,Golf,,,False,False
+4461333,BMW Australian PGA Championship 2024 - Top Swedish,16,Golf,,,False,False
+4461116,BMW Australian PGA Championship 2024 - V Perez to make the cut,16,Golf,,,False,False
+4461272,BMW Australian PGA Championship 2024 - Will there be a Hole in One?,16,Golf,,,False,False
+4461271,BMW Australian PGA Championship 2024 - Will there be a Playoff?,16,Golf,,,False,False
+4460804,BMW Australian PGA Championship 2024 - Winner,16,Golf,,,False,False
+4461273,BMW Australian PGA Championship 2024 - Winning Margin,16,Golf,,,False,False
 3933516,BMW Championship 2024 - 1st Round Leader,16,Golf,,,False,False
 3934188,BMW Championship 2024 - 72 Hole Group Betting A,16,Golf,,,False,False
 3934207,BMW Championship 2024 - 72 Hole Group Betting B,16,Golf,,,False,False
@@ -16661,6 +17063,12 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2567662,Butterfield Bermuda Championship 2023 - Will There Be A Playoff?,16,Golf,,,False,False
 2566539,Butterfield Bermuda Championship 2023 - Winner,16,Golf,,,False,False
 2567663,Butterfield Bermuda Championship 2023 - Winning Margin,16,Golf,,,False,False
+4426886,Butterfield Bermuda Championship 2024 - 1st Round Leader,16,Golf,,,False,False
+4426874,Butterfield Bermuda Championship 2024 - 72 Hole Group Betting A,16,Golf,,,False,False
+4426875,Butterfield Bermuda Championship 2024 - 72 Hole Group Betting B,16,Golf,,,False,False
+4426876,Butterfield Bermuda Championship 2024 - 72 Hole Group Betting C,16,Golf,,,False,False
+4426877,Butterfield Bermuda Championship 2024 - 72 Hole Group Betting D,16,Golf,,,False,False
+4426885,Butterfield Bermuda Championship 2024 - 72 Hole Group Betting F,16,Golf,,,False,False
 4426294,Butterfield Bermuda Championship 2024 - 72 Hole Match Bet - A Novak vs A Putnam,16,Golf,,,False,False
 4426284,Butterfield Bermuda Championship 2024 - 72 Hole Match Bet - B Griffin vs M McNealy,16,Golf,,,False,False
 4426298,Butterfield Bermuda Championship 2024 - 72 Hole Match Bet - B Todd vs J Vegas,16,Golf,,,False,False
@@ -16679,15 +17087,68 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 4426199,Butterfield Bermuda Championship 2024 - M Hughes to make the cut,16,Golf,,,False,False
 4426210,Butterfield Bermuda Championship 2024 - M McNealy to make the cut,16,Golf,,,False,False
 4426212,Butterfield Bermuda Championship 2024 - P Rodgers to make the cut,16,Golf,,,False,False
+4431169,Butterfield Bermuda Championship 2024 - Round 1 - 18 Hole Match Bet - A Putnam vs M Schmid,16,Golf,,,False,False
+4431161,Butterfield Bermuda Championship 2024 - Round 1 - 18 Hole Match Bet - G Higgo vs S Piercy,16,Golf,,,False,False
+4431160,Butterfield Bermuda Championship 2024 - Round 1 - 18 Hole Match Bet - H Norlander vs D Wu,16,Golf,,,False,False
+4431163,Butterfield Bermuda Championship 2024 - Round 1 - 18 Hole Match Bet - J Bridgeman vs B Griffin,16,Golf,,,False,False
+4431164,Butterfield Bermuda Championship 2024 - Round 1 - 18 Hole Match Bet - J Lower vs S Stevens,16,Golf,,,False,False
+4431177,Butterfield Bermuda Championship 2024 - Round 1 - 18 Hole Match Bet - J Vegas vs C Yuan,16,Golf,,,False,False
+4431168,Butterfield Bermuda Championship 2024 - Round 1 - 18 Hole Match Bet - M Hughes vs S Power,16,Golf,,,False,False
+4431176,Butterfield Bermuda Championship 2024 - Round 1 - 18 Hole Match Bet - M McNealy vs J Suh,16,Golf,,,False,False
+4431162,Butterfield Bermuda Championship 2024 - Round 1 - 18 Hole Match Bet - N Echavarria vs L Glover,16,Golf,,,False,False
+4431170,Butterfield Bermuda Championship 2024 - Round 1 - 18 Hole Match Bet - R Hoey vs D Lipsky,16,Golf,,,False,False
+4441820,Butterfield Bermuda Championship 2024 - Round 2 - 18 Hole Match Bet - G Higgo vs N Taylor,16,Golf,,,False,False
+4441817,Butterfield Bermuda Championship 2024 - Round 2 - 18 Hole Match Bet - H Norlander vs A Novak,16,Golf,,,False,False
+4441815,Butterfield Bermuda Championship 2024 - Round 2 - 18 Hole Match Bet - J Bridgeman vs S Stevens,16,Golf,,,False,False
+4441814,Butterfield Bermuda Championship 2024 - Round 2 - 18 Hole Match Bet - J Lower vs P Rodgers,16,Golf,,,False,False
+4441822,Butterfield Bermuda Championship 2024 - Round 2 - 18 Hole Match Bet - M Hubbard vs G Sigg,16,Golf,,,False,False
+4441812,Butterfield Bermuda Championship 2024 - Round 2 - 18 Hole Match Bet - M Hughes vs S Power,16,Golf,,,False,False
+4441813,Butterfield Bermuda Championship 2024 - Round 2 - 18 Hole Match Bet - M McNealy vs J Vegas,16,Golf,,,False,False
+4441821,Butterfield Bermuda Championship 2024 - Round 2 - 18 Hole Match Bet - N Echavarria vs L Glover,16,Golf,,,False,False
+4441809,Butterfield Bermuda Championship 2024 - Round 2 - 18 Hole Match Bet - P Coody vs R Hoey,16,Golf,,,False,False
+4441818,Butterfield Bermuda Championship 2024 - Round 2 - 18 Hole Match Bet - V Whaley vs D Wu,16,Golf,,,False,False
+4447170,Butterfield Bermuda Championship 2024 - Round 3 - 18 Hole Match Bet - A Novak vs G Sigg,16,Golf,,,False,False
+4447150,Butterfield Bermuda Championship 2024 - Round 3 - 18 Hole Match Bet - B Griffin vs M McNealy,16,Golf,,,False,False
+4447189,Butterfield Bermuda Championship 2024 - Round 3 - 18 Hole Match Bet - J Bridgeman vs B Wu,16,Golf,,,False,False
+4447147,Butterfield Bermuda Championship 2024 - Round 3 - 18 Hole Match Bet - J Lower vs M Schmid,16,Golf,,,False,False
+4447174,Butterfield Bermuda Championship 2024 - Round 3 - 18 Hole Match Bet - J Vegas vs V Whaley,16,Golf,,,False,False
+4447169,Butterfield Bermuda Championship 2024 - Round 3 - 18 Hole Match Bet - K Kisner vs R Shelton,16,Golf,,,False,False
+4447130,Butterfield Bermuda Championship 2024 - Round 3 - 18 Hole Match Bet - L Griffin vs B Kohles,16,Golf,,,False,False
+4447145,Butterfield Bermuda Championship 2024 - Round 3 - 18 Hole Match Bet - M Hughes vs S Power,16,Golf,,,False,False
+4447131,Butterfield Bermuda Championship 2024 - Round 3 - 18 Hole Match Bet - R Hoey vs M Hubbard,16,Golf,,,False,False
+4447154,Butterfield Bermuda Championship 2024 - Round 3 - 18 Hole Match Bet - R Moore vs S Ryder,16,Golf,,,False,False
+4454071,Butterfield Bermuda Championship 2024 - Round 4 - 18 Hole Match Bet - A Novak vs P Rodgers,16,Golf,,,False,False
+4454068,Butterfield Bermuda Championship 2024 - Round 4 - 18 Hole Match Bet - C Ramey vs S Ryder,16,Golf,,,False,False
+4454066,Butterfield Bermuda Championship 2024 - Round 4 - 18 Hole Match Bet - D Lipsky vs V Whaley,16,Golf,,,False,False
+4454053,Butterfield Bermuda Championship 2024 - Round 4 - 18 Hole Match Bet - J Bridgeman vs P Coody,16,Golf,,,False,False
+4454077,Butterfield Bermuda Championship 2024 - Round 4 - 18 Hole Match Bet - L Glover vs J Lower,16,Golf,,,False,False
+4454052,Butterfield Bermuda Championship 2024 - Round 4 - 18 Hole Match Bet - N Echavarria vs M McNealy,16,Golf,,,False,False
+4454050,Butterfield Bermuda Championship 2024 - Round 4 - 18 Hole Match Bet - R Hoey vs J Vegas,16,Golf,,,False,False
+4454065,Butterfield Bermuda Championship 2024 - Round 4 - 18 Hole Match Bet - S Power vs M Schmid,16,Golf,,,False,False
+4454069,Butterfield Bermuda Championship 2024 - Round 4 - 18 Hole Match Bet - T Merritt vs A Smalley,16,Golf,,,False,False
+4454073,Butterfield Bermuda Championship 2024 - Round 4 - 18 Hole Match Bet - W Bryan vs R Campos,16,Golf,,,False,False
 4426198,Butterfield Bermuda Championship 2024 - S Power to make the cut,16,Golf,,,False,False
 4426222,Butterfield Bermuda Championship 2024 - S Stevens to make the cut,16,Golf,,,False,False
 4426008,Butterfield Bermuda Championship 2024 - Top 10,16,Golf,,,False,False
 4426009,Butterfield Bermuda Championship 2024 - Top 20,16,Golf,,,False,False
 4426007,Butterfield Bermuda Championship 2024 - Top 5,16,Golf,,,False,False
+4426950,Butterfield Bermuda Championship 2024 - Top American,16,Golf,,,False,False
+4426958,Butterfield Bermuda Championship 2024 - Top Asian,16,Golf,,,False,False
+4426970,Butterfield Bermuda Championship 2024 - Top Canadian,16,Golf,,,False,False
+4426990,Butterfield Bermuda Championship 2024 - Top Continental European,16,Golf,,,False,False
+4426979,Butterfield Bermuda Championship 2024 - Top English,16,Golf,,,False,False
+4426993,Butterfield Bermuda Championship 2024 - Top European,16,Golf,,,False,False
+4426996,Butterfield Bermuda Championship 2024 - Top French,16,Golf,,,False,False
+4427004,Butterfield Bermuda Championship 2024 - Top GB + Ireland,16,Golf,,,False,False
+4427007,Butterfield Bermuda Championship 2024 - Top Korean,16,Golf,,,False,False
+4431293,Butterfield Bermuda Championship 2024 - Top Scotland,16,Golf,,,False,False
+4427025,Butterfield Bermuda Championship 2024 - Top South African,16,Golf,,,False,False
+4427028,Butterfield Bermuda Championship 2024 - Top South American,16,Golf,,,False,False
 4425970,Butterfield Bermuda Championship 2024 - Will there be a Playoff? ,16,Golf,,,False,False
 4425858,Butterfield Bermuda Championship 2024 - Winner,16,Golf,,,False,False
 4425971,Butterfield Bermuda Championship 2024 - Winning Margin,16,Golf,,,False,False
 2646338,Casio World Open Golf Tournament 2023 - Winner,16,Golf,,,False,False
+4462935,Casio World Open Golf Tournament 2024 - Winner,16,Golf,,,False,False
 2717451,Cathedral Invitational 2023 - Winner,16,Golf,,,False,False
 2251662,Cazoo Open De France - 1st Round Leader,16,Golf,,,False,False
 2251873,Cazoo Open de France - 72 Hole Group Betting A,16,Golf,,,False,False
@@ -16896,6 +17357,10 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2598732,Cme Group Tour Championship 2023 - Top 10,16,Golf,,,False,False
 2598731,Cme Group Tour Championship 2023 - Top 5,16,Golf,,,False,False
 2597857,CME Group Tour Championship 2023 - Winner,16,Golf,,,False,False
+4460835,CME Group Tour Championship 2024 - 1st Round Leader,16,Golf,,,False,False
+4460920,CME Group Tour Championship 2024 - Top 10,16,Golf,,,False,False
+4460921,CME Group Tour Championship 2024 - Top 5,16,Golf,,,False,False
+4458610,CME Group Tour Championship 2024 - Winner,16,Golf,,,False,False
 3135121,Cognizant Classic in The Palm Beaches 2024 - 1st Round Leader  ,16,Golf,,,False,False
 3138175,Cognizant Classic in The Palm Beaches 2024 - 72 Hole Group Betting A,16,Golf,,,False,False
 3138177,Cognizant Classic in The Palm Beaches 2024 - 72 Hole Group Betting B,16,Golf,,,False,False
@@ -17475,6 +17940,46 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 4425328,DP World Tour Championship 2024 - 72 Hole Match Bet - T Hatton vs R McIlroy,16,Golf,,,False,False
 4425297,DP World Tour Championship 2024 - 72 Hole Match Bet - T Lawrence vs N Norgaard,16,Golf,,,False,False
 4425396,DP World Tour Championship 2024 - 72 Hole Match Bet - T McKibbin vs J Smith,16,Golf,,,False,False
+4429614,DP World Tour Championship 2024 - Round 1 - 18 Hole Match Bet - A Scott vs J Smith,16,Golf,,,False,False
+4429621,DP World Tour Championship 2024 - Round 1 - 18 Hole Match Bet - B Horschel vs T Olesen,16,Golf,,,False,False
+4429622,DP World Tour Championship 2024 - Round 1 - 18 Hole Match Bet - J Svensson vs P Waring,16,Golf,,,False,False
+4429610,DP World Tour Championship 2024 - Round 1 - 18 Hole Match Bet - L Canter vs A Rozner,16,Golf,,,False,False
+4429619,DP World Tour Championship 2024 - Round 1 - 18 Hole Match Bet - R Hojgaard vs M Wallace,16,Golf,,,False,False
+4429620,DP World Tour Championship 2024 - Round 1 - 18 Hole Match Bet - R Hoshino vs M Manassero,16,Golf,,,False,False
+4429623,DP World Tour Championship 2024 - Round 1 - 18 Hole Match Bet - T Fleetwood vs R MacIntyre,16,Golf,,,False,False
+4429625,DP World Tour Championship 2024 - Round 1 - 18 Hole Match Bet - T Hatton vs R McIlroy,16,Golf,,,False,False
+4429624,DP World Tour Championship 2024 - Round 1 - 18 Hole Match Bet - T Lawrence vs N Norgaard,16,Golf,,,False,False
+4429615,DP World Tour Championship 2024 - Round 1 - 18 Hole Match Bet - T McKibbin vs G Migliozzi,16,Golf,,,False,False
+4440961,DP World Tour Championship 2024 - Round 2 - 18 Hole Match Bet - A Meronk vs P Waring,16,Golf,,,False,False
+4440965,DP World Tour Championship 2024 - Round 2 - 18 Hole Match Bet - B Horschel vs A Scott,16,Golf,,,False,False
+4440943,DP World Tour Championship 2024 - Round 2 - 18 Hole Match Bet - M Manassero vs A Otaegui,16,Golf,,,False,False
+4440951,DP World Tour Championship 2024 - Round 2 - 18 Hole Match Bet - MW Lee vs A Rozner,16,Golf,,,False,False
+4440957,DP World Tour Championship 2024 - Round 2 - 18 Hole Match Bet - N Norgaard vs T Olesen,16,Golf,,,False,False
+4440971,DP World Tour Championship 2024 - Round 2 - 18 Hole Match Bet - R Hoshino vs K Nakajima,16,Golf,,,False,False
+4440960,DP World Tour Championship 2024 - Round 2 - 18 Hole Match Bet - R McIlroy vs J Niemann,16,Golf,,,False,False
+4440959,DP World Tour Championship 2024 - Round 2 - 18 Hole Match Bet - S Bairstow vs N Elvira,16,Golf,,,False,False
+4440967,DP World Tour Championship 2024 - Round 2 - 18 Hole Match Bet - T Hatton vs M Wallace,16,Golf,,,False,False
+4440939,DP World Tour Championship 2024 - Round 2 - 18 Hole Match Bet - T McKibbin vs J Veerman,16,Golf,,,False,False
+4445163,DP World Tour Championship 2024 - Round 3 - 18 Hole Match Bet - A Fitzpatrick vs T McKibbin,16,Golf,,,False,False
+4445170,DP World Tour Championship 2024 - Round 3 - 18 Hole Match Bet - A Otaegui vs P Waring,16,Golf,,,False,False
+4445185,DP World Tour Championship 2024 - Round 3 - 18 Hole Match Bet - A Rozner vs J Svensson,16,Golf,,,False,False
+4445166,DP World Tour Championship 2024 - Round 3 - 18 Hole Match Bet - B Horschel vs A Scott,16,Golf,,,False,False
+4445155,DP World Tour Championship 2024 - Round 3 - 18 Hole Match Bet - J Campillo vs L Canter,16,Golf,,,False,False
+4445152,DP World Tour Championship 2024 - Round 3 - 18 Hole Match Bet - R Langasque vs G Migliozzi,16,Golf,,,False,False
+4445171,DP World Tour Championship 2024 - Round 3 - 18 Hole Match Bet - R MacIntyre vs M Wallace,16,Golf,,,False,False
+4445184,DP World Tour Championship 2024 - Round 3 - 18 Hole Match Bet - S Lowry vs J Niemann,16,Golf,,,False,False
+4445179,DP World Tour Championship 2024 - Round 3 - 18 Hole Match Bet - T Fleetwood vs R Hojgaard,16,Golf,,,False,False
+4445193,DP World Tour Championship 2024 - Round 3 - 18 Hole Match Bet - T Hatton vs R McIlroy,16,Golf,,,False,False
+4452412,DP World Tour Championship 2024 - Round 4 - 18 Hole Match Bet - A Otaegui vs P Waring,16,Golf,,,False,False
+4452410,DP World Tour Championship 2024 - Round 4 - 18 Hole Match Bet - G Migliozzi vs N Norgaard,16,Golf,,,False,False
+4452422,DP World Tour Championship 2024 - Round 4 - 18 Hole Match Bet - J Niemann vs A Scott,16,Golf,,,False,False
+4452419,DP World Tour Championship 2024 - Round 4 - 18 Hole Match Bet - L Canter vs M Wallace,16,Golf,,,False,False
+4452432,DP World Tour Championship 2024 - Round 4 - 18 Hole Match Bet - R Hojgaard vs A Rozner,16,Golf,,,False,False
+4452406,DP World Tour Championship 2024 - Round 4 - 18 Hole Match Bet - S Bairstow vs U Coussaud,16,Golf,,,False,False
+4452420,DP World Tour Championship 2024 - Round 4 - 18 Hole Match Bet - S Lowry vs R MacIntyre,16,Golf,,,False,False
+4452429,DP World Tour Championship 2024 - Round 4 - 18 Hole Match Bet - T Hatton vs R McIlroy,16,Golf,,,False,False
+4452394,DP World Tour Championship 2024 - Round 4 - 18 Hole Match Bet - T Lawrence vs J Smith,16,Golf,,,False,False
+4452426,DP World Tour Championship 2024 - Round 4 - 18 Hole Match Bet - T McKibbin vs J Svensson,16,Golf,,,False,False
 4425094,DP World Tour Championship 2024 - Top  5,16,Golf,,,False,False
 4425097,DP World Tour Championship 2024 - Top 10,16,Golf,,,False,False
 4425689,DP World Tour Championship 2024 - Top American,16,Golf,,,False,False
@@ -17673,6 +18178,7 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2839208,Dubai Invitational 2024 - Winner,16,Golf,,,False,False
 2839243,Dubai Invitational 2024 - Winning Margin,16,Golf,,,False,False
 2598700,Dunlop Phoenix Tournament 2023 - Winner,16,Golf,,,False,False
+4429735,Dunlop Phoenix Tournament 2024 - Winner,16,Golf,,,False,False
 3799344,Dutch Ladies Open 2024 - Winner,16,Golf,,,False,False
 2040598,End of round {roundnr} - Leader,16,Golf,,,False,False
 3801592,Euram Bank Open 2024 - Winner,16,Golf,,,False,False
@@ -18398,6 +18904,40 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2675697,Hero World Challenge 2023 - Will there be a Playoff?,16,Golf,,,False,False
 2639595,Hero World Challenge 2023 - Winner,16,Golf,,,False,False
 2675688,Hero World Challenge 2023 - Winning Margin,16,Golf,,,False,False
+4598274,Hero World Challenge 2024 - 1st Round Leader,16,Golf,,,False,False
+4599294,Hero World Challenge 2024 - 72 Hole Group Betting A,16,Golf,,,False,False
+4599296,Hero World Challenge 2024 - 72 Hole Group Betting B,16,Golf,,,False,False
+4599301,Hero World Challenge 2024 - 72 Hole Group Betting C,16,Golf,,,False,False
+4599305,Hero World Challenge 2024 - 72 Hole Group Betting D,16,Golf,,,False,False
+4598737,Hero World Challenge 2024 - 72 Hole Match Bet - A Bhatia vs K Bradley,16,Golf,,,False,False
+4599025,Hero World Challenge 2024 - 72 Hole Match Bet - J Day vs A Rai,16,Golf,,,False,False
+4599037,Hero World Challenge 2024 - 72 Hole Match Bet - L Aberg vs J Thomas ,16,Golf,,,False,False
+4599036,Hero World Challenge 2024 - 72 Hole Match Bet - M Pavon vs S Straka,16,Golf,,,False,False
+4599026,Hero World Challenge 2024 - 72 Hole Match Bet - N Dunlap vs B Harman ,16,Golf,,,False,False
+4599034,Hero World Challenge 2024 - 72 Hole Match Bet - P Cantlay vs S Scheffler ,16,Golf,,,False,False
+4599039,Hero World Challenge 2024 - 72 Hole Match Bet - R MacIntyre vs C Young,16,Golf,,,False,False
+4599028,Hero World Challenge 2024 - 72 Hole Match Bet - S Burns vs R Henley,16,Golf,,,False,False
+4599033,Hero World Challenge 2024 - 72 Hole Match Bet - S Im vs S Theegala,16,Golf,,,False,False
+4598741,Hero World Challenge 2024 - 72 Hole Match Bet - W Clark vs T Kim,16,Golf,,,False,False
+4604202,Hero World Challenge 2024 - Round 1 - 18 Hole Match Bet - A Bhatia vs J Day,16,Golf,,,False,False
+4604193,Hero World Challenge 2024 - Round 1 - 18 Hole Match Bet - B Harman vs C Young,16,Golf,,,False,False
+4604222,Hero World Challenge 2024 - Round 1 - 18 Hole Match Bet - L Aberg vs J Thomas,16,Golf,,,False,False
+4604151,Hero World Challenge 2024 - Round 1 - 18 Hole Match Bet - N Dunlap vs M Pavon,16,Golf,,,False,False
+4604180,Hero World Challenge 2024 - Round 1 - 18 Hole Match Bet - R MacIntyre vs A Rai,16,Golf,,,False,False
+4604221,Hero World Challenge 2024 - Round 1 - 18 Hole Match Bet - S Burn vs P Cantlay,16,Golf,,,False,False
+4604183,Hero World Challenge 2024 - Round 1 - 18 Hole Match Bet - S Im vs R Henley,16,Golf,,,False,False
+4604205,Hero World Challenge 2024 - Round 1 - 18 Hole Match Bet - W Clark vs T Kim,16,Golf,,,False,False
+4598604,Hero World Challenge 2024 - Top 10,16,Golf,,,False,False
+4598520,Hero World Challenge 2024 - Top 5,16,Golf,,,False,False
+4598641,Hero World Challenge 2024 - Top American,16,Golf,,,False,False
+4598654,Hero World Challenge 2024 - Top British,16,Golf,,,False,False
+4598642,Hero World Challenge 2024 - Top Continental European,16,Golf,,,False,False
+4598650,Hero World Challenge 2024 - Top European,16,Golf,,,False,False
+4598651,Hero World Challenge 2024 - Top Korean,16,Golf,,,False,False
+4598618,Hero World Challenge 2024 - Will there be a Hole in One?,16,Golf,,,False,False
+4598608,Hero World Challenge 2024 - Will there be a Playoff?,16,Golf,,,False,False
+4557036,Hero World Challenge 2024 - Winner,16,Golf,,,False,False
+4598622,Hero World Challenge 2024 - Winning Margin,16,Golf,,,False,False
 2861724,Hilton Grand Vacations Tournament of Champions 2024 - 1st Round Leader,16,Golf,,,False,False
 2861736,Hilton Grand Vacations Tournament of Champions 2024 - Top 10,16,Golf,,,False,False
 2861731,Hilton Grand Vacations Tournament of Champions 2024 - Top 5,16,Golf,,,False,False
@@ -18414,6 +18954,7 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 3096178,Honda LPGA Thailand 2024 - Top 5,16,Golf,,,False,False
 3092050,Honda LPGA Thailand 2024 - Winner,16,Golf,,,False,False
 2579191,Hong Kong Open 2023 - Winner,16,Golf,,,False,False
+4461298,Hong Kong Open 2024 - Winner,16,Golf,,,False,False
 2267552,Hopps Open De Provence 2023 - Winner,16,Golf,,,False,False
 2231279,Horizon Irish Open 2023 - 1st Round Leader,16,Golf,,,False,False
 2231709,Horizon Irish Open 2023 - 72 Hole Group Betting A,16,Golf,,,False,False
@@ -18527,6 +19068,7 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 3229144,International Series Macau 2024 - Winner,16,Golf,,,False,False
 3749751,International Series Morocco 2024 - Winner,16,Golf,,,False,False
 3092570,International Series Oman 2024 - Winner,16,Golf,,,False,False
+4493062,International Series Qatar 2024 - Winner,16,Golf,,,False,False
 2267704,International Series Singapore 2023 - Winner,16,Golf,,,False,False
 4304549,International Series Thailand 2024 - Winner,16,Golf,,,False,False
 3444443,Investec South African Womens Open 2024 - Winner,16,Golf,,,False,False
@@ -18710,6 +19252,98 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2679166,ISPS HANDA Australian Open 2023 - Will there be a Playoff?,16,Golf,,,False,False
 2678158,ISPS HANDA Australian Open 2023 - Winner,16,Golf,,,False,False
 2679291,ISPS HANDA Australian Open 2023 - Winning Margin,16,Golf,,,False,False
+4495358,ISPS HANDA Australian Open 2024 - 72 Hole Group Betting A,16,Golf,,,False,False
+4495390,ISPS HANDA Australian Open 2024 - 72 Hole Group Betting B,16,Golf,,,False,False
+4495391,ISPS HANDA Australian Open 2024 - 72 Hole Group Betting C,16,Golf,,,False,False
+4495408,ISPS HANDA Australian Open 2024 - 72 Hole Group Betting D,16,Golf,,,False,False
+4495453,ISPS HANDA Australian Open 2024 - 72 Hole Group Betting E,16,Golf,,,False,False
+4495043,ISPS HANDA Australian Open 2024 - 72 Hole Match Bet - A Ayora vs J Parry,16,Golf,,,False,False
+4495074,ISPS HANDA Australian Open 2024 - 72 Hole Match Bet - C Davis vs L Herbert,16,Golf,,,False,False
+4495078,ISPS HANDA Australian Open 2024 - 72 Hole Match Bet - D Law vs C Luck,16,Golf,,,False,False
+4495093,ISPS HANDA Australian Open 2024 - 72 Hole Match Bet - D Micheluzzi vs V Perez,16,Golf,,,False,False
+4495090,ISPS HANDA Australian Open 2024 - 72 Hole Match Bet - H Higgs vs Y Paul,16,Golf,,,False,False
+4495103,ISPS HANDA Australian Open 2024 - 72 Hole Match Bet - K Kobori vs A Saddier,16,Golf,,,False,False
+4495104,ISPS HANDA Australian Open 2024 - 72 Hole Match Bet - M Leishman vs C Smith,16,Golf,,,False,False
+4495085,ISPS HANDA Australian Open 2024 - 72 Hole Match Bet - MW Lee vs J Niemann,16,Golf,,,False,False
+4495047,ISPS HANDA Australian Open 2024 - 72 Hole Match Bet - T Clements vs R Ramsay,16,Golf,,,False,False
+4495053,ISPS HANDA Australian Open 2024 - 72 Hole Match Bet - W Ding vs D Hillier,16,Golf,,,False,False
+4494973,ISPS HANDA Australian Open 2024 - C Davis to make the cut,16,Golf,,,False,False
+4494948,ISPS HANDA Australian Open 2024 - C Smith to make the cut,16,Golf,,,False,False
+4494978,ISPS HANDA Australian Open 2024 - D Micheluzzi to make the cut,16,Golf,,,False,False
+4494949,ISPS HANDA Australian Open 2024 - J Niemann to make the cut,16,Golf,,,False,False
+4494976,ISPS HANDA Australian Open 2024 - J Smith to make the cut,16,Golf,,,False,False
+4495004,ISPS HANDA Australian Open 2024 - K Vilips to make the cut,16,Golf,,,False,False
+4494958,ISPS HANDA Australian Open 2024 - L Herbert to make the cut,16,Golf,,,False,False
+4494957,ISPS HANDA Australian Open 2024 - M Leishman to make the cut,16,Golf,,,False,False
+4494951,ISPS HANDA Australian Open 2024 - MW Lee to make the cut,16,Golf,,,False,False
+4498065,ISPS HANDA Australian Open 2024 - Round 1 - 18 Hole Match Bet - A Ayora vs V Perez,16,Golf,,,False,False
+4498080,ISPS HANDA Australian Open 2024 - Round 1 - 18 Hole Match Bet - C Davis vs L Herbert,16,Golf,,,False,False
+4498085,ISPS HANDA Australian Open 2024 - Round 1 - 18 Hole Match Bet - D Micheluzzi vs J Smith,16,Golf,,,False,False
+4498077,ISPS HANDA Australian Open 2024 - Round 1 - 18 Hole Match Bet - J Parry vs E Smylie,16,Golf,,,False,False
+4498079,ISPS HANDA Australian Open 2024 - Round 1 - 18 Hole Match Bet - K Kobori vs O Lindell,16,Golf,,,False,False
+4498066,ISPS HANDA Australian Open 2024 - Round 1 - 18 Hole Match Bet - M Kim vs L Nemecz,16,Golf,,,False,False
+4498078,ISPS HANDA Australian Open 2024 - Round 1 - 18 Hole Match Bet - M Leishman vs C Smith,16,Golf,,,False,False
+4498083,ISPS HANDA Australian Open 2024 - Round 1 - 18 Hole Match Bet - R Neergaard-Petersen vs J Niemann,16,Golf,,,False,False
+4498084,ISPS HANDA Australian Open 2024 - Round 1 - 18 Hole Match Bet - R Ramsay vs N Voke,16,Golf,,,False,False
+4498081,ISPS HANDA Australian Open 2024 - Round 1 - 18 Hole Match Bet - Y Paul vs A Saddier,16,Golf,,,False,False
+4536020,ISPS HANDA Australian Open 2024 - Round 2 - 18 Hole Match Bet - A Ayora vs C Davis,16,Golf,,,False,False
+4535971,ISPS HANDA Australian Open 2024 - Round 2 - 18 Hole Match Bet - A Halvorsen vs J Olesen,16,Golf,,,False,False
+4535964,ISPS HANDA Australian Open 2024 - Round 2 - 18 Hole Match Bet - D Hillier vs N Voke,16,Golf,,,False,False
+4535967,ISPS HANDA Australian Open 2024 - Round 2 - 18 Hole Match Bet - D Micheluzzi vs J Smith,16,Golf,,,False,False
+4536006,ISPS HANDA Australian Open 2024 - Round 2 - 18 Hole Match Bet - F Celli vs M Southgate,16,Golf,,,False,False
+4536046,ISPS HANDA Australian Open 2024 - Round 2 - 18 Hole Match Bet - H Higgs vs A Saddier,16,Golf,,,False,False
+4535985,ISPS HANDA Australian Open 2024 - Round 2 - 18 Hole Match Bet - L Herbert vs V Perez,16,Golf,,,False,False
+4535980,ISPS HANDA Australian Open 2024 - Round 2 - 18 Hole Match Bet - M Kim vs L Nemecz,16,Golf,,,False,False
+4536003,ISPS HANDA Australian Open 2024 - Round 2 - 18 Hole Match Bet - M Leishman vs C Smith,16,Golf,,,False,False
+4536012,ISPS HANDA Australian Open 2024 - Round 2 - 18 Hole Match Bet - R Johnston vs K Reitan,16,Golf,,,False,False
+4549956,ISPS HANDA Australian Open 2024 - Round 3 - 18 Hole Match Bet - A Ayora vs D Micheluzzi,16,Golf,,,False,False
+4549999,ISPS HANDA Australian Open 2024 - Round 3 - 18 Hole Match Bet - A Garcia-Heredia vs A Wu,16,Golf,,,False,False
+4549988,ISPS HANDA Australian Open 2024 - Round 3 - 18 Hole Match Bet - F Celli vs H Crowe,16,Golf,,,False,False
+4550036,ISPS HANDA Australian Open 2024 - Round 3 - 18 Hole Match Bet - H Higgs vs M Southgate,16,Golf,,,False,False
+4550048,ISPS HANDA Australian Open 2024 - Round 3 - 18 Hole Match Bet - J Buchanan vs L Nemecz,16,Golf,,,False,False
+4550030,ISPS HANDA Australian Open 2024 - Round 3 - 18 Hole Match Bet - J Gumberg vs J Stubbs,16,Golf,,,False,False
+4550035,ISPS HANDA Australian Open 2024 - Round 3 - 18 Hole Match Bet - L Herbert vs M Leishman,16,Golf,,,False,False
+4550046,ISPS HANDA Australian Open 2024 - Round 3 - 18 Hole Match Bet - M Kim vs M Penge,16,Golf,,,False,False
+4550045,ISPS HANDA Australian Open 2024 - Round 3 - 18 Hole Match Bet - R Johnston vs F Schott,16,Golf,,,False,False
+4550041,ISPS HANDA Australian Open 2024 - Round 3 - 18 Hole Match Bet - W Ding vs D Hillier,16,Golf,,,False,False
+4566438,ISPS HANDA Australian Open 2024 - Round 4 - 18 Hole Match Bet - A Ayora vs M Penge,16,Golf,,,False,False
+4566498,ISPS HANDA Australian Open 2024 - Round 4 - 18 Hole Match Bet - D Hillier vs O Lindell,16,Golf,,,False,False
+4566455,ISPS HANDA Australian Open 2024 - Round 4 - 18 Hole Match Bet - F Celli vs M Southgate,16,Golf,,,False,False
+4566488,ISPS HANDA Australian Open 2024 - Round 4 - 18 Hole Match Bet - H Crowe vs H Higgs,16,Golf,,,False,False
+4566450,ISPS HANDA Australian Open 2024 - Round 4 - 18 Hole Match Bet - J Buchanan vs F Schott,16,Golf,,,False,False
+4566415,ISPS HANDA Australian Open 2024 - Round 4 - 18 Hole Match Bet - K Aphibarnrat vs M Kim,16,Golf,,,False,False
+4566489,ISPS HANDA Australian Open 2024 - Round 4 - 18 Hole Match Bet - L Herbert vs C Smith,16,Golf,,,False,False
+4566501,ISPS HANDA Australian Open 2024 - Round 4 - 18 Hole Match Bet - M Leishman vs J Niemann,16,Golf,,,False,False
+4566523,ISPS HANDA Australian Open 2024 - Round 4 - 18 Hole Match Bet - R Johnston vs J Stubbs,16,Golf,,,False,False
+4566510,ISPS HANDA Australian Open 2024 - Round 4 - 18 Hole Match Bet - W Ding vs E Smylie,16,Golf,,,False,False
+4494863,ISPS HANDA Australian Open 2024 - Top 10,16,Golf,,,False,False
+4494865,ISPS HANDA Australian Open 2024 - Top 20,16,Golf,,,False,False
+4494861,ISPS HANDA Australian Open 2024 - Top 5,16,Golf,,,False,False
+4495619,ISPS HANDA Australian Open 2024 - Top American,16,Golf,,,False,False
+4495633,ISPS HANDA Australian Open 2024 - Top Asian,16,Golf,,,False,False
+4495635,ISPS HANDA Australian Open 2024 - Top Australian,16,Golf,,,False,False
+4495639,ISPS HANDA Australian Open 2024 - Top Chinese,16,Golf,,,False,False
+4495645,ISPS HANDA Australian Open 2024 - Top Continental Europe,16,Golf,,,False,False
+4495653,ISPS HANDA Australian Open 2024 - Top Danish,16,Golf,,,False,False
+4495656,ISPS HANDA Australian Open 2024 - Top English,16,Golf,,,False,False
+4495659,ISPS HANDA Australian Open 2024 - Top European,16,Golf,,,False,False
+4495661,ISPS HANDA Australian Open 2024 - Top Finnish,16,Golf,,,False,False
+4495664,ISPS HANDA Australian Open 2024 - Top French,16,Golf,,,False,False
+4495670,ISPS HANDA Australian Open 2024 - Top GB + Ireland,16,Golf,,,False,False
+4495675,ISPS HANDA Australian Open 2024 - Top German,16,Golf,,,False,False
+4495686,ISPS HANDA Australian Open 2024 - Top Italian,16,Golf,,,False,False
+4495693,ISPS HANDA Australian Open 2024 - Top Korean,16,Golf,,,False,False
+4495750,ISPS HANDA Australian Open 2024 - Top New Zealander ,16,Golf,,,False,False
+4495726,ISPS HANDA Australian Open 2024 - Top Scandinavian,16,Golf,,,False,False
+4495733,ISPS HANDA Australian Open 2024 - Top Scotland,16,Golf,,,False,False
+4495739,ISPS HANDA Australian Open 2024 - Top South African,16,Golf,,,False,False
+4495740,ISPS HANDA Australian Open 2024 - Top Spanish,16,Golf,,,False,False
+4495744,ISPS HANDA Australian Open 2024 - Top Swedish,16,Golf,,,False,False
+4494981,ISPS HANDA Australian Open 2024 - V Perez to make the cut,16,Golf,,,False,False
+4494897,ISPS HANDA Australian Open 2024 - Will there be a Hole in One?,16,Golf,,,False,False
+4494894,ISPS HANDA Australian Open 2024 - Will there be a Playoff?,16,Golf,,,False,False
+4494121,ISPS HANDA Australian Open 2024 - Winner,16,Golf,,,False,False
+4494899,ISPS HANDA Australian Open 2024 - Winning Margin,16,Golf,,,False,False
 3442443,ISPS Handa Championship 2024 - 1st Round Leader,16,Golf,,,False,False
 3443032,ISPS Handa Championship 2024 - 72 Hole Group Betting A,16,Golf,,,False,False
 3443033,ISPS Handa Championship 2024 - 72 Hole Group Betting B,16,Golf,,,False,False
@@ -18793,6 +19427,7 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 3443113,ISPS Handa Championship 2024 - Winning Margin,16,Golf,,,False,False
 3443006,ISPS Handa Championship 2024 - Y Paul to make the cut,16,Golf,,,False,False
 2686769,ISPS HANDA Women's Australian Open 2023 - Winner,16,Golf,,,False,False
+4494473,ISPS Handa Womens Australian Open 2024 - Winner,16,Golf,,,False,False
 3900587,ISPS Handa World Invitational 2024 - Winner,16,Golf,,,False,False
 3734229,Italian Open 2024 - 1st Round Leader,16,Golf,,,False,False
 3734878,Italian Open 2024 - 72 Hole Group Betting A,16,Golf,,,False,False
@@ -20334,6 +20969,7 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 4309453,Maybank Championship 2024 - Top 5,16,Golf,,,False,False
 4302456,Maybank Championship 2024 - Winner,16,Golf,,,False,False
 2717825,MCB Tour Championship 2023 - Mauritius - Winner,16,Golf,,,False,False
+4609424,MCB Tour Championship Mauritius 2024 - Winner,16,Golf,,,False,False
 2893258,Mediclinic Invitational 2024 - Winner,16,Golf,,,False,False
 3703017,Meijer LPGA Classic 2024 - 1st Round Leader,16,Golf,,,False,False
 3703020,Meijer LPGA Classic 2024 - Top 10,16,Golf,,,False,False
@@ -20687,8 +21323,58 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2568044,Nedbank Golf Challenge 2023 - Will There Be A Playoff?,16,Golf,,,False,False
 2566527,Nedbank Golf Challenge 2023 - Winner,16,Golf,,,False,False
 2568046,Nedbank Golf Challenge 2023 - Winning Margin,16,Golf,,,False,False
+4600065,Nedbank Golf Challenge 2024 - 1st Round Leader,16,Golf,,,False,False
+4601674,Nedbank Golf Challenge 2024 - 72 Hole Group Betting A,16,Golf,,,False,False
+4601675,Nedbank Golf Challenge 2024 - 72 Hole Group Betting B,16,Golf,,,False,False
+4601683,Nedbank Golf Challenge 2024 - 72 Hole Group Betting C,16,Golf,,,False,False
+4601684,Nedbank Golf Challenge 2024 - 72 Hole Group Betting D,16,Golf,,,False,False
+4601682,Nedbank Golf Challenge 2024 - 72 Hole Group Betting E,16,Golf,,,False,False
+4600495,Nedbank Golf Challenge 2024 - 72 Hole Match Bet - C Bezuidenhout vs C Conners,16,Golf,,,False,False
+4600514,Nedbank Golf Challenge 2024 - 72 Hole Match Bet - E Ferguson vs M Manassero,16,Golf,,,False,False
+4600482,Nedbank Golf Challenge 2024 - 72 Hole Match Bet - J Campillo vs A Fitzpatrick,16,Golf,,,False,False
+4600535,Nedbank Golf Challenge 2024 - 72 Hole Match Bet - J Guerrier vs R Langasque,16,Golf,,,False,False
+4600488,Nedbank Golf Challenge 2024 - 72 Hole Match Bet - L Canter vs E Rooyen,16,Golf,,,False,False
+4600574,Nedbank Golf Challenge 2024 - 72 Hole Match Bet - M Homa vs T Olesen,16,Golf,,,False,False
+4600554,Nedbank Golf Challenge 2024 - 72 Hole Match Bet - M Hughes vs T Lawrence,16,Golf,,,False,False
+4600566,Nedbank Golf Challenge 2024 - 72 Hole Match Bet - N Hojgaard vs T McKibbin,16,Golf,,,False,False
+4600507,Nedbank Golf Challenge 2024 - 72 Hole Match Bet - T Detry vs N Norgaard,16,Golf,,,False,False
+4600546,Nedbank Golf Challenge 2024 - 72 Hole Match Bet - W Ding vs M Jordan,16,Golf,,,False,False
+4608667,Nedbank Golf Challenge 2024 - Round 1 - 18 Hole Match Bet - C Bezuidenhout vs T Lawrence,16,Golf,,,False,False
+4608666,Nedbank Golf Challenge 2024 - Round 1 - 18 Hole Match Bet - C Conners vs T Olesen,16,Golf,,,False,False
+4608656,Nedbank Golf Challenge 2024 - Round 1 - 18 Hole Match Bet - E Ferguson vs J Veerman,16,Golf,,,False,False
+4608655,Nedbank Golf Challenge 2024 - Round 1 - 18 Hole Match Bet - G Migliozzi vs B Stone,16,Golf,,,False,False
+4608661,Nedbank Golf Challenge 2024 - Round 1 - 18 Hole Match Bet - J Svensson vs E Van Rooyen,16,Golf,,,False,False
+4608665,Nedbank Golf Challenge 2024 - Round 1 - 18 Hole Match Bet - M Homa vs W Zalatoris,16,Golf,,,False,False
+4608659,Nedbank Golf Challenge 2024 - Round 1 - 18 Hole Match Bet - M Jordan vs A Otaegui,16,Golf,,,False,False
+4608663,Nedbank Golf Challenge 2024 - Round 1 - 18 Hole Match Bet - N Norgaard vs P Waring,16,Golf,,,False,False
+4608658,Nedbank Golf Challenge 2024 - Round 1 - 18 Hole Match Bet - R Hisatsune vs S Soderberg,16,Golf,,,False,False
+4608660,Nedbank Golf Challenge 2024 - Round 1 - 18 Hole Match Bet - T Detry vs T McKibbin,16,Golf,,,False,False
+4601645,Nedbank Golf Challenge 2024 - Top 10,16,Golf,,,False,False
+4601654,Nedbank Golf Challenge 2024 - Top 20,16,Golf,,,False,False
+4601633,Nedbank Golf Challenge 2024 - Top 5,16,Golf,,,False,False
+4601690,Nedbank Golf Challenge 2024 - Top American,16,Golf,,,False,False
+4601691,Nedbank Golf Challenge 2024 - Top Asian,16,Golf,,,False,False
+4601689,Nedbank Golf Challenge 2024 - Top Canadian,16,Golf,,,False,False
+4601688,Nedbank Golf Challenge 2024 - Top Continental European,16,Golf,,,False,False
+4601695,Nedbank Golf Challenge 2024 - Top Danish,16,Golf,,,False,False
+4601697,Nedbank Golf Challenge 2024 - Top English,16,Golf,,,False,False
+4601698,Nedbank Golf Challenge 2024 - Top European,16,Golf,,,False,False
+4601701,Nedbank Golf Challenge 2024 - Top French,16,Golf,,,False,False
+4601705,Nedbank Golf Challenge 2024 - Top GB + Ireland,16,Golf,,,False,False
+4601706,Nedbank Golf Challenge 2024 - Top Italian,16,Golf,,,False,False
+4601707,Nedbank Golf Challenge 2024 - Top Japanese,16,Golf,,,False,False
+4601708,Nedbank Golf Challenge 2024 - Top Scandinavian,16,Golf,,,False,False
+4601710,Nedbank Golf Challenge 2024 - Top Scotland,16,Golf,,,False,False
+4601711,Nedbank Golf Challenge 2024 - Top South African,16,Golf,,,False,False
+4601712,Nedbank Golf Challenge 2024 - Top Spanish,16,Golf,,,False,False
+4601720,Nedbank Golf Challenge 2024 - Top Swedish,16,Golf,,,False,False
+4600104,Nedbank Golf Challenge 2024 - Will there be a Hole in One?,16,Golf,,,False,False
+4600098,Nedbank Golf Challenge 2024 - Will there be a Playoff?,16,Golf,,,False,False
+4598112,Nedbank Golf Challenge 2024 - Winner,16,Golf,,,False,False
+4600170,Nedbank Golf Challenge 2024 - Winning Margin,16,Golf,,,False,False
 3099074,Nelson Mandela Bay Championship 2024 - Winner,16,Golf,,,False,False
 3139744,New Zealand Open 2024 - Winner,16,Golf,,,False,False
+4491419,Nippon Series JT Cup 2024 - Winner,16,Golf,,,False,False
 4423973,NSW Open 2024 - Winner,16,Golf,,,False,False
 3325453,NSW Womens Open 2024 - Winner,16,Golf,,,False,False
 3823668,NV5 Invitational 2024 - Winner,16,Golf,,,False,False
@@ -21213,6 +21899,7 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 3600772,PGA Championship 2025 - Winner,16,Golf,,,False,False
 2758336,PGA TOUR Q-School 2023 - Winner,16,Golf,,,False,False
 2843027,PGA Tour World Money List 2024 - Winner,16,Golf,,,False,False
+4599799,PIF Saudi International 2024 - Winner,16,Golf,,,False,False
 3874677,Pinnacle Bank Championship 2024 - Winner,16,Golf,,,False,False
 3903843,PNG Open 2024 - Winner,16,Golf,,,False,False
 3274987,Porsche Singapore Classic 2024 - 1st Round Leader ,16,Golf,,,False,False
@@ -21317,6 +22004,7 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 3852754,Portland Classic 2024 - Top 10,16,Golf,,,False,False
 3852753,Portland Classic 2024 - Top 5,16,Golf,,,False,False
 3852177,Portland Classic 2024 - Winner,16,Golf,,,False,False
+4594693,Presidents Cup - Winner,16,Golf,,,False,False
 4117664,Presidents Cup 2024 - Day 1 - Correct Score,16,Golf,,,False,False
 4117508,Presidents Cup 2024 - Day 1 Winner,16,Golf,,,False,False
 4117665,Presidents Cup 2024 - Day 2 - Correct Score,16,Golf,,,False,False
@@ -22903,6 +23591,7 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2678087,South African Open Championship 2023 - Winning Margin,16,Golf,,,False,False
 2684645,South African Open Championship 2023 - Z Lombard to make the cut,16,Golf,,,False,False
 2253185,South African Pga Championship 2023 - Winner,16,Golf,,,False,False
+4464383,South African PGA Championship 2024 - Winner,16,Golf,,,False,False
 3855087,Staysure PGA Seniors Championship 2024 - Winner,16,Golf,,,False,False
 3280098,Stella Artois Players Championship 2024 - Winner,16,Golf,,,False,False
 3678569,SunBet Challenge 2024 - Winner,16,Golf,,,False,False
@@ -22916,6 +23605,7 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 3344267,T-Mobile Match Play 2024 - 54 Hole Stroke Play - Top 5,16,Golf,,,False,False
 3343123,T-Mobile Match Play 2024 - Winner,16,Golf,,,False,False
 2685683,Taiwan Glass Taifong Open 2023 - Winner,16,Golf,,,False,False
+4427744,Taiwan Glass Taifong Open 2024 - Winner,16,Golf,,,False,False
 3317457,Texas Childrens Houston Open 2024 - 1st Round Leader,16,Golf,,,False,False
 3318598,Texas Childrens Houston Open 2024 - 72 Hole Group Betting A,16,Golf,,,False,False
 3318705,Texas Childrens Houston Open 2024 - 72 Hole Group Betting B,16,Golf,,,False,False
@@ -23003,6 +23693,7 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 3318289,Texas Childrens Houston Open 2024 - Will there be a Playoff?,16,Golf,,,False,False
 3316266,Texas Childrens Houston Open 2024 - Winner,16,Golf,,,False,False
 3318292,Texas Childrens Houston Open 2024 - Winning Margin,16,Golf,,,False,False
+4494720,TGL 2025 - Winner,16,Golf,,,False,False
 4027987,The 40th Shinhan Donghae 2024 - Winner,16,Golf,,,False,False
 3936005,The Ally Challenge 2024 - 1st Round Leader,16,Golf,,,False,False
 3936094,The Ally Challenge 2024 - Top 10,16,Golf,,,False,False
@@ -23110,6 +23801,10 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2571773,The Annika 2023 - Top 10,16,Golf,,,False,False
 2570296,The Annika 2023 - Top 5,16,Golf,,,False,False
 2566354,The ANNIKA 2023 - Winner,16,Golf,,,False,False
+4427331,The ANNIKA 2024 - 1st Round Leader,16,Golf,,,False,False
+4427536,The ANNIKA 2024 - Top 10,16,Golf,,,False,False
+4427534,The ANNIKA 2024 - Top 5,16,Golf,,,False,False
+4427043,The ANNIKA 2024 - Winner,16,Golf,,,False,False
 3780520,The Ascendant 2024 - Winner,16,Golf,,,False,False
 2874823,The Bahamas Great Abaco Classic 2024,16,Golf,,,False,False
 2843415,The Bahamas Great Exuma Classic 2024 - Winner,16,Golf,,,False,False
@@ -23661,6 +24356,93 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2598633,The Rsm Classic 2023 - Will There Be A Playoff?,16,Golf,,,False,False
 2598579,The RSM Classic 2023 - Winner,16,Golf,,,False,False
 2598631,The Rsm Classic 2023 - Winning Margin,16,Golf,,,False,False
+4465531,The RSM Classic 2024 - 1st Round Leader (Plantation Course),16,Golf,,,False,False
+4465533,The RSM Classic 2024 - 1st Round Leader (Sea Island Course),16,Golf,,,False,False
+4460594,The RSM Classic 2024 - 72 Hole Group Betting A,16,Golf,,,False,False
+4460595,The RSM Classic 2024 - 72 Hole Group Betting B,16,Golf,,,False,False
+4460596,The RSM Classic 2024 - 72 Hole Group Betting C,16,Golf,,,False,False
+4460597,The RSM Classic 2024 - 72 Hole Group Betting D,16,Golf,,,False,False
+4460598,The RSM Classic 2024 - 72 Hole Group Betting E,16,Golf,,,False,False
+4460580,The RSM Classic 2024 - 72 Hole Match Bet - A Eckroat vs L Glover,16,Golf,,,False,False
+4460593,The RSM Classic 2024 - 72 Hole Match Bet - B Griffin vs J Poston,16,Golf,,,False,False
+4460583,The RSM Classic 2024 - 72 Hole Match Bet - B Harman vs SW Kim,16,Golf,,,False,False
+4460589,The RSM Classic 2024 - 72 Hole Match Bet - D Ghim vs C Kirk,16,Golf,,,False,False
+4460590,The RSM Classic 2024 - 72 Hole Match Bet - D McCarthy vs S Power,16,Golf,,,False,False
+4460578,The RSM Classic 2024 - 72 Hole Match Bet - E Cole vs J Spaun,16,Golf,,,False,False
+4460582,The RSM Classic 2024 - 72 Hole Match Bet - H English vs M Hughes,16,Golf,,,False,False
+4460577,The RSM Classic 2024 - 72 Hole Match Bet - L Aberg vs D Thompson,16,Golf,,,False,False
+4460592,The RSM Classic 2024 - 72 Hole Match Bet - L Clanton vs A Novak,16,Golf,,,False,False
+4460591,The RSM Classic 2024 - 72 Hole Match Bet - M McNealy vs M Wallace,16,Golf,,,False,False
+4460110,The RSM Classic 2024 - B Griffin to make the cut,16,Golf,,,False,False
+4460078,The RSM Classic 2024 - B Harman to make the cut,16,Golf,,,False,False
+4460107,The RSM Classic 2024 - D McCarthy to make the cut,16,Golf,,,False,False
+4460105,The RSM Classic 2024 - D Thompson to make the cut,16,Golf,,,False,False
+4460112,The RSM Classic 2024 - H English to make the cut,16,Golf,,,False,False
+4460109,The RSM Classic 2024 - J Poston to make the cut,16,Golf,,,False,False
+4460077,The RSM Classic 2024 - L Aberg to make the cut,16,Golf,,,False,False
+4460111,The RSM Classic 2024 - L Glover to make the cut,16,Golf,,,False,False
+4464125,The RSM Classic 2024 - Round 1 - 18 Hole Match Bet - D Berger vs N Echavarria,16,Golf,,,False,False
+4464111,The RSM Classic 2024 - Round 1 - 18 Hole Match Bet - E Cole vs A Novak,16,Golf,,,False,False
+4464112,The RSM Classic 2024 - Round 1 - 18 Hole Match Bet - L Aberg vs B Harman,16,Golf,,,False,False
+4464124,The RSM Classic 2024 - Round 1 - 18 Hole Match Bet - M Hubbard vs A Svensson,16,Golf,,,False,False
+4464123,The RSM Classic 2024 - Round 1 - 18 Hole Match Bet - M Hughes vs J Spaun,16,Golf,,,False,False
+4464114,The RSM Classic 2024 - Round 1 - 18 Hole Match Bet - M Kuchar vs S Straka,16,Golf,,,False,False
+4464118,The RSM Classic 2024 - Round 1 - 18 Hole Match Bet - M McCarty vs S Stevens,16,Golf,,,False,False
+4464127,The RSM Classic 2024 - Round 1 - 18 Hole Match Bet - M McNealy vs J Poston,16,Golf,,,False,False
+4464109,The RSM Classic 2024 - Round 1 - 18 Hole Match Bet - P Fishburn vs P Rodgers,16,Golf,,,False,False
+4464126,The RSM Classic 2024 - Round 1 - 18 Hole Match Bet - SW Kim vs D Thompson,16,Golf,,,False,False
+4473211,The RSM Classic 2024 - Round 2 - 18 Hole Match Bet - A Eckroat vs C Kirk,16,Golf,,,False,False
+4473202,The RSM Classic 2024 - Round 2 - 18 Hole Match Bet - B Cauley vs M Hubbard,16,Golf,,,False,False
+4473217,The RSM Classic 2024 - Round 2 - 18 Hole Match Bet - B Harman vs J Poston,16,Golf,,,False,False
+4473216,The RSM Classic 2024 - Round 2 - 18 Hole Match Bet - D Berger vs N Echavarria,16,Golf,,,False,False
+4473213,The RSM Classic 2024 - Round 2 - 18 Hole Match Bet - D McCarthy vs M Wallace,16,Golf,,,False,False
+4473212,The RSM Classic 2024 - Round 2 - 18 Hole Match Bet - E Cole vs L Glover,16,Golf,,,False,False
+4473210,The RSM Classic 2024 - Round 2 - 18 Hole Match Bet - H English vs D Thompson,16,Golf,,,False,False
+4473203,The RSM Classic 2024 - Round 2 - 18 Hole Match Bet - J Lower vs S Stevens,16,Golf,,,False,False
+4473204,The RSM Classic 2024 - Round 2 - 18 Hole Match Bet - M McNealy vs A Putnam,16,Golf,,,False,False
+4473214,The RSM Classic 2024 - Round 2 - 18 Hole Match Bet - M NeSmith vs J Suh,16,Golf,,,False,False
+4478300,The RSM Classic 2024 - Round 3 - 18 Hole Match Bet - A Eckroat vs H English,16,Golf,,,False,False
+4478304,The RSM Classic 2024 - Round 3 - 18 Hole Match Bet - B Cauley vs R Hisatsune,16,Golf,,,False,False
+4478301,The RSM Classic 2024 - Round 3 - 18 Hole Match Bet - B Griffin vs D McCarthy,16,Golf,,,False,False
+4478306,The RSM Classic 2024 - Round 3 - 18 Hole Match Bet - D Berger vs P Fishburn,16,Golf,,,False,False
+4478302,The RSM Classic 2024 - Round 3 - 18 Hole Match Bet - E Cole vs B Harman,16,Golf,,,False,False
+4478310,The RSM Classic 2024 - Round 3 - 18 Hole Match Bet - L Aberg vs D Thompson,16,Golf,,,False,False
+4478299,The RSM Classic 2024 - Round 3 - 18 Hole Match Bet - L Glover vs S Stevens,16,Golf,,,False,False
+4478312,The RSM Classic 2024 - Round 3 - 18 Hole Match Bet - M Kim vs M Thorbjornsen,16,Golf,,,False,False
+4478303,The RSM Classic 2024 - Round 3 - 18 Hole Match Bet - M McNealy vs M Wallace,16,Golf,,,False,False
+4478311,The RSM Classic 2024 - Round 3 - 18 Hole Match Bet - N Echavarria vs V Whaley,16,Golf,,,False,False
+4485980,The RSM Classic 2024 - Round 4 - 18 Hole Match Bet - A Eckroat vs B Griffin,16,Golf,,,False,False
+4485978,The RSM Classic 2024 - Round 4 - 18 Hole Match Bet - A Novak vs S Stevens,16,Golf,,,False,False
+4485986,The RSM Classic 2024 - Round 4 - 18 Hole Match Bet - D Berger vs M Thorbjornsen,16,Golf,,,False,False
+4485977,The RSM Classic 2024 - Round 4 - 18 Hole Match Bet - E Cole vs D McCarthy,16,Golf,,,False,False
+4485982,The RSM Classic 2024 - Round 4 - 18 Hole Match Bet - J Bramlett vs W Gordon,16,Golf,,,False,False
+4485979,The RSM Classic 2024 - Round 4 - 18 Hole Match Bet - J Highsmith vs R Shelton,16,Golf,,,False,False
+4485987,The RSM Classic 2024 - Round 4 - 18 Hole Match Bet - M Hughes vs M McNealy,16,Golf,,,False,False
+4485981,The RSM Classic 2024 - Round 4 - 18 Hole Match Bet - M Laird vs H Norlander,16,Golf,,,False,False
+4485985,The RSM Classic 2024 - Round 4 - 18 Hole Match Bet - N Echavarria vs L Hodges,16,Golf,,,False,False
+4485983,The RSM Classic 2024 - Round 4 - 18 Hole Match Bet - S Fisk vs P Peterson,16,Golf,,,False,False
+4460108,The RSM Classic 2024 - S Power to make the cut,16,Golf,,,False,False
+4460106,The RSM Classic 2024 - SW Kim to make the cut,16,Golf,,,False,False
+4459994,The RSM Classic 2024 - Top 10,16,Golf,,,False,False
+4459995,The RSM Classic 2024 - Top 20,16,Golf,,,False,False
+4459991,The RSM Classic 2024 - Top 5,16,Golf,,,False,False
+4460528,The RSM Classic 2024 - Top American,16,Golf,,,False,False
+4460549,The RSM Classic 2024 - Top Asian,16,Golf,,,False,False
+4460519,The RSM Classic 2024 - Top Canadian,16,Golf,,,False,False
+4460520,The RSM Classic 2024 - Top Chinese,16,Golf,,,False,False
+4460535,The RSM Classic 2024 - Top Continental Europe,16,Golf,,,False,False
+4460522,The RSM Classic 2024 - Top English,16,Golf,,,False,False
+4460534,The RSM Classic 2024 - Top European,16,Golf,,,False,False
+4460523,The RSM Classic 2024 - Top French,16,Golf,,,False,False
+4460551,The RSM Classic 2024 - Top GB + Ireland,16,Golf,,,False,False
+4460525,The RSM Classic 2024 - Top Scotland,16,Golf,,,False,False
+4460526,The RSM Classic 2024 - Top South African,16,Golf,,,False,False
+4460616,The RSM Classic 2024 - Top South American,16,Golf,,,False,False
+4460524,The RSM Classic 2024 - Top South Korean,16,Golf,,,False,False
+4460062,The RSM Classic 2024 - Will there be a Hole in One?,16,Golf,,,False,False
+4460052,The RSM Classic 2024 - Will there be a Playoff?,16,Golf,,,False,False
+4459939,The RSM Classic 2024 - Winner,16,Golf,,,False,False
+4460064,The RSM Classic 2024 - Winning Margin,16,Golf,,,False,False
 3823381,The Senior Open Championship 2024 - 1st Round Leader,16,Golf,,,False,False
 3823435,The Senior Open Championship 2024 - Top 10,16,Golf,,,False,False
 3823432,The Senior Open Championship 2024 - Top 5,16,Golf,,,False,False
@@ -24374,10 +25156,12 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 3444322,Veritex Bank Championship 2024 - Winner,16,Golf,,,False,False
 2939058,Vic Open 2024 - Winner,16,Golf,,,False,False
 2598786,Victorian PGA Championship 2023 - Winner,16,Golf,,,False,False
+4602586,Victorian PGA Championship 2024 - Winner,16,Golf,,,False,False
 3908250,Vierumaki Finnish Challenge 2024 - Winner,16,Golf,,,False,False
 2674812,Vinpearl DIC Legends Vietnam 2023 - Winner,16,Golf,,,False,False
 3597893,Visit Knoxville Open 2024 - Winner,16,Golf,,,False,False
 4108860,Vodacom Origins of Golf - Sishen 2024 - Winner,16,Golf,,,False,False
+4427739,Vodacom Origins of Golf Final Oubaai 2024 - Winner,16,Golf,,,False,False
 2529731,Vodacom Origins of Golf Finals 2023 - Winner,16,Golf,,,False,False
 4222275,Vodacom Origins of Golf Wild Coast 2024 - Winner,16,Golf,,,False,False
 3904085,VOG Highland Gate 2024 - Winner,16,Golf,,,False,False
@@ -24566,6 +25350,7 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2228544,Walker Cup 2023 - Winner,16,Golf,,,False,False
 3486989,Waterfall City Tournament of Champions 2024 - Winner,16,Golf,,,False,False
 2232283,WCM Legends Open de France 2023 - Winner,16,Golf,,,False,False
+4430335,WCM Mexico Senior Open 2024 - Winner,16,Golf,,,False,False
 3050925,Webex Players Series Hunter Valley 2024 - Winner,16,Golf,,,False,False
 2408578,Webex Players Series SA 2023 - Winner,16,Golf,,,False,False
 4311315,Webex Players Series SA 2024 - Winner,16,Golf,,,False,False
@@ -25267,6 +26052,7 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 3905042,Rugby League NRL 2024 - Top Point Scorer,56,Rugby League,,,False,False
 3905041,Rugby League NRL 2024 - Top Try Scorer,56,Rugby League,,,False,False
 3919022,Rugby League NRL 2024 - Winning Region,56,Rugby League,,,False,False
+4491119,Rugby League NRL 2025 - Regular Season - To Miss the Top 4,56,Rugby League,,,False,False
 4396773,Rugby League NRL 2025 - Regular Season - To Miss the Top 8,56,Rugby League,,,False,False
 4396775,Rugby League NRL 2025 - Regular Season - Top 8,56,Rugby League,,,False,False
 4396774,Rugby League NRL 2025 - To Reach the Grand Final,56,Rugby League,,,False,False
@@ -26307,6 +27093,10 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 825051,WIN,457,Thoroughbred,,,False,False
 699840,WIN FX,457,Thoroughbred,235.0,TAB,False,False
 28169,Winner,457,Thoroughbred,1.0,Main,False,False
+4542348,10km (C) Ruka Interval - Top 3,32,Cross-Country,,,False,False
+4495230,10km (C) Ruka Interval - Winner,32,Cross-Country,,,False,False
+4542651,10km (C) Ruka Interval Women - Top 3,32,Cross-Country,,,False,False
+4497288,10km (C) Ruka Interval Women - Winner,32,Cross-Country,,,False,False
 2814235,10km (C) Toblach - Top 3,32,Cross-Country,,,False,False
 2777583,10km (C) Toblach - Winner,32,Cross-Country,,,False,False
 2773248,10km (C) Trondheim - Top 3,32,Cross-Country,,,False,False
@@ -26319,6 +27109,8 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2707416,10km (F) Gallivare - Top 3,32,Cross-Country,,,False,False
 2706212,10km (F) Gallivare - Winner,32,Cross-Country,,,False,False
 2676533,10km (F) Gallivare Women - Winner,32,Cross-Country,,,False,False
+4599491,10km (F) Lillehammer Interval - Winner,32,Cross-Country,,,False,False
+4616278,10km (F) Lillehammer Interval Women - Winner,32,Cross-Country,,,False,False
 2833432,10km (F) Mass Start Val di Fiemme  - Top 3,32,Cross-Country,,,False,False
 2818312,10km (F) Mass Start Val di Fiemme  - Winner,32,Cross-Country,,,False,False
 2833008,10km (F) Mass Start Women - Top 3,32,Cross-Country,,,False,False
@@ -26359,6 +27151,7 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2925861,20km (F) Mass Start Goms - Top 3,32,Cross-Country,,,False,False
 2925862,20km (F) Mass Start Goms - Winner,32,Cross-Country,,,False,False
 2670793,20km (F) Mass Start Ruka - Top 3,32,Cross-Country,,,False,False
+4572340,20km (F) Mass Start Ruka - Winner,32,Cross-Country,,,False,False
 2669658,20km (F) Mass Start Ruka Women - Top 3,32,Cross-Country,,,False,False
 2669601,20km (F) Mass Start Ruka Women - Winner,32,Cross-Country,,,False,False
 3264849,20km (F) Mass Start Women Falun - Top 3,32,Cross-Country,,,False,False
@@ -26539,12 +27332,14 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 768333,{%player} total rushing yards (incl. overtime),14,American Football,33.0,Player Markets,True,False
 4018434,{$competitor1} 1st Half First Touchdown Scorer,14,American Football,33.0,Player Markets,False,False
 4018441,{$competitor1} 1st Half Last Touchdown Scorer,14,American Football,33.0,Player Markets,False,False
+4555360,{$competitor1} 1st Half Team Total,14,American Football,,,True,False
 4018444,{$competitor1} 1st Quarter First Touchdown Scorer,14,American Football,33.0,Player Markets,False,False
 4018454,{$competitor1} 1st Quarter Last Touchdown Scorer,14,American Football,33.0,Player Markets,False,False
 4018465,{$competitor1} First Touchdown Scorer,14,American Football,33.0,Player Markets,False,False
 4018466,{$competitor1} Last Touchdown Scorer,14,American Football,33.0,Player Markets,False,False
 84,{$competitor1} odd/even,14,American Football,398.0,Odd/Even,False,False
 32429,{$competitor1} odd/even (incl. overtime),14,American Football,398.0,Odd/Even,False,False
+4546209,{$competitor1} Team Total Touchdowns,14,American Football,,,True,False
 118,{$competitor1} to score in both halves,14,American Football,23.0,Combo,False,False
 28275,{$competitor1} total (incl. overtime),14,American Football,1.0,Main,True,False
 4018471,{$competitor2} 1st Half First Touchdown Scorer,14,American Football,33.0,Player Markets,False,False
@@ -26555,35 +27350,35 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 4018478,{$competitor2} Last Touchdown Scorer,14,American Football,33.0,Player Markets,False,False
 85,{$competitor2} odd/even,14,American Football,398.0,Odd/Even,False,False
 31599,{$competitor2} odd/even (incl. overtime),14,American Football,398.0,Odd/Even,False,False
+4546201,{$competitor2} Team Total Touchdowns,14,American Football,,,True,False
 119,{$competitor2} to score in both halves,14,American Football,23.0,Combo,False,False
 28280,{$competitor2} total (incl. overtime),14,American Football,1.0,Main,True,False
 4018384,{player} 1st Half Total Passing Touchdowns,14,American Football,,,False,False
 4018490,{player} 1st Half Total Touchdowns,14,American Football,33.0,Player Markets,False,False
 4018499,{player} 1st Quarter Total Passing Touchdowns,14,American Football,,,False,False
 4018503,{player} 1st Quarter Total Touchdowns,14,American Football,33.0,Player Markets,False,False
-4264300,{player} Assists,14,American Football,33.0,Player Markets,True,False
-4310191,{player} Extra Points Made,14,American Football,33.0,Player Markets,True,False
-4235356,{player} Field Goals Made,14,American Football,33.0,Player Markets,True,False
-4222329,{player} Interceptions,14,American Football,33.0,Player Markets,True,False
-4222369,{player} Kicking Points,14,American Football,33.0,Player Markets,True,False
-4222595,{player} Longest Passing Completion,14,American Football,33.0,Player Markets,True,False
-4244320,{player} Longest Reception,14,American Football,33.0,Player Markets,True,False
-4226860,{player} Longest Rush,14,American Football,,,True,False
-4235453,{player} Passing + Rushing Yards,14,American Football,33.0,Player Markets,True,False
-4310243,{player} Passing Attempts,14,American Football,,,True,False
-4222513,{player} Passing Completions,14,American Football,33.0,Player Markets,True,False
-4222094,{player} Passing Touchdowns,14,American Football,33.0,Player Markets,True,False
-3951611,{player} Passing Yards,14,American Football,,,True,False
+4530792,{player} Extra Points Made,14,American Football,33.0,Player Markets,True,False
+4530798,{player} Field Goals Made,14,American Football,33.0,Player Markets,True,False
+4524784,{player} Interceptions,14,American Football,33.0,Player Markets,True,False
+4524786,{player} Kicking Points,14,American Football,33.0,Player Markets,True,False
+4525083,{player} Longest Passing Completion,14,American Football,33.0,Player Markets,True,False
+4525100,{player} Longest Reception,14,American Football,33.0,Player Markets,True,False
+4530799,{player} Longest Rush,14,American Football,33.0,Player Markets,True,False
+4530801,{player} Passing + Rushing Yards,14,American Football,33.0,Player Markets,True,False
+4530802,{player} Passing Attempts,14,American Football,33.0,Player Markets,True,False
+4525084,{player} Passing Completions,14,American Football,33.0,Player Markets,True,False
+4524788,{player} Passing Touchdowns,14,American Football,33.0,Player Markets,True,False
+4524802,{player} Passing Yards,14,American Football,33.0,Player Markets,True,False
 4222062,{player} Receiving Touchdowns,14,American Football,33.0,Player Markets,True,False
-3952041,{player} Receiving Yards,14,American Football,33.0,Player Markets,True,False
-3982991,{player} Receptions,14,American Football,33.0,Player Markets,True,False
-4222006,{player} Rushing + Receiving Yards,14,American Football,33.0,Player Markets,True,False
-4235406,{player} Rushing Attempts,14,American Football,33.0,Player Markets,True,False
-4310391,{player} Rushing Touchdowns,14,American Football,,,True,False
-3952069,{player} Rushing Yards,14,American Football,33.0,Player Markets,True,False
-4222632,{player} Sacks,14,American Football,,,True,False
-4244752,{player} Tackles,14,American Football,,,True,False
-4310580,{player} Tackles + Assists,14,American Football,,,True,False
+4524835,{player} Receiving Yards,14,American Football,33.0,Player Markets,True,False
+4525416,{player} Receptions,14,American Football,33.0,Player Markets,True,False
+4530803,{player} Rushing + Receiving Yards,14,American Football,33.0,Player Markets,True,False
+4530808,{player} Rushing Attempts,14,American Football,33.0,Player Markets,True,False
+4310391,{player} Rushing Touchdowns,14,American Football,33.0,Player Markets,True,False
+4524878,{player} Rushing Yards,14,American Football,33.0,Player Markets,True,False
+4222632,{player} Sacks,14,American Football,33.0,Player Markets,True,False
+4528940,{player} Tackles,14,American Football,33.0,Player Markets,True,False
+4527627,{player} Tackles + Assists,14,American Football,33.0,Player Markets,True,False
 4018505,{player} Total Passes Attempted,14,American Football,33.0,Player Markets,False,False
 4018507,{player} Total Passes Completed,14,American Football,33.0,Player Markets,False,False
 4018509,{player} Total Passing and Rushing Yards,14,American Football,33.0,Player Markets,False,False
@@ -26593,7 +27388,7 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 3945367,{player} Total Rushing Yards,14,American Football,33.0,Player Markets,False,False
 4018665,{player} Total Sacks,14,American Football,33.0,Player Markets,False,False
 3945368,{player} Total Touchdowns,14,American Football,33.0,Player Markets,False,False
-4221725,{player} Touchdowns,14,American Football,33.0,Player Markets,True,False
+4524789,{player} Touchdowns,14,American Football,33.0,Player Markets,True,False
 1558111,12,14,American Football,1.0,Main,False,False
 304038,12 Halftime,14,American Football,34.0,Half Markets,False,False
 456381,12 Including Overtime,14,American Football,1.0,Main,False,False
@@ -27198,6 +27993,8 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 3557133,NCAA(F) Championship 2024/25 - To Reach the Playoffs - Ole Miss Rebels,14,American Football,,,False,False
 3557118,NCAA(F) Championship 2024/25 - To Reach the Playoffs - Oregon Ducks,14,American Football,,,False,False
 3557119,NCAA(F) Championship 2024/25 - To Reach the Playoffs - Penn State Nittany Lions,14,American Football,,,False,False
+4598653,NCAA(F) Championship 2024/25 - To Reach the Playoffs - SMU Mustangs,14,American Football,,,False,False
+4598652,NCAA(F) Championship 2024/25 - To Reach the Playoffs - South Carolina Gamecocks,14,American Football,,,False,False
 3557137,NCAA(F) Championship 2024/25 - To Reach the Playoffs - Tennessee Volunteers,14,American Football,,,False,False
 3557101,NCAA(F) Championship 2024/25 - To Reach the Playoffs - Texas A&M Aggies,14,American Football,,,False,False
 3557093,NCAA(F) Championship 2024/25 - To Reach the Playoffs - Texas Longhorns,14,American Football,,,False,False
@@ -28657,10 +29454,18 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 1959573,Player To Score 2 Or More Touchdowns,14,American Football,33.0,Player Markets,False,False
 1962953,Player To Score 3 Or More Touchdowns,14,American Football,33.0,Player Markets,False,False
 1836148,Player To Score Touchdown In Anytime,14,American Football,33.0,Player Markets,False,False
+4531295,Player: 1st Half Anytime Touchdown Scorer,14,American Football,,,False,False
+4531490,Player: Anytime Touchdown Scorer,14,American Football,,,False,False
+4531502,Player: First Touchdown Scorer,14,American Football,,,False,False
+4531506,Player: Last Touchdown Scorer,14,American Football,,,False,False
+3722553,Point Spread,14,American Football,,,True,False
 1769741,Points Range,14,American Football,6.0,Goals,False,False
 2970921,Pro Bowl 2024 - Flag Football - Winning Conference,14,American Football,,,False,False
 2961790,Pro Bowl 2024 - Precision Passing - Winning Conference,14,American Football,,,False,False
 34404,Race to {pointnr} points (incl. overtime),14,American Football,24.0,Others,False,False
+4545279,Race To 10 Points,14,American Football,,,False,False
+4545294,Race To 12 Points,14,American Football,,,False,False
+4545295,Race To 15 Points,14,American Football,,,False,False
 1777696,Race To 20 Points,14,American Football,24.0,Others,False,False
 1769265,Race To Including Overtime,14,American Football,31.0,Extra Markets,True,False
 1767489,Safety Scored,14,American Football,31.0,Extra Markets,False,False
@@ -28681,6 +29486,7 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 3021177,Total Chiefs to Record a Reception,14,American Football,,,False,False
 158268,Total field goals made (incl. overtime),14,American Football,31.0,Extra Markets,True,False
 3021357,Total Lost Fumbles,14,American Football,,,False,False
+4573991,Total Points,14,American Football,,,True,False
 160191,Total sacks (incl. overtime),14,American Football,31.0,Extra Markets,True,False
 158265,Total touchdowns (incl. overtime),14,American Football,31.0,Extra Markets,True,False
 3019940,Total Turnovers,14,American Football,,,False,False
@@ -28919,6 +29725,9 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 1,1x2,20,Cricket,1.0,Main,False,False
 120643,Any player to score {milestone},20,Cricket,33.0,Player Markets,False,False
 120649,Batter head2head (handicap),20,Cricket,33.0,Player Markets,True,False
+4558549,Big Bash League - To Reach the Final - Melbourne Stars,20,Cricket,,,False,False
+4558550,Big Bash League - To Reach the Final - Perth Scorchers,20,Cricket,,,False,False
+4558548,Big Bash League - To Reach the Final - Sydney Sixers,20,Cricket,,,False,False
 2845707,Big Bash League 23/24 - To Finish Bottom,20,Cricket,,,False,False
 2845880,Big Bash League 23/24 - To Reach the Final - Brisbane Heat,20,Cricket,,,False,False
 2845881,Big Bash League 23/24 - To Reach the Final - Melbourne Stars,20,Cricket,,,False,False
@@ -28930,6 +29739,8 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2852290,Big Bash League 23/24 - Top Batsman,20,Cricket,,,False,False
 2717244,Big Bash League 23/24 - Top Bowler,20,Cricket,,,False,False
 2852094,Big Bash League 23/24 - Winner,20,Cricket,,,False,False
+4558545,Big Bash League 24/25 - To Reach the Final - Adelaide Strikers,20,Cricket,,,False,False
+4558547,Big Bash League 24/25 - To Reach the Final - Melbourne Renegades,20,Cricket,,,False,False
 4318982,Big Bash League Women - Winner,20,Cricket,,,False,False
 4319200,Big Bash League Women 2024 - To Reach the Final - Adelaide Strikers,20,Cricket,,,False,False
 4319207,Big Bash League Women 2024 - To Reach the Final - Brisbane Heat,20,Cricket,,,False,False

@@ -1,0 +1,83 @@
+eventId,eventName,status,tradingStatus,startTime,timeDiff,leagueId
+6703947,HB Chelghoum Laid - MSP Batna,3,0,2024-12-06 22:00,0天 0小时 9分钟 1秒,970
+6704034,CA Batna - Nrb Teleghma,3,0,2024-12-06 22:00,0天 0小时 9分钟 1秒,970
+6704832,MCB Oued Sly - Skaf Khemis Miliana,3,0,2024-12-06 22:00,0天 0小时 9分钟 1秒,970
+6703733,ASE Alger Centre W - AS Oran Centre,3,0,2024-12-06 17:00,0天 5小时 9分钟 1秒,7524
+6707442,Wadi Degla W - Maadi & Yacht Club W,3,0,2024-12-06 20:30,0天 1小时 39分钟 1秒,5536
+6707443,Al Tayaran W - Ahli Bank W,3,0,2024-12-06 20:30,0天 1小时 39分钟 1秒,5536
+6696695,Mostaqbal Watan Club - Port Fouad SC,3,0,2024-12-05 20:30,1天 1小时 39分钟 1秒,4848
+6703772,Kima Aswan - Al Aluminium,3,0,2024-12-06 20:30,0天 1小时 39分钟 1秒,4848
+6703840,El Minya FC - El Wasty,3,0,2024-12-06 20:30,0天 1小时 39分钟 1秒,4848
+6703886,Misr Lel Makasa - Fayoum FC,3,0,2024-12-06 20:30,0天 1小时 39分钟 1秒,4848
+6705035,Zed FC - Telephonat Bani Sweif,3,0,2024-12-06 20:30,0天 1小时 39分钟 1秒,4848
+6222727,Shire Endaselassie FC - Ethiopia Electricity,3,0,2024-12-06 21:00,0天 1小时 9分钟 1秒,6265
+6689839,Kampaniakos - Diagoras Rhodes,3,0,2024-12-06 21:00,0天 1小时 9分钟 1秒,424
+6704715,Punjab FT - Mohammedan SC,3,0,2024-12-06 19:00,0天 3小时 9分钟 1秒,895
+6709156,IF Elfsborg - Hacken Gothenburg,3,0,2024-12-06 21:00,0天 1小时 9分钟 1秒,12
+6704847,Hapoel Petah Tikva FC - Hapoel Nof Hagalil FC,3,1,2024-12-06 21:00,0天 1小时 9分钟 1秒,3
+6704848,Hapoel Kfar Saba FC - Hapoel Acre FC,3,1,2024-12-06 21:00,0天 1小时 9分钟 1秒,3
+6704849,Maccabi Kabilio Jaffa - FC Kafr Qasim,3,1,2024-12-06 21:00,0天 1小时 9分钟 1秒,3
+6705379,Bnei Yehuda Tel Aviv FC - Hapoel Umm AL Fahm,3,1,2024-12-06 21:00,0天 1小时 9分钟 1秒,3
+6705391,Hapoel Afula FC - Hapoel Tel Aviv FC,3,1,2024-12-06 21:00,0天 1小时 9分钟 1秒,3
+6705170,Ihud Bnei Shfaram - Maccabi Nujeidat Ahmad,3,0,2024-12-06 21:30,0天 0小时 39分钟 1秒,6014
+6707260,US Lecce - Atalanta BC U20,3,1,2024-12-06 21:00,0天 1小时 9分钟 1秒,933
+6216363,AL Salt - FC Maan,3,0,2024-12-06 22:00,0天 0小时 9分钟 1秒,10145
+6706663,Gasogi United - Vision FC (Rwa),3,0,2024-12-06 21:00,0天 1小时 9分钟 1秒,1029
+6706676,Ns Mura - NK Brinje Grosuplje U19,3,1,2024-12-06 21:00,0天 1小时 9分钟 1秒,4080
+6706678,NK CELJE - FC Koper,3,1,2024-12-06 21:00,0天 1小时 9分钟 1秒,4080
+6713011,African All Stars - Highlands Park FC,3,0,2024-12-06 20:54,0天 1小时 15分钟 1秒,57343
+6698268,SC Villa - Lugazi Municipal FC,3,0,2024-12-06 21:00,0天 1小时 9分钟 1秒,976
+6698277,Kitara FC - Mbale Heroes FC,3,1,2024-12-06 21:00,0天 1小时 9分钟 1秒,976
+6706839,Al-Hamriyah - Emirates Club,3,0,2024-12-06 20:45,0天 1小时 24分钟 1秒,1010
+6706850,Fujairah FC - AL Arabi (UAE),3,0,2024-12-06 20:40,0天 1小时 29分钟 1秒,1010
+6706814,O Batna - Rouiba CB,3,0,2024-12-06 22:00,0天 0小时 9分钟 1秒,16566
+6706827,CSC Djasr Kasentina - USM Blida,3,0,2024-12-06 22:00,0天 0小时 9分钟 1秒,16566
+6698373,Fortaleza Basquete Cearense - Mogi das Cruzes,3,0,2024-12-06 22:00,0天 0小时 9分钟 1秒,5649
+6700393,Kobrat Lapua - Salon Vilpas Vikings,3,0,2024-12-06 21:00,0天 1小时 9分钟 1秒,5261
+6706590,AL Salam - Al-Ahli Jeddah,3,0,2024-12-06 20:30,0天 1小时 39分钟 1秒,13468
+6706592,AL Fateh - AL Khaleej,3,0,2024-12-06 21:30,0天 0小时 39分钟 1秒,13468
+6711960,Cpvc W - FK Maritsa Plovdiv,3,0,2024-12-06 21:55,0天 0小时 14分钟 1秒,105611
+6707526,Orpo - Liigaploki,3,0,2024-12-06 20:55,0天 1小时 14分钟 1秒,4992
+6707978,TUTO Volley - Hurrikaani Loimaa,3,0,2024-12-06 19:55,0天 2小时 14分钟 1秒,4988
+6708817,SC Eilabun - Hapoel Sva Rehovot,3,0,2024-12-06 20:30,0天 1小时 39分钟 1秒,5667
+6708667,Berel Bko W - VC Astana,3,1,2024-12-06 21:30,0天 0小时 39分钟 1秒,6058
+6707245,CS Arcada Galati - Stiinta Bucuresti,3,1,2024-12-06 21:55,0天 0小时 14分钟 1秒,5658
+6712909,"Feldbausch, Kilian - Krutykh, Oleksii",3,0,2024-12-06 21:15,0天 0小时 54分钟 1秒,15732
+6713153,"Gulin, Svyatoslav - Ionel, Nicholas David",3,0,2024-12-06 22:00,0天 0小时 9分钟 1秒,15732
+6708446,"Nijboer, Ryan - Perez Contri, Sergi",3,0,2024-12-06 17:00,0天 5小时 9分钟 1秒,70155
+6708445,"Curras Abasolo, Tomas - Masjuan Ginel, Pablo",3,0,2024-12-06 17:00,0天 5小时 9分钟 1秒,70155
+6710120,Tina Nadine Smith vs Silvia Ambrosio,3,0,2024-12-06 18:30,0天 3小时 39分钟 1秒,41315
+6712181,"Yoruk, Ilay - Kotliar, Yelyzaveta",3,0,2024-12-06 19:40,0天 2小时 29分钟 1秒,14955
+6712836,"Mazzola, Alessandra - Bertoldo, Jessica",3,0,2024-12-07 15:00,-1天 7小时 9分钟 1秒,14955
+6709382,"Barthel, Mona - Palicova, Barbora",3,1,2024-12-06 20:30,0天 1小时 39分钟 1秒,16693
+6707346,Nikolay Sevalnev vs Vadim Pryakhin,3,0,2024-12-06 21:35,0天 0小时 34分钟 1秒,58036
+6707347,Anton Mokei vs Sergei Lysakovskii,3,0,2024-12-06 21:50,0天 0小时 19分钟 1秒,58036
+6707501,Roman Bortnikov vs Egor Markelov,3,0,2024-12-06 21:35,0天 0小时 34分钟 1秒,58036
+6707502,Yuri Khapersky vs Sergey Lanin,3,0,2024-12-06 21:50,0天 0小时 19分钟 1秒,58036
+6713263,Stanislav Olejarcik vs Milan Smrcek,3,0,2024-12-06 22:00,0天 0小时 9分钟 1秒,58036
+6713264,Milan Chalupnicek vs Michal Syroha,3,0,2024-12-06 22:00,0天 0小时 9分钟 1秒,58036
+6713266,Jiri Stach vs Dalibor Kolek,3,0,2024-12-06 22:00,0天 0小时 9分钟 1秒,58036
+6711090,Andrey Kurtenko - Sergei Semenec,3,1,2024-12-06 21:40,0天 0小时 29分钟 1秒,57662
+6713247,Ihor Dubinin vs Eduard Shymanskyi,3,0,2024-12-06 22:00,0天 0小时 9分钟 1秒,57662
+6713259,Ladislav Dlask vs Martin Obraz,3,0,2024-12-06 21:55,0天 0小时 14分钟 1秒,57662
+6697805,Salavat Yulaev UFA - Sibir Novosibirsk,3,0,2024-12-06 22:00,0天 0小时 9分钟 1秒,4194
+6698817,Nedbank Golf Challenge,3,0,2024-12-06 08:00,0天 14小时 9分钟 1秒,73606
+6711188,Nedbank Golf Challenge-Round 2,3,1,2024-12-06 17:00,0天 5小时 9分钟 1秒,73990
+6711189,Nedbank Golf Challenge-Round 2,3,1,2024-12-06 17:11,0天 4小时 58分钟 1秒,73990
+6712251,"Schnider, Milena - Saarnivaara, Petra",3,1,2024-12-06 20:40,0天 1小时 29分钟 1秒,6864
+6711624,Tottenham Hotspur (cl1vlind) Esports vs Fenerbahce (Kravatskhelia) Esports,3,1,2024-12-06 22:00,0天 0小时 9分钟 1秒,57526
+6711625,FC Porto (Senior) Esports vs Eintracht Frankfurt (Koftovsky) Esports,3,1,2024-12-06 22:00,0天 0小时 9分钟 1秒,57526
+6599708,Australia - India,3,0,2024-12-06 12:00,0天 10小时 9分钟 1秒,76711
+6661809,South Africa - Sri Lanka,3,0,2024-12-05 16:30,1天 5小时 39分钟 1秒,76711
+6661808,New Zealand - England,3,0,2024-12-06 06:00,0天 16小时 9分钟 1秒,76711
+6708223,Nigeria - Uganda,3,0,2024-12-06 19:15,0天 2小时 54分钟 1秒,108175
+6705356,"Alif Pharma v CSS Group, Arabian Cricket League Match 37, from ICC Academy",3,0,2024-12-06 21:00,0天 1小时 9分钟 1秒,88327
+6705292,"Steelpan Players v Samp Army Cocrico Cavaliers, Trinidad T10 Blast Match 27, from Brian Lara Stadium",3,0,2024-12-06 22:00,0天 0小时 9分钟 1秒,97002
+6711921,OM Annaba - C Chelghoum Laid,3,0,2024-12-06 22:00,0天 0小时 9分钟 1秒,20427
+6711922,EL Biar - Olympique El Oued,3,0,2024-12-06 22:00,0天 0小时 9分钟 1秒,20427
+6706904,AK Nes Tziona - Maccabi Rishon LeZion,3,1,2024-12-06 21:00,0天 1小时 9分钟 1秒,4972
+6706898,Hapoel Rishon Letzion - Maccabi Tel Aviv,3,0,2024-12-06 21:00,0天 1小时 9分钟 1秒,4972
+6706903,HC Yuvalim Holon - AS S.G.S. Ramhat Hashron,3,0,2024-12-06 21:00,0天 1小时 9分钟 1秒,4972
+6706959,Maccabi Kiryat Motzkin - Bnei Herzliya,3,0,2024-12-06 21:00,0天 1小时 9分钟 1秒,4972
+6711871,Petra W - Al-Fajr,3,1,2024-12-06 21:00,0天 1小时 9分钟 1秒,10396
+6708715,"Hogan, Paul - Boulton, Andy",3,0,2024-12-06 22:05,0天 0小时 4分钟 1秒,7283
