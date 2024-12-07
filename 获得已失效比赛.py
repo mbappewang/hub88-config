@@ -93,6 +93,8 @@ event_result_list = []
 j = 0
 for i in events_list:
     event_item = {}
+    event_item['sportId'] = i['sportId']
+    event_item['leagueId'] = i['leagueId']
     event_item['eventId'] = i['eventId']
     event_item['eventName'] = i['eventName']
     event_item['status'] = i['status']
@@ -100,7 +102,6 @@ for i in events_list:
     # 将 Unix 时间戳转换为本地时间类型
     start_time = datetime.fromtimestamp(i['startTime'])
     event_item['startTime'] = start_time.strftime('%Y-%m-%d %H:%M')
-    
     # 计算距离现在的时间差
     time_diff = datetime.now() - start_time
     days, seconds = time_diff.days, time_diff.seconds
@@ -108,12 +109,12 @@ for i in events_list:
     minutes = (seconds % 3600) // 60
     seconds = seconds % 60
     event_item['timeDiff'] = f"{days}天 {hours}小时 {minutes}分钟 {seconds}秒"
-    
-    event_item['leagueId'] = i['leagueId']
+    print(event_item['timeDiff'])
+
     event_result_list.append(event_item)
     j += 1
     print(f"比赛进度{j}/{len(events_list)}")
 
 df = pd.DataFrame(event_result_list)
 df_filtered = df[(df['status'] == 3)]
-df_filtered.to_csv('已失效比赛.xlsx', index=False)
+df_filtered.to_excel('已失效比赛.xlsx', index=False)
