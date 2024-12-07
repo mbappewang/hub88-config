@@ -1513,6 +1513,12 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2730788,Scottish Open 2023 - Quarter 4 - Winner,27,Snooker,,,False,False
 2730792,Scottish Open 2023 - Top 2,27,Snooker,,,False,False
 2730790,Scottish Open 2023 - Winner,27,Snooker,,,False,False
+4628698,Scottish Open 2024 - Quarter 1 - Winner,27,Snooker,,,False,False
+4628697,Scottish Open 2024 - Quarter 2 - Winner,27,Snooker,,,False,False
+4628696,Scottish Open 2024 - Quarter 3 - Winner,27,Snooker,,,False,False
+4628695,Scottish Open 2024 - Quarter 4 - Winner,27,Snooker,,,False,False
+4628595,Scottish Open 2024 - Top 2,27,Snooker,,,False,False
+4628594,Scottish Open 2024 - Winner,27,Snooker,,,False,False
 2233637,Shanghai Masters 2023 - Quarter 1 - Winner,27,Snooker,,,False,False
 2233636,Shanghai Masters 2023 - Quarter 2 - Winner,27,Snooker,,,False,False
 2233634,Shanghai Masters 2023 - Quarter 3 - Winner,27,Snooker,,,False,False
@@ -2196,6 +2202,7 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 4177451,World Championship 2024 - Top LEC Team,30,League of Legends,,,False,False
 4177445,World Championship 2024 - Top LPL Team,30,League of Legends,,,False,False
 4112154,World Championship 2024 - w/o Gen.G - Winner,30,League of Legends,,,False,False
+4630253,Downhill Beaver Creek - Top 3,46,Alpine Skiing,,,False,False
 4615884,Downhill Beaver Creek - Winner,46,Alpine Skiing,,,False,False
 2688486,Downhill Beaver Creek I - Winner,46,Alpine Skiing,,,False,False
 2706274,Downhill Beaver Creek II - Top 3,46,Alpine Skiing,,,False,False
@@ -2359,6 +2366,7 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 3918646,Slalom World Cup Overall Women 2024/25 - Winner,46,Alpine Skiing,,,False,False
 2713789,Super G - Beaver Creek - Top 3,46,Alpine Skiing,,,False,False
 2713790,Super G - Beaver Creek - Winner,46,Alpine Skiing,,,False,False
+4638540,Super G Beaver Creek - Winner,46,Alpine Skiing,,,False,False
 2809903,Super G Bormio - Winner,46,Alpine Skiing,,,False,False
 2894968,Super G Garmisch - Partenkirchen I - Top 3,46,Alpine Skiing,,,False,False
 2894787,Super G Garmisch - Partenkirchen I - Winner ,46,Alpine Skiing,,,False,False
@@ -2972,6 +2980,10 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2846536,Wisla HS134 I - Winner,36,Ski Jumping,,,False,False
 2846539,Wisla HS134 Qualification - Top 3,36,Ski Jumping,,,False,False
 2846538,Wisla HS134 Qualification - Winner,36,Ski Jumping,,,False,False
+4629913,Wisla I HS134 - Top 3,36,Ski Jumping,,,False,False
+4625694,Wisla I HS134 - Winner,36,Ski Jumping,,,False,False
+4625621,Wisla I HS134 Qualification - Top 3,36,Ski Jumping,,,False,False
+4625613,Wisla I HS134 Qualification - Winner,36,Ski Jumping,,,False,False
 3597467,World Cup Overall 2024/25 - Season H2H - Andreas Wellinger vs. Anze Lanisek,36,Ski Jumping,,,False,False
 3597447,World Cup Overall 2024/25 - Season H2H - Jan Hoerl vs. Michael Hayboeck,36,Ski Jumping,,,False,False
 3597448,World Cup Overall 2024/25 - Season H2H - Johann Andre Forfang vs. Lovro Kos,36,Ski Jumping,,,False,False
@@ -3304,6 +3316,9 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 3223304,7.5km Sprint Women Canmore - Winner,31,Biathlon,,,False,False
 2730162,7.5km Sprint Women Hochfilzen - Top 3,31,Biathlon,,,False,False
 2717799,7.5km Sprint Women Hochfilzen - Winner,31,Biathlon,,,False,False
+4637356,7.5Km Sprint Women Kontiolahti - Top 10,31,Biathlon,,,False,False
+4633704,7.5Km Sprint Women Kontiolahti - Top 3,31,Biathlon,,,False,False
+4637184,7.5Km Sprint Women Kontiolahti - Top 6,31,Biathlon,,,False,False
 4618298,7.5Km Sprint Women Kontiolahti - Winner,31,Biathlon,,,False,False
 2760687,7.5km Sprint Women Lenzerheide - Top 3,31,Biathlon,,,False,False
 2751101,7.5km Sprint Women Lenzerheide - Winner,31,Biathlon,,,False,False
@@ -6132,12 +6147,15 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2641194,Abu Dhabi Grand Prix Race - Team Classified Drivers - Alfa Romeo Racing,9,Formula 1,,,False,False
 2641195,Abu Dhabi Grand Prix Race - Team Classified Drivers - Alphatauri,9,Formula 1,,,False,False
 2641225,Abu Dhabi Grand Prix Race - Team Classified Drivers - Alpine F1,9,Formula 1,,,False,False
+4631446,Abu Dhabi Grand Prix Race - Team Classified Drivers - Alpine F1 Team,9,Formula 1,,,False,False
 2641236,Abu Dhabi Grand Prix Race - Team Classified Drivers - Aston Martin F1 Team,9,Formula 1,,,False,False
 2641276,Abu Dhabi Grand Prix Race - Team Classified Drivers - Ferrari,9,Formula 1,,,False,False
 2641235,Abu Dhabi Grand Prix Race - Team Classified Drivers - Haas F1 Team,9,Formula 1,,,False,False
 2641281,Abu Dhabi Grand Prix Race - Team Classified Drivers - Mclaren,9,Formula 1,,,False,False
 2641244,Abu Dhabi Grand Prix Race - Team Classified Drivers - Mercedes Amg Motorsport,9,Formula 1,,,False,False
+4631445,Abu Dhabi Grand Prix Race - Team Classified Drivers - RB Formula One Team,9,Formula 1,,,False,False
 2641283,Abu Dhabi Grand Prix Race - Team Classified Drivers - Red Bull Racing,9,Formula 1,,,False,False
+4631438,Abu Dhabi Grand Prix Race - Team Classified Drivers - Sauber,9,Formula 1,,,False,False
 2641275,Abu Dhabi Grand Prix Race - Team Classified Drivers - Williams,9,Formula 1,,,False,False
 2641243,Abu Dhabi Grand Prix Race - Top 10 (Points Finish),9,Formula 1,,,False,False
 2641224,Abu Dhabi Grand Prix Race - Top 3,9,Formula 1,,,False,False
@@ -13819,6 +13837,7 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 1926913,HIGHEST_SCORING_Q,8,Basketball,29.0,Quarter Markets,False,False
 3076694,How Many Players Reach a Double-Double,8,Basketball,,,False,False
 2235022,HT/FT,8,Basketball,34.0,Half Markets,False,False
+585972,Last Player To Score,8,Basketball,33.0,Player Markets,False,False
 301024,Last Team To Score,8,Basketball,6.0,Goals,False,False
 2236587,LKL League - Winner,8,Basketball,,,False,False
 2236586,LNB Pro A - Winner,8,Basketball,,,False,False
@@ -18905,6 +18924,7 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2639595,Hero World Challenge 2023 - Winner,16,Golf,,,False,False
 2675688,Hero World Challenge 2023 - Winning Margin,16,Golf,,,False,False
 4598274,Hero World Challenge 2024 - 1st Round Leader,16,Golf,,,False,False
+4635185,Hero World Challenge 2024 - 3rd Round Leader,16,Golf,,,False,False
 4599294,Hero World Challenge 2024 - 72 Hole Group Betting A,16,Golf,,,False,False
 4599296,Hero World Challenge 2024 - 72 Hole Group Betting B,16,Golf,,,False,False
 4599301,Hero World Challenge 2024 - 72 Hole Group Betting C,16,Golf,,,False,False
@@ -18919,6 +18939,7 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 4599028,Hero World Challenge 2024 - 72 Hole Match Bet - S Burns vs R Henley,16,Golf,,,False,False
 4599033,Hero World Challenge 2024 - 72 Hole Match Bet - S Im vs S Theegala,16,Golf,,,False,False
 4598741,Hero World Challenge 2024 - 72 Hole Match Bet - W Clark vs T Kim,16,Golf,,,False,False
+4628866,Hero World Challenge 2024 - Lead After Round 2,16,Golf,,,False,False
 4604202,Hero World Challenge 2024 - Round 1 - 18 Hole Match Bet - A Bhatia vs J Day,16,Golf,,,False,False
 4604193,Hero World Challenge 2024 - Round 1 - 18 Hole Match Bet - B Harman vs C Young,16,Golf,,,False,False
 4604222,Hero World Challenge 2024 - Round 1 - 18 Hole Match Bet - L Aberg vs J Thomas,16,Golf,,,False,False
@@ -18927,6 +18948,25 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 4604221,Hero World Challenge 2024 - Round 1 - 18 Hole Match Bet - S Burn vs P Cantlay,16,Golf,,,False,False
 4604183,Hero World Challenge 2024 - Round 1 - 18 Hole Match Bet - S Im vs R Henley,16,Golf,,,False,False
 4604205,Hero World Challenge 2024 - Round 1 - 18 Hole Match Bet - W Clark vs T Kim,16,Golf,,,False,False
+4625992,Hero World Challenge 2024 - Round 2 - 18 Hole Match Bet - A Bhatia vs C Young,16,Golf,,,False,False
+4625983,Hero World Challenge 2024 - Round 2 - 18 Hole Match Bet - J Day vs T Kim,16,Golf,,,False,False
+4625981,Hero World Challenge 2024 - Round 2 - 18 Hole Match Bet - K Bradley vs N Dunlap,16,Golf,,,False,False
+4625993,Hero World Challenge 2024 - Round 2 - 18 Hole Match Bet - L Aberg vs J Thomas,16,Golf,,,False,False
+4625986,Hero World Challenge 2024 - Round 2 - 18 Hole Match Bet - M Pavon vs S Straka,16,Golf,,,False,False
+4625988,Hero World Challenge 2024 - Round 2 - 18 Hole Match Bet - P Cantlay vs S Scheffler,16,Golf,,,False,False
+4625985,Hero World Challenge 2024 - Round 2 - 18 Hole Match Bet - R MacIntyre vs S Theegala,16,Golf,,,False,False
+4625984,Hero World Challenge 2024 - Round 2 - 18 Hole Match Bet - S Burns vs R Henley,16,Golf,,,False,False
+4625987,Hero World Challenge 2024 - Round 2 - 18 Hole Match Bet - S Im vs A Rai,16,Golf,,,False,False
+4625982,Hero World Challenge 2024 - Round 2 - 18 Hole Match Bet - W Clark vs B Harman,16,Golf,,,False,False
+4634593,Hero World Challenge 2024 - Round 3 - 18 Hole Match Bet - A Bhatia vs K Bradley,16,Golf,,,False,False
+4634588,Hero World Challenge 2024 - Round 3 - 18 Hole Match Bet - L Aberg vs P Cantlay,16,Golf,,,False,False
+4634572,Hero World Challenge 2024 - Round 3 - 18 Hole Match Bet - N Dunlap vs M Pavon,16,Golf,,,False,False
+4634581,Hero World Challenge 2024 - Round 3 - 18 Hole Match Bet - R Henley vs S Theegala,16,Golf,,,False,False
+4634576,Hero World Challenge 2024 - Round 3 - 18 Hole Match Bet - R MacIntyre vs A Rai,16,Golf,,,False,False
+4634589,Hero World Challenge 2024 - Round 3 - 18 Hole Match Bet - S Im vs T Kim,16,Golf,,,False,False
+4634568,Hero World Challenge 2024 - Round 3 - 18 Hole Match Bet - S Scheffler vs J Thomas,16,Golf,,,False,False
+4634583,Hero World Challenge 2024 - Round 3 - 18 Hole Match Bet - S Straka vs C Young,16,Golf,,,False,False
+4634573,Hero World Challenge 2024 - Round 3 - 18 Hole Match Bet - W Clark vs J Day,16,Golf,,,False,False
 4598604,Hero World Challenge 2024 - Top 10,16,Golf,,,False,False
 4598520,Hero World Challenge 2024 - Top 5,16,Golf,,,False,False
 4598641,Hero World Challenge 2024 - Top American,16,Golf,,,False,False
@@ -21339,6 +21379,8 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 4600566,Nedbank Golf Challenge 2024 - 72 Hole Match Bet - N Hojgaard vs T McKibbin,16,Golf,,,False,False
 4600507,Nedbank Golf Challenge 2024 - 72 Hole Match Bet - T Detry vs N Norgaard,16,Golf,,,False,False
 4600546,Nedbank Golf Challenge 2024 - 72 Hole Match Bet - W Ding vs M Jordan,16,Golf,,,False,False
+4628848,Nedbank Golf Challenge 2024 - Lead After Round 2,16,Golf,,,False,False
+4636268,Nedbank Golf Challenge 2024 - Lead After Round 3,16,Golf,,,False,False
 4608667,Nedbank Golf Challenge 2024 - Round 1 - 18 Hole Match Bet - C Bezuidenhout vs T Lawrence,16,Golf,,,False,False
 4608666,Nedbank Golf Challenge 2024 - Round 1 - 18 Hole Match Bet - C Conners vs T Olesen,16,Golf,,,False,False
 4608656,Nedbank Golf Challenge 2024 - Round 1 - 18 Hole Match Bet - E Ferguson vs J Veerman,16,Golf,,,False,False
@@ -21349,6 +21391,26 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 4608663,Nedbank Golf Challenge 2024 - Round 1 - 18 Hole Match Bet - N Norgaard vs P Waring,16,Golf,,,False,False
 4608658,Nedbank Golf Challenge 2024 - Round 1 - 18 Hole Match Bet - R Hisatsune vs S Soderberg,16,Golf,,,False,False
 4608660,Nedbank Golf Challenge 2024 - Round 1 - 18 Hole Match Bet - T Detry vs T McKibbin,16,Golf,,,False,False
+4625586,Nedbank Golf Challenge 2024 - Round 2 - 18 Hole Match Bet - A Fitzpatrick vs J Veerman,16,Golf,,,False,False
+4625575,Nedbank Golf Challenge 2024 - Round 2 - 18 Hole Match Bet - C Bezuidenhout vs M Hughes,16,Golf,,,False,False
+4625579,Nedbank Golf Challenge 2024 - Round 2 - 18 Hole Match Bet - D Bradbury vs D Brown,16,Golf,,,False,False
+4625588,Nedbank Golf Challenge 2024 - Round 2 - 18 Hole Match Bet - E Smylie vs R Williams,16,Golf,,,False,False
+4625618,Nedbank Golf Challenge 2024 - Round 2 - 18 Hole Match Bet - M Homa vs T Olesen,16,Golf,,,False,False
+4625589,Nedbank Golf Challenge 2024 - Round 2 - 18 Hole Match Bet - M Jordan vs R Langasque,16,Golf,,,False,False
+4625580,Nedbank Golf Challenge 2024 - Round 2 - 18 Hole Match Bet - T Clements vs E Ferguson,16,Golf,,,False,False
+4625576,Nedbank Golf Challenge 2024 - Round 2 - 18 Hole Match Bet - T Lawrence vs N Norgaard,16,Golf,,,False,False
+4625616,Nedbank Golf Challenge 2024 - Round 2 - 18 Hole Match Bet - U Coussaud vs P Larrazabal,16,Golf,,,False,False
+4625582,Nedbank Golf Challenge 2024 - Round 2 - 18 Hole Match Bet - W Ding vs J Guerrier,16,Golf,,,False,False
+4633263,Nedbank Golf Challenge 2024 - Round 3 - 18 Hole Match Bet - A Hidalgo vs P Larrazabal,16,Golf,,,False,False
+4633270,Nedbank Golf Challenge 2024 - Round 3 - 18 Hole Match Bet - C Bezuidenhout vs M Homa,16,Golf,,,False,False
+4633251,Nedbank Golf Challenge 2024 - Round 3 - 18 Hole Match Bet - E Ferguson vs J Svensson,16,Golf,,,False,False
+4633273,Nedbank Golf Challenge 2024 - Round 3 - 18 Hole Match Bet - F Lacroix vs A Sullivan,16,Golf,,,False,False
+4633254,Nedbank Golf Challenge 2024 - Round 3 - 18 Hole Match Bet - G Migliozzi vs B Stone,16,Golf,,,False,False
+4633274,Nedbank Golf Challenge 2024 - Round 3 - 18 Hole Match Bet - J Guerrier vs M Jordan,16,Golf,,,False,False
+4633268,Nedbank Golf Challenge 2024 - Round 3 - 18 Hole Match Bet - L Canter vs T Olesen,16,Golf,,,False,False
+4633275,Nedbank Golf Challenge 2024 - Round 3 - 18 Hole Match Bet - R Langasque vs J Veerman,16,Golf,,,False,False
+4633265,Nedbank Golf Challenge 2024 - Round 3 - 18 Hole Match Bet - T Clements vs R Williams,16,Golf,,,False,False
+4633252,Nedbank Golf Challenge 2024 - Round 3 - 18 Hole Match Bet - T Lawrence vs J Smith,16,Golf,,,False,False
 4601645,Nedbank Golf Challenge 2024 - Top 10,16,Golf,,,False,False
 4601654,Nedbank Golf Challenge 2024 - Top 20,16,Golf,,,False,False
 4601633,Nedbank Golf Challenge 2024 - Top 5,16,Golf,,,False,False
@@ -27109,7 +27171,9 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2707416,10km (F) Gallivare - Top 3,32,Cross-Country,,,False,False
 2706212,10km (F) Gallivare - Winner,32,Cross-Country,,,False,False
 2676533,10km (F) Gallivare Women - Winner,32,Cross-Country,,,False,False
+4625844,10km (F) Lillehammer Interval - Top 3,32,Cross-Country,,,False,False
 4599491,10km (F) Lillehammer Interval - Winner,32,Cross-Country,,,False,False
+4625859,10km (F) Lillehammer Interval Women - Top 3,32,Cross-Country,,,False,False
 4616278,10km (F) Lillehammer Interval Women - Winner,32,Cross-Country,,,False,False
 2833432,10km (F) Mass Start Val di Fiemme  - Top 3,32,Cross-Country,,,False,False
 2818312,10km (F) Mass Start Val di Fiemme  - Winner,32,Cross-Country,,,False,False
@@ -29725,6 +29789,7 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 1,1x2,20,Cricket,1.0,Main,False,False
 120643,Any player to score {milestone},20,Cricket,33.0,Player Markets,False,False
 120649,Batter head2head (handicap),20,Cricket,33.0,Player Markets,True,False
+4634542,Big Bash League - To Finish Bottom,20,Cricket,,,False,False
 4558549,Big Bash League - To Reach the Final - Melbourne Stars,20,Cricket,,,False,False
 4558550,Big Bash League - To Reach the Final - Perth Scorchers,20,Cricket,,,False,False
 4558548,Big Bash League - To Reach the Final - Sydney Sixers,20,Cricket,,,False,False
@@ -29739,6 +29804,7 @@ id,name,sportId,sportName,groupId,groupName,isMultilineMarket,isFreeText
 2852290,Big Bash League 23/24 - Top Batsman,20,Cricket,,,False,False
 2717244,Big Bash League 23/24 - Top Bowler,20,Cricket,,,False,False
 2852094,Big Bash League 23/24 - Winner,20,Cricket,,,False,False
+4634858,Big Bash League 24/25 - Name the Finalists,20,Cricket,,,False,False
 4558545,Big Bash League 24/25 - To Reach the Final - Adelaide Strikers,20,Cricket,,,False,False
 4558547,Big Bash League 24/25 - To Reach the Final - Melbourne Renegades,20,Cricket,,,False,False
 4318982,Big Bash League Women - Winner,20,Cricket,,,False,False

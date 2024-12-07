@@ -27,4 +27,4 @@ df_market_type = pd.DataFrame(market_type)
 
 df_market_type = pd.DataFrame(market_type)
 print(df_market_type)
-df_market_type.to_csv('market_type.csv', index=False, encoding='utf-8')
+df_market_type.to_csv('excel/market_type.csv', index=False, encoding='utf-8')
