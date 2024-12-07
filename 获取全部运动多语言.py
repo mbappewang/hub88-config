@@ -3,7 +3,7 @@ import pandas as pd
 # 导入 hub88_api 模块
 import hub88_api as hub88
 
-df = pd.read_json(r'/Users/wys/hub88-config/pwd.json')
+df = pd.read_json(r'pwd.json')
 
 clientId = df['clientId'][0]  # 获取第一行的username
 password = df['password'][0]  # 获取第一行的password
@@ -30,4 +30,4 @@ for sport in sportIds:
 
 df_sports = pd.DataFrame(sportsdata)
 print(df_sports)
-df_sports.to_csv('sports.csv', index=False, encoding='utf-8')
+df_sports.to_csv('excel/全部sports翻译.csv', index=False, encoding='utf-8')

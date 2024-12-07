@@ -4,7 +4,7 @@ import concurrent.futures
 import time
 
 # 读取配置文件
-df = pd.read_json(r'/Users/wys/hub88-config/pwd.json')
+df = pd.read_json(r'pwd.json')
 clientId = df['clientId'][0]
 password = df['password'][0]
 
@@ -55,4 +55,4 @@ with concurrent.futures.ThreadPoolExecutor(max_workers=20) as executor:
 # 将结果保存到 CSV 文件
 df_leagues = pd.DataFrame(leaguesdata)
 print(df_leagues)
-df_leagues.to_csv('leagues.csv', index=False, encoding='utf-8')
+df_leagues.to_csv('excel/全部leagues多语言.csv', index=False, encoding='utf-8')
