@@ -166,4 +166,4 @@ for i in eventIds:
 
 df = pd.DataFrame(event_result_list)
 df_filtered = df[(df['status'] == 3)]
-df_filtered.to_excel('已失效比赛.xlsx', index=False)
+df_filtered.to_excel('excel/已失效比赛.xlsx', index=False)
