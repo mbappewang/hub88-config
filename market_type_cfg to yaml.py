@@ -42,7 +42,7 @@ for i in data:
 print(data_list)
 
 # 将数据转换为 YAML 格式并保存
-save_path = 'market_type_cfg_copy.yaml'
+save_path = 'yaml/market_type_cfg_copy.yaml'
 with open(save_path, 'w', encoding='utf-8') as f:
     yaml.dump(data_list, f, 
     allow_unicode=True,  # 支持中文

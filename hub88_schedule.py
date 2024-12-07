@@ -13,6 +13,7 @@ print(clientId, password)
 
 token = hub88.get_token(clientId, password)
 
+# 指定赛程的开始时间和结束时间UTC0
 start_date = datetime(2024, 11, 17)
 end_date = datetime(2024, 11, 30)
 startDate_list = []
@@ -21,6 +22,7 @@ while current_date <= end_date:
     startDate_list.append(current_date.strftime('%Y-%m-%d'))
     current_date += timedelta(days=1)
 
+# 指定赛程所属的运动和地区
 sportIds = [1]
 locationIds = []
 schedule = []
