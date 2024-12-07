@@ -126,7 +126,7 @@ for i in banner_events:
    banner_list.append(banner)
 
 # 保存为yaml
-save_path = r'yaml/homeBanner.yaml'
+save_path = r'yaml/hub88_home_banner.yaml'
 with open(save_path, 'w', encoding='utf-8') as f:
   yaml.dump(banner_list, f, 
   allow_unicode=True,  # 支持中文

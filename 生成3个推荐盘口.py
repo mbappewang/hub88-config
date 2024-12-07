@@ -1,7 +1,7 @@
 import pandas as pd
 import yaml
 
-df = pd.read_csv('market_type_副本.csv')
+df = pd.read_csv(r'excel/market_type_副本.csv')
 data = df.to_dict(orient='records')
 market_type_cfg = []
 market_type = {}
@@ -45,5 +45,5 @@ with open(save_path, 'w', encoding='utf-8') as f:
 
 # 将数据转换为 DataFrame 并保存为 Excel 文件
 df_output = pd.DataFrame(market_type_cfg)
-save_path_excel = 'market_type_cfg.xlsx'
+save_path_excel = r'excel/market_type_cfg.xlsx'
 df_output.to_excel(save_path_excel, index=False)

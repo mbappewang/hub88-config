@@ -65,8 +65,8 @@ hot_league = create_data(hot_data)
 top_league = create_data(top_data)
 
 # 创建yaml文件
-save_hot = 'yaml/hotleague.yaml'
-save_top = 'yaml/topleague.yaml'
+save_hot = 'yaml/hub88_hot_league.yaml'
+save_top = 'yaml/hub88_top_league.yaml'
 with open(save_hot, 'w', encoding='utf-8') as f:
     yaml.dump(hot_league, f, 
     allow_unicode=True,  # 支持中文

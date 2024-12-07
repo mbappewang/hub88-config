@@ -1,7 +1,7 @@
 import pandas as pd
 import yaml
 
-df = pd.read_excel('/Users/wys/dev/hub88-config/market_type_cfg_副本.xlsx')
+df = pd.read_excel(r'excel/market_type_cfg_副本.xlsx')
 data = df.to_dict(orient='records')
 data_list = []
 for i in data:

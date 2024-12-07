@@ -10,18 +10,6 @@
   image: https://assets.wintokens.io/webpage/sports/banners/33.png
   away: Chelsea FC
   home: Tottenham Hotspur
-- eventId: 6631040
-  marketId: 1
-  leagueId: 191
-  image: https://assets.wintokens.io/webpage/sports/banners/191.png
-  away: FC Bayern Munich
-  home: FC Shakhtar Donetsk
-- eventId: 6631038
-  marketId: 1
-  leagueId: 191
-  image: https://assets.wintokens.io/webpage/sports/banners/191.png
-  away: Liverpool FC
-  home: Girona FC
 - eventId: 6631044
   marketId: 1
   leagueId: 191
@@ -34,3 +22,15 @@
   image: https://assets.wintokens.io/webpage/sports/banners/191.png
   away: Inter Milano
   home: Bayer 04 Leverkusen
+- eventId: 6631038
+  marketId: 1
+  leagueId: 191
+  image: https://assets.wintokens.io/webpage/sports/banners/191.png
+  away: Liverpool FC
+  home: Girona FC
+- eventId: 6631040
+  marketId: 1
+  leagueId: 191
+  image: https://assets.wintokens.io/webpage/sports/banners/191.png
+  away: FC Bayern Munich
+  home: FC Shakhtar Donetsk
