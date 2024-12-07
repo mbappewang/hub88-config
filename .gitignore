@@ -1,2 +1,3 @@
 # 忽略密码配置文件
 /pwd.json
+/sender.json
