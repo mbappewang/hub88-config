@@ -52,4 +52,4 @@ for event in eventIds:
     resultlist = resultlist + get_selectionId(data,marketId,finishPoslist)
 
 df = pd.DataFrame(resultlist)
-df.to_excel('excel/赛马2-5名.xlsx',index=False)
+df.to_excel(f'excel/eventId:{eventIds}_marketId:{marketId}_finishPos{finishPoslist}_赛马2-5名.xlsx',index=False)
