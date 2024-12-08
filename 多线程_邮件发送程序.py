@@ -81,7 +81,11 @@ def single_send_with_sleep(sender, sender_alias, sender_pwd, playerInfoDict, sou
 multi_result = []
 
 with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
-    futures = [executor.submit(single_send_with_sleep, sender, sender_alias, sender_pwd, playerInfoDict, soup) for playerInfoDict in sendDict]
+    futures = []
+    for playerInfoDict in sendDict:
+        future = executor.submit(single_send_with_sleep, sender, sender_alias, sender_pwd, playerInfoDict, soup)
+        futures.append(future)
+    
     for future in concurrent.futures.as_completed(futures):
         try:
             result = future.result()
