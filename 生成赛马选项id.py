@@ -40,9 +40,10 @@ def get_selectionId(data,marketId,finishPoslist):
     horse['marketId'] = marketId
   return targetHorseList
 
-eventIds = [6710280,6710285,6710271]
-marketId = 12314435
-finishPoslist = [2,3,4,5]
+eventIds = [6717030]
+# 12322021 -> 复胜 ; 12314435 -> 单胜
+marketId = 12322021
+finishPoslist = [4,5,6,7]
 resultlist = []
 for event in eventIds:
   repsonse = get_eventData(event)
