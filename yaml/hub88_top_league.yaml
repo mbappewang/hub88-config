@@ -74,6 +74,8 @@
   sportId: 1
 - leagueId: 489
   sportId: 1
+- leagueId: 4172
+  sportId: 8
 - leagueId: 7104
   sportId: 8
 - leagueId: 68354
@@ -88,6 +90,8 @@
   sportId: 7
 - leagueId: 6763
   sportId: 4
+- leagueId: 4198
+  sportId: 14
 - leagueId: 9935
   sportId: 14
 - leagueId: 7200

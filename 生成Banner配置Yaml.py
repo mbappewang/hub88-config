@@ -18,7 +18,7 @@ else:
 # 指定赛程参数: 运动，日期（前闭后闭），地区
 sportIds = [1]
 # UTC0日期
-start_date = datetime(2024, 12, 8)
+start_date = datetime(2024, 12, 12)
 end_date = datetime(2024, 12, 31)
 # 地区可不填
 locationIds = []
@@ -104,34 +104,34 @@ df_filtered = df_flat[df_flat['competition_id'].isin([1,28,29,33,191])]
 # [{'10787':'Borussia Dortmund'},{'10913':'AC Milan'},{'10170':'FC Barcelona'},{'11026':'Real Madrid'},{'10938':'Tottenham Hotspur'},{'10148':'Chelsea FC'},{'10936':'Liverpool FC'},{'10927':'Manchester United'},{'10718':'Arsenal FC'},{'10929':'Everton FC'},{'10883':'Manchester City'},{'10917':'Inter Milano'},{'10863':'Juventus Turin'},{'10770':'FC Bayern Munich'}]
 team_ids = [10787,10913,10170,11026,10938,10148,10936,10927,10718,10929,10883,10917,10863,10770]
 
-# # 精筛热门球队
-# df_filtered = df_filtered[
-#     (df_filtered['home_team_id'].isin(team_ids)) | (df_filtered['away_team_id'].isin(team_ids))
-# ]
+# 精筛热门球队
+df_filtered = df_filtered[
+    (df_filtered['home_team_id'].isin(team_ids)) | (df_filtered['away_team_id'].isin(team_ids))
+]
 
 # 不要Outright
 df_filtered = df_filtered[df_filtered['isOutright'] == False]
 
-df_filtered = df_filtered.to_excel('excel/schedule.xlsx', index=False)
+# df_filtered = df_filtered.to_excel('excel/schedule.xlsx', index=False)
 
-# # 遍历筛选结果，生成配置
-# banner_events = df_filtered.to_dict(orient='records')
-# banner_list = []
-# for i in banner_events:
-#    banner = {}
-#    banner["eventId"] = i['id']
-#    banner["marketId"] = 1
-#    banner["leagueId"] = i['competition_id']
-#    banner["image"] = f"https://assets.wintokens.io/webpage/sports/banners/{i['competition_id']}.png"
-#    banner["away"] = i['away_team_name']
-#    banner["home"] = i['home_team_name']
-#    banner_list.append(banner)
+# 遍历筛选结果，生成配置
+banner_events = df_filtered.to_dict(orient='records')
+banner_list = []
+for i in banner_events:
+   banner = {}
+   banner["eventId"] = i['id']
+   banner["marketId"] = 1
+   banner["leagueId"] = i['competition_id']
+   banner["image"] = f"https://assets.wintokens.io/webpage/sports/banners/{i['competition_id']}.png"
+   banner["away"] = i['away_team_name']
+   banner["home"] = i['home_team_name']
+   banner_list.append(banner)
 
-# # 保存为yaml
-# save_path = r'yaml/hub88_home_banner.yaml'
-# with open(save_path, 'w', encoding='utf-8') as f:
-#   yaml.dump(banner_list, f, 
-#   allow_unicode=True,  # 支持中文
-#   default_flow_style=False,  # 使用块状格式
-#   sort_keys=False,  # 不对键进行排序
-#   indent=2)  # 设置缩进为2个字符
+# 保存为yaml
+save_path = r'yaml/hub88_home_banner.yaml'
+with open(save_path, 'w', encoding='utf-8') as f:
+  yaml.dump(banner_list, f, 
+  allow_unicode=True,  # 支持中文
+  default_flow_style=False,  # 使用块状格式
+  sort_keys=False,  # 不对键进行排序
+  indent=2)  # 设置缩进为2个字符
