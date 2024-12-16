@@ -159,11 +159,15 @@ for i in eventIds:
         minutes = (seconds % 3600) // 60
         seconds = seconds % 60
         event_item['timeDiff'] = f"{days}天 {hours}小时 {minutes}分钟 {seconds}秒"
+        # 计算总小时数
+        total_hours = days * 24 + hours + minutes/60 + seconds/3600
+        event_item['total_hours'] = total_hours
         print(event_item['timeDiff'])
         event_result_list.append(event_item)
     j += 1
     print(f"比赛进度{j}/{len(eventIds)}")
 
 df = pd.DataFrame(event_result_list)
-df_filtered = df[(df['status'] == 3)]
+# 筛选状态为3且时间差大于3小时的数据
+df_filtered = df[(df['status'] == 3) & (df['total_hours'] >= 3)]
 df_filtered.to_excel('excel/已失效比赛.xlsx', index=False)
