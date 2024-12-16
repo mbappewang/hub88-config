@@ -1,0 +1,812 @@
+2024-12-16 22:26:53.(msecs)03d [INFO] 程序开始运行
+2024-12-16 22:26:53.(msecs)03d [ERROR] 这是一条测试错误信息
+2024-12-16 22:26:54.(msecs)03d [INFO] Get pageTotal: 10
+2024-12-16 22:26:54.(msecs)03d [INFO] current: 1
+2024-12-16 22:26:55.(msecs)03d [INFO] current: 2
+2024-12-16 22:26:56.(msecs)03d [INFO] current: 3
+2024-12-16 22:26:57.(msecs)03d [INFO] current: 4
+2024-12-16 22:26:58.(msecs)03d [INFO] current: 5
+2024-12-16 22:26:59.(msecs)03d [INFO] current: 6
+2024-12-16 22:27:00.(msecs)03d [INFO] current: 7
+2024-12-16 22:27:01.(msecs)03d [INFO] current: 8
+2024-12-16 22:27:01.(msecs)03d [INFO] current: 9
+2024-12-16 22:27:02.(msecs)03d [INFO] current: 10
+2024-12-16 22:27:03.(msecs)03d [INFO] Get 342 matches
+2024-12-16 22:27:03.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50850287&configId=']
+2024-12-16 22:27:03.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50850305&configId=']
+2024-12-16 22:27:03.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50850289&configId=']
+2024-12-16 22:27:03.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50850297&configId=']
+2024-12-16 22:27:03.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50850291&configId=']
+2024-12-16 22:27:03.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50850293&configId=']
+2024-12-16 22:27:03.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50850295&configId=']
+2024-12-16 22:27:03.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50850299&configId=']
+2024-12-16 22:27:03.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50850301&configId=']
+2024-12-16 22:27:03.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50850303&configId=']
+2024-12-16 22:27:03.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51269267&configId=']
+2024-12-16 22:27:03.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51269265&configId=']
+2024-12-16 22:27:03.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51269269&configId=']
+2024-12-16 22:27:03.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51269273&configId=']
+2024-12-16 22:27:03.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51269271&configId=']
+2024-12-16 22:27:03.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51269279&configId=']
+2024-12-16 22:27:03.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51269263&configId=']
+2024-12-16 22:27:03.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51269277&configId=']
+2024-12-16 22:27:03.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51269275&configId=']
+2024-12-16 22:27:03.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51269283&configId=']
+2024-12-16 22:27:03.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51269287&configId=']
+2024-12-16 22:27:03.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51269293&configId=']
+2024-12-16 22:27:03.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51269297&configId=']
+2024-12-16 22:27:03.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51269295&configId=']
+2024-12-16 22:27:03.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51269281&configId=']
+2024-12-16 22:27:03.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51269291&configId=']
+2024-12-16 22:27:06.(msecs)03d [INFO] 获取Statscore ID成功: 14364013
+2024-12-16 22:27:08.(msecs)03d [INFO] 获取Statscore ID成功: 14364012
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50852427&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50852425&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50852423&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50852433&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50852435&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50852437&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50852429&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50852439&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50852431&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50852421&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=56187691&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50852457&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50852449&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50852455&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50852451&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50852447&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50852459&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50852443&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50852445&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51271751&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51271761&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51271749&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51271755&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51271759&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51271763&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51271745&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51271757&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51271747&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51271753&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51271771&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51271781&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51271767&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51271775&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51271783&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51271779&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51271773&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51271777&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51271769&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51271765&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50955611&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50955627&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50955617&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50955621&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50955613&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50955619&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50955625&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50955615&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50955623&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50955635&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50955631&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50955641&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50955643&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50955645&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50955629&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50955633&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50955637&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50955639&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=53161025&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=53161029&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=53161035&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=53161017&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=53161033&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=53161043&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=53161019&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=53161023&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=53161041&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=53161039&configId=']
+2024-12-16 22:27:08.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=53161015&configId=']
+2024-12-16 22:27:10.(msecs)03d [INFO] 获取Statscore ID成功: 14222745
+2024-12-16 22:27:10.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=53161031&configId=']
+2024-12-16 22:27:10.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=53161047&configId=']
+2024-12-16 22:27:10.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=53161045&configId=']
+2024-12-16 22:27:10.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=53161037&configId=']
+2024-12-16 22:27:10.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=53161013&configId=']
+2024-12-16 22:27:10.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=53161021&configId=']
+2024-12-16 22:27:10.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=55125613&configId=']
+2024-12-16 22:27:10.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=55125685&configId=']
+2024-12-16 22:27:10.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=55125687&configId=']
+2024-12-16 22:27:10.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=55125689&configId=']
+2024-12-16 22:27:12.(msecs)03d [INFO] 获取Statscore ID成功: 14286582
+2024-12-16 22:27:15.(msecs)03d [INFO] 获取Statscore ID成功: 14286583
+2024-12-16 22:27:16.(msecs)03d [INFO] 获取Statscore ID成功: 14286581
+2024-12-16 22:27:16.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=54019501&configId=']
+2024-12-16 22:27:16.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=52130533&configId=']
+2024-12-16 22:27:16.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=52130535&configId=']
+2024-12-16 22:27:16.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=52130537&configId=']
+2024-12-16 22:27:16.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=52130539&configId=']
+2024-12-16 22:27:16.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=52130541&configId=']
+2024-12-16 22:27:16.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=52130543&configId=']
+2024-12-16 22:27:16.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=52130545&configId=']
+2024-12-16 22:27:16.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=52130547&configId=']
+2024-12-16 22:27:16.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=52130549&configId=']
+2024-12-16 22:27:16.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=52130551&configId=']
+2024-12-16 22:27:16.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=52130553&configId=']
+2024-12-16 22:27:16.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=52130555&configId=']
+2024-12-16 22:27:16.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51095791&configId=']
+2024-12-16 22:27:16.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51095805&configId=']
+2024-12-16 22:27:16.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51095813&configId=']
+2024-12-16 22:27:16.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51095783&configId=']
+2024-12-16 22:27:16.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51095775&configId=']
+2024-12-16 22:27:16.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51095809&configId=']
+2024-12-16 22:27:16.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51095799&configId=']
+2024-12-16 22:27:16.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51095817&configId=']
+2024-12-16 22:27:16.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51095787&configId=']
+2024-12-16 22:27:16.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51095795&configId=']
+2024-12-16 22:27:16.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51095779&configId=']
+2024-12-16 22:27:16.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51095821&configId=']
+2024-12-16 22:27:16.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51269967&configId=']
+2024-12-16 22:27:16.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51269975&configId=']
+2024-12-16 22:27:16.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51269973&configId=']
+2024-12-16 22:27:16.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51269969&configId=']
+2024-12-16 22:27:16.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51269981&configId=']
+2024-12-16 22:27:16.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51269977&configId=']
+2024-12-16 22:27:16.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51269971&configId=']
+2024-12-16 22:27:16.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51269979&configId=']
+2024-12-16 22:27:16.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51269983&configId=']
+2024-12-16 22:27:16.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=54429523&configId=']
+2024-12-16 22:27:16.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=54429525&configId=']
+2024-12-16 22:27:16.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=56103411&configId=']
+2024-12-16 22:27:16.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=56103379&configId=']
+2024-12-16 22:27:19.(msecs)03d [INFO] 获取Statscore ID成功: 14215872
+2024-12-16 22:27:21.(msecs)03d [INFO] 获取Statscore ID成功: 14215874
+2024-12-16 22:27:21.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51103335&configId=']
+2024-12-16 22:27:21.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51103353&configId=']
+2024-12-16 22:27:21.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51103343&configId=']
+2024-12-16 22:27:21.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51103341&configId=']
+2024-12-16 22:27:21.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51103351&configId=']
+2024-12-16 22:27:21.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51103337&configId=']
+2024-12-16 22:27:21.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51103345&configId=']
+2024-12-16 22:27:21.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51103349&configId=']
+2024-12-16 22:27:21.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51103339&configId=']
+2024-12-16 22:27:21.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51467941&configId=']
+2024-12-16 22:27:21.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51467943&configId=']
+2024-12-16 22:27:21.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51467927&configId=']
+2024-12-16 22:27:21.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51467937&configId=']
+2024-12-16 22:27:21.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51467925&configId=']
+2024-12-16 22:27:21.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51467939&configId=']
+2024-12-16 22:27:21.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51467931&configId=']
+2024-12-16 22:27:21.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51467929&configId=']
+2024-12-16 22:27:21.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51467935&configId=']
+2024-12-16 22:27:21.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51467933&configId=']
+2024-12-16 22:27:23.(msecs)03d [INFO] 获取Statscore ID成功: 14348659
+2024-12-16 22:27:26.(msecs)03d [INFO] 获取Statscore ID成功: 14355420
+2024-12-16 22:27:28.(msecs)03d [INFO] 获取Statscore ID成功: 14355984
+2024-12-16 22:27:30.(msecs)03d [INFO] 获取Statscore ID成功: 14356368
+2024-12-16 22:27:34.(msecs)03d [INFO] 获取Statscore ID成功: 14356664
+2024-12-16 22:27:34.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50868271&configId=']
+2024-12-16 22:27:34.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50868267&configId=']
+2024-12-16 22:27:34.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50868261&configId=']
+2024-12-16 22:27:34.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50868273&configId=']
+2024-12-16 22:27:34.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51388971&configId=']
+2024-12-16 22:27:34.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51388973&configId=']
+2024-12-16 22:27:34.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51388963&configId=']
+2024-12-16 22:27:34.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51388959&configId=']
+2024-12-16 22:27:34.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51115785&configId=']
+2024-12-16 22:27:34.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51115781&configId=']
+2024-12-16 22:27:34.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51093547&configId=']
+2024-12-16 22:27:34.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51093561&configId=']
+2024-12-16 22:27:34.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51093557&configId=']
+2024-12-16 22:27:34.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51093543&configId=']
+2024-12-16 22:27:34.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51093551&configId=']
+2024-12-16 22:27:34.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51093545&configId=']
+2024-12-16 22:27:34.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51093559&configId=']
+2024-12-16 22:27:34.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=52358751&configId=']
+2024-12-16 22:27:34.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50715125&configId=']
+2024-12-16 22:27:34.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50715131&configId=']
+2024-12-16 22:27:34.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50715139&configId=']
+2024-12-16 22:27:34.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50715119&configId=']
+2024-12-16 22:27:34.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50715115&configId=']
+2024-12-16 22:27:34.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50715117&configId=']
+2024-12-16 22:27:34.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50715113&configId=']
+2024-12-16 22:27:34.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50715123&configId=']
+2024-12-16 22:27:34.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=55183137&configId=']
+2024-12-16 22:27:34.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=55183145&configId=']
+2024-12-16 22:27:34.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51472097&configId=']
+2024-12-16 22:27:34.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51472091&configId=']
+2024-12-16 22:27:34.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51472103&configId=']
+2024-12-16 22:27:34.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51472105&configId=']
+2024-12-16 22:27:34.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51472107&configId=']
+2024-12-16 22:27:36.(msecs)03d [INFO] 获取Statscore ID成功: 13970363
+2024-12-16 22:27:39.(msecs)03d [INFO] 获取Statscore ID成功: 13914993
+2024-12-16 22:27:41.(msecs)03d [INFO] 获取Statscore ID成功: 14209016
+2024-12-16 22:27:43.(msecs)03d [INFO] 获取Statscore ID成功: 14209017
+2024-12-16 22:27:45.(msecs)03d [INFO] 获取Statscore ID成功: 14370642
+2024-12-16 22:27:45.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=53007877&configId=']
+2024-12-16 22:27:45.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=53007885&configId=']
+2024-12-16 22:27:47.(msecs)03d [INFO] 获取Statscore ID成功: 14412388
+2024-12-16 22:27:50.(msecs)03d [INFO] 获取Statscore ID成功: 14412569
+2024-12-16 22:27:53.(msecs)03d [INFO] 获取Statscore ID成功: 14413606
+2024-12-16 22:27:53.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51099219&configId=']
+2024-12-16 22:27:53.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51099215&configId=']
+2024-12-16 22:27:53.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51099217&configId=']
+2024-12-16 22:27:53.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51099211&configId=']
+2024-12-16 22:27:53.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51099221&configId=']
+2024-12-16 22:27:53.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51099231&configId=']
+2024-12-16 22:27:53.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51099229&configId=']
+2024-12-16 22:27:53.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=53457385&configId=']
+2024-12-16 22:27:53.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51625871&configId=']
+2024-12-16 22:27:53.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51625877&configId=']
+2024-12-16 22:27:53.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51625875&configId=']
+2024-12-16 22:27:53.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51625873&configId=']
+2024-12-16 22:27:53.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51625865&configId=']
+2024-12-16 22:27:53.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51625867&configId=']
+2024-12-16 22:27:53.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51625869&configId=']
+2024-12-16 22:27:53.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=56298253&configId=']
+2024-12-16 22:27:53.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=54088671&configId=']
+2024-12-16 22:27:53.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=54088669&configId=']
+2024-12-16 22:27:53.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=54088641&configId=']
+2024-12-16 22:27:53.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=54088643&configId=']
+2024-12-16 22:27:53.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=54088915&configId=']
+2024-12-16 22:27:53.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=54088907&configId=']
+2024-12-16 22:27:53.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=54088873&configId=']
+2024-12-16 22:27:53.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=54088869&configId=']
+2024-12-16 22:27:53.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51856841&configId=']
+2024-12-16 22:27:53.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51856843&configId=']
+2024-12-16 22:27:53.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51856837&configId=']
+2024-12-16 22:27:53.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51856839&configId=']
+2024-12-16 22:27:53.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51856829&configId=']
+2024-12-16 22:27:53.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51856835&configId=']
+2024-12-16 22:27:53.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51856847&configId=']
+2024-12-16 22:27:53.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=55155293&configId=']
+2024-12-16 22:27:53.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=54775539&configId=']
+2024-12-16 22:27:53.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=54775543&configId=']
+2024-12-16 22:27:53.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=54775541&configId=']
+2024-12-16 22:27:53.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=54775549&configId=']
+2024-12-16 22:27:53.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50869359&configId=']
+2024-12-16 22:27:55.(msecs)03d [INFO] 获取Statscore ID成功: 14407047
+2024-12-16 22:27:55.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50869363&configId=']
+2024-12-16 22:27:55.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50869371&configId=']
+2024-12-16 22:27:57.(msecs)03d [INFO] 获取Statscore ID成功: 14390253
+2024-12-16 22:27:57.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=53562947&configId=']
+2024-12-16 22:27:57.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=55543415&configId=']
+2024-12-16 22:27:57.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50603251&configId=']
+2024-12-16 22:27:57.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50603247&configId=']
+2024-12-16 22:27:57.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50603249&configId=']
+2024-12-16 22:27:57.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50603245&configId=']
+2024-12-16 22:27:57.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50603243&configId=']
+2024-12-16 22:27:57.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51207927&configId=']
+2024-12-16 22:27:57.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51207937&configId=']
+2024-12-16 22:27:57.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51207935&configId=']
+2024-12-16 22:27:57.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51207929&configId=']
+2024-12-16 22:27:57.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51207931&configId=']
+2024-12-16 22:27:57.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51207939&configId=']
+2024-12-16 22:27:57.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51207933&configId=']
+2024-12-16 22:27:57.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51207941&configId=']
+2024-12-16 22:27:57.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51391445&configId=']
+2024-12-16 22:27:57.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51391455&configId=']
+2024-12-16 22:27:57.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51391443&configId=']
+2024-12-16 22:27:57.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51391451&configId=']
+2024-12-16 22:27:57.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51391453&configId=']
+2024-12-16 22:27:57.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51391447&configId=']
+2024-12-16 22:27:57.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=56189523&configId=']
+2024-12-16 22:27:57.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=56189519&configId=']
+2024-12-16 22:27:57.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=56189521&configId=']
+2024-12-16 22:28:00.(msecs)03d [INFO] 获取Statscore ID成功: 14291281
+2024-12-16 22:28:00.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51116371&configId=']
+2024-12-16 22:28:02.(msecs)03d [INFO] 获取Statscore ID成功: 14201438
+2024-12-16 22:28:05.(msecs)03d [INFO] 获取Statscore ID成功: 14410404
+2024-12-16 22:28:07.(msecs)03d [INFO] 获取Statscore ID成功: 14410410
+2024-12-16 22:28:10.(msecs)03d [INFO] 获取Statscore ID成功: 14410411
+2024-12-16 22:28:13.(msecs)03d [INFO] 获取Statscore ID成功: 14410405
+2024-12-16 22:28:13.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51251809&configId=']
+2024-12-16 22:28:13.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51251799&configId=']
+2024-12-16 22:28:13.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51251805&configId=']
+2024-12-16 22:28:13.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51251807&configId=']
+2024-12-16 22:28:13.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51251803&configId=']
+2024-12-16 22:28:13.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51251801&configId=']
+2024-12-16 22:28:13.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51251811&configId=']
+2024-12-16 22:28:13.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51447005&configId=']
+2024-12-16 22:28:13.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51447013&configId=']
+2024-12-16 22:28:13.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51447017&configId=']
+2024-12-16 22:28:13.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51447019&configId=']
+2024-12-16 22:28:13.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51447021&configId=']
+2024-12-16 22:28:13.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51447015&configId=']
+2024-12-16 22:28:13.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=55902165&configId=']
+2024-12-16 22:28:13.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=55549359&configId=']
+2024-12-16 22:28:13.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51445819&configId=']
+2024-12-16 22:28:13.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51445815&configId=']
+2024-12-16 22:28:13.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51445813&configId=']
+2024-12-16 22:28:13.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51445809&configId=']
+2024-12-16 22:28:13.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51445811&configId=']
+2024-12-16 22:28:13.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51445803&configId=']
+2024-12-16 22:28:13.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51445799&configId=']
+2024-12-16 22:28:13.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51445807&configId=']
+2024-12-16 22:28:13.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50716101&configId=']
+2024-12-16 22:28:13.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50716115&configId=']
+2024-12-16 22:28:13.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50716107&configId=']
+2024-12-16 22:28:13.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50716109&configId=']
+2024-12-16 22:28:13.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50716111&configId=']
+2024-12-16 22:28:13.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=50716113&configId=']
+2024-12-16 22:28:13.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=55597207&configId=']
+2024-12-16 22:28:13.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=56350323&configId=']
+2024-12-16 22:28:13.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=56353359&configId=']
+2024-12-16 22:28:13.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51080163&configId=']
+2024-12-16 22:28:13.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51080157&configId=']
+2024-12-16 22:28:13.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51080165&configId=']
+2024-12-16 22:28:13.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=51080167&configId=']
+2024-12-16 22:28:13.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=55703251&configId=']
+2024-12-16 22:28:15.(msecs)03d [INFO] 获取Statscore ID成功: 14209041
+2024-12-16 22:28:17.(msecs)03d [INFO] 获取Statscore ID成功: 14373279
+2024-12-16 22:28:17.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=55623745&configId=']
+2024-12-16 22:28:20.(msecs)03d [INFO] 获取Statscore ID成功: 14209040
+2024-12-16 22:28:22.(msecs)03d [INFO] 获取Statscore ID成功: 14209042
+2024-12-16 22:28:25.(msecs)03d [INFO] 获取Statscore ID成功: 14209039
+2024-12-16 22:28:25.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=55544971&configId=']
+2024-12-16 22:28:25.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=55544969&configId=']
+2024-12-16 22:28:27.(msecs)03d [INFO] 获取Statscore ID成功: 14365957
+2024-12-16 22:28:29.(msecs)03d [INFO] 获取Statscore ID成功: 14365956
+2024-12-16 22:28:31.(msecs)03d [INFO] 获取Statscore ID成功: 14340783
+2024-12-16 22:28:34.(msecs)03d [INFO] 获取Statscore ID成功: 14340784
+2024-12-16 22:28:37.(msecs)03d [INFO] 获取Statscore ID成功: 14220147
+2024-12-16 22:28:39.(msecs)03d [INFO] 获取Statscore ID成功: 14356601
+2024-12-16 22:28:42.(msecs)03d [INFO] 获取Statscore ID成功: 14397625
+2024-12-16 22:28:42.(msecs)03d [ERROR] 正则匹配 match 或 config 失败: ['https://animation.byanimxyz.com/animation/index.html?matchId=56428807&configId=']
+2024-12-16 22:28:42.(msecs)03d [INFO] Get 41 matches with statscore_id
+2024-12-16 23:00:31.(msecs)03d [INFO] 程序开始运行
+2024-12-16 23:00:31.(msecs)03d [ERROR] 这是一条测试错误信息
+2024-12-16 23:00:31.(msecs)03d [INFO] Get pageTotal: 1
+2024-12-16 23:00:31.(msecs)03d [INFO] current: 1
+2024-12-16 23:00:32.(msecs)03d [INFO] Get 10 matches
+2024-12-16 23:00:32.(msecs)03d [ERROR] 获取Statscore ID失败: 'animation'
+2024-12-16 23:00:32.(msecs)03d [ERROR] 获取Statscore ID失败: 'animation'
+2024-12-16 23:00:32.(msecs)03d [ERROR] 获取Statscore ID失败: 'animation'
+2024-12-16 23:00:32.(msecs)03d [ERROR] 获取Statscore ID失败: 'animation'
+2024-12-16 23:00:32.(msecs)03d [ERROR] 获取Statscore ID失败: 'animation'
+2024-12-16 23:00:32.(msecs)03d [ERROR] 获取Statscore ID失败: 'animation'
+2024-12-16 23:00:32.(msecs)03d [ERROR] 获取Statscore ID失败: 'animation'
+2024-12-16 23:00:32.(msecs)03d [ERROR] 获取Statscore ID失败: 'animation'
+2024-12-16 23:00:32.(msecs)03d [ERROR] 获取Statscore ID失败: 'animation'
+2024-12-16 23:00:32.(msecs)03d [ERROR] 获取Statscore ID失败: 'animation'
+2024-12-16 23:00:32.(msecs)03d [INFO] Get 0 matches with statscore_id
+2024-12-16 23:02:56.214 INFO [__main__] 程序开始运行
+2024-12-16 23:02:56.214 ERROR [__main__] 这是一条测试错误信息
+2024-12-16 23:02:57.158 INFO [__main__] Get pageTotal: 1
+2024-12-16 23:02:57.159 INFO [__main__] current: 1
+2024-12-16 23:02:57.985 INFO [__main__] Get 10 matches
+2024-12-16 23:02:57.985 ERROR [__main__] 获取Statscore ID失败: 'animation'
+2024-12-16 23:02:57.985 ERROR [__main__] 获取Statscore ID失败: 'animation'
+2024-12-16 23:02:57.985 ERROR [__main__] 获取Statscore ID失败: 'animation'
+2024-12-16 23:02:57.985 ERROR [__main__] 获取Statscore ID失败: 'animation'
+2024-12-16 23:02:57.985 ERROR [__main__] 获取Statscore ID失败: 'animation'
+2024-12-16 23:02:57.985 ERROR [__main__] 获取Statscore ID失败: 'animation'
+2024-12-16 23:02:57.986 ERROR [__main__] 获取Statscore ID失败: 'animation'
+2024-12-16 23:02:57.986 ERROR [__main__] 获取Statscore ID失败: 'animation'
+2024-12-16 23:02:57.986 ERROR [__main__] 获取Statscore ID失败: 'animation'
+2024-12-16 23:02:57.986 ERROR [__main__] 获取Statscore ID失败: 'animation'
+2024-12-16 23:02:57.986 INFO [__main__] Get 0 matches with statscore_id
+2024-12-16 23:03:42.568 INFO [__main__] 程序开始运行
+2024-12-16 23:03:42.568 ERROR [__main__] 这是一条测试错误信息
+2024-12-16 23:03:43.345 INFO [__main__] Get pageTotal: 1
+2024-12-16 23:03:43.345 INFO [__main__] current: 1
+2024-12-16 23:03:44.337 INFO [__main__] Get 10 matches
+2024-12-16 23:03:46.550 INFO [__main__] 获取Statscore ID成功: 14136967 用时0:00:02.213055
+2024-12-16 23:03:48.076 INFO [__main__] 获取Statscore ID成功: 14317168 用时0:00:01.524862
+2024-12-16 23:03:49.893 INFO [__main__] 获取Statscore ID成功: 14279483 用时0:00:01.817304
+2024-12-16 23:03:52.816 INFO [__main__] 获取Statscore ID成功: 14378842 用时0:00:02.922993
+2024-12-16 23:03:54.416 INFO [__main__] 获取Statscore ID成功: 14188344 用时0:00:01.599330
+2024-12-16 23:03:55.941 INFO [__main__] 获取Statscore ID成功: 14341838 用时0:00:01.524723
+2024-12-16 23:03:57.500 INFO [__main__] 获取Statscore ID成功: 14196126 用时0:00:01.559391
+2024-12-16 23:03:59.217 INFO [__main__] 获取Statscore ID成功: 14416217 用时0:00:01.716570
+2024-12-16 23:03:59.217 INFO [__main__] Get 8 matches with statscore_id
+2024-12-16 23:06:46.727 INFO [__main__] 程序开始运行
+2024-12-16 23:06:46.728 ERROR [__main__] 这是一条测试错误信息
+2024-12-16 23:06:47.526 INFO [__main__] Get pageTotal: 1
+2024-12-16 23:06:47.526 INFO [__main__] current: 1
+2024-12-16 23:06:48.241 INFO [__main__] Get 0 matches
+2024-12-16 23:06:48.241 INFO [__main__] Get 0 matches with statscore_id
+2024-12-16 23:09:24.182 INFO [__main__] 程序开始运行
+2024-12-16 23:09:24.182 ERROR [__main__] 这是一条测试错误信息
+2024-12-16 23:09:24.826 INFO [__main__] Get pageTotal: 1
+2024-12-16 23:09:24.826 INFO [__main__] current: 1
+2024-12-16 23:09:25.363 INFO [__main__] Get 10 matches
+2024-12-16 23:09:27.097 INFO [__main__] 获取Statscore ID成功: 14027259 用时0:00:01.734181
+2024-12-16 23:09:28.859 INFO [__main__] 获取Statscore ID成功: 14136967 用时0:00:01.761540
+2024-12-16 23:09:31.268 INFO [__main__] 获取Statscore ID成功: 14279483 用时0:00:02.408355
+2024-12-16 23:09:33.317 INFO [__main__] 获取Statscore ID成功: 14378842 用时0:00:02.048868
+2024-12-16 23:09:34.826 INFO [__main__] 获取Statscore ID成功: 14188344 用时0:00:01.509439
+2024-12-16 23:09:36.375 INFO [__main__] 获取Statscore ID成功: 14341838 用时0:00:01.548699
+2024-12-16 23:09:37.929 INFO [__main__] 获取Statscore ID成功: 14196126 用时0:00:01.554043
+2024-12-16 23:09:40.368 INFO [__main__] 获取Statscore ID成功: 14416217 用时0:00:02.438572
+2024-12-16 23:09:40.368 INFO [__main__] Get 8 matches with statscore_id
+2024-12-16 23:11:42.440 INFO [__main__] 程序开始运行
+2024-12-16 23:11:42.440 ERROR [__main__] 这是一条测试错误信息
+2024-12-16 23:11:42.988 INFO [__main__] Get pageTotal: 1
+2024-12-16 23:11:42.989 INFO [__main__] current: 1
+2024-12-16 23:11:43.528 INFO [__main__] Get 10 matches
+2024-12-16 23:11:48.063 INFO [__main__] 获取Statscore ID成功: 14027259 用时0:00:04.535131
+2024-12-16 23:11:49.967 INFO [__main__] 获取Statscore ID成功: 14136967 用时0:00:01.903634
+2024-12-16 23:11:51.499 INFO [__main__] 获取Statscore ID成功: 14279483 用时0:00:01.531342
+2024-12-16 23:11:53.066 INFO [__main__] 获取Statscore ID成功: 14378842 用时0:00:01.567146
+2024-12-16 23:11:54.627 INFO [__main__] 获取Statscore ID成功: 14188344 用时0:00:01.561415
+2024-12-16 23:11:56.219 INFO [__main__] 获取Statscore ID成功: 14341838 用时0:00:01.590966
+2024-12-16 23:11:57.773 INFO [__main__] 获取Statscore ID成功: 14196126 用时0:00:01.554144
+2024-12-16 23:11:59.283 INFO [__main__] 获取Statscore ID成功: 14416217 用时0:00:01.509735
+2024-12-16 23:11:59.283 INFO [__main__] Get 8 matches with statscore_id
+2024-12-16 23:12:33.613 INFO [__main__] 程序开始运行
+2024-12-16 23:12:33.613 ERROR [__main__] 这是一条测试错误信息
+2024-12-16 23:12:34.190 INFO [__main__] Get pageTotal: 1
+2024-12-16 23:12:34.190 INFO [__main__] current: 1
+2024-12-16 23:12:34.895 INFO [__main__] Get 34 matches
+2024-12-16 23:12:36.985 INFO [__main__] 获取Statscore ID成功: 14027259 用时0:00:02.090043
+2024-12-16 23:12:39.084 INFO [__main__] 获取Statscore ID成功: 14136967 用时0:00:02.098370
+2024-12-16 23:12:40.514 INFO [__main__] 获取Statscore ID成功: 14279483 用时0:00:01.429642
+2024-12-16 23:12:42.231 INFO [__main__] 获取Statscore ID成功: 14378842 用时0:00:01.717130
+2024-12-16 23:12:43.804 INFO [__main__] 获取Statscore ID成功: 14188344 用时0:00:01.572109
+2024-12-16 23:12:45.487 INFO [__main__] 获取Statscore ID成功: 14341838 用时0:00:01.683132
+2024-12-16 23:12:46.974 INFO [__main__] 获取Statscore ID成功: 14196126 用时0:00:01.487292
+2024-12-16 23:12:49.405 INFO [__main__] 获取Statscore ID成功: 14416217 用时0:00:02.430011
+2024-12-16 23:12:53.044 INFO [__main__] 获取Statscore ID成功: 14413882 用时0:00:03.638539
+2024-12-16 23:12:54.662 INFO [__main__] 获取Statscore ID成功: 14412436 用时0:00:01.617577
+2024-12-16 23:12:56.234 INFO [__main__] 获取Statscore ID成功: 14363870 用时0:00:01.572537
+2024-12-16 23:12:58.735 INFO [__main__] 获取Statscore ID成功: 14413537 用时0:00:02.500423
+2024-12-16 23:13:00.683 INFO [__main__] 获取Statscore ID成功: 14413535 用时0:00:01.947835
+2024-12-16 23:13:02.675 INFO [__main__] 获取Statscore ID成功: 14413577 用时0:00:01.991786
+2024-12-16 23:13:02.675 INFO [__main__] Get 14 matches with statscore_id
+2024-12-16 23:15:41.549 INFO [__main__] 程序开始运行
+2024-12-16 23:15:41.549 ERROR [__main__] 这是一条测试错误信息
+2024-12-16 23:15:42.337 INFO [__main__] Get pageTotal: 1
+2024-12-16 23:15:42.337 INFO [__main__] current: 1
+2024-12-16 23:15:42.954 INFO [__main__] Get 35 matches
+2024-12-16 23:15:44.574 INFO [__main__] 获取Statscore ID成功: 14406266 用时0:00:01.620046
+2024-12-16 23:15:46.249 INFO [__main__] 获取Statscore ID成功: 14027259 用时0:00:01.675038
+2024-12-16 23:15:48.221 INFO [__main__] 获取Statscore ID成功: 14136967 用时0:00:01.971656
+2024-12-16 23:15:49.916 INFO [__main__] 获取Statscore ID成功: 14279483 用时0:00:01.695358
+2024-12-16 23:15:51.487 INFO [__main__] 获取Statscore ID成功: 14378842 用时0:00:01.570659
+2024-12-16 23:15:53.162 INFO [__main__] 获取Statscore ID成功: 14188344 用时0:00:01.674650
+2024-12-16 23:15:55.697 INFO [__main__] 获取Statscore ID成功: 14341838 用时0:00:02.535101
+2024-12-16 23:15:58.342 INFO [__main__] 获取Statscore ID成功: 14196126 用时0:00:02.644198
+2024-12-16 23:16:00.660 INFO [__main__] 获取Statscore ID成功: 14416217 用时0:00:02.318631
+2024-12-16 23:16:02.387 INFO [__main__] 获取Statscore ID成功: 14413882 用时0:00:01.726325
+2024-12-16 23:16:04.070 INFO [__main__] 获取Statscore ID成功: 14412436 用时0:00:01.683403
+2024-12-16 23:16:05.642 INFO [__main__] 获取Statscore ID成功: 14363870 用时0:00:01.571500
+2024-12-16 23:16:07.092 INFO [__main__] 获取Statscore ID成功: 14413537 用时0:00:01.450057
+2024-12-16 23:16:08.789 INFO [__main__] 获取Statscore ID成功: 14413535 用时0:00:01.696070
+2024-12-16 23:16:08.789 INFO [__main__] Get 14 matches with statscore_id
+2024-12-16 23:16:41.402 INFO [__main__] 程序开始运行
+2024-12-16 23:16:41.403 ERROR [__main__] 这是一条测试错误信息
+2024-12-16 23:16:42.122 INFO [__main__] Get pageTotal: 1
+2024-12-16 23:16:42.122 INFO [__main__] current: 1
+2024-12-16 23:16:43.041 INFO [__main__] Get 34 matches
+2024-12-16 23:16:45.681 INFO [__main__] 获取Statscore ID成功: 14406266 用时0:00:02.639851
+2024-12-16 23:16:47.397 INFO [__main__] 获取Statscore ID成功: 14027259 用时0:00:01.715969
+2024-12-16 23:16:49.348 INFO [__main__] 获取Statscore ID成功: 14136967 用时0:00:01.950744
+2024-12-16 23:16:50.866 INFO [__main__] 获取Statscore ID成功: 14279483 用时0:00:01.517328
+2024-12-16 23:16:52.382 INFO [__main__] 获取Statscore ID成功: 14378842 用时0:00:01.516292
+2024-12-16 23:16:54.059 INFO [__main__] 获取Statscore ID成功: 14188344 用时0:00:01.676603
+2024-12-16 23:16:56.520 INFO [__main__] 获取Statscore ID成功: 14341838 用时0:00:02.461016
+2024-12-16 23:16:58.105 INFO [__main__] 获取Statscore ID成功: 14196126 用时0:00:01.584363
+2024-12-16 23:17:01.424 INFO [__main__] 获取Statscore ID成功: 14416217 用时0:00:03.318813
+2024-12-16 23:17:03.708 INFO [__main__] 获取Statscore ID成功: 14413882 用时0:00:02.283981
+2024-12-16 23:17:06.297 INFO [__main__] 获取Statscore ID成功: 14412436 用时0:00:02.588786
+2024-12-16 23:17:08.215 INFO [__main__] 获取Statscore ID成功: 14363870 用时0:00:01.918096
+2024-12-16 23:17:09.850 INFO [__main__] 获取Statscore ID成功: 14413537 用时0:00:01.634984
+2024-12-16 23:17:11.731 INFO [__main__] 获取Statscore ID成功: 14413535 用时0:00:01.880393
+2024-12-16 23:17:11.731 INFO [__main__] Get 14 matches with statscore_id
+2024-12-16 23:19:18.362 INFO [__main__] 程序开始运行
+2024-12-16 23:19:18.362 ERROR [__main__] 这是一条测试错误信息
+2024-12-16 23:19:19.106 INFO [__main__] Get pageTotal: 23
+2024-12-16 23:19:19.106 INFO [__main__] current: 1
+2024-12-16 23:19:19.675 INFO [__main__] current: 2
+2024-12-16 23:19:20.285 INFO [__main__] current: 3
+2024-12-16 23:19:20.937 INFO [__main__] current: 4
+2024-12-16 23:19:21.619 INFO [__main__] current: 5
+2024-12-16 23:19:22.361 INFO [__main__] current: 6
+2024-12-16 23:19:23.015 INFO [__main__] current: 7
+2024-12-16 23:19:23.818 INFO [__main__] current: 8
+2024-12-16 23:19:24.373 INFO [__main__] current: 9
+2024-12-16 23:19:24.942 INFO [__main__] current: 10
+2024-12-16 23:19:25.657 INFO [__main__] current: 11
+2024-12-16 23:19:26.219 INFO [__main__] current: 12
+2024-12-16 23:19:26.848 INFO [__main__] current: 13
+2024-12-16 23:19:27.487 INFO [__main__] current: 14
+2024-12-16 23:19:28.052 INFO [__main__] current: 15
+2024-12-16 23:19:28.626 INFO [__main__] current: 16
+2024-12-16 23:19:29.185 INFO [__main__] current: 17
+2024-12-16 23:19:29.885 INFO [__main__] current: 18
+2024-12-16 23:19:30.452 INFO [__main__] current: 19
+2024-12-16 23:19:31.224 INFO [__main__] current: 20
+2024-12-16 23:19:31.957 INFO [__main__] current: 21
+2024-12-16 23:19:32.608 INFO [__main__] current: 22
+2024-12-16 23:19:33.331 INFO [__main__] current: 23
+2024-12-16 23:19:33.889 INFO [__main__] Get 876 matches
+2024-12-16 23:19:35.621 INFO [__main__] 获取Statscore ID成功: 14406266 用时0:00:01.731637
+2024-12-16 23:19:37.132 INFO [__main__] 获取Statscore ID成功: 14027259 用时0:00:01.510595
+2024-12-16 23:19:39.016 INFO [__main__] 获取Statscore ID成功: 14136967 用时0:00:01.883680
+2024-12-16 23:19:40.613 INFO [__main__] 获取Statscore ID成功: 14279483 用时0:00:01.596716
+2024-12-16 23:19:42.162 INFO [__main__] 获取Statscore ID成功: 14378842 用时0:00:01.549659
+2024-12-16 23:19:43.778 INFO [__main__] 获取Statscore ID成功: 14188344 用时0:00:01.614906
+2024-12-16 23:19:45.378 INFO [__main__] 获取Statscore ID成功: 14341838 用时0:00:01.600547
+2024-12-16 23:19:46.996 INFO [__main__] 获取Statscore ID成功: 14196126 用时0:00:01.617209
+2024-12-16 23:19:49.689 INFO [__main__] 获取Statscore ID成功: 14333337 用时0:00:02.693274
+2024-12-16 23:19:51.448 INFO [__main__] 获取Statscore ID成功: 14364013 用时0:00:01.758208
+2024-12-16 23:19:53.379 INFO [__main__] 获取Statscore ID成功: 14364012 用时0:00:01.930964
+2024-12-16 23:19:56.317 INFO [__main__] 获取Statscore ID成功: 14222745 用时0:00:02.937254
+2024-12-16 23:19:59.622 INFO [__main__] 获取Statscore ID成功: 14286582 用时0:00:03.305007
+2024-12-16 23:20:01.919 INFO [__main__] 获取Statscore ID成功: 14286583 用时0:00:02.296863
+2024-12-16 23:20:04.704 INFO [__main__] 获取Statscore ID成功: 14286581 用时0:00:02.785324
+2024-12-16 23:20:07.612 INFO [__main__] 获取Statscore ID成功: 14215872 用时0:00:02.907519
+2024-12-16 23:20:11.179 INFO [__main__] 获取Statscore ID成功: 14215874 用时0:00:03.566874
+2024-12-16 23:20:13.804 INFO [__main__] 获取Statscore ID成功: 14348659 用时0:00:02.624784
+2024-12-16 23:20:17.288 INFO [__main__] 获取Statscore ID成功: 14355420 用时0:00:03.483439
+2024-12-16 23:20:20.503 INFO [__main__] 获取Statscore ID成功: 14355984 用时0:00:03.215072
+2024-12-16 23:20:23.091 INFO [__main__] 获取Statscore ID成功: 14356368 用时0:00:02.587679
+2024-12-16 23:20:26.013 INFO [__main__] 获取Statscore ID成功: 14356664 用时0:00:02.921612
+2024-12-16 23:20:27.671 INFO [__main__] 获取Statscore ID成功: 14348533 用时0:00:01.657635
+2024-12-16 23:20:29.560 INFO [__main__] 获取Statscore ID成功: 14348807 用时0:00:01.888796
+2024-12-16 23:20:31.539 INFO [__main__] 获取Statscore ID成功: 14348801 用时0:00:01.979588
+2024-12-16 23:20:34.062 INFO [__main__] 获取Statscore ID成功: 14370923 用时0:00:02.522853
+2024-12-16 23:20:36.803 INFO [__main__] 获取Statscore ID成功: 14265391 用时0:00:02.740563
+2024-12-16 23:20:38.560 INFO [__main__] 获取Statscore ID成功: 14265397 用时0:00:01.756831
+2024-12-16 23:20:40.381 INFO [__main__] 获取Statscore ID成功: 14366996 用时0:00:01.819870
+2024-12-16 23:20:42.136 INFO [__main__] 获取Statscore ID成功: 13970363 用时0:00:01.754995
+2024-12-16 23:20:44.039 INFO [__main__] 获取Statscore ID成功: 13914993 用时0:00:01.903391
+2024-12-16 23:20:46.486 INFO [__main__] 获取Statscore ID成功: 14209017 用时0:00:02.446808
+2024-12-16 23:20:48.768 INFO [__main__] 获取Statscore ID成功: 14370642 用时0:00:02.281393
+2024-12-16 23:20:51.265 INFO [__main__] 获取Statscore ID成功: 14412388 用时0:00:02.497219
+2024-12-16 23:20:54.938 INFO [__main__] 获取Statscore ID成功: 14412569 用时0:00:03.672259
+2024-12-16 23:20:57.402 INFO [__main__] 获取Statscore ID成功: 14413606 用时0:00:02.463557
+2024-12-16 23:20:59.252 INFO [__main__] 获取Statscore ID成功: 14311463 用时0:00:01.849890
+2024-12-16 23:21:00.880 INFO [__main__] 获取Statscore ID成功: 14188408 用时0:00:01.628258
+2024-12-16 23:21:02.375 INFO [__main__] 获取Statscore ID成功: 14188413 用时0:00:01.494285
+2024-12-16 23:21:04.076 INFO [__main__] 获取Statscore ID成功: 14390253 用时0:00:01.701155
+2024-12-16 23:21:05.770 INFO [__main__] 获取Statscore ID成功: 14383896 用时0:00:01.693902
+2024-12-16 23:21:07.863 INFO [__main__] 获取Statscore ID成功: 14383894 用时0:00:02.092331
+2024-12-16 23:21:09.717 INFO [__main__] 获取Statscore ID成功: 14383895 用时0:00:01.853928
+2024-12-16 23:21:11.809 INFO [__main__] 获取Statscore ID成功: 14307373 用时0:00:02.091601
+2024-12-16 23:21:14.333 INFO [__main__] 获取Statscore ID成功: 14411033 用时0:00:02.524288
+2024-12-16 23:21:17.392 INFO [__main__] 获取Statscore ID成功: 14363115 用时0:00:03.058600
+2024-12-16 23:21:19.168 INFO [__main__] 获取Statscore ID成功: 14203247 用时0:00:01.776346
+2024-12-16 23:21:21.619 INFO [__main__] 获取Statscore ID成功: 14347124 用时0:00:02.450250
+2024-12-16 23:21:24.571 INFO [__main__] 获取Statscore ID成功: 14209041 用时0:00:02.951454
+2024-12-16 23:21:27.547 INFO [__main__] 获取Statscore ID成功: 14373279 用时0:00:02.976164
+2024-12-16 23:21:29.992 INFO [__main__] 获取Statscore ID成功: 14209040 用时0:00:02.444631
+2024-12-16 23:21:32.647 INFO [__main__] 获取Statscore ID成功: 14209042 用时0:00:02.654929
+2024-12-16 23:21:36.062 INFO [__main__] 获取Statscore ID成功: 14209039 用时0:00:03.414650
+2024-12-16 23:23:00.839 INFO [__main__] 程序开始运行
+2024-12-16 23:23:00.839 ERROR [__main__] 这是一条测试错误信息
+2024-12-16 23:23:01.613 INFO [__main__] Get pageTotal: 23
+2024-12-16 23:23:01.613 INFO [__main__] current: 1
+2024-12-16 23:23:02.308 INFO [__main__] current: 2
+2024-12-16 23:23:02.977 INFO [__main__] current: 3
+2024-12-16 23:23:03.623 INFO [__main__] current: 4
+2024-12-16 23:23:04.330 INFO [__main__] current: 5
+2024-12-16 23:23:05.272 INFO [__main__] current: 6
+2024-12-16 23:23:05.863 INFO [__main__] current: 7
+2024-12-16 23:23:06.510 INFO [__main__] current: 8
+2024-12-16 23:23:07.327 INFO [__main__] current: 9
+2024-12-16 23:23:08.051 INFO [__main__] current: 10
+2024-12-16 23:23:08.600 INFO [__main__] current: 11
+2024-12-16 23:23:09.271 INFO [__main__] current: 12
+2024-12-16 23:23:09.831 INFO [__main__] current: 13
+2024-12-16 23:23:10.547 INFO [__main__] current: 14
+2024-12-16 23:23:11.155 INFO [__main__] current: 15
+2024-12-16 23:23:11.709 INFO [__main__] current: 16
+2024-12-16 23:23:12.292 INFO [__main__] current: 17
+2024-12-16 23:23:12.920 INFO [__main__] current: 18
+2024-12-16 23:23:13.568 INFO [__main__] current: 19
+2024-12-16 23:23:14.278 INFO [__main__] current: 20
+2024-12-16 23:23:15.224 INFO [__main__] current: 21
+2024-12-16 23:23:16.063 INFO [__main__] current: 22
+2024-12-16 23:23:16.715 INFO [__main__] current: 23
+2024-12-16 23:23:17.338 INFO [__main__] Get 876 matches
+2024-12-16 23:23:18.871 INFO [__main__] 获取Statscore ID成功: 14406266 用时0:00:01.532345
+2024-12-16 23:23:20.361 INFO [__main__] 获取Statscore ID成功: 14027250 用时0:00:01.490254
+2024-12-16 23:23:22.004 INFO [__main__] 获取Statscore ID成功: 14027259 用时0:00:01.642689
+2024-12-16 23:23:24.031 INFO [__main__] 获取Statscore ID成功: 14136967 用时0:00:02.027062
+2024-12-16 23:24:39.287 INFO [__main__] 程序开始运行
+2024-12-16 23:24:39.287 ERROR [__main__] 这是一条测试错误信息
+2024-12-16 23:24:40.042 INFO [__main__] Get pageTotal: 23
+2024-12-16 23:24:40.042 INFO [__main__] current: 1
+2024-12-16 23:24:40.728 INFO [__main__] current: 2
+2024-12-16 23:24:41.336 INFO [__main__] current: 3
+2024-12-16 23:24:41.898 INFO [__main__] current: 4
+2024-12-16 23:24:42.469 INFO [__main__] current: 5
+2024-12-16 23:24:43.119 INFO [__main__] current: 6
+2024-12-16 23:24:43.690 INFO [__main__] current: 7
+2024-12-16 23:24:44.288 INFO [__main__] current: 8
+2024-12-16 23:24:44.921 INFO [__main__] current: 9
+2024-12-16 23:24:45.715 INFO [__main__] current: 10
+2024-12-16 23:24:46.291 INFO [__main__] current: 11
+2024-12-16 23:24:46.932 INFO [__main__] current: 12
+2024-12-16 23:24:47.562 INFO [__main__] current: 13
+2024-12-16 23:24:48.121 INFO [__main__] current: 14
+2024-12-16 23:24:48.683 INFO [__main__] current: 15
+2024-12-16 23:24:49.381 INFO [__main__] current: 16
+2024-12-16 23:24:50.286 INFO [__main__] current: 17
+2024-12-16 23:24:50.846 INFO [__main__] current: 18
+2024-12-16 23:24:51.489 INFO [__main__] current: 19
+2024-12-16 23:24:52.107 INFO [__main__] current: 20
+2024-12-16 23:24:52.635 INFO [__main__] current: 21
+2024-12-16 23:24:53.307 INFO [__main__] current: 22
+2024-12-16 23:24:54.234 INFO [__main__] current: 23
+2024-12-16 23:24:54.855 INFO [__main__] Get 876 matches
+2024-12-16 23:24:56.447 INFO [__main__] 获取Statscore ID成功: 14406266 用时0:00:01.591751
+2024-12-16 23:24:58.898 INFO [__main__] 获取Statscore ID成功: 14027250 用时0:00:02.450479
+2024-12-16 23:25:00.437 INFO [__main__] 获取Statscore ID成功: 14027259 用时0:00:01.538880
+2024-12-16 23:25:02.722 INFO [__main__] 获取Statscore ID成功: 14136967 用时0:00:02.285337
+2024-12-16 23:25:04.801 INFO [__main__] 获取Statscore ID成功: 14279483 用时0:00:02.078912
+2024-12-16 23:25:06.379 INFO [__main__] 获取Statscore ID成功: 14378842 用时0:00:01.577758
+2024-12-16 23:25:08.042 INFO [__main__] 获取Statscore ID成功: 14188344 用时0:00:01.662104
+2024-12-16 23:25:08.042 INFO [__main__] animation1为空
+2024-12-16 23:25:17.343 INFO [__main__] 程序开始运行
+2024-12-16 23:25:17.343 ERROR [__main__] 这是一条测试错误信息
+2024-12-16 23:25:18.048 INFO [__main__] Get pageTotal: 16
+2024-12-16 23:25:18.048 INFO [__main__] current: 1
+2024-12-16 23:25:18.741 INFO [__main__] current: 2
+2024-12-16 23:25:19.396 INFO [__main__] current: 3
+2024-12-16 23:25:20.145 INFO [__main__] current: 4
+2024-12-16 23:25:20.840 INFO [__main__] current: 5
+2024-12-16 23:25:21.460 INFO [__main__] current: 6
+2024-12-16 23:25:22.411 INFO [__main__] current: 7
+2024-12-16 23:25:23.098 INFO [__main__] current: 8
+2024-12-16 23:25:23.983 INFO [__main__] current: 9
+2024-12-16 23:25:24.552 INFO [__main__] current: 10
+2024-12-16 23:25:25.145 INFO [__main__] current: 11
+2024-12-16 23:25:25.825 INFO [__main__] current: 12
+2024-12-16 23:25:26.445 INFO [__main__] current: 13
+2024-12-16 23:25:27.127 INFO [__main__] current: 14
+2024-12-16 23:25:27.757 INFO [__main__] current: 15
+2024-12-16 23:25:28.557 INFO [__main__] current: 16
+2024-12-16 23:25:29.228 INFO [__main__] Get 582 matches
+2024-12-16 23:25:29.228 INFO [__main__] animation1为空
+2024-12-16 23:25:29.229 INFO [__main__] animation1为空
+2024-12-16 23:25:29.229 INFO [__main__] animation1为空
+2024-12-16 23:25:29.229 INFO [__main__] animation1为空
+2024-12-16 23:25:29.229 INFO [__main__] animation1为空
+2024-12-16 23:25:29.229 INFO [__main__] animation1为空
+2024-12-16 23:25:29.229 INFO [__main__] animation1为空
+2024-12-16 23:25:29.229 INFO [__main__] animation1为空
+2024-12-16 23:25:29.229 INFO [__main__] animation1为空
+2024-12-16 23:25:29.229 INFO [__main__] animation1为空
+2024-12-16 23:25:29.229 INFO [__main__] animation1为空
+2024-12-16 23:25:29.229 INFO [__main__] animation1为空
+2024-12-16 23:25:29.229 INFO [__main__] animation1为空
+2024-12-16 23:25:29.229 INFO [__main__] animation1为空
+2024-12-16 23:25:29.229 INFO [__main__] animation1为空
+2024-12-16 23:25:29.229 INFO [__main__] animation1为空
+2024-12-16 23:25:29.229 INFO [__main__] animation1为空
+2024-12-16 23:25:29.229 INFO [__main__] animation1为空
+2024-12-16 23:25:29.229 INFO [__main__] animation1为空
+2024-12-16 23:25:29.229 INFO [__main__] animation1为空
+2024-12-16 23:25:29.229 INFO [__main__] animation1为空
+2024-12-16 23:25:29.229 INFO [__main__] animation1为空
+2024-12-16 23:25:29.229 INFO [__main__] animation1为空
+2024-12-16 23:25:29.229 INFO [__main__] animation1为空
+2024-12-16 23:25:29.229 INFO [__main__] animation1为空
+2024-12-16 23:25:29.229 INFO [__main__] animation1为空
+2024-12-16 23:25:31.164 INFO [__main__] 获取Statscore ID成功: 14364013 用时0:00:01.934781
+2024-12-16 23:25:33.149 INFO [__main__] 获取Statscore ID成功: 14364012 用时0:00:01.984601
+2024-12-16 23:25:33.149 INFO [__main__] animation1为空
+2024-12-16 23:25:33.149 INFO [__main__] animation1为空
+2024-12-16 23:25:33.149 INFO [__main__] animation1为空
+2024-12-16 23:25:33.149 INFO [__main__] animation1为空
+2024-12-16 23:25:33.149 INFO [__main__] animation1为空
+2024-12-16 23:25:33.149 INFO [__main__] animation1为空
+2024-12-16 23:25:33.149 INFO [__main__] animation1为空
+2024-12-16 23:25:33.149 INFO [__main__] animation1为空
+2024-12-16 23:25:33.149 INFO [__main__] animation1为空
+2024-12-16 23:25:33.149 INFO [__main__] animation1为空
+2024-12-16 23:25:33.150 INFO [__main__] animation1为空
+2024-12-16 23:25:33.150 INFO [__main__] animation1为空
+2024-12-16 23:25:33.150 INFO [__main__] animation1为空
+2024-12-16 23:25:33.150 INFO [__main__] animation1为空
+2024-12-16 23:25:33.150 INFO [__main__] animation1为空
+2024-12-16 23:25:33.150 INFO [__main__] animation1为空
+2024-12-16 23:25:33.150 INFO [__main__] animation1为空
+2024-12-16 23:25:33.150 INFO [__main__] animation1为空
+2024-12-16 23:25:33.150 INFO [__main__] animation1为空
+2024-12-16 23:25:33.150 INFO [__main__] animation1为空
+2024-12-16 23:25:33.150 INFO [__main__] animation1为空
+2024-12-16 23:25:33.150 INFO [__main__] animation1为空
+2024-12-16 23:25:33.150 INFO [__main__] animation1为空
+2024-12-16 23:25:33.150 INFO [__main__] animation1为空
+2024-12-16 23:25:33.150 INFO [__main__] animation1为空
+2024-12-16 23:25:33.150 INFO [__main__] animation1为空
+2024-12-16 23:25:33.150 INFO [__main__] animation1为空
+2024-12-16 23:25:33.150 INFO [__main__] animation1为空
+2024-12-16 23:25:33.150 INFO [__main__] animation1为空
+2024-12-16 23:25:33.150 INFO [__main__] animation1为空
+2024-12-16 23:25:33.150 INFO [__main__] animation1为空
+2024-12-16 23:25:33.150 INFO [__main__] animation1为空
+2024-12-16 23:25:33.150 INFO [__main__] animation1为空
+2024-12-16 23:25:33.150 INFO [__main__] animation1为空
+2024-12-16 23:25:33.150 INFO [__main__] animation1为空
+2024-12-16 23:25:33.150 INFO [__main__] animation1为空
+2024-12-16 23:25:33.150 INFO [__main__] animation1为空
+2024-12-16 23:25:33.150 INFO [__main__] animation1为空
+2024-12-16 23:25:33.150 INFO [__main__] animation1为空
+2024-12-16 23:25:33.150 INFO [__main__] animation1为空
+2024-12-16 23:25:33.150 INFO [__main__] animation1为空
+2024-12-16 23:25:33.150 INFO [__main__] animation1为空
+2024-12-16 23:25:33.150 INFO [__main__] animation1为空
+2024-12-16 23:25:33.150 INFO [__main__] animation1为空
+2024-12-16 23:25:33.150 INFO [__main__] animation1为空
+2024-12-16 23:25:33.150 INFO [__main__] animation1为空
+2024-12-16 23:25:33.150 INFO [__main__] animation1为空
+2024-12-16 23:25:33.151 INFO [__main__] animation1为空
+2024-12-16 23:25:33.151 INFO [__main__] animation1为空
+2024-12-16 23:25:33.151 INFO [__main__] animation1为空
+2024-12-16 23:25:33.151 INFO [__main__] animation1为空
+2024-12-16 23:25:33.151 INFO [__main__] animation1为空
+2024-12-16 23:25:33.151 INFO [__main__] animation1为空
+2024-12-16 23:25:33.151 INFO [__main__] animation1为空
+2024-12-16 23:25:33.151 INFO [__main__] animation1为空
+2024-12-16 23:25:33.151 INFO [__main__] animation1为空
+2024-12-16 23:25:33.151 INFO [__main__] animation1为空
+2024-12-16 23:25:33.151 INFO [__main__] animation1为空
+2024-12-16 23:25:33.151 INFO [__main__] animation1为空
+2024-12-16 23:25:33.151 INFO [__main__] animation1为空
+2024-12-16 23:25:33.151 INFO [__main__] animation1为空
+2024-12-16 23:25:33.151 INFO [__main__] animation1为空
+2024-12-16 23:25:33.151 INFO [__main__] animation1为空
+2024-12-16 23:25:33.151 INFO [__main__] animation1为空
+2024-12-16 23:25:33.151 INFO [__main__] animation1为空
+2024-12-16 23:25:33.151 INFO [__main__] animation1为空
+2024-12-16 23:25:33.151 INFO [__main__] animation1为空
+2024-12-16 23:25:33.151 INFO [__main__] animation1为空
+2024-12-16 23:25:36.569 INFO [__main__] 获取Statscore ID成功: 14222745 用时0:00:03.417805
+2024-12-16 23:25:36.569 INFO [__main__] animation1为空
+2024-12-16 23:25:36.569 INFO [__main__] animation1为空
+2024-12-16 23:25:36.569 INFO [__main__] animation1为空
+2024-12-16 23:25:36.569 INFO [__main__] animation1为空
+2024-12-16 23:25:36.569 INFO [__main__] animation1为空
+2024-12-16 23:25:36.569 INFO [__main__] animation1为空
+2024-12-16 23:25:36.569 INFO [__main__] animation1为空
+2024-12-16 23:25:36.569 INFO [__main__] animation1为空
+2024-12-16 23:25:36.569 INFO [__main__] animation1为空
+2024-12-16 23:25:36.569 INFO [__main__] animation1为空
+2024-12-16 23:25:39.311 INFO [__main__] 获取Statscore ID成功: 14286582 用时0:00:02.741550
+2024-12-16 23:25:41.392 INFO [__main__] 获取Statscore ID成功: 14286583 用时0:00:02.080782
+2024-12-16 23:25:43.378 INFO [__main__] 获取Statscore ID成功: 14286581 用时0:00:01.985571
+2024-12-16 23:25:43.378 INFO [__main__] animation1为空
+2024-12-16 23:25:43.378 INFO [__main__] animation1为空
+2024-12-16 23:25:43.378 INFO [__main__] animation1为空
+2024-12-16 23:25:43.378 INFO [__main__] animation1为空
+2024-12-16 23:25:43.378 INFO [__main__] animation1为空
+2024-12-16 23:25:43.378 INFO [__main__] animation1为空
+2024-12-16 23:25:43.378 INFO [__main__] animation1为空
+2024-12-16 23:25:43.378 INFO [__main__] animation1为空
+2024-12-16 23:25:43.378 INFO [__main__] animation1为空
+2024-12-16 23:25:43.378 INFO [__main__] animation1为空
+2024-12-16 23:25:43.378 INFO [__main__] animation1为空
+2024-12-16 23:25:43.378 INFO [__main__] animation1为空
+2024-12-16 23:25:43.378 INFO [__main__] animation1为空
+2024-12-16 23:25:43.378 INFO [__main__] animation1为空
+2024-12-16 23:25:43.378 INFO [__main__] animation1为空
+2024-12-16 23:25:43.378 INFO [__main__] animation1为空
+2024-12-16 23:25:43.378 INFO [__main__] animation1为空
+2024-12-16 23:25:43.378 INFO [__main__] animation1为空
+2024-12-16 23:25:43.378 INFO [__main__] animation1为空
+2024-12-16 23:25:43.378 INFO [__main__] animation1为空
+2024-12-16 23:25:43.378 INFO [__main__] animation1为空
+2024-12-16 23:25:43.378 INFO [__main__] animation1为空
+2024-12-16 23:25:43.378 INFO [__main__] animation1为空
+2024-12-16 23:25:43.378 INFO [__main__] animation1为空
+2024-12-16 23:25:43.378 INFO [__main__] animation1为空
+2024-12-16 23:25:43.378 INFO [__main__] animation1为空
+2024-12-16 23:25:43.378 INFO [__main__] animation1为空
+2024-12-16 23:25:43.378 INFO [__main__] animation1为空
+2024-12-16 23:25:43.378 INFO [__main__] animation1为空
+2024-12-16 23:25:43.379 INFO [__main__] animation1为空
+2024-12-16 23:25:43.379 INFO [__main__] animation1为空
+2024-12-16 23:25:43.379 INFO [__main__] animation1为空
+2024-12-16 23:25:43.379 INFO [__main__] animation1为空
+2024-12-16 23:25:43.379 INFO [__main__] animation1为空
+2024-12-16 23:25:43.379 INFO [__main__] animation1为空
+2024-12-16 23:25:43.379 INFO [__main__] animation1为空
+2024-12-16 23:25:43.379 INFO [__main__] animation1为空
+2024-12-16 23:25:43.379 INFO [__main__] animation1为空
+2024-12-16 23:25:45.111 INFO [__main__] 获取Statscore ID成功: 14215872 用时0:00:01.732783
