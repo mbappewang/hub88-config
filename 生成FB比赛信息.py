@@ -240,7 +240,7 @@ def upsert_to_database(df, engine, table_name, primary_key):
 while True:
     logger.info("开始请求")
     sportIds = [1,3,5,13,2,6,18,19,14,16,47,15,7,24,92]
-    sportIds = [3]
+    # sportIds = [3]
     # getList(sportId,current,languageType,orderBy,type):
     for sportId in sportIds:
         logger.info(f"开始请求sportId: {sportId}")
