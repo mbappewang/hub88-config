@@ -23,6 +23,17 @@ def get_eventInfo(token, eventId):
   else:
     print("请求eventInfo失败,状态码:", response.status_code)
     return response.status_code
+  
+def get_metadata(token, eventId):
+  url = f'https://wintokens-dev-tradeart-api.trading.io/api/Metadata/event/all/{eventId}'
+  headers = {'Authorization': f'Bearer {token}'}
+  response = requests.get(url, headers=headers)
+  if response.status_code == 200:
+    data = response.json()
+    return data
+  else:
+    print("请求eventInfo失败,状态码:", response.status_code)
+    return response.status_code
 
 def get_schedule(token,startDate,sportIds,locationIds):
   url = f'https://wintokens-dev-tradeart-api.trading.io/api/events/schedule/v2'

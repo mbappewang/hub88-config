@@ -810,3 +810,2056 @@
 2024-12-16 23:25:43.379 INFO [__main__] animation1为空
 2024-12-16 23:25:43.379 INFO [__main__] animation1为空
 2024-12-16 23:25:45.111 INFO [__main__] 获取Statscore ID成功: 14215872 用时0:00:01.732783
+2024-12-17 14:23:12.133 INFO [__main__] 程序开始运行
+2024-12-17 14:23:12.134 ERROR [__main__] 这是一条测试错误信息
+2024-12-17 14:23:12.700 INFO [__main__] Get pageTotal: 1
+2024-12-17 14:23:12.701 INFO [__main__] current: 1
+2024-12-17 14:23:13.205 INFO [__main__] Get 0 matches
+2024-12-17 14:23:13.205 INFO [__main__] Get 0 matches with statscore_id
+2024-12-17 14:23:43.469 INFO [__main__] 程序开始运行
+2024-12-17 14:23:43.469 ERROR [__main__] 这是一条测试错误信息
+2024-12-17 14:23:44.100 INFO [__main__] Get pageTotal: 1
+2024-12-17 14:23:44.100 INFO [__main__] current: 1
+2024-12-17 14:23:44.713 INFO [__main__] Get 8 matches
+2024-12-17 14:23:44.713 INFO [__main__] animation1为空
+2024-12-17 14:23:44.714 INFO [__main__] animation1为空
+2024-12-17 14:23:44.714 INFO [__main__] animation1为空
+2024-12-17 14:23:44.714 INFO [__main__] animation1为空
+2024-12-17 14:23:44.714 INFO [__main__] animation1为空
+2024-12-17 14:23:44.714 INFO [__main__] animation1为空
+2024-12-17 14:23:44.714 INFO [__main__] animation1为空
+2024-12-17 14:23:44.714 INFO [__main__] animation1为空
+2024-12-17 14:23:44.714 INFO [__main__] Get 8 matches with statscore_id
+2024-12-17 16:24:52.498 INFO [__main__] 程序开始运行
+2024-12-17 16:24:52.498 ERROR [__main__] 这是一条测试错误信息
+2024-12-17 16:24:53.174 INFO [__main__] Get pageTotal: 1
+2024-12-17 16:24:53.174 INFO [__main__] current: 1
+2024-12-17 16:24:53.720 INFO [__main__] Get 19 matches
+2024-12-17 16:24:53.721 INFO [__main__] animation1为空
+2024-12-17 16:24:53.721 INFO [__main__] animation1为空
+2024-12-17 16:24:53.721 INFO [__main__] animation1为空
+2024-12-17 16:24:53.721 INFO [__main__] animation1为空
+2024-12-17 16:24:53.721 INFO [__main__] animation1为空
+2024-12-17 16:24:53.721 INFO [__main__] animation1为空
+2024-12-17 16:24:53.721 INFO [__main__] animation1为空
+2024-12-17 16:24:53.721 INFO [__main__] animation1为空
+2024-12-17 16:24:53.721 INFO [__main__] animation1为空
+2024-12-17 16:24:53.721 INFO [__main__] animation1为空
+2024-12-17 16:24:53.721 INFO [__main__] animation1为空
+2024-12-17 16:24:53.721 INFO [__main__] animation1为空
+2024-12-17 16:24:53.721 INFO [__main__] animation1为空
+2024-12-17 16:24:55.236 INFO [__main__] 获取Statscore ID成功: 14370617 用时0:00:01.514584
+2024-12-17 16:24:55.236 INFO [__main__] animation1为空
+2024-12-17 16:24:55.237 INFO [__main__] animation1为空
+2024-12-17 16:24:55.237 INFO [__main__] animation1为空
+2024-12-17 16:24:55.237 INFO [__main__] animation1为空
+2024-12-17 16:24:55.237 INFO [__main__] animation1为空
+2024-12-17 16:24:55.237 INFO [__main__] Get 19 matches with statscore_id
+2024-12-17 16:26:46.373 INFO [__main__] 程序开始运行
+2024-12-17 16:26:46.373 ERROR [__main__] 这是一条测试错误信息
+2024-12-17 16:26:47.036 INFO [__main__] Get pageTotal: 16
+2024-12-17 16:26:47.036 INFO [__main__] current: 1
+2024-12-17 16:26:48.015 INFO [__main__] current: 2
+2024-12-17 16:26:48.628 INFO [__main__] current: 3
+2024-12-17 16:26:49.257 INFO [__main__] current: 4
+2024-12-17 16:26:50.056 INFO [__main__] current: 5
+2024-12-17 16:26:51.011 INFO [__main__] current: 6
+2024-12-17 16:26:51.751 INFO [__main__] current: 7
+2024-12-17 16:26:52.442 INFO [__main__] current: 8
+2024-12-17 16:26:53.297 INFO [__main__] current: 9
+2024-12-17 16:26:53.877 INFO [__main__] current: 10
+2024-12-17 16:26:54.529 INFO [__main__] current: 11
+2024-12-17 16:26:55.126 INFO [__main__] current: 12
+2024-12-17 16:26:55.706 INFO [__main__] current: 13
+2024-12-17 16:26:56.347 INFO [__main__] current: 14
+2024-12-17 16:26:56.939 INFO [__main__] current: 15
+2024-12-17 16:26:57.509 INFO [__main__] current: 16
+2024-12-17 16:26:58.128 INFO [__main__] Get 550 matches
+2024-12-17 16:27:00.107 INFO [__main__] 获取Statscore ID成功: 14355705 用时0:00:01.978781
+2024-12-17 16:27:02.693 INFO [__main__] 获取Statscore ID成功: 14355704 用时0:00:02.581041
+2024-12-17 16:27:04.734 INFO [__main__] 获取Statscore ID成功: 14355706 用时0:00:02.040079
+2024-12-17 16:27:06.630 INFO [__main__] 获取Statscore ID成功: 14355703 用时0:00:01.895000
+2024-12-17 16:27:08.582 INFO [__main__] 获取Statscore ID成功: 14355709 用时0:00:01.952053
+2024-12-17 16:27:10.764 INFO [__main__] 获取Statscore ID成功: 14355707 用时0:00:02.181003
+2024-12-17 16:27:12.752 INFO [__main__] 获取Statscore ID成功: 14355711 用时0:00:01.986891
+2024-12-17 16:27:12.752 INFO [__main__] animation1为空
+2024-12-17 16:27:15.000 INFO [__main__] 获取Statscore ID成功: 14355740 用时0:00:02.247866
+2024-12-17 16:27:16.960 INFO [__main__] 获取Statscore ID成功: 14355734 用时0:00:01.955276
+2024-12-17 16:27:19.225 INFO [__main__] 获取Statscore ID成功: 14231333 用时0:00:02.262799
+2024-12-17 16:27:21.890 INFO [__main__] 获取Statscore ID成功: 14238212 用时0:00:02.664687
+2024-12-17 16:27:26.036 INFO [__main__] 获取Statscore ID成功: 14238207 用时0:00:04.144133
+2024-12-17 16:27:28.857 INFO [__main__] 获取Statscore ID成功: 14238208 用时0:00:02.820296
+2024-12-17 16:27:30.658 INFO [__main__] 获取Statscore ID成功: 14238209 用时0:00:01.800497
+2024-12-17 16:27:33.055 INFO [__main__] 获取Statscore ID成功: 14238211 用时0:00:02.397127
+2024-12-17 16:27:35.309 INFO [__main__] 获取Statscore ID成功: 14238186 用时0:00:02.252819
+2024-12-17 16:27:37.644 INFO [__main__] 获取Statscore ID成功: 14246993 用时0:00:02.335298
+2024-12-17 16:27:39.561 INFO [__main__] 获取Statscore ID成功: 14246992 用时0:00:01.915511
+2024-12-17 16:27:39.561 INFO [__main__] animation1为空
+2024-12-17 16:27:39.561 INFO [__main__] animation1为空
+2024-12-17 16:27:39.561 INFO [__main__] animation1为空
+2024-12-17 16:27:39.561 INFO [__main__] animation1为空
+2024-12-17 16:27:39.561 INFO [__main__] animation1为空
+2024-12-17 16:27:39.561 INFO [__main__] animation1为空
+2024-12-17 16:27:39.561 INFO [__main__] animation1为空
+2024-12-17 16:27:39.561 INFO [__main__] animation1为空
+2024-12-17 16:27:41.507 INFO [__main__] 获取Statscore ID成功: 14364013 用时0:00:01.946104
+2024-12-17 16:27:44.055 INFO [__main__] 获取Statscore ID成功: 14364012 用时0:00:02.547355
+2024-12-17 16:27:46.149 INFO [__main__] 获取Statscore ID成功: 14361190 用时0:00:02.092613
+2024-12-17 16:28:03.156 INFO [__main__] 程序开始运行
+2024-12-17 16:28:03.156 ERROR [__main__] 这是一条测试错误信息
+2024-12-17 16:28:03.858 INFO [__main__] Get pageTotal: 1
+2024-12-17 16:28:03.859 INFO [__main__] current: 1
+2024-12-17 16:28:04.499 INFO [__main__] Get 21 matches
+2024-12-17 16:28:04.500 INFO [__main__] animation1为空
+2024-12-17 16:28:04.500 INFO [__main__] animation1为空
+2024-12-17 16:28:04.500 INFO [__main__] animation1为空
+2024-12-17 16:28:04.500 INFO [__main__] animation1为空
+2024-12-17 16:28:04.500 INFO [__main__] animation1为空
+2024-12-17 16:28:04.500 INFO [__main__] animation1为空
+2024-12-17 16:28:04.500 INFO [__main__] animation1为空
+2024-12-17 16:28:04.500 INFO [__main__] animation1为空
+2024-12-17 16:28:04.501 INFO [__main__] animation1为空
+2024-12-17 16:28:04.501 INFO [__main__] animation1为空
+2024-12-17 16:28:04.501 INFO [__main__] animation1为空
+2024-12-17 16:28:04.501 INFO [__main__] animation1为空
+2024-12-17 16:28:04.501 INFO [__main__] animation1为空
+2024-12-17 16:28:04.501 INFO [__main__] animation1为空
+2024-12-17 16:28:04.501 INFO [__main__] animation1为空
+2024-12-17 16:28:06.341 INFO [__main__] 获取Statscore ID成功: 14370617 用时0:00:01.840380
+2024-12-17 16:28:06.342 INFO [__main__] animation1为空
+2024-12-17 16:28:06.342 INFO [__main__] animation1为空
+2024-12-17 16:28:06.342 INFO [__main__] animation1为空
+2024-12-17 16:28:06.342 INFO [__main__] animation1为空
+2024-12-17 16:28:06.342 INFO [__main__] animation1为空
+2024-12-17 16:28:06.342 INFO [__main__] Get 21 matches with statscore_id
+2024-12-17 16:47:25.151 INFO [__main__] 程序开始运行
+2024-12-17 16:47:25.151 ERROR [__main__] 这是一条测试错误信息
+2024-12-17 16:47:25.231 INFO [生成hub88比赛信息] 程序开始运行
+2024-12-17 16:47:25.231 ERROR [生成hub88比赛信息] 这是一条测试错误信息
+2024-12-17 16:47:27.694 INFO [生成hub88比赛信息] 开始请求sportId: 1
+2024-12-17 16:47:27.695 INFO [生成hub88比赛信息] 开始请求typeId: 2
+2024-12-17 16:47:28.577 INFO [生成hub88比赛信息] 开始请求leagueId: 697
+2024-12-17 16:47:29.383 INFO [生成hub88比赛信息] Wintokens 数据请求成功: JS Kabylie - El Bayadh
+2024-12-17 16:47:30.958 INFO [生成hub88比赛信息] hub88 - metadata: JS Kabylie - El Bayadh
+2024-12-17 16:47:30.959 INFO [生成hub88比赛信息] Wintokens 数据请求成功: CR Belouizdad - JS Saoura
+2024-12-17 16:47:32.529 INFO [生成hub88比赛信息] hub88 - metadata: CR Belouizdad - JS Saoura
+2024-12-17 16:47:32.529 INFO [生成hub88比赛信息] Wintokens 数据请求成功: ES Setif - Paradou AC
+2024-12-17 16:47:34.103 INFO [生成hub88比赛信息] hub88 - metadata: ES Setif - Paradou AC
+2024-12-17 16:47:37.358 INFO [__main__] 程序开始运行
+2024-12-17 16:47:37.358 ERROR [__main__] 这是一条测试错误信息
+2024-12-17 16:47:37.422 INFO [生成hub88比赛信息] 程序开始运行
+2024-12-17 16:47:37.422 ERROR [生成hub88比赛信息] 这是一条测试错误信息
+2024-12-17 16:47:39.773 INFO [生成hub88比赛信息] 开始请求sportId: 1
+2024-12-17 16:47:39.773 INFO [生成hub88比赛信息] 开始请求typeId: 2
+2024-12-17 16:47:41.464 INFO [生成hub88比赛信息] 开始请求leagueId: 697
+2024-12-17 16:47:43.013 INFO [生成hub88比赛信息] Wintokens 数据请求成功: JS Kabylie - El Bayadh
+2024-12-17 16:48:13.570 INFO [__main__] 程序开始运行
+2024-12-17 16:48:13.570 ERROR [__main__] 这是一条测试错误信息
+2024-12-17 16:48:13.644 INFO [生成hub88比赛信息] 程序开始运行
+2024-12-17 16:48:13.644 ERROR [生成hub88比赛信息] 这是一条测试错误信息
+2024-12-17 16:48:15.263 INFO [生成hub88比赛信息] 开始请求sportId: 1
+2024-12-17 16:48:15.264 INFO [生成hub88比赛信息] 开始请求typeId: 2
+2024-12-17 16:48:16.295 INFO [生成hub88比赛信息] 开始请求leagueId: 697
+2024-12-17 16:48:17.403 INFO [生成hub88比赛信息] Wintokens 数据请求成功: JS Kabylie - El Bayadh
+2024-12-17 16:48:19.224 INFO [生成hub88比赛信息] hub88 - metadata: JS Kabylie - El Bayadh
+2024-12-17 16:48:19.225 INFO [生成hub88比赛信息] Wintokens 数据请求成功: CR Belouizdad - JS Saoura
+2024-12-17 16:48:47.050 INFO [__main__] 程序开始运行
+2024-12-17 16:48:47.050 ERROR [__main__] 这是一条测试错误信息
+2024-12-17 16:48:47.125 INFO [生成hub88比赛信息] 程序开始运行
+2024-12-17 16:48:47.125 ERROR [生成hub88比赛信息] 这是一条测试错误信息
+2024-12-17 16:48:48.677 INFO [生成hub88比赛信息] 开始请求sportId: 1
+2024-12-17 16:48:48.677 INFO [生成hub88比赛信息] 开始请求typeId: 2
+2024-12-17 16:48:49.651 INFO [生成hub88比赛信息] 开始请求leagueId: 697
+2024-12-17 16:48:50.490 INFO [生成hub88比赛信息] Wintokens 数据请求成功: JS Kabylie - El Bayadh
+2024-12-17 16:48:52.775 INFO [生成hub88比赛信息] hub88 - metadata: JS Kabylie - El Bayadh
+2024-12-17 16:48:52.775 INFO [生成hub88比赛信息] Wintokens 数据请求成功: CR Belouizdad - JS Saoura
+2024-12-17 16:49:52.621 INFO [__main__] 程序开始运行
+2024-12-17 16:49:52.621 ERROR [__main__] 这是一条测试错误信息
+2024-12-17 16:49:53.271 INFO [__main__] Get pageTotal: 1
+2024-12-17 16:49:53.272 INFO [__main__] current: 1
+2024-12-17 16:49:53.839 INFO [__main__] Get 20 matches
+2024-12-17 16:49:55.395 INFO [__main__] 获取Statscore ID成功: 14209016 用时0:00:01.555710
+2024-12-17 16:49:55.396 INFO [__main__] animation1为空
+2024-12-17 16:49:55.396 INFO [__main__] animation1为空
+2024-12-17 16:49:55.396 INFO [__main__] animation1为空
+2024-12-17 16:49:55.396 INFO [__main__] animation1为空
+2024-12-17 16:49:55.396 INFO [__main__] animation1为空
+2024-12-17 16:49:55.396 INFO [__main__] animation1为空
+2024-12-17 16:49:55.396 INFO [__main__] animation1为空
+2024-12-17 16:49:55.396 INFO [__main__] animation1为空
+2024-12-17 16:49:55.396 INFO [__main__] animation1为空
+2024-12-17 16:49:55.396 INFO [__main__] animation1为空
+2024-12-17 16:49:55.396 INFO [__main__] animation1为空
+2024-12-17 16:49:56.939 INFO [__main__] 获取Statscore ID成功: 14370617 用时0:00:01.543302
+2024-12-17 16:49:56.940 INFO [__main__] animation1为空
+2024-12-17 16:49:56.940 INFO [__main__] animation1为空
+2024-12-17 16:49:56.940 INFO [__main__] animation1为空
+2024-12-17 16:49:56.940 INFO [__main__] animation1为空
+2024-12-17 16:49:58.838 INFO [__main__] 获取Statscore ID成功: 14419304 用时0:00:01.896968
+2024-12-17 16:50:00.442 INFO [__main__] 获取Statscore ID成功: 14419116 用时0:00:01.603632
+2024-12-17 16:50:00.443 INFO [__main__] animation1为空
+2024-12-17 16:50:00.443 INFO [__main__] Get 20 matches with statscore_id
+2024-12-17 16:50:07.707 INFO [__main__] 插入了 20 条记录
+2024-12-17 16:50:08.322 INFO [__main__] Get pageTotal: 10
+2024-12-17 16:50:08.323 INFO [__main__] current: 1
+2024-12-17 16:50:09.091 INFO [__main__] current: 2
+2024-12-17 16:50:09.681 INFO [__main__] current: 3
+2024-12-17 16:50:10.911 INFO [__main__] current: 4
+2024-12-17 16:50:11.988 INFO [__main__] current: 5
+2024-12-17 16:50:12.709 INFO [__main__] current: 6
+2024-12-17 16:50:13.284 INFO [__main__] current: 7
+2024-12-17 16:50:14.207 INFO [__main__] current: 8
+2024-12-17 16:50:15.071 INFO [__main__] current: 9
+2024-12-17 16:50:15.607 INFO [__main__] current: 10
+2024-12-17 16:50:16.214 INFO [__main__] Get 423 matches
+2024-12-17 16:52:25.012 INFO [__main__] 程序开始运行
+2024-12-17 16:52:25.013 ERROR [__main__] 这是一条测试错误信息
+2024-12-17 16:52:25.083 INFO [__main__] Get sportId: 1
+2024-12-17 16:52:25.684 INFO [__main__] Get pageTotal: 11
+2024-12-17 16:52:25.685 INFO [__main__] sportId: 1 current: 1/11
+2024-12-17 16:52:26.378 INFO [__main__] sportId: 1 current: 2/11
+2024-12-17 16:52:27.043 INFO [__main__] sportId: 1 current: 3/11
+2024-12-17 16:52:27.741 INFO [__main__] sportId: 1 current: 4/11
+2024-12-17 16:52:28.640 INFO [__main__] sportId: 1 current: 5/11
+2024-12-17 16:52:29.322 INFO [__main__] sportId: 1 current: 6/11
+2024-12-17 16:52:30.313 INFO [__main__] sportId: 1 current: 7/11
+2024-12-17 16:52:31.383 INFO [__main__] sportId: 1 current: 8/11
+2024-12-17 16:52:31.989 INFO [__main__] sportId: 1 current: 9/11
+2024-12-17 16:52:32.772 INFO [__main__] sportId: 1 current: 10/11
+2024-12-17 16:52:33.519 INFO [__main__] sportId: 1 current: 11/11
+2024-12-17 16:52:34.120 INFO [__main__] Get 389 matches
+2024-12-17 16:52:36.111 INFO [__main__] 获取Statscore ID成功: 14355705 用时0:00:01.990056
+2024-12-17 16:52:38.542 INFO [__main__] 获取Statscore ID成功: 14355704 用时0:00:02.429517
+2024-12-17 16:52:40.641 INFO [__main__] 获取Statscore ID成功: 14355706 用时0:00:02.098172
+2024-12-17 16:52:43.468 INFO [__main__] 获取Statscore ID成功: 14355703 用时0:00:02.826559
+2024-12-17 16:52:46.269 INFO [__main__] 获取Statscore ID成功: 14355709 用时0:00:02.800587
+2024-12-17 16:52:48.308 INFO [__main__] 获取Statscore ID成功: 14355707 用时0:00:02.038636
+2024-12-17 16:52:50.233 INFO [__main__] 获取Statscore ID成功: 14355711 用时0:00:01.924852
+2024-12-17 16:52:50.234 INFO [__main__] animation1为空
+2024-12-17 16:52:54.012 INFO [__main__] 获取Statscore ID成功: 14355740 用时0:00:03.777295
+2024-12-17 16:52:55.773 INFO [__main__] 获取Statscore ID成功: 14355734 用时0:00:01.760919
+2024-12-17 16:52:58.636 INFO [__main__] 获取Statscore ID成功: 14231333 用时0:00:02.862659
+2024-12-17 16:53:00.798 INFO [__main__] 获取Statscore ID成功: 14238212 用时0:00:02.160773
+2024-12-17 16:53:03.071 INFO [__main__] 获取Statscore ID成功: 14238207 用时0:00:02.271562
+2024-12-17 16:53:05.516 INFO [__main__] 获取Statscore ID成功: 14238208 用时0:00:02.439205
+2024-12-17 16:53:07.674 INFO [__main__] 获取Statscore ID成功: 14238209 用时0:00:02.157427
+2024-12-17 16:53:10.716 INFO [__main__] 获取Statscore ID成功: 14238211 用时0:00:03.040972
+2024-12-17 16:53:13.395 INFO [__main__] 获取Statscore ID成功: 14238186 用时0:00:02.677859
+2024-12-17 16:53:15.394 INFO [__main__] 获取Statscore ID成功: 14246993 用时0:00:01.997152
+2024-12-17 16:53:17.820 INFO [__main__] 获取Statscore ID成功: 14246992 用时0:00:02.425167
+2024-12-17 16:53:17.821 INFO [__main__] animation1为空
+2024-12-17 16:53:17.821 INFO [__main__] animation1为空
+2024-12-17 16:53:17.821 INFO [__main__] animation1为空
+2024-12-17 16:53:17.821 INFO [__main__] animation1为空
+2024-12-17 16:53:17.821 INFO [__main__] animation1为空
+2024-12-17 16:53:17.821 INFO [__main__] animation1为空
+2024-12-17 16:53:17.821 INFO [__main__] animation1为空
+2024-12-17 16:53:17.821 INFO [__main__] animation1为空
+2024-12-17 16:53:20.853 INFO [__main__] 获取Statscore ID成功: 14364013 用时0:00:03.031166
+2024-12-17 16:53:23.097 INFO [__main__] 获取Statscore ID成功: 14364012 用时0:00:02.243387
+2024-12-17 16:53:25.434 INFO [__main__] 获取Statscore ID成功: 14361190 用时0:00:02.336784
+2024-12-17 16:53:27.507 INFO [__main__] 获取Statscore ID成功: 14361195 用时0:00:02.072659
+2024-12-17 16:53:29.775 INFO [__main__] 获取Statscore ID成功: 14361194 用时0:00:02.266263
+2024-12-17 16:53:32.832 INFO [__main__] 获取Statscore ID成功: 14361205 用时0:00:03.055828
+2024-12-17 16:53:35.000 INFO [__main__] 获取Statscore ID成功: 14361200 用时0:00:02.166259
+2024-12-17 16:53:35.001 INFO [__main__] animation1为空
+2024-12-17 16:53:35.001 INFO [__main__] animation1为空
+2024-12-17 16:53:35.001 INFO [__main__] animation1为空
+2024-12-17 16:53:35.001 INFO [__main__] animation1为空
+2024-12-17 16:53:35.001 INFO [__main__] animation1为空
+2024-12-17 16:53:35.001 INFO [__main__] animation1为空
+2024-12-17 16:53:35.001 INFO [__main__] animation1为空
+2024-12-17 16:53:35.001 INFO [__main__] animation1为空
+2024-12-17 16:53:35.001 INFO [__main__] animation1为空
+2024-12-17 16:53:35.001 INFO [__main__] animation1为空
+2024-12-17 16:53:35.001 INFO [__main__] animation1为空
+2024-12-17 16:53:35.001 INFO [__main__] animation1为空
+2024-12-17 16:53:35.001 INFO [__main__] animation1为空
+2024-12-17 16:53:35.001 INFO [__main__] animation1为空
+2024-12-17 16:53:37.994 INFO [__main__] 获取Statscore ID成功: 14361577 用时0:00:02.993017
+2024-12-17 16:53:40.618 INFO [__main__] 获取Statscore ID成功: 14361584 用时0:00:02.622226
+2024-12-17 16:53:42.774 INFO [__main__] 获取Statscore ID成功: 14361578 用时0:00:02.155661
+2024-12-17 16:53:45.133 INFO [__main__] 获取Statscore ID成功: 14361708 用时0:00:02.357830
+2024-12-17 16:53:47.436 INFO [__main__] 获取Statscore ID成功: 14362040 用时0:00:02.302632
+2024-12-17 16:53:47.437 INFO [__main__] animation1为空
+2024-12-17 16:53:47.438 INFO [__main__] animation1为空
+2024-12-17 16:53:49.510 INFO [__main__] 获取Statscore ID成功: 14362046 用时0:00:02.072223
+2024-12-17 16:53:49.510 INFO [__main__] animation1为空
+2024-12-17 16:53:49.510 INFO [__main__] animation1为空
+2024-12-17 16:53:49.510 INFO [__main__] animation1为空
+2024-12-17 16:53:49.510 INFO [__main__] animation1为空
+2024-12-17 16:53:49.511 INFO [__main__] animation1为空
+2024-12-17 16:53:49.511 INFO [__main__] animation1为空
+2024-12-17 16:53:49.511 INFO [__main__] animation1为空
+2024-12-17 16:53:49.511 INFO [__main__] animation1为空
+2024-12-17 16:53:49.511 INFO [__main__] animation1为空
+2024-12-17 16:53:49.511 INFO [__main__] animation1为空
+2024-12-17 16:53:49.511 INFO [__main__] animation1为空
+2024-12-17 16:53:49.511 INFO [__main__] animation1为空
+2024-12-17 16:54:00.028 INFO [__main__] 程序开始运行
+2024-12-17 16:54:00.028 ERROR [__main__] 这是一条测试错误信息
+2024-12-17 16:54:00.090 INFO [__main__] Get sportId: 1
+2024-12-17 16:54:01.080 INFO [__main__] Get pageTotal: 1
+2024-12-17 16:54:01.081 INFO [__main__] sportId: 1 current: 1/1
+2024-12-17 16:54:02.326 INFO [__main__] Get 3 matches
+2024-12-17 16:54:04.018 INFO [__main__] 获取Statscore ID成功: 14209016 用时0:00:01.690710
+2024-12-17 16:54:04.018 INFO [__main__] animation1为空
+2024-12-17 16:54:04.018 INFO [__main__] animation1为空
+2024-12-17 16:54:04.018 INFO [__main__] Get 3 matches with statscore_id
+2024-12-17 16:54:11.858 INFO [__main__] 更新了 3 条记录
+2024-12-17 16:54:12.120 INFO [__main__] Get sportId: 3
+2024-12-17 16:54:12.826 INFO [__main__] Get pageTotal: 1
+2024-12-17 16:54:12.827 INFO [__main__] sportId: 3 current: 1/1
+2024-12-17 16:54:13.434 INFO [__main__] Get 0 matches
+2024-12-17 16:54:13.434 INFO [__main__] Get 0 matches with statscore_id
+2024-12-17 16:56:31.336 INFO [__main__] 程序开始运行
+2024-12-17 16:56:31.337 ERROR [__main__] 这是一条测试错误信息
+2024-12-17 16:56:31.408 INFO [__main__] Get sportId: 1
+2024-12-17 16:56:32.193 INFO [__main__] Get pageTotal: 1
+2024-12-17 16:56:32.193 INFO [__main__] sportId: 1 current: 1/1
+2024-12-17 16:56:33.054 INFO [__main__] Get 3 matches
+2024-12-17 16:56:35.140 INFO [__main__] 获取Statscore ID成功: 14209016 用时0:00:02.085707
+2024-12-17 16:56:35.140 INFO [__main__] animation1为空
+2024-12-17 16:56:35.140 INFO [__main__] animation1为空
+2024-12-17 16:56:35.140 INFO [__main__] Get 3 matches with statscore_id
+2024-12-17 16:56:40.673 INFO [__main__] 更新了 3 条记录
+2024-12-17 16:56:40.949 INFO [__main__] Get sportId: 3
+2024-12-17 16:56:41.685 INFO [__main__] Get pageTotal: 1
+2024-12-17 16:56:41.685 INFO [__main__] sportId: 3 current: 1/1
+2024-12-17 16:56:42.484 INFO [__main__] Get 0 matches
+2024-12-17 16:56:42.484 INFO [__main__] Get 0 matches with statscore_id
+2024-12-17 16:56:42.486 INFO [__main__] Get sportId: 5
+2024-12-17 16:56:43.205 INFO [__main__] Get pageTotal: 1
+2024-12-17 16:56:43.206 INFO [__main__] sportId: 5 current: 1/1
+2024-12-17 16:56:43.739 INFO [__main__] Get 10 matches
+2024-12-17 16:56:43.739 INFO [__main__] animation1为空
+2024-12-17 16:56:43.739 INFO [__main__] animation1为空
+2024-12-17 16:56:43.739 INFO [__main__] animation1为空
+2024-12-17 16:56:43.739 INFO [__main__] animation1为空
+2024-12-17 16:56:43.739 INFO [__main__] animation1为空
+2024-12-17 16:56:43.739 INFO [__main__] animation1为空
+2024-12-17 16:56:43.739 INFO [__main__] animation1为空
+2024-12-17 16:56:43.739 INFO [__main__] animation1为空
+2024-12-17 16:56:43.739 INFO [__main__] animation1为空
+2024-12-17 16:56:43.739 INFO [__main__] animation1为空
+2024-12-17 16:56:43.739 INFO [__main__] Get 10 matches with statscore_id
+2024-12-17 16:56:49.717 INFO [__main__] 更新了 9 条记录
+2024-12-17 16:56:51.205 INFO [__main__] 插入了 1 条记录
+2024-12-17 16:56:51.206 INFO [__main__] Get sportId: 13
+2024-12-17 16:56:52.018 INFO [__main__] Get pageTotal: 1
+2024-12-17 16:56:52.018 INFO [__main__] sportId: 13 current: 1/1
+2024-12-17 16:56:52.548 INFO [__main__] Get 1 matches
+2024-12-17 16:56:54.126 INFO [__main__] 获取Statscore ID成功: 14370617 用时0:00:01.577682
+2024-12-17 16:56:54.127 INFO [__main__] Get 1 matches with statscore_id
+2024-12-17 16:57:01.051 INFO [__main__] 更新了 1 条记录
+2024-12-17 16:57:01.464 INFO [__main__] Get sportId: 2
+2024-12-17 16:57:02.544 INFO [__main__] Get pageTotal: 0
+2024-12-17 16:57:02.545 INFO [__main__] Get 0 matches
+2024-12-17 16:57:02.545 INFO [__main__] Get 0 matches with statscore_id
+2024-12-17 16:57:02.546 INFO [__main__] Get sportId: 6
+2024-12-17 16:57:03.659 INFO [__main__] Get pageTotal: 0
+2024-12-17 16:57:03.662 INFO [__main__] Get 0 matches
+2024-12-17 16:57:03.662 INFO [__main__] Get 0 matches with statscore_id
+2024-12-17 16:57:03.663 INFO [__main__] Get sportId: 18
+2024-12-17 16:57:04.198 INFO [__main__] Get pageTotal: 0
+2024-12-17 16:57:04.199 INFO [__main__] Get 0 matches
+2024-12-17 16:57:04.199 INFO [__main__] Get 0 matches with statscore_id
+2024-12-17 16:57:04.200 INFO [__main__] Get sportId: 19
+2024-12-17 16:57:05.069 INFO [__main__] Get pageTotal: 0
+2024-12-17 16:57:05.069 INFO [__main__] Get 0 matches
+2024-12-17 16:57:05.069 INFO [__main__] Get 0 matches with statscore_id
+2024-12-17 16:57:05.070 INFO [__main__] Get sportId: 14
+2024-12-17 16:57:05.642 INFO [__main__] Get pageTotal: 1
+2024-12-17 16:57:05.642 INFO [__main__] sportId: 14 current: 1/1
+2024-12-17 16:57:06.265 INFO [__main__] Get 1 matches
+2024-12-17 16:57:06.265 INFO [__main__] animation1为空
+2024-12-17 16:57:06.265 INFO [__main__] Get 1 matches with statscore_id
+2024-12-17 16:57:13.143 INFO [__main__] 更新了 1 条记录
+2024-12-17 16:57:13.601 INFO [__main__] Get sportId: 16
+2024-12-17 16:57:14.622 INFO [__main__] Get pageTotal: 0
+2024-12-17 16:57:14.622 INFO [__main__] Get 0 matches
+2024-12-17 16:57:14.622 INFO [__main__] Get 0 matches with statscore_id
+2024-12-17 16:57:14.623 INFO [__main__] Get sportId: 47
+2024-12-17 16:57:15.632 INFO [__main__] Get pageTotal: 0
+2024-12-17 16:57:15.632 INFO [__main__] Get 0 matches
+2024-12-17 16:57:15.632 INFO [__main__] Get 0 matches with statscore_id
+2024-12-17 16:57:15.633 INFO [__main__] Get sportId: 15
+2024-12-17 16:57:16.670 INFO [__main__] Get pageTotal: 1
+2024-12-17 16:57:16.670 INFO [__main__] sportId: 15 current: 1/1
+2024-12-17 16:57:17.638 INFO [__main__] Get 4 matches
+2024-12-17 16:57:17.638 INFO [__main__] animation1为空
+2024-12-17 16:57:17.638 INFO [__main__] animation1为空
+2024-12-17 16:57:17.638 INFO [__main__] animation1为空
+2024-12-17 16:57:19.203 INFO [__main__] 获取Statscore ID成功: 14419304 用时0:00:01.564364
+2024-12-17 16:57:19.204 INFO [__main__] Get 4 matches with statscore_id
+2024-12-17 16:57:26.353 INFO [__main__] 更新了 2 条记录
+2024-12-17 16:57:28.087 INFO [__main__] 插入了 2 条记录
+2024-12-17 16:57:28.089 INFO [__main__] Get sportId: 7
+2024-12-17 16:57:29.256 INFO [__main__] Get pageTotal: 0
+2024-12-17 16:57:29.256 INFO [__main__] Get 0 matches
+2024-12-17 16:57:29.256 INFO [__main__] Get 0 matches with statscore_id
+2024-12-17 16:57:29.257 INFO [__main__] Get sportId: 24
+2024-12-17 16:57:29.950 INFO [__main__] Get pageTotal: 0
+2024-12-17 16:57:29.951 INFO [__main__] Get 0 matches
+2024-12-17 16:57:29.951 INFO [__main__] Get 0 matches with statscore_id
+2024-12-17 16:57:29.954 INFO [__main__] Get sportId: 92
+2024-12-17 16:57:30.711 INFO [__main__] Get pageTotal: 0
+2024-12-17 16:57:30.712 INFO [__main__] Get 0 matches
+2024-12-17 16:57:30.712 INFO [__main__] Get 0 matches with statscore_id
+2024-12-17 17:01:36.129 INFO [__main__] 程序开始运行
+2024-12-17 17:01:36.129 ERROR [__main__] 这是一条测试错误信息
+2024-12-17 17:01:36.208 INFO [__main__] 开始请求sportId: 1
+2024-12-17 17:01:36.820 INFO [__main__] Get pageTotal: 1
+2024-12-17 17:01:36.821 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 17:01:41.431 ERROR [__main__] 获取Statscore ID失败: 'nm'
+2024-12-17 17:01:41.435 ERROR [__main__] 获取Statscore ID失败: 'nm'
+2024-12-17 17:01:41.436 ERROR [__main__] 获取Statscore ID失败: 'nm'
+2024-12-17 17:01:41.437 ERROR [__main__] 获取Statscore ID失败: 'nm'
+2024-12-17 17:01:41.441 INFO [__main__] 开始请求sportId: 3
+2024-12-17 17:01:41.991 INFO [__main__] Get pageTotal: 1
+2024-12-17 17:01:41.991 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 17:01:42.708 INFO [__main__] 开始请求sportId: 5
+2024-12-17 17:01:43.476 INFO [__main__] Get pageTotal: 1
+2024-12-17 17:01:43.476 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 17:01:44.148 ERROR [__main__] 获取Statscore ID失败: 'nm'
+2024-12-17 17:01:44.148 ERROR [__main__] 获取Statscore ID失败: 'nm'
+2024-12-17 17:01:44.149 ERROR [__main__] 获取Statscore ID失败: 'nm'
+2024-12-17 17:01:44.149 ERROR [__main__] 获取Statscore ID失败: 'nm'
+2024-12-17 17:01:44.149 ERROR [__main__] 获取Statscore ID失败: 'nm'
+2024-12-17 17:01:44.149 ERROR [__main__] 获取Statscore ID失败: 'nm'
+2024-12-17 17:01:44.149 ERROR [__main__] 获取Statscore ID失败: 'nm'
+2024-12-17 17:01:44.149 ERROR [__main__] 获取Statscore ID失败: 'nm'
+2024-12-17 17:01:44.149 ERROR [__main__] 获取Statscore ID失败: 'nm'
+2024-12-17 17:01:44.149 ERROR [__main__] 获取Statscore ID失败: 'nm'
+2024-12-17 17:01:44.150 INFO [__main__] 开始请求sportId: 13
+2024-12-17 17:01:44.832 INFO [__main__] Get pageTotal: 1
+2024-12-17 17:01:44.832 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 17:01:47.280 ERROR [__main__] 获取Statscore ID失败: 'nm'
+2024-12-17 17:01:47.281 INFO [__main__] 开始请求sportId: 2
+2024-12-17 17:01:48.190 INFO [__main__] Get pageTotal: 1
+2024-12-17 17:01:48.190 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 17:01:49.242 ERROR [__main__] 获取Statscore ID失败: 'nm'
+2024-12-17 17:01:49.244 INFO [__main__] 开始请求sportId: 6
+2024-12-17 17:01:49.822 INFO [__main__] Get pageTotal: 0
+2024-12-17 17:01:49.824 INFO [__main__] 开始请求sportId: 18
+2024-12-17 17:01:50.387 INFO [__main__] Get pageTotal: 0
+2024-12-17 17:01:50.388 INFO [__main__] 开始请求sportId: 19
+2024-12-17 17:01:51.074 INFO [__main__] Get pageTotal: 0
+2024-12-17 17:01:51.075 INFO [__main__] 开始请求sportId: 14
+2024-12-17 17:01:51.636 INFO [__main__] Get pageTotal: 1
+2024-12-17 17:01:51.637 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 17:01:52.223 ERROR [__main__] 获取Statscore ID失败: 'nm'
+2024-12-17 17:01:52.226 INFO [__main__] 开始请求sportId: 16
+2024-12-17 17:01:52.798 INFO [__main__] Get pageTotal: 0
+2024-12-17 17:01:52.799 INFO [__main__] 开始请求sportId: 47
+2024-12-17 17:01:53.547 INFO [__main__] Get pageTotal: 0
+2024-12-17 17:01:53.549 INFO [__main__] 开始请求sportId: 15
+2024-12-17 17:01:54.246 INFO [__main__] Get pageTotal: 1
+2024-12-17 17:01:54.246 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 17:01:54.865 ERROR [__main__] 获取Statscore ID失败: 'nm'
+2024-12-17 17:01:54.866 ERROR [__main__] 获取Statscore ID失败: 'nm'
+2024-12-17 17:01:54.866 ERROR [__main__] 获取Statscore ID失败: 'nm'
+2024-12-17 17:01:54.866 ERROR [__main__] 获取Statscore ID失败: 'nm'
+2024-12-17 17:01:54.866 ERROR [__main__] 获取Statscore ID失败: 'nm'
+2024-12-17 17:01:56.703 ERROR [__main__] 获取Statscore ID失败: 'nm'
+2024-12-17 17:01:58.186 ERROR [__main__] 获取Statscore ID失败: 'nm'
+2024-12-17 17:02:00.267 ERROR [__main__] 获取Statscore ID失败: 'nm'
+2024-12-17 17:02:03.040 ERROR [__main__] 获取Statscore ID失败: 'nm'
+2024-12-17 17:02:03.041 INFO [__main__] 开始请求sportId: 7
+2024-12-17 17:02:03.758 INFO [__main__] Get pageTotal: 0
+2024-12-17 17:02:03.759 INFO [__main__] 开始请求sportId: 24
+2024-12-17 17:02:04.476 INFO [__main__] Get pageTotal: 0
+2024-12-17 17:02:04.477 INFO [__main__] 开始请求sportId: 92
+2024-12-17 17:02:05.692 INFO [__main__] Get pageTotal: 0
+2024-12-17 17:03:11.906 INFO [__main__] 程序开始运行
+2024-12-17 17:03:11.906 ERROR [__main__] 这是一条测试错误信息
+2024-12-17 17:03:11.978 INFO [__main__] 开始请求sportId: 1
+2024-12-17 17:03:12.618 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 17:03:15.113 ERROR [__main__] 获取Statscore ID失败: 'nm'
+2024-12-17 17:03:15.113 ERROR [__main__] 获取Statscore ID失败: 'nm'
+2024-12-17 17:03:15.113 ERROR [__main__] 获取Statscore ID失败: 'nm'
+2024-12-17 17:03:15.113 ERROR [__main__] 获取Statscore ID失败: 'nm'
+2024-12-17 17:03:15.117 INFO [__main__] 开始请求sportId: 3
+2024-12-17 17:03:16.014 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 17:03:16.551 INFO [__main__] 开始请求sportId: 5
+2024-12-17 17:03:17.456 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 17:03:18.362 ERROR [__main__] 获取Statscore ID失败: 'nm'
+2024-12-17 17:03:18.362 ERROR [__main__] 获取Statscore ID失败: 'nm'
+2024-12-17 17:03:18.362 ERROR [__main__] 获取Statscore ID失败: 'nm'
+2024-12-17 17:03:18.362 ERROR [__main__] 获取Statscore ID失败: 'nm'
+2024-12-17 17:03:18.362 ERROR [__main__] 获取Statscore ID失败: 'nm'
+2024-12-17 17:03:18.362 ERROR [__main__] 获取Statscore ID失败: 'nm'
+2024-12-17 17:03:18.362 ERROR [__main__] 获取Statscore ID失败: 'nm'
+2024-12-17 17:03:18.362 ERROR [__main__] 获取Statscore ID失败: 'nm'
+2024-12-17 17:03:18.362 ERROR [__main__] 获取Statscore ID失败: 'nm'
+2024-12-17 17:03:18.362 INFO [__main__] 开始请求sportId: 13
+2024-12-17 17:03:19.284 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 17:03:22.424 ERROR [__main__] 获取Statscore ID失败: 'nm'
+2024-12-17 17:03:22.427 INFO [__main__] 开始请求sportId: 2
+2024-12-17 17:03:23.086 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 17:03:23.605 ERROR [__main__] 获取Statscore ID失败: 'nm'
+2024-12-17 17:03:23.606 INFO [__main__] 开始请求sportId: 6
+2024-12-17 17:03:24.546 INFO [__main__] 开始请求sportId: 18
+2024-12-17 17:03:25.181 INFO [__main__] 开始请求sportId: 19
+2024-12-17 17:03:25.703 INFO [__main__] 开始请求sportId: 14
+2024-12-17 17:03:26.762 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 17:03:27.285 ERROR [__main__] 获取Statscore ID失败: 'nm'
+2024-12-17 17:03:27.286 INFO [__main__] 开始请求sportId: 16
+2024-12-17 17:03:28.470 INFO [__main__] 开始请求sportId: 47
+2024-12-17 17:03:29.381 INFO [__main__] 开始请求sportId: 15
+2024-12-17 17:03:29.980 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 17:03:30.613 ERROR [__main__] 获取Statscore ID失败: 'nm'
+2024-12-17 17:03:30.614 ERROR [__main__] 获取Statscore ID失败: 'nm'
+2024-12-17 17:03:30.614 ERROR [__main__] 获取Statscore ID失败: 'nm'
+2024-12-17 17:03:30.614 ERROR [__main__] 获取Statscore ID失败: 'nm'
+2024-12-17 17:03:30.614 ERROR [__main__] 获取Statscore ID失败: 'nm'
+2024-12-17 17:03:30.614 ERROR [__main__] 获取Statscore ID失败: 'nm'
+2024-12-17 17:03:32.402 ERROR [__main__] 获取Statscore ID失败: 'nm'
+2024-12-17 17:03:34.873 ERROR [__main__] 获取Statscore ID失败: 'nm'
+2024-12-17 17:03:36.409 ERROR [__main__] 获取Statscore ID失败: 'nm'
+2024-12-17 17:03:36.410 INFO [__main__] 开始请求sportId: 7
+2024-12-17 17:03:36.983 INFO [__main__] 开始请求sportId: 24
+2024-12-17 17:03:37.868 INFO [__main__] 开始请求sportId: 92
+2024-12-17 17:04:27.034 INFO [__main__] 程序开始运行
+2024-12-17 17:04:27.034 ERROR [__main__] 这是一条测试错误信息
+2024-12-17 17:04:27.097 INFO [__main__] 开始请求sportId: 1
+2024-12-17 17:04:27.645 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 17:04:30.603 INFO [__main__] Malut United FC vs PSM Makassar获取Statscore ID成功: 14209016 用时0:00:01.988146
+2024-12-17 17:04:30.604 INFO [__main__] SHB Da Nang vs Long An FC的animation1为空
+2024-12-17 17:04:30.604 INFO [__main__] Delhi FT vs Tamil Nadu FC的animation1为空
+2024-12-17 17:04:30.604 INFO [__main__] NFRSA vs Pride East Mavericks的animation1为空
+2024-12-17 17:04:37.527 ERROR [__main__] 数据库操作错误: (pymysql.err.OperationalError) (1054, "Unknown column 'name' in 'field list'")
+[SQL: 
+                        UPDATE fb 
+                        SET match_time = %(match_time)s, name = %(name)s, regionName = %(regionName)s, regionId = %(regionId)s, regionUrl = %(regionUrl)s, leagueName = %(leagueName)s, leagueId = %(leagueId)s, leagueUrl = %(leagueUrl)s, match_name = %(match_name)s, homeTeam = %(homeTeam)s, homeTeamUrl = %(homeTeamUrl)s, homeTeamId = %(homeTeamId)s, awayTeam = %(awayTeam)s, awayTeamUrl = %(awayTeamUrl)s, awayTeamId = %(awayTeamId)s, animation1 = %(animation1)s, animation2 = %(animation2)s, web = %(web)s, flvHD = %(flvHD)s, flvSD = %(flvSD)s, m3u8HD = %(m3u8HD)s, m3u8SD = %(m3u8SD)s, statscore_id = %(statscore_id)s
+                        WHERE match_id = %(match_id)s
+                    ]
+[parameters: {'match_time': 1734424200.0, 'name': 'Malut United FC vs PSM Makassar', 'regionName': 'Indonesia', 'regionId': 166, 'regionUrl': 'https://static.w.fbs6668.com/data/82bea8770d70c58928050b2b15d44b2d.png', 'leagueName': 'Indonesia Liga 1', 'leagueId': 10904, 'leagueUrl': 'https://static.w.fbs6668.com/data/50a535066987d32e2a069203a2246e4e.png', 'match_name': 'Malut United FC vs PSM Makassar', 'homeTeam': 'Malut United FC', 'homeTeamUrl': 'https://static.w.fbs6668.com/data/75bfb53af567794ff71cee671f543026.png', 'homeTeamId': 170605, 'awayTeam': 'PSM Makassar', 'awayTeamUrl': 'https://static.w.fbs6668.com/data/22f2812280a12928df263f9dbfd61ba9.png', 'awayTeamId': 52816, 'animation1': 'https://animation.byanimxyz.com/animation/index2.html?matchId=5602153&configId=66a36aea0b5db362d93f786b', 'animation2': 'https://animation.byanimxyz.com/animation/index.html?matchId=52324817&configId=', 'web': 'https://v.567440.com/live/index.html', 'flvHD': None, 'flvSD': 'https://live.bbapcall.com/live/sd-1-4184520.flv?txSecret=92521929f487666b90aa610f96214fd2&txTime=67618744', 'm3u8HD': None, 'm3u8SD': 'https://live.bbapcall.com/live/sd-1-4184520.m3u8?txSecret=92521929f487666b90aa610f96214fd2&txTime=67618744', 'statscore_id': 14209016, 'match_id': 2780718}]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-17 17:04:37.529 INFO [__main__] 开始请求sportId: 3
+2024-12-17 17:04:38.070 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 17:04:38.804 INFO [__main__] 开始请求sportId: 5
+2024-12-17 17:04:39.380 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 17:04:40.293 INFO [__main__] George Lazarov (BUL) vs Giannicola Misasi (ITA)的animation1为空
+2024-12-17 17:04:40.293 INFO [__main__] Andrea Paolini (ITA) vs Simone Agostini (ITA)的animation1为空
+2024-12-17 17:04:40.293 INFO [__main__] Federico Campana (ITA) vs Fabrizio Karol Pio Osti (ITA)的animation1为空
+2024-12-17 17:04:40.293 INFO [__main__] Nikita Mashtakov (UKR) vs Anthony Genov (BUL)的animation1为空
+2024-12-17 17:04:40.293 INFO [__main__] Simeon Stankovic (SRB) vs Wout Vermeer (NED)的animation1为空
+2024-12-17 17:04:40.293 INFO [__main__] Bunyawi Thamchaiwat (THA) vs Shrivalli Rashmikaa Bhamidipaty (IND)的animation1为空
+2024-12-17 17:04:40.293 INFO [__main__] Honoka Kobayashi (JPN) vs Zuzanna Pawlikowska (POL)的animation1为空
+2024-12-17 17:04:40.293 INFO [__main__] Jizel Matos Sequeira Fernandes (GBR) vs Eva Garkusha (RUS)的animation1为空
+2024-12-17 17:04:40.293 INFO [__main__] Yasmine Kabbaj (MAR) vs Olivia Bergler (POL)的animation1为空
+2024-12-17 17:04:40.293 INFO [__main__] Chiara Fornasieri (ITA) vs Claudia Gasparovic (AUT)的animation1为空
+2024-12-17 17:04:47.707 ERROR [__main__] 数据库操作错误: (pymysql.err.OperationalError) (1054, "Unknown column 'name' in 'field list'")
+[SQL: 
+                        UPDATE fb 
+                        SET match_time = %(match_time)s, name = %(name)s, regionName = %(regionName)s, regionId = %(regionId)s, regionUrl = %(regionUrl)s, leagueName = %(leagueName)s, leagueId = %(leagueId)s, leagueUrl = %(leagueUrl)s, match_name = %(match_name)s, homeTeam = %(homeTeam)s, homeTeamUrl = %(homeTeamUrl)s, homeTeamId = %(homeTeamId)s, awayTeam = %(awayTeam)s, awayTeamUrl = %(awayTeamUrl)s, awayTeamId = %(awayTeamId)s, animation1 = %(animation1)s, animation2 = %(animation2)s, web = %(web)s, flvHD = %(flvHD)s, flvSD = %(flvSD)s, m3u8HD = %(m3u8HD)s, m3u8SD = %(m3u8SD)s, statscore_id = %(statscore_id)s
+                        WHERE match_id = %(match_id)s
+                    ]
+[parameters: {'match_time': 1734418800.0, 'name': 'George Lazarov (BUL) vs Giannicola Misasi (ITA)', 'regionName': 'ITF', 'regionId': 574, 'regionUrl': 'https://static.w.fbs6668.com/data/42f8eb9db90f2278decafd4b99f2d43a.png', 'leagueName': 'ITF - M15 Antalya Men Singles', 'leagueId': 19587, 'leagueUrl': 'https://static.w.fbs6668.com/data/42f8eb9db90f2278decafd4b99f2d43a.png', 'match_name': 'George Lazarov (BUL) vs Giannicola Misasi (ITA)', 'homeTeam': 'George Lazarov (BUL)', 'homeTeamUrl': '', 'homeTeamId': 163778, 'awayTeam': 'Giannicola Misasi (ITA)', 'awayTeamUrl': '', 'awayTeamId': 90040, 'animation1': None, 'animation2': 'https://animation.byanimxyz.com/animation/index.html?matchId=56488235&configId=', 'web': None, 'flvHD': None, 'flvSD': None, 'm3u8HD': None, 'm3u8SD': None, 'statscore_id': 0, 'match_id': 2883097}]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-17 17:04:47.708 INFO [__main__] 开始请求sportId: 13
+2024-12-17 17:04:48.615 INFO [__main__] 开始请求sportId: 2
+2024-12-17 17:04:49.265 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 17:04:50.195 INFO [__main__] Amur Khabarovsk vs Admiral Vladivostok的animation1为空
+2024-12-17 17:05:20.784 INFO [__main__] 程序开始运行
+2024-12-17 17:05:20.784 ERROR [__main__] 这是一条测试错误信息
+2024-12-17 17:05:20.859 INFO [__main__] 开始请求sportId: 1
+2024-12-17 17:05:21.793 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 17:05:24.717 INFO [__main__] Malut United FC vs PSM Makassar获取Statscore ID成功: 14209016 用时0:00:02.341525
+2024-12-17 17:05:24.718 INFO [__main__] SHB Da Nang vs Long An FC的animation1为空
+2024-12-17 17:05:24.719 INFO [__main__] Delhi FT vs Tamil Nadu FC的animation1为空
+2024-12-17 17:05:24.719 INFO [__main__] NFRSA vs Pride East Mavericks的animation1为空
+2024-12-17 17:05:32.360 INFO [__main__] 更新了 3 条记录
+2024-12-17 17:05:34.536 INFO [__main__] 插入了 1 条记录
+2024-12-17 17:05:34.536 INFO [__main__] 开始请求sportId: 3
+2024-12-17 17:05:35.199 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 17:05:38.706 INFO [__main__] Converge Fiberxers vs NLEX Road Warriors获取Statscore ID成功: 14418879 用时0:00:02.432183
+2024-12-17 17:05:45.389 INFO [__main__] 插入了 1 条记录
+2024-12-17 17:05:45.390 INFO [__main__] 开始请求sportId: 5
+2024-12-17 17:05:45.977 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 17:05:46.607 INFO [__main__] George Lazarov (BUL) vs Giannicola Misasi (ITA)的animation1为空
+2024-12-17 17:05:46.608 INFO [__main__] Andrea Paolini (ITA) vs Simone Agostini (ITA)的animation1为空
+2024-12-17 17:05:46.608 INFO [__main__] Federico Campana (ITA) vs Fabrizio Karol Pio Osti (ITA)的animation1为空
+2024-12-17 17:05:46.608 INFO [__main__] Nikita Mashtakov (UKR) vs Anthony Genov (BUL)的animation1为空
+2024-12-17 17:05:46.608 INFO [__main__] Simeon Stankovic (SRB) vs Wout Vermeer (NED)的animation1为空
+2024-12-17 17:05:46.608 INFO [__main__] Bunyawi Thamchaiwat (THA) vs Shrivalli Rashmikaa Bhamidipaty (IND)的animation1为空
+2024-12-17 17:05:46.608 INFO [__main__] Honoka Kobayashi (JPN) vs Zuzanna Pawlikowska (POL)的animation1为空
+2024-12-17 17:05:46.608 INFO [__main__] Jizel Matos Sequeira Fernandes (GBR) vs Eva Garkusha (RUS)的animation1为空
+2024-12-17 17:05:46.608 INFO [__main__] Yasmine Kabbaj (MAR) vs Olivia Bergler (POL)的animation1为空
+2024-12-17 17:05:46.608 INFO [__main__] Chiara Fornasieri (ITA) vs Claudia Gasparovic (AUT)的animation1为空
+2024-12-17 17:05:55.398 INFO [__main__] 更新了 8 条记录
+2024-12-17 17:05:57.416 INFO [__main__] 插入了 2 条记录
+2024-12-17 17:05:57.416 INFO [__main__] 开始请求sportId: 13
+2024-12-17 17:05:58.374 INFO [__main__] 开始请求sportId: 2
+2024-12-17 17:05:59.332 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 17:06:00.265 INFO [__main__] Amur Khabarovsk vs Admiral Vladivostok的animation1为空
+2024-12-17 17:06:07.704 INFO [__main__] 插入了 1 条记录
+2024-12-17 17:06:07.708 INFO [__main__] 开始请求sportId: 6
+2024-12-17 17:06:08.245 INFO [__main__] 开始请求sportId: 18
+2024-12-17 17:06:09.279 INFO [__main__] 开始请求sportId: 19
+2024-12-17 17:06:09.820 INFO [__main__] 开始请求sportId: 14
+2024-12-17 17:06:10.374 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 17:06:10.899 INFO [__main__] Sydney Thunder vs Adelaide Strikers的animation1为空
+2024-12-17 17:06:18.962 INFO [__main__] 更新了 1 条记录
+2024-12-17 17:06:19.318 INFO [__main__] 开始请求sportId: 16
+2024-12-17 17:06:20.281 INFO [__main__] 开始请求sportId: 47
+2024-12-17 17:06:20.819 INFO [__main__] 开始请求sportId: 15
+2024-12-17 17:06:21.402 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 17:06:22.391 INFO [__main__] Mariusz Baron vs Jakub Grzegorczyk的animation1为空
+2024-12-17 17:06:22.391 INFO [__main__] Adam Dosz vs Mateusz Golebiowski的animation1为空
+2024-12-17 17:06:22.391 INFO [__main__] Vaclav Nykl (CZE) vs Ondrej Sebek (CZE)的animation1为空
+2024-12-17 17:06:22.391 INFO [__main__] Jan Kocab (CZE) vs Ales Brandtl (CZE)的animation1为空
+2024-12-17 17:06:22.391 INFO [__main__] Dawid Stapor (POL) vs Milosz Kukawka (POL)的animation1为空
+2024-12-17 17:06:22.391 INFO [__main__] Karol Sulkowski (POL) vs Jan Masternak (POL)的animation1为空
+2024-12-17 17:06:24.680 INFO [__main__] Daniel Tuma (CZE) vs Vladimir Havlicek (CZE)获取Statscore ID成功: 14419299 用时0:00:02.288500
+2024-12-17 17:06:27.105 INFO [__main__] Stanislav Olejarcik (CZE) vs Tibor Kolenic (CZE)获取Statscore ID成功: 14419305 用时0:00:02.424328
+2024-12-17 17:06:29.228 INFO [__main__] Ondrej Pros (CZE) vs Vlastimil Kaisler (CZE)获取Statscore ID成功: 14419296 用时0:00:02.121891
+2024-12-17 17:06:34.672 INFO [__main__] 更新了 2 条记录
+2024-12-17 17:06:36.010 INFO [__main__] 插入了 7 条记录
+2024-12-17 17:06:36.011 INFO [__main__] 开始请求sportId: 7
+2024-12-17 17:06:36.767 INFO [__main__] 开始请求sportId: 24
+2024-12-17 17:06:37.439 INFO [__main__] 开始请求sportId: 92
+2024-12-17 17:06:51.759 INFO [__main__] 程序开始运行
+2024-12-17 17:06:51.759 ERROR [__main__] 这是一条测试错误信息
+2024-12-17 17:06:51.824 INFO [__main__] 开始请求sportId: 1
+2024-12-17 17:06:52.425 INFO [__main__] 开始请求页数: 1 共11页
+2024-12-17 17:06:53.034 INFO [__main__] 开始请求页数: 2 共11页
+2024-12-17 17:06:54.091 INFO [__main__] 开始请求页数: 3 共11页
+2024-12-17 17:06:54.639 INFO [__main__] 开始请求页数: 4 共11页
+2024-12-17 17:06:55.418 INFO [__main__] 开始请求页数: 5 共11页
+2024-12-17 17:06:56.471 INFO [__main__] 开始请求页数: 6 共11页
+2024-12-17 17:06:57.514 INFO [__main__] 开始请求页数: 7 共11页
+2024-12-17 17:06:58.172 INFO [__main__] 开始请求页数: 8 共11页
+2024-12-17 17:06:59.090 INFO [__main__] 开始请求页数: 9 共11页
+2024-12-17 17:06:59.669 INFO [__main__] 开始请求页数: 10 共11页
+2024-12-17 17:07:00.680 INFO [__main__] 开始请求页数: 11 共11页
+2024-12-17 17:07:03.822 INFO [__main__] Aston Villa FC vs Manchester City FC获取Statscore ID成功: 14355705 用时0:00:01.864699
+2024-12-17 17:07:06.430 INFO [__main__] West Ham United vs Brighton & Hove Albion FC获取Statscore ID成功: 14355704 用时0:00:02.607297
+2024-12-17 17:07:10.093 INFO [__main__] Brentford FC vs Nottingham Forest获取Statscore ID成功: 14355706 用时0:00:03.662906
+2024-12-17 17:07:13.512 INFO [__main__] Ipswich Town vs Newcastle United FC获取Statscore ID成功: 14355703 用时0:00:03.418304
+2024-12-17 17:07:16.246 INFO [__main__] Crystal Palace vs Arsenal FC获取Statscore ID成功: 14355709 用时0:00:02.733106
+2024-12-17 17:07:18.481 INFO [__main__] Everton FC vs Chelsea FC获取Statscore ID成功: 14355707 用时0:00:02.234110
+2024-12-17 17:07:20.373 INFO [__main__] Fulham FC vs Southampton FC获取Statscore ID成功: 14355711 用时0:00:01.891008
+2024-12-17 17:07:20.373 INFO [__main__] Leicester City FC vs Wolverhampton Wanderers FC的animation1为空
+2024-12-17 17:07:22.971 INFO [__main__] Manchester United FC vs AFC Bournemouth获取Statscore ID成功: 14355740 用时0:00:02.597673
+2024-12-17 17:07:25.085 INFO [__main__] Tottenham Hotspur vs Liverpool FC获取Statscore ID成功: 14355734 用时0:00:02.112845
+2024-12-17 17:07:26.945 INFO [__main__] Bayern Munich vs RB Leipzig获取Statscore ID成功: 14231333 用时0:00:01.859008
+2024-12-17 17:07:29.621 INFO [__main__] VFB Stuttgart vs FC St. Pauli获取Statscore ID成功: 14238212 用时0:00:02.674774
+2024-12-17 17:07:32.465 INFO [__main__] Eintracht Frankfurt vs FSV Mainz获取Statscore ID成功: 14238207 用时0:00:02.842784
+2024-12-17 17:07:35.043 INFO [__main__] Werder Bremen vs Union Berlin获取Statscore ID成功: 14238208 用时0:00:02.578213
+2024-12-17 17:07:37.882 INFO [__main__] TSG Hoffenheim vs Borussia Monchengladbach获取Statscore ID成功: 14238209 用时0:00:02.837876
+2024-12-17 17:07:40.360 INFO [__main__] Holstein Kiel vs FC Augsburg获取Statscore ID成功: 14238211 用时0:00:02.477292
+2024-12-17 17:07:42.320 INFO [__main__] Bayer Leverkusen vs SC Freiburg获取Statscore ID成功: 14238186 用时0:00:01.959026
+2024-12-17 17:07:45.099 INFO [__main__] VFL Bochum vs FC Heidenheim 1846获取Statscore ID成功: 14246993 用时0:00:02.777741
+2024-12-17 17:07:47.153 INFO [__main__] VfL Wolfsburg vs Borussia Dortmund获取Statscore ID成功: 14246992 用时0:00:02.053084
+2024-12-17 17:07:47.154 INFO [__main__] Borussia Dortmund vs Bayer Leverkusen的animation1为空
+2024-12-17 17:07:47.154 INFO [__main__] FC Heidenheim 1846 vs Union Berlin的animation1为空
+2024-12-17 17:07:47.154 INFO [__main__] FSV Mainz vs VFL Bochum的animation1为空
+2024-12-17 17:07:47.154 INFO [__main__] FC St. Pauli vs Eintracht Frankfurt的animation1为空
+2024-12-17 17:07:47.154 INFO [__main__] SC Freiburg vs Holstein Kiel的animation1为空
+2024-12-17 17:07:47.154 INFO [__main__] Borussia Monchengladbach vs Bayern Munich的animation1为空
+2024-12-17 17:07:47.154 INFO [__main__] RB Leipzig vs Werder Bremen的animation1为空
+2024-12-17 17:07:47.154 INFO [__main__] FC Augsburg vs VFB Stuttgart的animation1为空
+2024-12-17 17:07:49.045 INFO [__main__] Villarreal CF vs Rayo Vallecano获取Statscore ID成功: 14364013 用时0:00:01.889997
+2024-12-17 17:07:51.052 INFO [__main__] RCD Espanyol vs Valencia CF获取Statscore ID成功: 14364012 用时0:00:02.007232
+2024-12-17 17:07:53.085 INFO [__main__] Girona FC vs Real Valladolid获取Statscore ID成功: 14361190 用时0:00:02.032725
+2024-12-17 17:07:55.212 INFO [__main__] Getafe CF vs RCD Mallorca获取Statscore ID成功: 14361195 用时0:00:02.125861
+2024-12-17 17:07:56.934 INFO [__main__] Celta Vigo vs Real Sociedad获取Statscore ID成功: 14361194 用时0:00:01.721902
+2024-12-17 17:08:01.251 INFO [__main__] CA Osasuna vs Athletic Bilbao获取Statscore ID成功: 14361205 用时0:00:04.315163
+2024-12-17 17:08:02.889 INFO [__main__] FC Barcelona vs Atletico Madrid获取Statscore ID成功: 14361200 用时0:00:01.637696
+2024-12-17 17:08:02.890 INFO [__main__] Valencia CF vs Deportivo Alaves的animation1为空
+2024-12-17 17:08:02.890 INFO [__main__] Real Madrid vs Sevilla FC的animation1为空
+2024-12-17 17:08:02.890 INFO [__main__] UD Las Palmas vs RCD Espanyol的animation1为空
+2024-12-17 17:08:02.890 INFO [__main__] CD Leganes vs Villarreal CF的animation1为空
+2024-12-17 17:08:02.890 INFO [__main__] Real Betis vs Rayo Vallecano的animation1为空
+2024-12-17 17:08:02.890 INFO [__main__] Valencia CF vs Real Madrid的animation1为空
+2024-12-17 17:08:02.890 INFO [__main__] Rayo Vallecano vs Celta Vigo的animation1为空
+2024-12-17 17:08:02.890 INFO [__main__] Deportivo Alaves vs Girona FC的animation1为空
+2024-12-17 17:08:02.890 INFO [__main__] Real Valladolid vs Real Betis的animation1为空
+2024-12-17 17:08:02.890 INFO [__main__] RCD Espanyol vs CD Leganes的animation1为空
+2024-12-17 17:08:02.890 INFO [__main__] Sevilla FC vs Valencia CF的animation1为空
+2024-12-17 17:08:02.890 INFO [__main__] UD Las Palmas vs Getafe CF的animation1为空
+2024-12-17 17:08:02.890 INFO [__main__] Atletico Madrid vs CA Osasuna的animation1为空
+2024-12-17 17:08:02.890 INFO [__main__] Real Sociedad vs Villarreal CF的animation1为空
+2024-12-17 17:08:04.747 INFO [__main__] Hellas Verona vs AC Milan获取Statscore ID成功: 14361577 用时0:00:01.856398
+2024-12-17 17:08:06.869 INFO [__main__] Torino FC vs Bologna FC获取Statscore ID成功: 14361584 用时0:00:02.120807
+2024-12-17 17:08:08.438 INFO [__main__] Genoa CFC vs SSC Napoli获取Statscore ID成功: 14361578 用时0:00:01.567648
+2024-12-17 17:08:10.240 INFO [__main__] US Lecce vs Lazio获取Statscore ID成功: 14361708 用时0:00:01.801382
+2024-12-17 17:08:13.246 INFO [__main__] AS Roma vs Parma Calcio获取Statscore ID成功: 14362040 用时0:00:03.005149
+2024-12-17 17:08:13.247 INFO [__main__] Venezia vs Cagliari Calcio的animation1为空
+2024-12-17 17:08:13.247 INFO [__main__] Atalanta BC vs Empoli FC的animation1为空
+2024-12-17 17:08:15.103 INFO [__main__] AC Monza vs Juventus获取Statscore ID成功: 14362046 用时0:00:01.856368
+2024-12-17 17:08:15.104 INFO [__main__] ACF Fiorentina vs Udinese Calcio的animation1为空
+2024-12-17 17:08:15.105 INFO [__main__] Inter Milan vs Como 1907的animation1为空
+2024-12-17 17:08:15.105 INFO [__main__] Empoli FC vs Genoa CFC的animation1为空
+2024-12-17 17:08:15.105 INFO [__main__] Parma Calcio vs AC Monza的animation1为空
+2024-12-17 17:08:15.105 INFO [__main__] Cagliari Calcio vs Inter Milan的animation1为空
+2024-12-17 17:08:15.105 INFO [__main__] Lazio vs Atalanta BC的animation1为空
+2024-12-17 17:08:15.105 INFO [__main__] Udinese Calcio vs Torino FC的animation1为空
+2024-12-17 17:08:15.105 INFO [__main__] SSC Napoli vs Venezia的animation1为空
+2024-12-17 17:08:15.105 INFO [__main__] Juventus vs ACF Fiorentina的animation1为空
+2024-12-17 17:08:15.105 INFO [__main__] AC Milan vs AS Roma的animation1为空
+2024-12-17 17:08:15.105 INFO [__main__] Como 1907 vs US Lecce的animation1为空
+2024-12-17 17:08:15.105 INFO [__main__] Bologna FC vs Hellas Verona的animation1为空
+2024-12-17 17:08:19.348 INFO [__main__] AS Monaco FC vs Paris Saint Germain获取Statscore ID成功: 14312337 用时0:00:04.242451
+2024-12-17 17:08:19.348 INFO [__main__] OGC Nice vs Stade Rennes的animation1为空
+2024-12-17 17:08:19.348 INFO [__main__] AS Saint Etienne vs Stade Reims的animation1为空
+2024-12-17 17:08:19.348 INFO [__main__] Lille OSC vs FC Nantes的animation1为空
+2024-12-17 17:08:19.348 INFO [__main__] Olympique Lyonnais vs Montpellier HSC的animation1为空
+2024-12-17 17:08:19.348 INFO [__main__] Angers SCO vs Stade Brest 29的animation1为空
+2024-12-17 17:08:19.348 INFO [__main__] Strasbourg Alsace vs AJ Auxerre的animation1为空
+2024-12-17 17:08:19.348 INFO [__main__] RC Lens vs Toulouse FC的animation1为空
+2024-12-17 17:08:19.348 INFO [__main__] Olympique Marseille vs Le Havre AC的animation1为空
+2024-12-17 17:08:19.349 INFO [__main__] Stade Reims vs OGC Nice的animation1为空
+2024-12-17 17:08:19.349 INFO [__main__] FC Nantes vs AS Monaco FC的animation1为空
+2024-12-17 17:08:19.349 INFO [__main__] Stade Brest 29 vs Olympique Lyonnais的animation1为空
+2024-12-17 17:08:19.349 INFO [__main__] Paris Saint Germain vs AS Saint Etienne的animation1为空
+2024-12-17 17:08:19.349 INFO [__main__] Stade Rennes vs Olympique Marseille的animation1为空
+2024-12-17 17:08:19.349 INFO [__main__] Toulouse FC vs Strasbourg Alsace的animation1为空
+2024-12-17 17:08:19.349 INFO [__main__] AJ Auxerre vs Lille OSC的animation1为空
+2024-12-17 17:08:19.349 INFO [__main__] Le Havre AC vs RC Lens的animation1为空
+2024-12-17 17:08:19.349 INFO [__main__] Montpellier HSC vs Angers SCO的animation1为空
+2024-12-17 17:08:22.445 INFO [__main__] FK Borac Banja Luka vs AC Omonia Nicosia获取Statscore ID成功: 14222754 用时0:00:03.096039
+2024-12-17 17:08:24.449 INFO [__main__] Heart of Midlothian FC vs Petrocub Hincesti获取Statscore ID成功: 14222758 用时0:00:02.003130
+2024-12-17 17:08:26.765 INFO [__main__] LASK vs Vikingur Reykjavik获取Statscore ID成功: 14222746 用时0:00:02.316141
+2024-12-17 17:08:29.519 INFO [__main__] Cercle Brugge vs Istanbul Basaksehir获取Statscore ID成功: 14222757 用时0:00:02.753230
+2024-12-17 17:08:31.465 INFO [__main__] Larne FC vs KAA Gent获取Statscore ID成功: 14222748 用时0:00:01.944888
+2024-12-17 17:08:34.547 INFO [__main__] Real Betis vs HJK Helsinki获取Statscore ID成功: 14222752 用时0:00:03.082002
+2024-12-17 17:08:36.783 INFO [__main__] Chelsea FC vs Shamrock Rovers获取Statscore ID成功: 14222749 用时0:00:02.234797
+2024-12-17 17:08:39.377 INFO [__main__] FC Lugano vs Pafos FC获取Statscore ID成功: 14412418 用时0:00:02.591304
+2024-12-17 17:08:41.742 INFO [__main__] Panathinaikos Athens vs FC Dinamo Minsk获取Statscore ID成功: 14222755 用时0:00:02.364233
+2024-12-17 17:08:43.736 INFO [__main__] NK Celje vs The New Saints FC获取Statscore ID成功: 14222753 用时0:00:01.992112
+2024-12-17 17:08:46.434 INFO [__main__] APOEL Nikosia vs FC Astana获取Statscore ID成功: 14222750 用时0:00:02.695933
+2024-12-17 17:08:49.181 INFO [__main__] FK TSC Backa Topola vs FC Noah获取Statscore ID成功: 14222745 用时0:00:02.746173
+2024-12-17 17:08:51.374 INFO [__main__] Jagiellonia Bialystok vs Olimpija Ljubljana获取Statscore ID成功: 14222744 用时0:00:02.192183
+2024-12-17 17:08:54.068 INFO [__main__] Vitoria Guimaraes vs ACF Fiorentina获取Statscore ID成功: 14222751 用时0:00:02.692878
+2024-12-17 17:08:57.044 INFO [__main__] SK Rapid Wien vs FC Copenhagen获取Statscore ID成功: 14222742 用时0:00:02.975436
+2024-12-17 17:08:59.821 INFO [__main__] Molde FK vs FK Mlada Boleslav获取Statscore ID成功: 14222743 用时0:00:02.776237
+2024-12-17 17:09:01.638 INFO [__main__] FC Heidenheim 1846 vs FC St. Gallen 1879获取Statscore ID成功: 14222747 用时0:00:01.817381
+2024-12-17 17:09:03.957 INFO [__main__] Djurgardens IF vs Legia Warszawa获取Statscore ID成功: 14222756 用时0:00:02.318441
+2024-12-17 17:09:03.958 INFO [__main__] Arsenal FC vs Crystal Palace的animation1为空
+2024-12-17 17:09:03.959 INFO [__main__] Newcastle United FC vs Brentford FC的animation1为空
+2024-12-17 17:09:03.959 INFO [__main__] Southampton FC vs Liverpool FC的animation1为空
+2024-12-17 17:09:03.959 INFO [__main__] Tottenham Hotspur vs Manchester United FC的animation1为空
+2024-12-17 17:09:06.361 INFO [__main__] Atalanta BC vs Cesena FC获取Statscore ID成功: 14286583 用时0:00:02.401875
+2024-12-17 17:09:08.578 INFO [__main__] AS Roma vs Sampdoria获取Statscore ID成功: 14286581 用时0:00:02.214639
+2024-12-17 17:09:08.578 INFO [__main__] Inter Milan vs Udinese Calcio的animation1为空
+2024-12-17 17:09:08.579 INFO [__main__] Adelaide United FC vs Sydney FC的animation1为空
+2024-12-17 17:09:08.579 INFO [__main__] Auckland FC vs Western United FC的animation1为空
+2024-12-17 17:09:08.579 INFO [__main__] Brisbane Roar FC vs Perth Glory FC的animation1为空
+2024-12-17 17:09:08.579 INFO [__main__] Melbourne Victory FC vs Melbourne City FC的animation1为空
+2024-12-17 17:09:08.579 INFO [__main__] Western Sydney Wanderers FC vs Wellington Phoenix FC的animation1为空
+2024-12-17 17:09:08.580 INFO [__main__] Macarthur FC vs Central Coast Mariners FC的animation1为空
+2024-12-17 17:09:08.580 INFO [__main__] Adelaide United FC vs Western Sydney Wanderers FC的animation1为空
+2024-12-17 17:09:08.580 INFO [__main__] Perth Glory FC vs Macarthur FC的animation1为空
+2024-12-17 17:09:08.580 INFO [__main__] Wellington Phoenix FC vs Newcastle United Jets FC的animation1为空
+2024-12-17 17:09:08.580 INFO [__main__] Central Coast Mariners FC vs Auckland FC的animation1为空
+2024-12-17 17:09:08.580 INFO [__main__] Sydney FC vs Melbourne Victory FC的animation1为空
+2024-12-17 17:09:08.580 INFO [__main__] Western United FC vs Brisbane Roar FC的animation1为空
+2024-12-17 17:09:11.214 INFO [__main__] Luton Town vs Derby County获取Statscore ID成功: 14305310 用时0:00:02.634098
+2024-12-17 17:09:11.214 INFO [__main__] Portsmouth FC vs Coventry City的animation1为空
+2024-12-17 17:09:11.214 INFO [__main__] Sheffield Wednesday vs Stoke City的animation1为空
+2024-12-17 17:09:11.214 INFO [__main__] Hull City vs Swansea City的animation1为空
+2024-12-17 17:09:11.215 INFO [__main__] Burnley FC vs Watford FC的animation1为空
+2024-12-17 17:09:11.215 INFO [__main__] Queens Park Rangers vs Preston North End的animation1为空
+2024-12-17 17:09:11.215 INFO [__main__] Plymouth Argyle vs Middlesbrough FC的animation1为空
+2024-12-17 17:09:11.215 INFO [__main__] Sunderland AFC vs Norwich City的animation1为空
+2024-12-17 17:09:11.215 INFO [__main__] Leeds United vs Oxford United的animation1为空
+2024-12-17 17:09:11.215 INFO [__main__] Millwall FC vs Blackburn Rovers的animation1为空
+2024-12-17 17:09:11.215 INFO [__main__] Cardiff City vs Sheffield United FC的animation1为空
+2024-12-17 17:09:11.215 INFO [__main__] West Bromwich Albion vs Bristol City的animation1为空
+2024-12-17 17:09:13.827 INFO [__main__] Fortuna Dusseldorf vs 1. FC Magdeburg获取Statscore ID成功: 14362557 用时0:00:02.611820
+2024-12-17 17:09:16.722 INFO [__main__] SV 07 Elversberg vs Schalke 04获取Statscore ID成功: 14362991 用时0:00:02.894245
+2024-12-17 17:09:16.723 INFO [__main__] SC Paderborn vs Karlsruher SC的animation1为空
+2024-12-17 17:09:18.950 INFO [__main__] Hamburger SV vs Greuther Furth获取Statscore ID成功: 14362558 用时0:00:02.226688
+2024-12-17 17:09:18.951 INFO [__main__] SC Preussen 06 Munster vs SSV Ulm 1846的animation1为空
+2024-12-17 17:09:21.289 INFO [__main__] FC Nuremberg vs Eintracht Braunschweig获取Statscore ID成功: 14362556 用时0:00:02.337704
+2024-12-17 17:09:21.290 INFO [__main__] Hannover 96 vs Hertha BSC的animation1为空
+2024-12-17 17:09:21.290 INFO [__main__] 1 FC Kaiserslautern vs FC Koln的animation1为空
+2024-12-17 17:09:21.290 INFO [__main__] Jahn Regensburg vs SV Darmstadt 98的animation1为空
+2024-12-17 17:09:21.290 INFO [__main__] Fortuna Dusseldorf vs SV Darmstadt 98的animation1为空
+2024-12-17 17:09:21.290 INFO [__main__] Jahn Regensburg vs Hannover 96的animation1为空
+2024-12-17 17:09:21.290 INFO [__main__] 1 FC Kaiserslautern vs SSV Ulm 1846的animation1为空
+2024-12-17 17:09:21.291 INFO [__main__] SC Preussen 06 Munster vs Greuther Furth的animation1为空
+2024-12-17 17:09:21.291 INFO [__main__] Eintracht Braunschweig vs Schalke 04的animation1为空
+2024-12-17 17:09:21.291 INFO [__main__] Hamburger SV vs FC Koln的animation1为空
+2024-12-17 17:09:21.291 INFO [__main__] SC Paderborn vs Hertha BSC的animation1为空
+2024-12-17 17:09:21.291 INFO [__main__] Inter Milan vs Atalanta BC的animation1为空
+2024-12-17 17:09:21.291 INFO [__main__] Juventus vs AC Milan的animation1为空
+2024-12-17 17:09:21.291 INFO [__main__] AS Saint Etienne vs Olympique Marseille的animation1为空
+2024-12-17 17:09:21.292 INFO [__main__] RC Lens vs Paris Saint Germain的animation1为空
+2024-12-17 17:09:22.997 INFO [__main__] Racing Club de Ferrol vs UD Almeria获取Statscore ID成功: 14215876 用时0:00:01.705334
+2024-12-17 17:09:25.682 INFO [__main__] CD Mirandes vs Sporting Gijon获取Statscore ID成功: 14215875 用时0:00:02.683697
+2024-12-17 17:09:27.818 INFO [__main__] Malaga CF vs Club Deportivo Eldense获取Statscore ID成功: 14215877 用时0:00:02.133929
+2024-12-17 17:09:30.421 INFO [__main__] Elche CF vs Racing Santander获取Statscore ID成功: 14215880 用时0:00:02.602488
+2024-12-17 17:09:33.745 INFO [__main__] Cadiz CF vs Burgos CF获取Statscore ID成功: 14215870 用时0:00:03.322966
+2024-12-17 17:09:36.181 INFO [__main__] RC Deportivo La Coruna vs CD Castellon获取Statscore ID成功: 14215878 用时0:00:02.434407
+2024-12-17 17:09:38.318 INFO [__main__] SD Huesca vs Tenerife CD获取Statscore ID成功: 14215873 用时0:00:02.136141
+2024-12-17 17:09:41.612 INFO [__main__] FC Cartagena vs Albacete Balompie获取Statscore ID成功: 14233258 用时0:00:03.293075
+2024-12-17 17:09:44.230 INFO [__main__] SD Eibar vs Granada CF获取Statscore ID成功: 14238202 用时0:00:02.617496
+2024-12-17 17:09:46.967 INFO [__main__] Real Oviedo vs Cordoba CF获取Statscore ID成功: 14238249 用时0:00:02.736623
+2024-12-17 17:09:48.960 INFO [__main__] Real Zaragoza vs Racing Club de Ferrol获取Statscore ID成功: 14238259 用时0:00:01.992072
+2024-12-17 17:09:51.575 INFO [__main__] Sporting Gijon vs Malaga CF获取Statscore ID成功: 14238260 用时0:00:02.614956
+2024-12-17 17:09:53.866 INFO [__main__] Burgos CF vs Tenerife CD获取Statscore ID成功: 14246670 用时0:00:02.289231
+2024-12-17 17:09:56.510 INFO [__main__] CD Castellon vs Elche CF获取Statscore ID成功: 14246675 用时0:00:02.643007
+2024-12-17 17:10:00.109 INFO [__main__] UD Almeria vs Cadiz CF获取Statscore ID成功: 14246682 用时0:00:03.598624
+2024-12-17 17:10:02.750 INFO [__main__] Racing Santander vs Club Deportivo Eldense获取Statscore ID成功: 14246683 用时0:00:02.640340
+2024-12-17 17:10:05.875 INFO [__main__] RC Deportivo La Coruna vs CD Mirandes获取Statscore ID成功: 14246684 用时0:00:03.124404
+2024-12-17 17:10:07.914 INFO [__main__] Levante UD vs SD Huesca获取Statscore ID成功: 14246686 用时0:00:02.038456
+2024-12-17 17:10:10.018 INFO [__main__] US Salernitana vs Brescia Calcio获取Statscore ID成功: 14230526 用时0:00:02.103793
+2024-12-17 17:10:13.065 INFO [__main__] Sassuolo Calcio vs Palermo FC获取Statscore ID成功: 14238201 用时0:00:03.045560
+2024-12-17 17:10:15.904 INFO [__main__] Carrarese Calcio 1908 vs Cosenza Calcio获取Statscore ID成功: 14238199 用时0:00:02.837057
+2024-12-17 17:10:15.904 INFO [__main__] Mantova 1911 vs Frosinone Calcio的animation1为空
+2024-12-17 17:10:15.905 INFO [__main__] SSC Bari vs FC Sudtirol的animation1为空
+2024-12-17 17:10:15.905 INFO [__main__] Modena FC vs SC Pisa的animation1为空
+2024-12-17 17:10:18.538 INFO [__main__] AS Cittadella vs AC Reggiana获取Statscore ID成功: 14238257 用时0:00:02.632733
+2024-12-17 17:10:20.667 INFO [__main__] US Catanzaro 1929 vs Spezia Calcio获取Statscore ID成功: 14238187 用时0:00:02.129039
+2024-12-17 17:10:20.667 INFO [__main__] Juve Stabia vs Cesena FC的animation1为空
+2024-12-17 17:10:20.667 INFO [__main__] US Cremonese vs Sampdoria的animation1为空
+2024-12-17 17:10:25.364 INFO [__main__] RKC Waalwijk vs PEC Zwolle获取Statscore ID成功: 14348659 用时0:00:04.696504
+2024-12-17 17:10:28.788 INFO [__main__] Go Ahead Eagles vs NAC Breda获取Statscore ID成功: 14355420 用时0:00:03.422932
+2024-12-17 17:10:31.683 INFO [__main__] Almere City FC vs SC Heerenveen获取Statscore ID成功: 14355984 用时0:00:02.894535
+2024-12-17 17:10:33.758 INFO [__main__] AZ Alkmaar vs FC Twente获取Statscore ID成功: 14356368 用时0:00:02.074152
+2024-12-17 17:10:36.663 INFO [__main__] Heracles Almelo vs FC Groningen获取Statscore ID成功: 14356664 用时0:00:02.903915
+2024-12-17 17:10:36.663 INFO [__main__] Sparta Rotterdam vs Ajax Amsterdam的animation1为空
+2024-12-17 17:10:36.663 INFO [__main__] PSV Eindhoven vs Feyenoord的animation1为空
+2024-12-17 17:10:36.663 INFO [__main__] FC Utrecht vs Fortuna Sittard的animation1为空
+2024-12-17 17:10:36.663 INFO [__main__] Willem II Tilburg vs NEC Nijmegen的animation1为空
+2024-12-17 17:10:39.165 INFO [__main__] Casa Pia AC vs FC Arouca获取Statscore ID成功: 14377765 用时0:00:02.501955
+2024-12-17 17:10:41.616 INFO [__main__] FC Famalicao vs SC Farense获取Statscore ID成功: 14383297 用时0:00:02.450863
+2024-12-17 17:10:44.520 INFO [__main__] Boavista FC vs AVS Futebol Sad获取Statscore ID成功: 14395822 用时0:00:02.902572
+2024-12-17 17:10:47.287 INFO [__main__] Moreirense FC vs FC Porto获取Statscore ID成功: 14384823 用时0:00:02.766666
+2024-12-17 17:10:51.336 INFO [__main__] Santa Clara Azores vs SC Braga获取Statscore ID成功: 14391670 用时0:00:04.047710
+2024-12-17 17:10:51.337 INFO [__main__] Gil Vicente FC vs Sporting CP的animation1为空
+2024-12-17 17:10:51.337 INFO [__main__] Vitoria Guimaraes vs CD Nacional Madeira的animation1为空
+2024-12-17 17:10:51.337 INFO [__main__] SL Benfica vs Estoril Praia的animation1为空
+2024-12-17 17:10:51.337 INFO [__main__] CF Estrela vs Rio Ave FC的animation1为空
+2024-12-17 17:10:54.224 INFO [__main__] Motherwell FC vs Kilmarnock FC获取Statscore ID成功: 14356730 用时0:00:02.887452
+2024-12-17 17:10:54.225 INFO [__main__] Dundee United vs Celtic Glasgow的animation1为空
+2024-12-17 17:10:57.103 INFO [__main__] Cambridge United vs Huddersfield Town获取Statscore ID成功: 14230514 用时0:00:02.878072
+2024-12-17 17:11:00.337 INFO [__main__] Wycombe Wanderers vs Bolton Wanderers获取Statscore ID成功: 14230538 用时0:00:03.232863
+2024-12-17 17:11:02.649 INFO [__main__] Stockport County FC vs Peterborough United获取Statscore ID成功: 14230539 用时0:00:02.311293
+2024-12-17 17:11:04.704 INFO [__main__] Bristol Rovers vs Wrexham AFC获取Statscore ID成功: 14238193 用时0:00:02.055213
+2024-12-17 17:11:07.785 INFO [__main__] Lincoln City vs Reading FC获取Statscore ID成功: 14238194 用时0:00:03.079338
+2024-12-17 17:11:07.785 INFO [__main__] Blackpool vs Stevenage FC的animation1为空
+2024-12-17 17:11:09.840 INFO [__main__] Burton Albion vs Exeter City获取Statscore ID成功: 14238220 用时0:00:02.054968
+2024-12-17 17:11:09.841 INFO [__main__] Barnsley vs Leyton Orient的animation1为空
+2024-12-17 17:11:09.841 INFO [__main__] Northampton Town vs Charlton Athletic的animation1为空
+2024-12-17 17:11:12.607 INFO [__main__] Mansfield Town vs Rotherham United获取Statscore ID成功: 14238244 用时0:00:02.765804
+2024-12-17 17:11:15.187 INFO [__main__] Wigan Athletic vs Shrewsbury Town获取Statscore ID成功: 14238246 用时0:00:02.579769
+2024-12-17 17:11:15.188 INFO [__main__] Crawley Town vs Birmingham City的animation1为空
+2024-12-17 17:11:17.878 INFO [__main__] KVC Westerlo vs KV Mechelen获取Statscore ID成功: 14230518 用时0:00:02.690043
+2024-12-17 17:11:20.489 INFO [__main__] Royal Charleroi SC vs St. Truidense VV获取Statscore ID成功: 14238174 用时0:00:02.609700
+2024-12-17 17:11:23.625 INFO [__main__] FCV Dender EH vs Royal Antwerp FC获取Statscore ID成功: 14238178 用时0:00:03.136280
+2024-12-17 17:11:25.960 INFO [__main__] K Beerschot VA vs KV Kortrijk获取Statscore ID成功: 14238177 用时0:00:02.333206
+2024-12-17 17:11:27.840 INFO [__main__] KRC Genk vs RSC Anderlecht获取Statscore ID成功: 14246652 用时0:00:01.879849
+2024-12-17 17:11:30.686 INFO [__main__] Standard Liege vs KAA Gent获取Statscore ID成功: 14246674 用时0:00:02.845415
+2024-12-17 17:11:32.485 INFO [__main__] Union Saint Gilloise vs Club Brugge获取Statscore ID成功: 14246658 用时0:00:01.797904
+2024-12-17 17:11:34.508 INFO [__main__] Cercle Brugge vs Oud Heverlee Leuven获取Statscore ID成功: 14246654 用时0:00:02.021987
+2024-12-17 17:11:37.174 INFO [__main__] AL Batin vs Al Faisaly Harmah获取Statscore ID成功: 14419376 用时0:00:02.664966
+2024-12-17 17:11:39.742 INFO [__main__] Abha Club vs AL Jabalain FC获取Statscore ID成功: 14419375 用时0:00:02.566469
+2024-12-17 17:11:42.710 INFO [__main__] AL Bukayriyah FC vs AL Najma获取Statscore ID成功: 14419884 用时0:00:02.968231
+2024-12-17 17:11:46.529 INFO [__main__] Sparta Rotterdam vs Go Ahead Eagles获取Statscore ID成功: 14384761 用时0:00:03.818669
+2024-12-17 17:11:46.531 INFO [__main__] Heracles Almelo vs NEC Nijmegen的animation1为空
+2024-12-17 17:11:49.338 INFO [__main__] AZ Alkmaar vs FC Groningen获取Statscore ID成功: 14385254 用时0:00:02.807470
+2024-12-17 17:11:51.370 INFO [__main__] Eyupspor vs Fenerbahce获取Statscore ID成功: 14317737 用时0:00:02.030849
+2024-12-17 17:11:51.371 INFO [__main__] Sivasspor vs Samsunspor的animation1为空
+2024-12-17 17:11:53.981 INFO [__main__] Besiktas JK vs Alanyaspor获取Statscore ID成功: 14317752 用时0:00:02.609608
+2024-12-17 17:11:53.982 INFO [__main__] Gaziantep FK vs Antalyaspor AS的animation1为空
+2024-12-17 17:11:53.982 INFO [__main__] Goztepe SK vs Caykur Rizespor的animation1为空
+2024-12-17 17:11:56.351 INFO [__main__] Kayserispor vs Galatasaray SK获取Statscore ID成功: 14317761 用时0:00:02.368530
+2024-12-17 17:11:58.205 INFO [__main__] Trabzonspor vs Bodrum Belediyesi Bodrumspor获取Statscore ID成功: 14317764 用时0:00:01.853431
+2024-12-17 17:11:58.205 INFO [__main__] Istanbul Basaksehir vs Kasimpasa的animation1为空
+2024-12-17 17:12:00.802 INFO [__main__] FC Goa vs ATK Mohun Bagan获取Statscore ID成功: 14405219 用时0:00:02.596492
+2024-12-17 17:12:00.802 INFO [__main__] Kerala Blasters FC vs Mohammedan SC的animation1为空
+2024-12-17 17:12:00.802 INFO [__main__] Hyderabad FC vs Northeast United FC的animation1为空
+2024-12-17 17:12:02.768 INFO [__main__] Gillingham FC vs Cheltenham Town获取Statscore ID成功: 14230550 用时0:00:01.965458
+2024-12-17 17:12:05.286 INFO [__main__] Crewe Alexandra vs Colchester United获取Statscore ID成功: 14230554 用时0:00:02.517560
+2024-12-17 17:12:07.875 INFO [__main__] Doncaster Rovers vs Tranmere Rovers获取Statscore ID成功: 14238184 用时0:00:02.588691
+2024-12-17 17:12:09.984 INFO [__main__] Barrow AFC vs Fleetwood Town获取Statscore ID成功: 14238192 用时0:00:02.108567
+2024-12-17 17:12:09.986 INFO [__main__] Chesterfield FC vs AFC Wimbledon的animation1为空
+2024-12-17 17:12:12.076 INFO [__main__] Harrogate Town vs Walsall FC获取Statscore ID成功: 14238218 用时0:00:02.089136
+2024-12-17 17:12:12.076 INFO [__main__] Notts County vs Bradford City的animation1为空
+2024-12-17 17:12:14.170 INFO [__main__] Swindon Town vs Grimsby Town获取Statscore ID成功: 14238231 用时0:00:02.093078
+2024-12-17 17:12:16.791 INFO [__main__] Port Vale vs Carlisle United获取Statscore ID成功: 14238235 用时0:00:02.620257
+2024-12-17 17:12:16.792 INFO [__main__] Accrington Stanley vs Salford City的animation1为空
+2024-12-17 17:12:16.792 INFO [__main__] Newport County vs Milton Keynes Dons的animation1为空
+2024-12-17 17:12:16.792 INFO [__main__] Morecambe FC vs Bromley FC的animation1为空
+2024-12-17 17:12:16.792 INFO [__main__] Buriram United FC vs Muang Thong United的animation1为空
+2024-12-17 17:12:16.792 INFO [__main__] Olympiacos Piraeus vs PAS Lamia 1964的animation1为空
+2024-12-17 17:12:16.792 INFO [__main__] Panserraikos FC vs Panetolikos的animation1为空
+2024-12-17 17:12:16.792 INFO [__main__] Panathinaikos Athens vs GS Kallithea FC的animation1为空
+2024-12-17 17:12:16.792 INFO [__main__] PAOK Thessaloniki vs Atromitos Athinon的animation1为空
+2024-12-17 17:12:16.792 INFO [__main__] AEK Athens vs APO Levadiakos FC的animation1为空
+2024-12-17 17:12:16.792 INFO [__main__] Asteras Tripolis vs Aris Thessaloniki的animation1为空
+2024-12-17 17:12:16.792 INFO [__main__] OFI Crete vs Volos NFC的animation1为空
+2024-12-17 17:12:16.792 INFO [__main__] FC Zurich vs Yverdon Sport FC的animation1为空
+2024-12-17 17:12:16.792 INFO [__main__] FC Lugano vs FC Basel 1893的animation1为空
+2024-12-17 17:12:18.897 INFO [__main__] CD Tolima vs Atletico Nacional Medellin获取Statscore ID成功: 14371107 用时0:00:02.103971
+2024-12-17 17:12:21.805 INFO [__main__] Al Hashemeya vs Sama获取Statscore ID成功: 14418921 用时0:00:02.906479
+2024-12-17 17:12:24.133 INFO [__main__] SKN St. Polten (w) vs Hammarby IF DFF (w)获取Statscore ID成功: 14413333 用时0:00:02.327095
+2024-12-17 17:12:26.493 INFO [__main__] FC Barcelona (w) vs Manchester City FC (w)获取Statscore ID成功: 14413376 用时0:00:02.359463
+2024-12-17 17:12:28.688 INFO [__main__] Arsenal FC (w) vs FC Bayern Munich (w)获取Statscore ID成功: 14413107 用时0:00:02.193852
+2024-12-17 17:12:31.123 INFO [__main__] Juventus (w) vs Valerenga IF (w)获取Statscore ID成功: 14413452 用时0:00:02.434688
+2024-12-17 17:12:33.569 INFO [__main__] Buyuksehir Belediye Erzurumspor vs Sakaryaspor获取Statscore ID成功: 14238227 用时0:00:02.445533
+2024-12-17 17:12:33.574 INFO [__main__] Manisa Futbol Kulubu vs Sanliurfaspor的animation1为空
+2024-12-17 17:12:33.574 INFO [__main__] Pendikspor vs Istanbulspor AS的animation1为空
+2024-12-17 17:12:33.574 INFO [__main__] Keciorengucu vs Fatih Karagumruk Istanbul的animation1为空
+2024-12-17 17:12:33.574 INFO [__main__] Boluspor vs Kocaelispor的animation1为空
+2024-12-17 17:12:33.575 INFO [__main__] Esenler Erokspor vs Bandirmaspor的animation1为空
+2024-12-17 17:12:33.575 INFO [__main__] Corum FK vs MKE Ankaragucu的animation1为空
+2024-12-17 17:12:33.575 INFO [__main__] Genclerbirligi SK vs Adanaspor的animation1为空
+2024-12-17 17:12:33.575 INFO [__main__] Amed Sportif Faaliyetler vs Umraniyespor的animation1为空
+2024-12-17 17:12:35.672 INFO [__main__] FK Jedinstvo UB vs FK Crvena Zvezda Belgrade获取Statscore ID成功: 14371034 用时0:00:02.097339
+2024-12-17 17:12:37.765 INFO [__main__] Zamalek SC vs Ceramica Cleopatra获取Statscore ID成功: 14222636 用时0:00:02.091764
+2024-12-17 17:12:40.283 INFO [__main__] El Gouna FC vs Enppi Club获取Statscore ID成功: 14230532 用时0:00:02.516978
+2024-12-17 17:12:40.284 INFO [__main__] Modern Sport FC vs National Bank of Egypt SC的animation1为空
+2024-12-17 17:12:40.284 INFO [__main__] Ismaily SC vs Pyramids FC的animation1为空
+2024-12-17 17:12:40.284 INFO [__main__] Jong FC Utrecht vs Helmond Sport的animation1为空
+2024-12-17 17:12:40.284 INFO [__main__] Jong PSV Eindhoven vs Vitesse Arnhem的animation1为空
+2024-12-17 17:12:43.187 INFO [__main__] FC Dordrecht vs FC Eindhoven获取Statscore ID成功: 14400410 用时0:00:02.902573
+2024-12-17 17:12:43.188 INFO [__main__] FC Emmen vs FC Den Bosch的animation1为空
+2024-12-17 17:12:43.188 INFO [__main__] SC Cambuur vs Jong AZ Alkmaar的animation1为空
+2024-12-17 17:12:43.188 INFO [__main__] VVV Venlo vs SBV Excelsior的animation1为空
+2024-12-17 17:12:43.188 INFO [__main__] FC Volendam vs De Graafschap的animation1为空
+2024-12-17 17:12:46.010 INFO [__main__] ADO Den Haag vs TOP Oss获取Statscore ID成功: 14413523 用时0:00:02.819233
+2024-12-17 17:12:48.677 INFO [__main__] Adelaide United FC (w) vs Melbourne City FC (w)获取Statscore ID成功: 14410634 用时0:00:02.665432
+2024-12-17 17:12:52.455 INFO [__main__] Western Sydney Wanderers FC (w) vs Perth Glory FC (w)获取Statscore ID成功: 14410650 用时0:00:03.777565
+2024-12-17 17:12:52.456 INFO [__main__] Wellington Phoenix FC (w) vs Sydney FC (w)的animation1为空
+2024-12-17 17:12:52.456 INFO [__main__] Canberra United (w) vs Melbourne Victory FC (w)的animation1为空
+2024-12-17 17:12:52.456 INFO [__main__] Newcastle Jets (w) vs Brisbane Roar FC (w)的animation1为空
+2024-12-17 17:12:52.456 INFO [__main__] Central Coast Mariners FC (w) vs Western United FC (w)的animation1为空
+2024-12-17 17:12:52.456 INFO [__main__] Botev Plovdiv vs PFC Ludogorets 1945 Razgrad的animation1为空
+2024-12-17 17:12:54.264 INFO [__main__] Simba SC vs Kengold FC获取Statscore ID成功: 14388535 用时0:00:01.808106
+2024-12-17 17:12:56.720 INFO [__main__] NK Osijek vs NK Istra 1961获取Statscore ID成功: 14412813 用时0:00:02.454985
+2024-12-17 17:12:56.721 INFO [__main__] HNK Gorica vs NK Lokomotiva Zagreb的animation1为空
+2024-12-17 17:12:58.764 INFO [__main__] GNK Dinamo Zagreb vs NK Varazdin获取Statscore ID成功: 14412814 用时0:00:02.043356
+2024-12-17 17:13:01.387 INFO [__main__] HNK Rijeka vs NK Slaven获取Statscore ID成功: 14413846 用时0:00:02.621934
+2024-12-17 17:13:04.186 INFO [__main__] HNK Sibenik vs HNK Hajduk Split获取Statscore ID成功: 14413845 用时0:00:02.798219
+2024-12-17 17:13:04.187 INFO [__main__] ACS Sepsi OSK Sfantu Gheorghe vs FC Universitatea Cluj的animation1为空
+2024-12-17 17:13:04.187 INFO [__main__] AFC Hermannstadt vs FC Farul Constanta的animation1为空
+2024-12-17 17:13:04.187 INFO [__main__] FC Gloria Buzau vs CS Universitatea Craiova 1948的animation1为空
+2024-12-17 17:13:04.188 INFO [__main__] FC Petrolul Ploiesti vs FC Unirea 2004 Slobozia的animation1为空
+2024-12-17 17:13:04.188 INFO [__main__] FC CFR 1907 Cluj vs ASC Otelul Galati的animation1为空
+2024-12-17 17:13:04.188 INFO [__main__] FC Dinamo Bucuresti 1948 vs Rapid Bucuresti 1923的animation1为空
+2024-12-17 17:13:04.188 INFO [__main__] FC UTA Arad vs FC Botosani的animation1为空
+2024-12-17 17:13:04.188 INFO [__main__] CSM Politehnica Iasi vs Fotbal Club FCSB的animation1为空
+2024-12-17 17:13:04.188 INFO [__main__] Sportive de Douala vs Yong Sports Academy的animation1为空
+2024-12-17 17:13:04.188 INFO [__main__] Colombe FC vs Dynamo de Douala的animation1为空
+2024-12-17 17:13:04.188 INFO [__main__] Bamboutos FC De Mbouda vs Aigle Royal du Moungo的animation1为空
+2024-12-17 17:13:04.188 INFO [__main__] Stade Renard vs Canon Sportife Yaounde的animation1为空
+2024-12-17 17:13:04.188 INFO [__main__] Fauve Azur Elite vs Coton Sport de Garoua的animation1为空
+2024-12-17 17:13:04.188 INFO [__main__] Astres FC de Douala vs Victoria United Limbe的animation1为空
+2024-12-17 17:13:06.984 INFO [__main__] Leixoes SC vs CD Mafra获取Statscore ID成功: 14391669 用时0:00:02.795789
+2024-12-17 17:13:10.272 INFO [__main__] FC Vizela vs FC Porto B获取Statscore ID成功: 14396761 用时0:00:03.287676
+2024-12-17 17:13:10.273 INFO [__main__] GD Chaves vs CD Tondela的animation1为空
+2024-12-17 17:13:10.273 INFO [__main__] FC Pacos Ferreira vs Alverca Futebol的animation1为空
+2024-12-17 17:13:10.274 INFO [__main__] SCU Torreense vs FC Penafiel的animation1为空
+2024-12-17 17:13:12.445 INFO [__main__] SL Benfica B vs FC Felgueiras 1932获取Statscore ID成功: 14407494 用时0:00:02.171170
+2024-12-17 17:13:12.445 INFO [__main__] Annan Athletic FC vs Arbroath FC的animation1为空
+2024-12-17 17:13:12.445 INFO [__main__] Montrose FC vs Dumbarton FC的animation1为空
+2024-12-17 17:13:12.445 INFO [__main__] Cove Rangers FC vs Alloa Athletic FC的animation1为空
+2024-12-17 17:13:12.445 INFO [__main__] Stenhousemuir FC vs Inverness CT的animation1为空
+2024-12-17 17:13:12.445 INFO [__main__] Kelty Hearts FC vs Queen of The South FC的animation1为空
+2024-12-17 17:13:15.024 INFO [__main__] OFI Crete vs Panachaiki 1891 FC获取Statscore ID成功: 14343765 用时0:00:02.578604
+2024-12-17 17:13:17.132 INFO [__main__] Panionios Athens vs Asteras Tripolis获取Statscore ID成功: 14343794 用时0:00:02.104802
+2024-12-17 17:13:19.210 INFO [__main__] AEK Athens vs PAOK Thessaloniki获取Statscore ID成功: 14343766 用时0:00:02.077523
+2024-12-17 17:13:21.829 INFO [__main__] Queens Park FC vs Raith Rovers FC获取Statscore ID成功: 14247478 用时0:00:02.616823
+2024-12-17 17:13:21.830 INFO [__main__] Airdrieonians FC vs Partick Thistle FC的animation1为空
+2024-12-17 17:13:21.830 INFO [__main__] Livingston FC vs Ayr United FC的animation1为空
+2024-12-17 17:13:21.830 INFO [__main__] Greenock Morton FC vs Dunfermline Athletic FC的animation1为空
+2024-12-17 17:13:21.831 INFO [__main__] Falkirk FC vs Hamilton Academical FC的animation1为空
+2024-12-17 17:13:21.831 INFO [__main__] East Fife FC vs Spartans FC的animation1为空
+2024-12-17 17:13:21.831 INFO [__main__] Stirling Albion FC vs Stranraer FC的animation1为空
+2024-12-17 17:13:21.831 INFO [__main__] Clyde FC vs Forfar Athletic FC的animation1为空
+2024-12-17 17:13:21.831 INFO [__main__] Edinburgh City FC vs Elgin City FC的animation1为空
+2024-12-17 17:13:21.831 INFO [__main__] Peterhead FC vs Bonnyrigg Rose的animation1为空
+2024-12-17 17:13:24.710 INFO [__main__] ALS Omonia vs Aris Limassol FC获取Statscore ID成功: 14238183 用时0:00:02.879001
+2024-12-17 17:13:24.711 INFO [__main__] Karmiotissa FC vs Enosis Neon Paralimni FC的animation1为空
+2024-12-17 17:13:24.711 INFO [__main__] Apollon Limassol vs Anorthosis Famagusta的animation1为空
+2024-12-17 17:13:24.711 INFO [__main__] Omonia Aradippou vs AEL Limassol的animation1为空
+2024-12-17 17:13:24.711 INFO [__main__] Pafos FC vs AEK Larnaca的animation1为空
+2024-12-17 17:13:24.712 INFO [__main__] AC Omonia Nicosia vs Nea Salamina Famagusta的animation1为空
+2024-12-17 17:13:24.712 INFO [__main__] Ethnikos Achnas FC vs APOEL Nikosia的animation1为空
+2024-12-17 17:13:26.854 INFO [__main__] FC Ingolstadt 04 vs Energie Cottbus获取Statscore ID成功: 13904602 用时0:00:02.141293
+2024-12-17 17:13:28.845 INFO [__main__] Erzgebirge Aue vs TSV 1860 Munich获取Statscore ID成功: 13904605 用时0:00:01.987324
+2024-12-17 17:13:31.244 INFO [__main__] Borussia Dortmund II vs 1. FC Saarbrucken获取Statscore ID成功: 13904607 用时0:00:02.397728
+2024-12-17 17:13:34.388 INFO [__main__] Rot Weiss Essen vs VFB Stuttgart II获取Statscore ID成功: 13904601 用时0:00:03.143441
+2024-12-17 17:13:34.388 INFO [__main__] FC Viktoria Cologne vs SV Sandhausen的animation1为空
+2024-12-17 17:13:34.388 INFO [__main__] SpVgg Unterhaching vs Dynamo Dresden的animation1为空
+2024-12-17 17:13:36.828 INFO [__main__] Alemannia Aachen vs SV Wehen Wiesbaden获取Statscore ID成功: 14364459 用时0:00:02.439985
+2024-12-17 17:13:36.829 INFO [__main__] SV Waldhof Mannheim 07 vs Arminia Bielefeld的animation1为空
+2024-12-17 17:13:36.829 INFO [__main__] SC Verl vs VfL 1899 Osnabruck的animation1为空
+2024-12-17 17:13:36.829 INFO [__main__] Hansa Rostock vs Hannover 96 II的animation1为空
+2024-12-17 17:13:36.829 INFO [__main__] US Lecce U20 vs Torino FC U20的animation1为空
+2024-12-17 17:13:36.829 INFO [__main__] AS Roma U20 vs Sampdoria U20的animation1为空
+2024-12-17 17:13:36.829 INFO [__main__] Cesena FC U20 vs Lazio U20的animation1为空
+2024-12-17 17:13:36.829 INFO [__main__] Inter Milan U20 vs Udinese Calcio U20的animation1为空
+2024-12-17 17:13:36.829 INFO [__main__] York City FC vs Southend United的animation1为空
+2024-12-17 17:13:36.829 INFO [__main__] Wealdstone FC vs Dagenham and Redbridge FC的animation1为空
+2024-12-17 17:13:36.829 INFO [__main__] Sutton United vs Tamworth FC的animation1为空
+2024-12-17 17:13:36.829 INFO [__main__] Rochdale AFC vs Boston United FC的animation1为空
+2024-12-17 17:13:36.829 INFO [__main__] Solihull Moors FC vs AFC Fylde的animation1为空
+2024-12-17 17:13:36.829 INFO [__main__] Ebbsfleet United FC vs Gateshead FC的animation1为空
+2024-12-17 17:13:36.829 INFO [__main__] Braintree Town FC vs Oldham Athletic的animation1为空
+2024-12-17 17:13:36.829 INFO [__main__] Hartlepool United FC vs Yeovil Town的animation1为空
+2024-12-17 17:13:39.110 INFO [__main__] Bnei Sakhnin FC vs Hapoel Beer Sheva FC获取Statscore ID成功: 14376833 用时0:00:02.280656
+2024-12-17 17:13:41.558 INFO [__main__] Maccabi Haifa FC vs Maccabi Netanya FC获取Statscore ID成功: 14376873 用时0:00:02.446795
+2024-12-17 17:13:43.591 INFO [__main__] Hapoel Ironi Kiryat Shmona FC vs FC Ashdod获取Statscore ID成功: 14384391 用时0:00:02.032044
+2024-12-17 17:13:45.775 INFO [__main__] Club NXT vs SV Zulte Waregem获取Statscore ID成功: 14414282 用时0:00:02.183270
+2024-12-17 17:13:48.893 INFO [__main__] Royal Francs Borains vs Jong KRC Genk获取Statscore ID成功: 14230534 用时0:00:03.115853
+2024-12-17 17:13:48.893 INFO [__main__] KAS Eupen vs RFC de Liege的animation1为空
+2024-12-17 17:13:51.489 INFO [__main__] Raal La Louviere vs RWD Molenbeek 47获取Statscore ID成功: 14238180 用时0:00:02.596123
+2024-12-17 17:13:51.490 INFO [__main__] KSC Lokeren Temse vs S.K Beveren的animation1为空
+2024-12-17 17:13:51.490 INFO [__main__] Patro Eisden Maasmechelen vs RFC Seraing的animation1为空
+2024-12-17 17:13:51.490 INFO [__main__] Lierse Kempenzonen vs Lommel SK的animation1为空
+2024-12-17 17:13:54.631 INFO [__main__] Linfield FC vs Glenavon FC获取Statscore ID成功: 13906097 用时0:00:03.141401
+2024-12-17 17:13:56.978 INFO [__main__] Cliftonville FC vs Glentoran FC获取Statscore ID成功: 13906089 用时0:00:02.346219
+2024-12-17 17:14:00.159 INFO [__main__] Loughgall FC vs Ballymena United FC获取Statscore ID成功: 13906094 用时0:00:03.179994
+2024-12-17 17:14:02.294 INFO [__main__] Portadown FC vs Crusaders FC获取Statscore ID成功: 13906090 用时0:00:02.134337
+2024-12-17 17:14:02.295 INFO [__main__] Dungannon Swifts FC vs Larne FC的animation1为空
+2024-12-17 17:14:02.295 INFO [__main__] Wigan Athletic U21 vs Coventry City U21的animation1为空
+2024-12-17 17:14:04.940 INFO [__main__] Stellenbosch FC vs Mamelodi Sundowns获取Statscore ID成功: 14341843 用时0:00:02.644624
+2024-12-17 17:14:07.432 INFO [__main__] Enyimba vs Nasarawa United获取Statscore ID成功: 14395786 用时0:00:02.491276
+2024-12-17 17:14:07.433 INFO [__main__] Real Madrid vs CF Pachuca的animation1为空
+2024-12-17 17:14:15.802 INFO [__main__] 插入了 389 条记录
+2024-12-17 17:14:15.804 INFO [__main__] 开始请求sportId: 3
+2024-12-17 17:14:16.539 INFO [__main__] 开始请求页数: 1 共2页
+2024-12-17 17:14:17.669 INFO [__main__] 开始请求页数: 2 共2页
+2024-12-17 17:14:18.527 INFO [__main__] Washington Wizards vs Charlotte Hornets的animation1为空
+2024-12-17 17:14:18.527 INFO [__main__] Orlando Magic vs Oklahoma City Thunder的animation1为空
+2024-12-17 17:14:18.527 INFO [__main__] Detroit Pistons vs Utah Jazz的animation1为空
+2024-12-17 17:14:18.527 INFO [__main__] Toronto Raptors vs Brooklyn Nets的animation1为空
+2024-12-17 17:14:18.527 INFO [__main__] Boston Celtics vs Chicago Bulls的animation1为空
+2024-12-17 17:14:18.527 INFO [__main__] San Antonio Spurs vs Atlanta Hawks的animation1为空
+2024-12-17 17:14:18.527 INFO [__main__] Memphis Grizzlies vs Golden State Warriors的animation1为空
+2024-12-17 17:14:18.527 INFO [__main__] Houston Rockets vs New Orleans Pelicans的animation1为空
+2024-12-17 17:14:18.527 INFO [__main__] Phoenix Suns vs Indiana Pacers的animation1为空
+2024-12-17 17:14:18.527 INFO [__main__] Minnesota Timberwolves vs New York Knicks的animation1为空
+2024-12-17 17:14:18.527 INFO [__main__] New York Knicks vs San Antonio Spurs的animation1为空
+2024-12-17 17:14:18.527 INFO [__main__] Dallas Mavericks vs Minnesota Timberwolves的animation1为空
+2024-12-17 17:14:18.527 INFO [__main__] Boston Celtics vs Philadelphia 76ers的animation1为空
+2024-12-17 17:14:18.527 INFO [__main__] Golden State Warriors vs Los Angeles Lakers的animation1为空
+2024-12-17 17:14:18.527 INFO [__main__] Phoenix Suns vs Denver Nuggets的animation1为空
+2024-12-17 17:14:18.528 INFO [__main__] New Zealand Breakers vs Sydney Kings的animation1为空
+2024-12-17 17:14:18.528 INFO [__main__] Brisbane Bullets vs Cairns Taipans的animation1为空
+2024-12-17 17:14:18.528 INFO [__main__] SE Melbourne Phoenix vs Adelaide 36Ers的animation1为空
+2024-12-17 17:14:18.528 INFO [__main__] Illawarra Hawks vs Perth Wildcats的animation1为空
+2024-12-17 17:14:18.528 INFO [__main__] Melbourne United vs Tasmania Jackjumpers的animation1为空
+2024-12-17 17:14:18.528 INFO [__main__] Townsville Fire (w) vs Sydney Flames (w)的animation1为空
+2024-12-17 17:14:18.528 INFO [__main__] Adelaide Lightning (w) vs Southside Flyers (w)的animation1为空
+2024-12-17 17:14:18.528 INFO [__main__] Townsville Fire (w) vs UC Capitals (w)的animation1为空
+2024-12-17 17:14:20.594 INFO [__main__] Anadolu Efes SK vs KK Crvena Zvezda获取Statscore ID成功: 14377704 用时0:00:02.066458
+2024-12-17 17:14:22.749 INFO [__main__] BC Olympiakos Piraeus vs Virtus Bologna获取Statscore ID成功: 14377708 用时0:00:02.153828
+2024-12-17 17:14:25.642 INFO [__main__] KK Buducnost Voli vs Aquila Basket Trento获取Statscore ID成功: 14418385 用时0:00:02.889926
+2024-12-17 17:14:27.973 INFO [__main__] KK Cedevita Olimpija vs Turk Telekom获取Statscore ID成功: 14418414 用时0:00:02.330126
+2024-12-17 17:14:30.263 INFO [__main__] Ratiopharm Ulm vs BC Wolves获取Statscore ID成功: 14418416 用时0:00:02.289464
+2024-12-17 17:14:32.481 INFO [__main__] Hapoel Tel Aviv vs Besiktas JK获取Statscore ID成功: 14418399 用时0:00:02.218124
+2024-12-17 17:14:35.597 INFO [__main__] Club Joventut Badalona vs Trefl Sopot获取Statscore ID成功: 14418396 用时0:00:03.115817
+2024-12-17 17:14:37.824 INFO [__main__] UCAM Murcia CB vs Peristeri Athens获取Statscore ID成功: 14418725 用时0:00:02.225584
+2024-12-17 17:14:40.065 INFO [__main__] Manisa vs KK FMP Belgrade获取Statscore ID成功: 14418724 用时0:00:02.241367
+2024-12-17 17:14:40.066 INFO [__main__] Igokea Aleksandrovac vs S.Oliver Wurzburg的animation1为空
+2024-12-17 17:14:43.112 INFO [__main__] Nanterre 92 vs Hapoel Holon BC获取Statscore ID成功: 14418599 用时0:00:03.046498
+2024-12-17 17:14:46.340 INFO [__main__] Slask Wroclaw vs BC Rytas Vilnius获取Statscore ID成功: 14418701 用时0:00:03.226771
+2024-12-17 17:14:48.999 INFO [__main__] Reggio Emilia vs Falco KC Szombathely获取Statscore ID成功: 14418700 用时0:00:02.658233
+2024-12-17 17:14:51.457 INFO [__main__] CB 1939 Canarias vs Kolossos Rhodes获取Statscore ID成功: 14418677 用时0:00:02.456642
+2024-12-17 17:14:53.727 INFO [__main__] Saint Quentin vs Pinar Karsiyaka获取Statscore ID成功: 14418679 用时0:00:02.268766
+2024-12-17 17:14:56.022 INFO [__main__] CBK Mersin (w) vs PF Schio (w)获取Statscore ID成功: 14419500 用时0:00:02.294608
+2024-12-17 17:14:58.436 INFO [__main__] ZVVZ USK Praha (w) vs BC Polkowice (w)获取Statscore ID成功: 14419499 用时0:00:02.412908
+2024-12-17 17:15:01.942 INFO [__main__] Umana Venezia (w) vs Fenerbahce SK (w)获取Statscore ID成功: 14419520 用时0:00:03.505389
+2024-12-17 17:15:04.180 INFO [__main__] Tango Bourges Basket (w) vs Avenida (w)获取Statscore ID成功: 14419536 用时0:00:02.237564
+2024-12-17 17:15:06.461 INFO [__main__] Lapuan Korikobrat vs Kataja获取Statscore ID成功: 14377693 用时0:00:02.280357
+2024-12-17 17:15:08.842 INFO [__main__] BC Nokia vs Pyrinto Tampere获取Statscore ID成功: 14377700 用时0:00:02.380088
+2024-12-17 17:15:11.136 INFO [__main__] KTP Kotka Basket vs Salon Vilpas Vikings获取Statscore ID成功: 14377702 用时0:00:02.293741
+2024-12-17 17:15:13.572 INFO [__main__] Bisons Loimaa vs Kouvot Kouvola获取Statscore ID成功: 14377699 用时0:00:02.434188
+2024-12-17 17:15:13.573 INFO [__main__] BC Samara vs CSKA Moscow的animation1为空
+2024-12-17 17:15:13.574 INFO [__main__] Nizhny Novgorod vs Enisey Krasnoyarsk的animation1为空
+2024-12-17 17:15:16.099 INFO [__main__] BC Zenit Saint Petersburg vs BC Unics Kazan获取Statscore ID成功: 14413243 用时0:00:02.524820
+2024-12-17 17:15:16.100 INFO [__main__] Lokomotiv Kuban vs MBA Moscow的animation1为空
+2024-12-17 17:15:18.275 INFO [__main__] Dziki Warszawa vs MKS Start Lublin获取Statscore ID成功: 14384916 用时0:00:02.174445
+2024-12-17 17:15:18.276 INFO [__main__] Botafogo vs Bauru Basket SP的animation1为空
+2024-12-17 17:15:18.276 INFO [__main__] Uni Baskets Munster vs Eisbaren Bremerhaven的animation1为空
+2024-12-17 17:15:18.276 INFO [__main__] Bears Academy vs Randers Cimbria的animation1为空
+2024-12-17 17:15:18.277 INFO [__main__] Club Bigua de Villa Biarritz vs Hebraica Macabi的animation1为空
+2024-12-17 17:15:20.380 INFO [__main__] TalTech Basketball vs Latvijas Universitate获取Statscore ID成功: 14414362 用时0:00:02.103408
+2024-12-17 17:15:20.381 INFO [__main__] Parnu vs Rigas Zelli的animation1为空
+2024-12-17 17:15:20.381 INFO [__main__] BK Ogre vs Avis Utilitas Rapla的animation1为空
+2024-12-17 17:15:23.160 INFO [__main__] KK Viimsi vs Valmiera Glass Via获取Statscore ID成功: 14414949 用时0:00:02.778187
+2024-12-17 17:15:23.161 INFO [__main__] USK Praha vs Sluneta Usti Nad Labem的animation1为空
+2024-12-17 17:15:25.539 INFO [__main__] Vitoria Sport Clube vs CD Povoa获取Statscore ID成功: 14419941 用时0:00:02.377577
+2024-12-17 17:15:33.392 INFO [__main__] 插入了 61 条记录
+2024-12-17 17:15:33.393 INFO [__main__] 开始请求sportId: 5
+2024-12-17 17:15:34.155 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 17:15:35.113 INFO [__main__] 开始请求sportId: 13
+2024-12-17 17:15:35.758 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 17:15:39.488 INFO [__main__] VK Lvi Praha vs Asseco Resovia Rzeszow获取Statscore ID成功: 14420698 用时0:00:02.762952
+2024-12-17 17:15:39.489 INFO [__main__] Volley Amriswil vs Omonia Nicosia的animation1为空
+2024-12-17 17:15:41.877 INFO [__main__] AONS Milon vs CV Guaguas获取Statscore ID成功: 14420702 用时0:00:02.388705
+2024-12-17 17:15:44.007 INFO [__main__] Tours Volleyball vs HAOK Mladost获取Statscore ID成功: 14420705 用时0:00:02.125690
+2024-12-17 17:15:44.007 INFO [__main__] Pafiakos Pafos vs Draisma Dynamo的animation1为空
+2024-12-17 17:15:44.008 INFO [__main__] Ziraat Bankasi Ankara vs Galatasaray Istanbul的animation1为空
+2024-12-17 17:15:44.011 INFO [__main__] Halkbank Ankara vs VK Ceske Budejovice的animation1为空
+2024-12-17 17:15:44.011 INFO [__main__] Warta Zawiercie vs Knack Roeselare的animation1为空
+2024-12-17 17:15:46.618 INFO [__main__] Power Volley Milano vs Hypo Tirol获取Statscore ID成功: 14377633 用时0:00:02.605991
+2024-12-17 17:15:46.620 INFO [__main__] SVG Luneburg vs Levski Sofia的animation1为空
+2024-12-17 17:15:46.620 INFO [__main__] Berlin RV vs VC Maaseik的animation1为空
+2024-12-17 17:15:46.620 INFO [__main__] TSV Giesen Grizzlys vs Olympiacos的animation1为空
+2024-12-17 17:15:46.621 INFO [__main__] Jastrzebski Wegiel vs Chaumont 52的animation1为空
+2024-12-17 17:15:46.621 INFO [__main__] Sir Safety Perugia vs St. Nazaire VB的animation1为空
+2024-12-17 17:15:49.353 INFO [__main__] Spor Toto SK Ankara vs WWK Volleys Herrsching获取Statscore ID成功: 14385593 用时0:00:02.732166
+2024-12-17 17:15:49.354 INFO [__main__] Volley Nafels vs CV Melilla的animation1为空
+2024-12-17 17:15:51.554 INFO [__main__] Sporting CP vs Akaa Volley获取Statscore ID成功: 14385002 用时0:00:02.199474
+2024-12-17 17:15:51.555 INFO [__main__] Volley Civitanova vs OK Karadjordje Topola的animation1为空
+2024-12-17 17:15:51.555 INFO [__main__] SC Potsdam (w) vs Dresdner SC (w)的animation1为空
+2024-12-17 17:15:54.255 INFO [__main__] AA Neurologia Ativa vs Volei Guarulhos获取Statscore ID成功: 14377632 用时0:00:02.699876
+2024-12-17 17:15:56.496 INFO [__main__] Praia Clube vs Minas获取Statscore ID成功: 14384999 用时0:00:02.239755
+2024-12-17 17:16:00.183 INFO [__main__] Apan Blumenau vs Sada Cruzeiro获取Statscore ID成功: 14385004 用时0:00:03.686283
+2024-12-17 17:16:03.112 INFO [__main__] Goias Ec vs Joinville Volei获取Statscore ID成功: 14392579 用时0:00:02.928486
+2024-12-17 17:16:03.115 INFO [__main__] Minchanka Minsk (w) vs Proton Saratov (w)的animation1为空
+2024-12-17 17:16:03.115 INFO [__main__] Tulitsa Tula (w) vs Lokomotiv Kaliningrad Region (w)的animation1为空
+2024-12-17 17:16:03.115 INFO [__main__] Leningradka St Petersburg (w) vs Dynamo Moscow (w)的animation1为空
+2024-12-17 17:16:03.115 INFO [__main__] Dynamo Krasnodar (w) vs Uralochka NTMK Yekaterinburg (w)的animation1为空
+2024-12-17 17:16:03.115 INFO [__main__] Zarechye Odintsovo (w) vs Dinamo Metar (w)的animation1为空
+2024-12-17 17:16:05.912 INFO [__main__] Hebar Pazardzhik vs Pirin Razlog获取Statscore ID成功: 14420800 用时0:00:02.796574
+2024-12-17 17:16:08.367 INFO [__main__] Beroe vs Deya Volley Burgas获取Statscore ID成功: 14403193 用时0:00:02.452729
+2024-12-17 17:16:08.367 INFO [__main__] SK Aich Dob vs Raiffeisen Waldviertel的animation1为空
+2024-12-17 17:16:15.869 INFO [__main__] 插入了 31 条记录
+2024-12-17 17:16:15.872 INFO [__main__] 开始请求sportId: 2
+2024-12-17 17:16:16.753 INFO [__main__] 开始请求页数: 1 共2页
+2024-12-17 17:16:17.563 INFO [__main__] 开始请求页数: 2 共2页
+2024-12-17 17:16:18.354 INFO [__main__] Metallurg Magnitogorsk vs Avtomobilist Ekaterinburg的animation1为空
+2024-12-17 17:16:18.354 INFO [__main__] Traktor Chelyabinsk vs Dinamo Minsk的animation1为空
+2024-12-17 17:16:18.354 INFO [__main__] AK Bars Kazan vs Salavat Yulaev UFA的animation1为空
+2024-12-17 17:16:18.354 INFO [__main__] Severstal Cherepovets vs HC Sochi的animation1为空
+2024-12-17 17:16:18.354 INFO [__main__] Neftekhimik Nizhnekamsk vs Avangard Omsk的animation1为空
+2024-12-17 17:16:18.354 INFO [__main__] Dynamo Moscow vs Admiral Vladivostok的animation1为空
+2024-12-17 17:16:18.354 INFO [__main__] CSKA Moscow vs Spartak Moscow的animation1为空
+2024-12-17 17:16:18.354 INFO [__main__] Kunlun Red Star vs Barys Astana的animation1为空
+2024-12-17 17:16:18.355 INFO [__main__] SKA Saint Petersburg vs Torpedo Nizhny Novgorod的animation1为空
+2024-12-17 17:16:20.765 INFO [__main__] Grizzlys Wolfsburg vs ERC Ingolstadt获取Statscore ID成功: 14414952 用时0:00:02.410533
+2024-12-17 17:16:20.766 INFO [__main__] Iserlohn Roosters vs Schwenninger Wild Wings的animation1为空
+2024-12-17 17:16:20.766 INFO [__main__] Nurnberg Ice Tigers vs Kolner Haie的animation1为空
+2024-12-17 17:16:20.766 INFO [__main__] IFK Helsinki vs Vaasan Sport的animation1为空
+2024-12-17 17:16:20.766 INFO [__main__] KooKoo vs Kiekko Espoo的animation1为空
+2024-12-17 17:16:20.766 INFO [__main__] Porin Assat vs HPK Hameenlinna的animation1为空
+2024-12-17 17:16:20.767 INFO [__main__] Lahti Pelicans vs Lappeenranta SaiPa的animation1为空
+2024-12-17 17:16:20.767 INFO [__main__] Rauman Lukko vs Kuopio KalPa的animation1为空
+2024-12-17 17:16:20.767 INFO [__main__] TPS Turku vs JYP Jyvaskyla的animation1为空
+2024-12-17 17:16:20.767 INFO [__main__] Oulun Karpat vs Mikkelin Jukurit的animation1为空
+2024-12-17 17:16:20.768 INFO [__main__] BK Mlada Boleslav vs HC Olomouc的animation1为空
+2024-12-17 17:16:20.768 INFO [__main__] HC Plzen vs HC Vitkovice的animation1为空
+2024-12-17 17:16:20.768 INFO [__main__] HC Litvinov vs Mountfield HK的animation1为空
+2024-12-17 17:16:20.768 INFO [__main__] Ceske Budejovice vs Energie Karlovy Vary的animation1为空
+2024-12-17 17:16:20.768 INFO [__main__] HC Kometa Brno vs Bili Tygri Liberec的animation1为空
+2024-12-17 17:16:20.768 INFO [__main__] HC Pardubice vs HC Rytiri Kladno的animation1为空
+2024-12-17 17:16:20.768 INFO [__main__] Sparta Prague vs Ocelari Trinec的animation1为空
+2024-12-17 17:16:20.768 INFO [__main__] Skelleftea AIK vs Timraa IK的animation1为空
+2024-12-17 17:16:20.768 INFO [__main__] Lulea Hockey vs MODO Hockey的animation1为空
+2024-12-17 17:16:20.769 INFO [__main__] Linkopings HC vs Rogle BK的animation1为空
+2024-12-17 17:16:20.769 INFO [__main__] Vaxjo Lakers vs HC Orebro的animation1为空
+2024-12-17 17:16:20.769 INFO [__main__] Frolunda HC vs HV71的animation1为空
+2024-12-17 17:16:20.769 INFO [__main__] Brynas IF vs Farjestads BK的animation1为空
+2024-12-17 17:16:20.769 INFO [__main__] Malmo IF vs Leksands IF的animation1为空
+2024-12-17 17:16:20.769 INFO [__main__] EHC Kloten vs HC Lugano的animation1为空
+2024-12-17 17:16:20.769 INFO [__main__] HC Lausanne vs HC Ambri Piotta的animation1为空
+2024-12-17 17:16:20.769 INFO [__main__] SC Rapperswil Jona Lakers vs SC Bern的animation1为空
+2024-12-17 17:16:20.769 INFO [__main__] HC Davos vs SCL Tigers Langnau的animation1为空
+2024-12-17 17:16:25.847 INFO [__main__] 插入了 37 条记录
+2024-12-17 17:16:25.849 INFO [__main__] 开始请求sportId: 6
+2024-12-17 17:16:26.540 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 17:16:27.173 INFO [__main__] Los Angeles Chargers vs Denver Broncos的animation1为空
+2024-12-17 17:16:27.174 INFO [__main__] Kansas City Chiefs vs Houston Texans的animation1为空
+2024-12-17 17:16:27.174 INFO [__main__] Baltimore Ravens vs Pittsburgh Steelers的animation1为空
+2024-12-17 17:16:27.174 INFO [__main__] Cincinnati Bengals vs Cleveland Browns的animation1为空
+2024-12-17 17:16:27.174 INFO [__main__] Indianapolis Colts vs Tennessee Titans的animation1为空
+2024-12-17 17:16:27.174 INFO [__main__] Carolina Panthers vs Arizona Cardinals的animation1为空
+2024-12-17 17:16:27.174 INFO [__main__] Washington Commanders vs Philadelphia Eagles的animation1为空
+2024-12-17 17:16:27.174 INFO [__main__] Atlanta Falcons vs New York Giants的animation1为空
+2024-12-17 17:16:27.174 INFO [__main__] New York Jets vs Los Angeles Rams的animation1为空
+2024-12-17 17:16:27.174 INFO [__main__] Chicago Bears vs Detroit Lions的animation1为空
+2024-12-17 17:16:27.174 INFO [__main__] Seattle Seahawks vs Minnesota Vikings的animation1为空
+2024-12-17 17:16:27.174 INFO [__main__] Miami Dolphins vs San Francisco 49ers的animation1为空
+2024-12-17 17:16:27.174 INFO [__main__] Buffalo Bills vs New England Patriots的animation1为空
+2024-12-17 17:16:27.174 INFO [__main__] Las Vegas Raiders vs Jacksonville Jaguars的animation1为空
+2024-12-17 17:16:27.174 INFO [__main__] Dallas Cowboys vs Tampa Bay Buccaneers的animation1为空
+2024-12-17 17:16:27.174 INFO [__main__] Green Bay Packers vs New Orleans Saints的animation1为空
+2024-12-17 17:16:27.174 INFO [__main__] James Madison Dukes vs Western Kentucky Hilltoppers的animation1为空
+2024-12-17 17:16:27.174 INFO [__main__] UNLV Rebels vs California Golden Bears的animation1为空
+2024-12-17 17:16:27.174 INFO [__main__] Sam Houston State Bearkats vs Georgia Southern Eagles的animation1为空
+2024-12-17 17:16:27.175 INFO [__main__] Jacksonville State Gamecocks vs Ohio Bobcats的animation1为空
+2024-12-17 17:16:27.175 INFO [__main__] Florida Gators vs Tulane Green Wave的animation1为空
+2024-12-17 17:16:27.175 INFO [__main__] Notre Dame Fighting Irish vs Indiana Hoosiers的animation1为空
+2024-12-17 17:16:29.198 INFO [__main__] Penn State Nittany Lions vs SMU Mustangs获取Statscore ID成功: 14362770 用时0:00:02.022985
+2024-12-17 17:16:31.489 INFO [__main__] Texas Longhorns vs Clemson Tigers获取Statscore ID成功: 14362744 用时0:00:02.290361
+2024-12-17 17:16:31.490 INFO [__main__] Ohio State Buckeyes vs Tennessee Volunteers的animation1为空
+2024-12-17 17:16:31.490 INFO [__main__] UT San Antonio Roadrunners vs Coastal Carolina Chanticleers的animation1为空
+2024-12-17 17:16:31.490 INFO [__main__] Fresno State Bulldogs vs Northern Illinois Huskies的animation1为空
+2024-12-17 17:16:31.490 INFO [__main__] Navy Midshipmen vs Oklahoma Sooners的animation1为空
+2024-12-17 17:16:31.490 INFO [__main__] TCU Horned Frogs vs Louisiana Lafayette Ragin Cajuns的animation1为空
+2024-12-17 17:16:31.490 INFO [__main__] Army Black Knights vs Louisiana Tech Bulldogs的animation1为空
+2024-12-17 17:16:31.490 INFO [__main__] Michigan Wolverines vs Alabama Crimson Tide的animation1为空
+2024-12-17 17:16:34.765 INFO [__main__] 插入了 31 条记录
+2024-12-17 17:16:34.766 INFO [__main__] 开始请求sportId: 18
+2024-12-17 17:16:35.322 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 17:16:35.838 INFO [__main__] 开始请求sportId: 19
+2024-12-17 17:16:36.469 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 17:16:37.065 INFO [__main__] 开始请求sportId: 14
+2024-12-17 17:16:37.655 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 17:16:38.207 INFO [__main__] Melbourne Stars vs Brisbane Heat的animation1为空
+2024-12-17 17:16:41.437 INFO [__main__] 插入了 1 条记录
+2024-12-17 17:16:41.438 INFO [__main__] 开始请求sportId: 16
+2024-12-17 17:16:41.933 INFO [__main__] 开始请求sportId: 47
+2024-12-17 17:16:42.430 INFO [__main__] 开始请求sportId: 15
+2024-12-17 17:16:43.057 INFO [__main__] 开始请求sportId: 7
+2024-12-17 17:16:43.742 INFO [__main__] 开始请求sportId: 24
+2024-12-17 17:16:44.236 INFO [__main__] 开始请求sportId: 92
+2024-12-17 17:28:48.286 INFO [__main__] 程序开始运行
+2024-12-17 17:28:48.286 ERROR [__main__] 这是一条测试错误信息
+2024-12-17 17:28:48.360 INFO [__main__] 开始请求sportId: 1
+2024-12-17 17:28:49.010 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 17:28:51.386 INFO [__main__] Malut United FC vs PSM Makassar获取Statscore ID成功: 14209016 用时0:00:01.580219
+2024-12-17 17:28:51.386 INFO [__main__] SHB Da Nang vs Long An FC的animation1为空
+2024-12-17 17:28:51.386 INFO [__main__] Delhi FT vs Tamil Nadu FC的animation1为空
+2024-12-17 17:28:51.386 INFO [__main__] Punjab Heroes FC (w) vs Haryana (w)的animation1为空
+2024-12-17 17:28:51.386 INFO [__main__] NFRSA vs Pride East Mavericks的animation1为空
+2024-12-17 17:28:54.402 INFO [__main__] 更新了 4 条记录
+2024-12-17 17:28:55.179 INFO [__main__] 插入了 1 条记录
+2024-12-17 17:28:55.180 INFO [__main__] 开始请求sportId: 3
+2024-12-17 17:28:55.805 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 17:28:57.881 INFO [__main__] Converge Fiberxers vs NLEX Road Warriors获取Statscore ID成功: 14418879 用时0:00:01.557982
+2024-12-17 17:29:00.287 INFO [__main__] 更新了 1 条记录
+2024-12-17 17:29:00.423 INFO [__main__] 开始请求sportId: 5
+2024-12-17 17:29:01.035 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 17:29:01.549 INFO [__main__] George Lazarov (BUL) vs Giannicola Misasi (ITA)的animation1为空
+2024-12-17 17:29:01.549 INFO [__main__] Andrea Paolini (ITA) vs Simone Agostini (ITA)的animation1为空
+2024-12-17 17:29:01.549 INFO [__main__] Federico Campana (ITA) vs Fabrizio Karol Pio Osti (ITA)的animation1为空
+2024-12-17 17:29:01.549 INFO [__main__] Nikita Mashtakov (UKR) vs Anthony Genov (BUL)的animation1为空
+2024-12-17 17:29:01.549 INFO [__main__] Simeon Stankovic (SRB) vs Wout Vermeer (NED)的animation1为空
+2024-12-17 17:29:01.549 INFO [__main__] Bunyawi Thamchaiwat (THA) vs Shrivalli Rashmikaa Bhamidipaty (IND)的animation1为空
+2024-12-17 17:29:01.549 INFO [__main__] Honoka Kobayashi (JPN) vs Zuzanna Pawlikowska (POL)的animation1为空
+2024-12-17 17:29:01.549 INFO [__main__] Jizel Matos Sequeira Fernandes (GBR) vs Eva Garkusha (RUS)的animation1为空
+2024-12-17 17:29:01.549 INFO [__main__] Yasmine Kabbaj (MAR) vs Olivia Bergler (POL)的animation1为空
+2024-12-17 17:29:01.549 INFO [__main__] Edda Mamedova (RUS) vs Laura Boehner (GER)的animation1为空
+2024-12-17 17:29:05.155 INFO [__main__] 更新了 9 条记录
+2024-12-17 17:29:05.838 INFO [__main__] 插入了 1 条记录
+2024-12-17 17:29:05.842 INFO [__main__] 开始请求sportId: 13
+2024-12-17 17:29:06.334 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 17:29:06.891 INFO [__main__] 开始请求sportId: 2
+2024-12-17 17:29:07.460 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 17:29:07.968 INFO [__main__] Amur Khabarovsk vs Admiral Vladivostok的animation1为空
+2024-12-17 17:29:10.382 INFO [__main__] 更新了 1 条记录
+2024-12-17 17:29:10.520 INFO [__main__] 开始请求sportId: 6
+2024-12-17 17:29:11.007 INFO [__main__] 开始请求sportId: 18
+2024-12-17 17:29:11.613 INFO [__main__] 开始请求sportId: 19
+2024-12-17 17:29:12.132 INFO [__main__] 开始请求sportId: 14
+2024-12-17 17:29:12.724 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 17:29:13.396 INFO [__main__] Sydney Thunder vs Adelaide Strikers的animation1为空
+2024-12-17 17:29:16.022 INFO [__main__] 更新了 1 条记录
+2024-12-17 17:29:16.156 INFO [__main__] 开始请求sportId: 16
+2024-12-17 17:29:16.736 INFO [__main__] 开始请求sportId: 47
+2024-12-17 17:29:17.303 INFO [__main__] 开始请求sportId: 15
+2024-12-17 17:29:17.831 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 17:29:18.423 INFO [__main__] Jakub Pruszkowski vs Patryk Gamrot的animation1为空
+2024-12-17 17:29:18.425 INFO [__main__] Marcin Jadczyk vs Damian Wederlich的animation1为空
+2024-12-17 17:29:18.425 INFO [__main__] Vladimir Libovicky (CZE) vs Ondrej Sebek (CZE)的animation1为空
+2024-12-17 17:29:21.261 INFO [__main__] 插入了 3 条记录
+2024-12-17 17:29:21.263 INFO [__main__] 开始请求sportId: 7
+2024-12-17 17:29:21.785 INFO [__main__] 开始请求sportId: 24
+2024-12-17 17:29:22.313 INFO [__main__] 开始请求sportId: 92
+2024-12-17 17:36:39.682 INFO [__main__] 程序开始运行
+2024-12-17 17:36:39.682 ERROR [__main__] 这是一条测试错误信息
+2024-12-17 17:36:39.763 INFO [__main__] 开始请求sportId: 1
+2024-12-17 17:36:40.285 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 17:36:42.425 INFO [__main__] Kuala Lumpur City FC vs Negeri Sembilan获取Statscore ID成功: 14183740 用时0:00:01.625401
+2024-12-17 17:36:44.122 INFO [__main__] Malut United FC vs PSM Makassar获取Statscore ID成功: 14209016 用时0:00:01.696149
+2024-12-17 17:36:44.122 INFO [__main__] SHB Da Nang vs Long An FC的animation1为空
+2024-12-17 17:36:44.122 INFO [__main__] Delhi FT vs Tamil Nadu FC的animation1为空
+2024-12-17 17:36:44.122 INFO [__main__] Punjab Heroes FC (w) vs Haryana (w)的animation1为空
+2024-12-17 17:36:44.122 INFO [__main__] NFRSA vs Pride East Mavericks的animation1为空
+2024-12-17 17:36:47.169 INFO [__main__] 更新了 5 条记录
+2024-12-17 17:36:47.934 INFO [__main__] 插入了 1 条记录
+2024-12-17 17:36:47.935 INFO [__main__] 开始请求sportId: 3
+2024-12-17 17:36:48.549 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 17:36:51.134 INFO [__main__] Converge Fiberxers vs NLEX Road Warriors获取Statscore ID成功: 14418879 用时0:00:02.029574
+2024-12-17 17:36:53.572 INFO [__main__] 更新了 1 条记录
+2024-12-17 17:36:53.707 INFO [__main__] 开始请求sportId: 5
+2024-12-17 17:36:54.325 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 17:36:54.892 INFO [__main__] Andrea Paolini (ITA) vs Simone Agostini (ITA)的animation1为空
+2024-12-17 17:36:54.892 INFO [__main__] Federico Campana (ITA) vs Fabrizio Karol Pio Osti (ITA)的animation1为空
+2024-12-17 17:36:54.892 INFO [__main__] Nikita Mashtakov (UKR) vs Anthony Genov (BUL)的animation1为空
+2024-12-17 17:36:54.892 INFO [__main__] Simeon Stankovic (SRB) vs Wout Vermeer (NED)的animation1为空
+2024-12-17 17:36:54.893 INFO [__main__] Tommaso Compagnucci (ITA) vs Niccolo Catini (ITA)的animation1为空
+2024-12-17 17:36:54.893 INFO [__main__] Bunyawi Thamchaiwat (THA) vs Shrivalli Rashmikaa Bhamidipaty (IND)的animation1为空
+2024-12-17 17:36:54.893 INFO [__main__] Honoka Kobayashi (JPN) vs Zuzanna Pawlikowska (POL)的animation1为空
+2024-12-17 17:36:54.893 INFO [__main__] Jizel Matos Sequeira Fernandes (GBR) vs Eva Garkusha (RUS)的animation1为空
+2024-12-17 17:36:54.893 INFO [__main__] Yasmine Kabbaj (MAR) vs Olivia Bergler (POL)的animation1为空
+2024-12-17 17:36:54.893 INFO [__main__] Edda Mamedova (RUS) vs Laura Boehner (GER)的animation1为空
+2024-12-17 17:36:58.541 INFO [__main__] 更新了 9 条记录
+2024-12-17 17:36:59.218 INFO [__main__] 插入了 1 条记录
+2024-12-17 17:36:59.219 INFO [__main__] 开始请求sportId: 13
+2024-12-17 17:36:59.866 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 17:37:00.406 INFO [__main__] 开始请求sportId: 2
+2024-12-17 17:37:00.920 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 17:37:01.514 INFO [__main__] Amur Khabarovsk vs Admiral Vladivostok的animation1为空
+2024-12-17 17:37:03.942 INFO [__main__] 更新了 1 条记录
+2024-12-17 17:37:04.084 INFO [__main__] 开始请求sportId: 6
+2024-12-17 17:37:04.784 INFO [__main__] 开始请求sportId: 18
+2024-12-17 17:37:05.279 INFO [__main__] 开始请求sportId: 19
+2024-12-17 17:37:05.805 INFO [__main__] 开始请求sportId: 14
+2024-12-17 17:37:06.358 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 17:37:06.874 INFO [__main__] Sydney Thunder vs Adelaide Strikers的animation1为空
+2024-12-17 17:37:09.287 INFO [__main__] 更新了 1 条记录
+2024-12-17 17:37:09.418 INFO [__main__] 开始请求sportId: 16
+2024-12-17 17:37:10.003 INFO [__main__] 开始请求sportId: 47
+2024-12-17 17:37:10.526 INFO [__main__] 开始请求sportId: 15
+2024-12-17 17:37:11.065 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 17:37:11.701 INFO [__main__] Marcin Jadczyk vs Damian Wederlich的animation1为空
+2024-12-17 17:37:11.701 INFO [__main__] Josef Braun vs Michal Murawski的animation1为空
+2024-12-17 17:37:11.701 INFO [__main__] Vladimir Libovicky (CZE) vs Ondrej Sebek (CZE)的animation1为空
+2024-12-17 17:37:11.702 INFO [__main__] Tomas Cerveny (CZE) vs Vojtech Kosak (CZE)的animation1为空
+2024-12-17 17:37:13.208 INFO [__main__] Milan Smesny (CZE) vs Miloslav Lubas (CZE)获取Statscore ID成功: 14419298 用时0:00:01.505874
+2024-12-17 17:37:14.825 INFO [__main__] Josef Belovsky (CZE) vs Tomas Andrle (CZE)获取Statscore ID成功: 14419294 用时0:00:01.616498
+2024-12-17 17:37:16.319 INFO [__main__] Jan Pleskot (CZE) vs Lubor Sulava (CZE)获取Statscore ID成功: 14419109 用时0:00:01.492793
+2024-12-17 17:37:16.320 INFO [__main__] Zdenek Zikmunda (CZE) vs Patrik Klusacek (CZE)的animation1为空
+2024-12-17 17:37:18.992 INFO [__main__] 更新了 2 条记录
+2024-12-17 17:37:19.773 INFO [__main__] 插入了 6 条记录
+2024-12-17 17:37:19.776 INFO [__main__] 开始请求sportId: 7
+2024-12-17 17:37:20.330 INFO [__main__] 开始请求sportId: 24
+2024-12-17 17:37:20.862 INFO [__main__] 开始请求sportId: 92
+2024-12-17 17:43:56.188 INFO [__main__] 程序开始运行
+2024-12-17 17:43:56.189 ERROR [__main__] 这是一条测试错误信息
+2024-12-17 17:43:56.258 INFO [__main__] 开始请求sportId: 1
+2024-12-17 17:43:56.903 INFO [__main__] 开始请求页数: 1 共3页
+2024-12-17 17:43:57.555 INFO [__main__] 开始请求页数: 2 共3页
+2024-12-17 17:43:58.286 INFO [__main__] 开始请求页数: 3 共3页
+2024-12-17 17:44:00.351 INFO [__main__] Juventus vs Cagliari Calcio获取Statscore ID成功: 14286582 用时0:00:01.538835
+2024-12-17 17:44:02.516 INFO [__main__] Granada CF vs FC Cartagena获取Statscore ID成功: 14215872 用时0:00:02.163976
+2024-12-17 17:44:04.227 INFO [__main__] Albacete Balompie vs Levante UD获取Statscore ID成功: 14215874 用时0:00:01.707804
+2024-12-17 17:44:05.793 INFO [__main__] Cordoba CF vs SD Eibar获取Statscore ID成功: 14215881 用时0:00:01.565258
+2024-12-17 17:44:07.511 INFO [__main__] Real Zaragoza vs Real Oviedo获取Statscore ID成功: 14215879 用时0:00:01.717157
+2024-12-17 17:44:09.292 INFO [__main__] Al Jandal vs Al Jubail获取Statscore ID成功: 14412388 用时0:00:01.779923
+2024-12-17 17:44:10.803 INFO [__main__] AL Ain FC vs AL Hazem FC获取Statscore ID成功: 14412569 用时0:00:01.510414
+2024-12-17 17:44:12.925 INFO [__main__] Al Safa (Sa) vs Al Zulfi获取Statscore ID成功: 14413606 用时0:00:02.121453
+2024-12-17 17:44:14.486 INFO [__main__] PSV Eindhoven vs Koninklijke HFC获取Statscore ID成功: 14397780 用时0:00:01.559910
+2024-12-17 17:44:16.350 INFO [__main__] K.V.V. Quick Boys vs Fortuna Sittard获取Statscore ID成功: 14397779 用时0:00:01.863982
+2024-12-17 17:44:17.868 INFO [__main__] FC Eindhoven vs SBV Excelsior获取Statscore ID成功: 14397782 用时0:00:01.517387
+2024-12-17 17:44:17.869 INFO [__main__] RKC Waalwijk vs SC Cambuur的animation1为空
+2024-12-17 17:44:19.454 INFO [__main__] MVV Maastricht vs Feyenoord获取Statscore ID成功: 14397781 用时0:00:01.584570
+2024-12-17 17:44:21.131 INFO [__main__] Eyupspor vs Etimesgut Belediyespor获取Statscore ID成功: 14421363 用时0:00:01.675854
+2024-12-17 17:44:21.132 INFO [__main__] Konyaspor vs Karacabey Belediyespor AS的animation1为空
+2024-12-17 17:44:22.941 INFO [__main__] Caykur Rizespor vs Van Spor FK获取Statscore ID成功: 14408878 用时0:00:01.808936
+2024-12-17 17:44:22.942 INFO [__main__] Alanyaspor vs Amed Sportif Faaliyetler的animation1为空
+2024-12-17 17:44:25.187 INFO [__main__] Cambodia vs Timor Leste获取Statscore ID成功: 13970363 用时0:00:02.244739
+2024-12-17 17:44:26.791 INFO [__main__] Singapore vs Thailand获取Statscore ID成功: 13914993 用时0:00:01.603515
+2024-12-17 17:44:28.845 INFO [__main__] Perak FC vs Selangor FC获取Statscore ID成功: 14183744 用时0:00:02.053294
+2024-12-17 17:44:31.056 INFO [__main__] Sri Pahang FC vs Johor Darul Takzim FC获取Statscore ID成功: 14183748 用时0:00:02.210294
+2024-12-17 17:44:33.054 INFO [__main__] PSS Sleman vs PSIS Semarang获取Statscore ID成功: 14209017 用时0:00:01.996872
+2024-12-17 17:44:34.931 INFO [__main__] SC East Bengal vs RoundGlass Punjab FC获取Statscore ID成功: 14370642 用时0:00:01.875333
+2024-12-17 17:44:36.903 INFO [__main__] AL Karmel vs Al Yarmouk获取Statscore ID成功: 14418917 用时0:00:01.970502
+2024-12-17 17:44:38.753 INFO [__main__] KRC Genk U19 vs Puskas Akademia U19获取Statscore ID成功: 14418448 用时0:00:01.849692
+2024-12-17 17:44:41.492 INFO [__main__] FC Twente Enschede (w) vs Celtic LFC (w)获取Statscore ID成功: 14412441 用时0:00:02.738698
+2024-12-17 17:44:43.309 INFO [__main__] Real Madrid CF (w) vs Chelsea FC (w)获取Statscore ID成功: 14412443 用时0:00:01.816696
+2024-12-17 17:44:45.120 INFO [__main__] Olympique Lyonnais (w) vs VFL Wolfsburg (w)获取Statscore ID成功: 14412442 用时0:00:01.810578
+2024-12-17 17:44:47.025 INFO [__main__] AS Roma (w) vs Galatasaray SK (w)获取Statscore ID成功: 14412440 用时0:00:01.902547
+2024-12-17 17:44:47.025 INFO [__main__] Shabab Al Ahli vs Al Wasl FC的animation1为空
+2024-12-17 17:44:48.637 INFO [__main__] El Qanah vs Tersana SC获取Statscore ID成功: 14390253 用时0:00:01.611866
+2024-12-17 17:44:50.343 INFO [__main__] Pyramids FC vs Al Ittihad Alexandria获取Statscore ID成功: 14417687 用时0:00:01.705572
+2024-12-17 17:44:51.965 INFO [__main__] Al Salt vs Al Wehdat Amman获取Statscore ID成功: 13905352 用时0:00:01.621069
+2024-12-17 17:44:53.549 INFO [__main__] CR Belouizdad vs JS Saoura获取Statscore ID成功: 14383862 用时0:00:01.583262
+2024-12-17 17:44:55.086 INFO [__main__] ES Setif vs Paradou AC获取Statscore ID成功: 14383863 用时0:00:01.537126
+2024-12-17 17:44:55.087 INFO [__main__] JS Kabylie vs El Bayadh的animation1为空
+2024-12-17 17:44:56.936 INFO [__main__] Santa Clara U23 vs CD Mafra U23获取Statscore ID成功: 13906429 用时0:00:01.848757
+2024-12-17 17:44:59.558 INFO [__main__] Estoril Praia U23 vs SC Farense U23获取Statscore ID成功: 13906432 用时0:00:02.622002
+2024-12-17 17:45:01.364 INFO [__main__] SL Benfica U23 vs Estrela Amadora U23获取Statscore ID成功: 13906428 用时0:00:01.805571
+2024-12-17 17:45:03.417 INFO [__main__] Sporting CP U23 vs Portimonense U23获取Statscore ID成功: 13906430 用时0:00:02.051553
+2024-12-17 17:45:05.344 INFO [__main__] FC Unirea Alba Iulia vs CSM Ramnicu Valcea获取Statscore ID成功: 14323888 用时0:00:01.926783
+2024-12-17 17:45:07.030 INFO [__main__] ASC Otelul Galati vs ACS Sepsi OSK Sfantu Gheorghe获取Statscore ID成功: 14323882 用时0:00:01.685412
+2024-12-17 17:45:08.838 INFO [__main__] CSM Resita vs FK Csikszereda Miercurea Ciuc获取Statscore ID成功: 14323887 用时0:00:01.807584
+2024-12-17 17:45:10.877 INFO [__main__] Kitayosce vs Coastal Union FC获取Statscore ID成功: 14324248 用时0:00:02.037439
+2024-12-17 17:45:12.555 INFO [__main__] Azam FC vs Singida Fountain Gate获取Statscore ID成功: 14325329 用时0:00:01.677738
+2024-12-17 17:45:14.356 INFO [__main__] Ballymena United FC vs Glentoran FC获取Statscore ID成功: 14325901 用时0:00:01.800289
+2024-12-17 17:45:16.141 INFO [__main__] KS Besa Kavaje vs KS Lushnja获取Statscore ID成功: 14400829 用时0:00:01.783056
+2024-12-17 17:45:16.141 INFO [__main__] Kelty Hearts FC vs Arbroath FC的animation1为空
+2024-12-17 17:45:16.141 INFO [__main__] Airdrieonians FC vs Livingston FC的animation1为空
+2024-12-17 17:45:16.141 INFO [__main__] Elgin City FC vs Clyde FC的animation1为空
+2024-12-17 17:45:16.141 INFO [__main__] Forfar Athletic FC vs Peterhead FC的animation1为空
+2024-12-17 17:45:18.063 INFO [__main__] Club Deportivo San Jose vs Blooming Santa Cruz获取Statscore ID成功: 14421159 用时0:00:01.921921
+2024-12-17 17:45:20.125 INFO [__main__] Independiente Petrolero vs Always Ready获取Statscore ID成功: 14421190 用时0:00:02.061582
+2024-12-17 17:45:21.760 INFO [__main__] Club Aurora vs CA Nacional Potosi获取Statscore ID成功: 14421181 用时0:00:01.634657
+2024-12-17 17:45:23.672 INFO [__main__] Guabira Montero vs Royal Pari FC获取Statscore ID成功: 14421218 用时0:00:01.911137
+2024-12-17 17:45:23.673 INFO [__main__] Blackpool vs Aston Villa FC U21的animation1为空
+2024-12-17 17:45:25.411 INFO [__main__] Peterborough United vs Northampton Town获取Statscore ID成功: 14410923 用时0:00:01.737831
+2024-12-17 17:45:25.412 INFO [__main__] Prestatyn Town vs Denbigh Town的animation1为空
+2024-12-17 17:45:27.368 INFO [__main__] Rochdale AFC vs Tamworth FC获取Statscore ID成功: 14209018 用时0:00:01.955841
+2024-12-17 17:45:28.930 INFO [__main__] Glenavon FC vs Crusaders FC获取Statscore ID成功: 14376280 用时0:00:01.561761
+2024-12-17 17:45:30.490 INFO [__main__] Dungannon Swifts FC vs Linfield FC获取Statscore ID成功: 14376279 用时0:00:01.558588
+2024-12-17 17:45:30.491 INFO [__main__] Ipswich Town U21 vs Colchester United U21的animation1为空
+2024-12-17 17:45:30.491 INFO [__main__] Barnsley U21 vs Sheffield Wednesday U21的animation1为空
+2024-12-17 17:45:30.491 INFO [__main__] Burnley FC U21 vs Hull City U21的animation1为空
+2024-12-17 17:45:32.063 INFO [__main__] Tonbridge Angels vs Chesham United获取Statscore ID成功: 14209041 用时0:00:01.572011
+2024-12-17 17:45:34.215 INFO [__main__] Salisbury FC vs Maidstone United FC获取Statscore ID成功: 14373279 用时0:00:02.150805
+2024-12-17 17:45:36.965 INFO [__main__] Worksop Town vs Warrington Rylands 1906 FC获取Statscore ID成功: 14209040 用时0:00:02.750327
+2024-12-17 17:45:39.014 INFO [__main__] Bamber Bridge vs Macclesfield Town获取Statscore ID成功: 14209042 用时0:00:02.048678
+2024-12-17 17:45:40.850 INFO [__main__] Gainsborough Trinity vs Hyde United FC获取Statscore ID成功: 14209039 用时0:00:01.835357
+2024-12-17 17:45:40.852 INFO [__main__] Gateshead FC vs Farsley Celtic FC的animation1为空
+2024-12-17 17:45:40.852 INFO [__main__] Hamrun Spartans FC vs Mosta FC的animation1为空
+2024-12-17 17:45:40.852 INFO [__main__] Floriana FC vs Sliema Wanderers FC的animation1为空
+2024-12-17 17:45:42.924 INFO [__main__] Brackley Town FC vs Kings Lynn FC获取Statscore ID成功: 14365957 用时0:00:02.071862
+2024-12-17 17:45:45.006 INFO [__main__] Hereford FC vs Scarborough Athletic获取Statscore ID成功: 14365956 用时0:00:02.081003
+2024-12-17 17:45:45.007 INFO [__main__] Charlton Athletic U21 vs Birmingham City U21的animation1为空
+2024-12-17 17:45:45.007 INFO [__main__] Stockport County U21 vs Leeds United U21的animation1为空
+2024-12-17 17:45:45.007 INFO [__main__] Kerala FA vs Meghalaya的animation1为空
+2024-12-17 17:45:45.007 INFO [__main__] Chichester City FC vs Whitehawk FC的animation1为空
+2024-12-17 17:45:45.007 INFO [__main__] Horsham FC vs Dartford FC的animation1为空
+2024-12-17 17:45:47.087 INFO [__main__] Cheshunt FC vs Bowers & Pitsea FC获取Statscore ID成功: 14220147 用时0:00:02.079360
+2024-12-17 17:45:47.087 INFO [__main__] Winchester City FC vs Basingstoke Town FC的animation1为空
+2024-12-17 17:45:48.586 INFO [__main__] Biggleswade Town vs Harborough Town FC获取Statscore ID成功: 14397625 用时0:00:01.498500
+2024-12-17 17:45:48.586 INFO [__main__] Guam vs Hong Kong的animation1为空
+2024-12-17 17:45:51.621 INFO [__main__] 插入了 83 条记录
+2024-12-17 17:45:51.622 INFO [__main__] 开始请求sportId: 3
+2024-12-17 17:45:52.256 INFO [__main__] 开始请求页数: 1 共3页
+2024-12-17 17:45:52.859 INFO [__main__] 开始请求页数: 2 共3页
+2024-12-17 17:45:53.463 INFO [__main__] 开始请求页数: 3 共3页
+2024-12-17 17:45:55.825 INFO [__main__] Oklahoma City Thunder vs Milwaukee Bucks获取Statscore ID成功: 14421162 用时0:00:01.739875
+2024-12-17 17:45:57.290 INFO [__main__] Zhejiang Golden Bulls vs Sichuan Blue Whales获取Statscore ID成功: 14419790 用时0:00:01.464770
+2024-12-17 17:45:58.801 INFO [__main__] Ningbo Rockets vs Beijing Royal Fighters获取Statscore ID成功: 14419789 用时0:00:01.510268
+2024-12-17 17:46:00.900 INFO [__main__] LG Sakers vs Samsung Thunders获取Statscore ID成功: 14370649 用时0:00:02.097879
+2024-12-17 17:46:02.749 INFO [__main__] Phoenix Fuel Masters vs NorthPort Batang Pier获取Statscore ID成功: 14418923 用时0:00:01.848558
+2024-12-17 17:46:02.749 INFO [__main__] Hefei Culture and Tourism (w) vs Shaanxi Tianze Red Wolves (w)的animation1为空
+2024-12-17 17:46:02.750 INFO [__main__] Sichuan Yuanda (w) vs Dongguan Xintong Sheng (w)的animation1为空
+2024-12-17 17:46:04.254 INFO [__main__] Shanxi Xing Rui Flame (w) vs Shandong High Speed (w)获取Statscore ID成功: 14418977 用时0:00:01.504384
+2024-12-17 17:46:06.141 INFO [__main__] AS Monaco vs Bayern Munich获取Statscore ID成功: 14370644 用时0:00:01.885716
+2024-12-17 17:46:08.453 INFO [__main__] Maccabi Tel Aviv vs Baskonia Vitoria Gasteiz获取Statscore ID成功: 14370654 用时0:00:02.311837
+2024-12-17 17:46:10.170 INFO [__main__] Panathinaikos BC vs Olimpia Milano获取Statscore ID成功: 14370655 用时0:00:01.715954
+2024-12-17 17:46:13.059 INFO [__main__] Paris Basketball vs Real Madrid获取Statscore ID成功: 14370645 用时0:00:02.886963
+2024-12-17 17:46:15.056 INFO [__main__] FC Barcelona vs Fenerbahce Istanbul获取Statscore ID成功: 14370643 用时0:00:01.996285
+2024-12-17 17:46:16.766 INFO [__main__] KK Partizan Nis Belgrade vs ASVEL Lyon Villeurbanne获取Statscore ID成功: 14370656 用时0:00:01.709946
+2024-12-17 17:46:18.726 INFO [__main__] Alba Berlin vs BC Zalgiris Kaunas获取Statscore ID成功: 14370646 用时0:00:01.959091
+2024-12-17 17:46:20.295 INFO [__main__] Bahcesehir Koleji vs CB Gran Canaria获取Statscore ID成功: 14418384 用时0:00:01.568309
+2024-12-17 17:46:21.869 INFO [__main__] BC Aris Thessaloniki vs BC Lietkabelis Panevezys获取Statscore ID成功: 14418397 用时0:00:01.572696
+2024-12-17 17:46:23.448 INFO [__main__] Hamburg Towers vs Hapoel Jerusalem获取Statscore ID成功: 14418398 用时0:00:01.578325
+2024-12-17 17:46:25.407 INFO [__main__] Cholet Basket vs JDA Dijon Basket获取Statscore ID成功: 14370653 用时0:00:01.958146
+2024-12-17 17:46:26.969 INFO [__main__] BC AEK Athens vs Telekom Baskets Bonn获取Statscore ID成功: 14418716 用时0:00:01.561128
+2024-12-17 17:46:28.424 INFO [__main__] VEF Riga vs Maccabi Ironi Ramat Gan获取Statscore ID成功: 14418702 用时0:00:01.454308
+2024-12-17 17:46:30.063 INFO [__main__] Wilki Morskie Szczecin vs Unicaja Malaga获取Statscore ID成功: 14418676 用时0:00:01.638960
+2024-12-17 17:46:32.219 INFO [__main__] BC Oostende vs Petkim Spor获取Statscore ID成功: 14418673 用时0:00:02.155274
+2024-12-17 17:46:33.800 INFO [__main__] Basquet Manresa vs Derthona Basket获取Statscore ID成功: 14418708 用时0:00:01.580094
+2024-12-17 17:46:35.380 INFO [__main__] Rasta Vechta vs Galatasaray SK获取Statscore ID成功: 14418693 用时0:00:01.580162
+2024-12-17 17:46:36.944 INFO [__main__] Basketball Nymburk vs Promitheas Patras BC获取Statscore ID成功: 14418678 用时0:00:01.562455
+2024-12-17 17:46:38.495 INFO [__main__] Benfica Lisboa vs Niners Chemnitz获取Statscore ID成功: 14418707 用时0:00:01.550528
+2024-12-17 17:46:40.364 INFO [__main__] BK Zabiny Brno (w) vs Basket Landes (w)获取Statscore ID成功: 14419501 用时0:00:01.868353
+2024-12-17 17:46:41.894 INFO [__main__] Valencia BC (w) vs Basket Zaragoza 2002 (w)获取Statscore ID成功: 14419498 用时0:00:01.527938
+2024-12-17 17:46:43.752 INFO [__main__] Elitzur Ramla (w) vs DVTK Miskolc (w)获取Statscore ID成功: 14381565 用时0:00:01.857193
+2024-12-17 17:46:45.578 INFO [__main__] Helsinki Seagulls vs UU Korihait Uusikaupunki获取Statscore ID成功: 14370652 用时0:00:01.826007
+2024-12-17 17:46:47.554 INFO [__main__] Tapiolan Honka Espoo vs Kauhajoki Karhu获取Statscore ID成功: 14370651 用时0:00:01.974589
+2024-12-17 17:46:49.643 INFO [__main__] BK Uralmash Yekaterinburg vs Avtodor Saratov获取Statscore ID成功: 14406009 用时0:00:02.088334
+2024-12-17 17:46:51.630 INFO [__main__] Astana vs Parma Perm获取Statscore ID成功: 14406008 用时0:00:01.986898
+2024-12-17 17:46:53.877 INFO [__main__] Alytaus Alytus vs Neptunas Akvaservis Klaipeda获取Statscore ID成功: 14381560 用时0:00:02.246664
+2024-12-17 17:46:55.929 INFO [__main__] BC Zalgiris Kaunas II vs BC Vytis获取Statscore ID成功: 14381562 用时0:00:02.051098
+2024-12-17 17:46:55.929 INFO [__main__] Delikatesas Joniskis vs BC Jurbarkas Karys的animation1为空
+2024-12-17 17:46:57.855 INFO [__main__] Al Bashaer vs Shabab Al Ahli Dubai获取Statscore ID成功: 14417483 用时0:00:01.925328
+2024-12-17 17:46:59.914 INFO [__main__] Howard Bison vs Drexel Dragons获取Statscore ID成功: 14335896 用时0:00:02.058241
+2024-12-17 17:47:02.027 INFO [__main__] North Carolina Asheville Bulldogs vs North Florida Ospreys获取Statscore ID成功: 14335973 用时0:00:02.112828
+2024-12-17 17:47:02.028 INFO [__main__] Florida Gators vs North Carolina Tar Heels的animation1为空
+2024-12-17 17:47:04.311 INFO [__main__] NC Charlotte 49ers vs West Georgia Wolves获取Statscore ID成功: 14331623 用时0:00:02.283270
+2024-12-17 17:47:06.786 INFO [__main__] Robert Morris Colonials vs Towson Tigers获取Statscore ID成功: 14335839 用时0:00:02.474371
+2024-12-17 17:47:08.677 INFO [__main__] South Carolina Gamecocks vs Clemson Tigers获取Statscore ID成功: 14335766 用时0:00:01.889992
+2024-12-17 17:47:10.988 INFO [__main__] Wake Forest Demon Deacons vs James Madison Dukes获取Statscore ID成功: 14331413 用时0:00:02.309829
+2024-12-17 17:47:13.229 INFO [__main__] Dayton Flyers vs UNLV Runnin Rebels获取Statscore ID成功: 14335659 用时0:00:02.239468
+2024-12-17 17:47:15.138 INFO [__main__] Quinnipiac Bobcats vs Holy Cross Crusaders获取Statscore ID成功: 14335880 用时0:00:01.908262
+2024-12-17 17:47:17.096 INFO [__main__] Stony Brook Seawolves vs Marist Red Foxes获取Statscore ID成功: 14335759 用时0:00:01.957341
+2024-12-17 17:47:19.104 INFO [__main__] Ole Miss Rebels vs Southern University Jaguars获取Statscore ID成功: 14335946 用时0:00:02.007561
+2024-12-17 17:47:21.181 INFO [__main__] Georgia Southern Eagles vs Gardner Webb Runnin Bulldogs获取Statscore ID成功: 14335775 用时0:00:02.076165
+2024-12-17 17:47:23.200 INFO [__main__] Tennessee Volunteers vs Western Carolina Catamounts获取Statscore ID成功: 14336137 用时0:00:02.017539
+2024-12-17 17:47:25.279 INFO [__main__] North Carolina A&T Aggies vs Coastal Carolina Chanticleers获取Statscore ID成功: 14336095 用时0:00:02.077951
+2024-12-17 17:47:27.376 INFO [__main__] Duke Blue Devils vs George Mason Patriots获取Statscore ID成功: 14335745 用时0:00:02.096370
+2024-12-17 17:47:29.474 INFO [__main__] Siena Saints vs St Bonaventure Bonnies获取Statscore ID成功: 14335960 用时0:00:02.098243
+2024-12-17 17:47:31.422 INFO [__main__] Florida State Seminoles vs Winthrop Eagles获取Statscore ID成功: 14336256 用时0:00:01.946732
+2024-12-17 17:47:33.684 INFO [__main__] East Carolina Pirates vs FIU Panthers获取Statscore ID成功: 14336161 用时0:00:02.261748
+2024-12-17 17:47:35.766 INFO [__main__] Missouri Tigers vs Jacksonville State Gamecocks获取Statscore ID成功: 14335938 用时0:00:02.080617
+2024-12-17 17:47:37.764 INFO [__main__] Mississippi State Bulldogs vs Central Michigan Chippewas获取Statscore ID成功: 14335826 用时0:00:01.997718
+2024-12-17 17:47:39.839 INFO [__main__] Maryland Terrapins vs St. Francis (PA) Red Flash获取Statscore ID成功: 14336180 用时0:00:02.073098
+2024-12-17 17:47:42.580 INFO [__main__] Villanova Wildcats vs Seton Hall Pirates获取Statscore ID成功: 14335660 用时0:00:02.740072
+2024-12-17 17:47:45.521 INFO [__main__] Wichita State Shockers vs Kansas City Roos获取Statscore ID成功: 14335630 用时0:00:02.940711
+2024-12-17 17:47:47.462 INFO [__main__] Western Kentucky Hilltoppers vs Seattle University Redhawks获取Statscore ID成功: 14335714 用时0:00:01.938962
+2024-12-17 17:47:49.400 INFO [__main__] Kansas State Wildcats vs Drake Bulldogs获取Statscore ID成功: 14335647 用时0:00:01.936890
+2024-12-17 17:47:51.493 INFO [__main__] Ohio State Buckeyes vs Valparaiso Beacons获取Statscore ID成功: 14336120 用时0:00:02.093310
+2024-12-17 17:47:53.687 INFO [__main__] Southern Miss Golden Eagles vs Lamar Cardinals获取Statscore ID成功: 14335940 用时0:00:02.193259
+2024-12-17 17:47:55.775 INFO [__main__] Auburn Tigers vs Georgia State Panthers获取Statscore ID成功: 14336305 用时0:00:02.086805
+2024-12-17 17:47:57.907 INFO [__main__] Western Illinois Leathernecks vs Tennessee Tech Golden Eagles获取Statscore ID成功: 14335996 用时0:00:02.131527
+2024-12-17 17:47:59.877 INFO [__main__] Louisiana Monroe Warhawks vs Houston Christian Huskies获取Statscore ID成功: 14335929 用时0:00:01.969898
+2024-12-17 17:48:02.171 INFO [__main__] Colorado State Rams vs Radford Highlanders获取Statscore ID成功: 14333507 用时0:00:02.293080
+2024-12-17 17:48:04.185 INFO [__main__] LSU Tigers vs Stetson Hatters获取Statscore ID成功: 14335641 用时0:00:02.013241
+2024-12-17 17:48:06.203 INFO [__main__] Boise State Broncos vs Texas Southern Tigers获取Statscore ID成功: 14335795 用时0:00:02.017089
+2024-12-17 17:48:08.162 INFO [__main__] Utah Utes vs Florida A&M Rattlers获取Statscore ID成功: 14336065 用时0:00:01.958854
+2024-12-17 17:48:10.269 INFO [__main__] Utah State Aggies vs UC San Diego Tritons获取Statscore ID成功: 14335618 用时0:00:02.106138
+2024-12-17 17:48:12.327 INFO [__main__] UCLA Bruins vs Prairie View A&M Panthers获取Statscore ID成功: 14336154 用时0:00:02.056539
+2024-12-17 17:48:14.558 INFO [__main__] Cal Poly Mustangs vs Denver Pioneers获取Statscore ID成功: 14335620 用时0:00:02.229938
+2024-12-17 17:48:16.561 INFO [__main__] Stanford Cardinal vs Merrimack Warriors获取Statscore ID成功: 14336199 用时0:00:02.002776
+2024-12-17 17:48:18.750 INFO [__main__] Oregon State Beavers vs Sacramento State Hornets获取Statscore ID成功: 14335824 用时0:00:02.188111
+2024-12-17 17:48:18.750 INFO [__main__] Shandong Hi Speed Kirin (Res) vs Nanjing Tongxi Monkey Kings (Res)的animation1为空
+2024-12-17 17:48:18.751 INFO [__main__] Beijing Ducks (Res) vs Shanxi Loongs (Res)的animation1为空
+2024-12-17 17:48:18.751 INFO [__main__] Taoyuan Pilots vs Tainan TSG GhostHawks的animation1为空
+2024-12-17 17:48:20.859 INFO [__main__] CS Dinamo Bucuresti vs Basket Brno获取Statscore ID成功: 14421012 用时0:00:02.107798
+2024-12-17 17:48:23.626 INFO [__main__] Sao Jose dos Campos vs EC Pinheiros SP获取Statscore ID成功: 14409025 用时0:00:02.767089
+2024-12-17 17:48:25.399 INFO [__main__] Mogi das Cruzes vs SC Corinthians Paulista获取Statscore ID成功: 14409026 用时0:00:01.772623
+2024-12-17 17:48:27.550 INFO [__main__] Etha Engomis vs Apoel Nicosia获取Statscore ID成功: 14417326 用时0:00:02.149364
+2024-12-17 17:48:29.563 INFO [__main__] Baerums Verk Defenders vs Asker Aliens BC获取Statscore ID成功: 14413160 用时0:00:02.011850
+2024-12-17 17:48:29.563 INFO [__main__] BC Lulea vs KFUM Nassjo的animation1为空
+2024-12-17 17:48:29.564 INFO [__main__] Team FOG Naestved vs Copenhagen Basketball的animation1为空
+2024-12-17 17:48:31.594 INFO [__main__] Aguada vs Trouville获取Statscore ID成功: 14409029 用时0:00:02.030115
+2024-12-17 17:48:31.595 INFO [__main__] Ironi Nahariya vs Otef Darom BC的animation1为空
+2024-12-17 17:48:31.595 INFO [__main__] Hapoel Eilat vs Hapoel Migdal Haemek的animation1为空
+2024-12-17 17:48:31.595 INFO [__main__] Hapoel Kfar Saba vs Maccabi Raanana的animation1为空
+2024-12-17 17:48:31.595 INFO [__main__] Maccabi Rehovot vs Elitzur Shomron的animation1为空
+2024-12-17 17:48:34.040 INFO [__main__] Hapoel Bnei Kfar Kasem vs Elitzur Yavne获取Statscore ID成功: 14417853 用时0:00:02.444807
+2024-12-17 17:48:36.809 INFO [__main__] BK Liepaja vs Keila Coolbet获取Statscore ID成功: 14407638 用时0:00:02.768290
+2024-12-17 17:48:38.956 INFO [__main__] KK Teodo Tivat vs Helios Domzale获取Statscore ID成功: 14380034 用时0:00:02.144976
+2024-12-17 17:48:40.954 INFO [__main__] KK Siroki vs KK Joker Sombor获取Statscore ID成功: 14380033 用时0:00:01.996443
+2024-12-17 17:48:43.066 INFO [__main__] Al Arabi vs Al Sadd获取Statscore ID成功: 14417282 用时0:00:02.110983
+2024-12-17 17:48:44.996 INFO [__main__] Qatar Sports Club vs Al Shamal获取Statscore ID成功: 14417283 用时0:00:01.928718
+2024-12-17 17:48:44.997 INFO [__main__] KK Sencur Kranj vs KK Triglav Kranj的animation1为空
+2024-12-17 17:48:44.997 INFO [__main__] Al Difaa Aljawie vs AL Hilla的animation1为空
+2024-12-17 17:48:44.997 INFO [__main__] Al Hashd Al Shaabi vs Dijlah University Sports Club的animation1为空
+2024-12-17 17:48:47.088 INFO [__main__] Sporting CP vs Imortal BC获取Statscore ID成功: 14419942 用时0:00:02.090303
+2024-12-17 17:48:50.256 INFO [__main__] FC Porto vs CA Queluz获取Statscore ID成功: 14419940 用时0:00:03.167690
+2024-12-17 17:48:52.336 INFO [__main__] CP Esgueira vs UD Oliveirense获取Statscore ID成功: 14420194 用时0:00:02.079840
+2024-12-17 17:48:54.236 INFO [__main__] Spirou Charleroi vs Limburg United获取Statscore ID成功: 14417177 用时0:00:01.898574
+2024-12-17 17:48:54.237 INFO [__main__] Karkkila vs Puhu Juniorit的animation1为空
+2024-12-17 17:48:54.237 INFO [__main__] BC Nokia Akatemia vs Team Pajulahti的animation1为空
+2024-12-17 17:48:56.600 INFO [__main__] ZKK Buducnost Bemax (w) vs Partizan 1953 (w)获取Statscore ID成功: 14421032 用时0:00:02.362397
+2024-12-17 17:48:56.601 INFO [__main__] Stjarnan (w) vs UMF Tindastoll (w)的animation1为空
+2024-12-17 17:48:56.601 INFO [__main__] Athena (w) vs Haukar (w)的animation1为空
+2024-12-17 17:48:56.601 INFO [__main__] Thor AK (w) vs Hamar (w)的animation1为空
+2024-12-17 17:48:56.601 INFO [__main__] CSU Cluj Napoca (w) vs CSM Targoviste (w)的animation1为空
+2024-12-17 17:48:56.601 INFO [__main__] Ferro Carril Oeste (w) vs Obras Basket (w)的animation1为空
+2024-12-17 17:48:56.601 INFO [__main__] Basket Foxes Giussano (w) vs Cestistica Spezzina (w)的animation1为空
+2024-12-17 17:48:58.693 INFO [__main__] Baerum (w) vs Ammerud Queens (w)获取Statscore ID成功: 14418721 用时0:00:02.091900
+2024-12-17 17:49:01.643 INFO [__main__] 插入了 115 条记录
+2024-12-17 17:49:01.645 INFO [__main__] 开始请求sportId: 5
+2024-12-17 17:49:02.266 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 17:49:02.819 INFO [__main__] Aliaksandr Liaonenka (BLR) vs Ryan Peniston (GBR)的animation1为空
+2024-12-17 17:49:02.819 INFO [__main__] Philip Hjorth (DEN) vs Paul Valsecchi (FRA)的animation1为空
+2024-12-17 17:49:02.819 INFO [__main__] Tom Hands (GBR) vs Yassine Smiej (MAR)的animation1为空
+2024-12-17 17:49:02.819 INFO [__main__] Amaury Raynel (FRA) vs Bader Alabdullah (KUW)的animation1为空
+2024-12-17 17:49:02.819 INFO [__main__] Jeremy Schifris (GER) vs Arthur Bonnaud (FRA)的animation1为空
+2024-12-17 17:49:02.819 INFO [__main__] Sebastian Grundtvig Jorgensen (DEN) vs Matthew Summers (GBR)的animation1为空
+2024-12-17 17:49:02.819 INFO [__main__] Cem Ilkel (TUR) vs Christian Sigsgaard (DEN)的animation1为空
+2024-12-17 17:49:02.819 INFO [__main__] Sean Cuenin (FRA) vs Eero Vasa (FIN)的animation1为空
+2024-12-17 17:49:02.819 INFO [__main__] Adrian Oetzbach (GER) vs Yua Taka (JPN)的animation1为空
+2024-12-17 17:49:02.819 INFO [__main__] Noah Perfetti (ITA) vs Lorenzo Angelini (ITA)的animation1为空
+2024-12-17 17:49:02.819 INFO [__main__] Tang Sheng (CHN) vs Franco Agamenone (ITA)的animation1为空
+2024-12-17 17:49:02.819 INFO [__main__] Gabriele Maria Noce (ITA) vs Nikola Jovic (SRB)的animation1为空
+2024-12-17 17:49:02.820 INFO [__main__] Sam Ryan Ziegann (AUS) vs Anton Shepp (NZL)的animation1为空
+2024-12-17 17:49:02.820 INFO [__main__] Matt Kuhar (USA) vs Jack Loutit (NZL)的animation1为空
+2024-12-17 17:49:02.820 INFO [__main__] Tai Sach (AUS) vs Corban Crowther (NZL)的animation1为空
+2024-12-17 17:49:02.820 INFO [__main__] Jesse Delaney (AUS) vs Derek Pham (AUS)的animation1为空
+2024-12-17 17:49:02.820 INFO [__main__] Ajeet Rai (NZL) vs Reece Falck (NZL)的animation1为空
+2024-12-17 17:49:02.820 INFO [__main__] Ekaterina Reyngold (RUS) vs Vaishnavi Adkar (IND)的animation1为空
+2024-12-17 17:49:02.820 INFO [__main__] Merel Hoedt (NED) vs Yui Chikaraishi (JPN)的animation1为空
+2024-12-17 17:49:02.820 INFO [__main__] Wan I Wen (TPE) vs Yuka Hosoki (JPN)的animation1为空
+2024-12-17 17:49:02.820 INFO [__main__] Helena Guan (AUS) vs Bianca Compuesto (AUS)的animation1为空
+2024-12-17 17:49:02.820 INFO [__main__] Monique Barry (NZL) vs Vivian Yang (NZL)的animation1为空
+2024-12-17 17:49:02.820 INFO [__main__] Wi Hwi Won (KOR) vs Zhang Ying (CHN)的animation1为空
+2024-12-17 17:49:02.820 INFO [__main__] Oh Eunji (KOR) vs Maelys Bougrat (FRA)的animation1为空
+2024-12-17 17:49:02.820 INFO [__main__] Emma Van Poppel (NED) vs Shiho Akita (JPN)的animation1为空
+2024-12-17 17:49:02.820 INFO [__main__] Leilany Ipunesso (NCL) vs Amelia Zylberman (AUS)的animation1为空
+2024-12-17 17:49:02.820 INFO [__main__] Jaimee Fourlis (AUS) vs Ava Hrastar (USA)的animation1为空
+2024-12-17 17:49:02.820 INFO [__main__] Maria Kalyakina (RUS) vs Briana Szabo (ROU)的animation1为空
+2024-12-17 17:49:02.820 INFO [__main__] Sarah Melany Fajmonova (CZE) vs Denise Valente (ITA)的animation1为空
+2024-12-17 17:49:02.820 INFO [__main__] Sapfo Sakellaridi (GRE) vs Erika Bosaia (RUS)的animation1为空
+2024-12-17 17:49:02.820 INFO [__main__] Sara Dols (ESP) / Claudia Ferrer Perez (ESP) vs Aya El Aouni (MAR) / Celine Simunyu (IRL)的animation1为空
+2024-12-17 17:49:05.693 INFO [__main__] 插入了 31 条记录
+2024-12-17 17:49:05.694 INFO [__main__] 开始请求sportId: 13
+2024-12-17 17:49:06.195 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 17:49:09.246 INFO [__main__] Selver Taltech vs CSM Corona Brasov获取Statscore ID成功: 14420696 用时0:00:02.522123
+2024-12-17 17:49:10.765 INFO [__main__] Ansan OK Financial Group Okman vs Seoul Woori Card获取Statscore ID成功: 14370613 用时0:00:01.518179
+2024-12-17 17:49:10.765 INFO [__main__] Vero Volley Monza vs Fenerbahce SK Istanbul的animation1为空
+2024-12-17 17:49:12.555 INFO [__main__] Projekt Warszawa vs ACH Volley Ljubljana获取Statscore ID成功: 14370619 用时0:00:01.789497
+2024-12-17 17:49:14.346 INFO [__main__] PAOK Thessaloniki vs Mav Elore SC获取Statscore ID成功: 14370610 用时0:00:01.790791
+2024-12-17 17:49:16.434 INFO [__main__] CS Dinamo Bucuresti vs Lycurgus Groningen获取Statscore ID成功: 14370607 用时0:00:02.087639
+2024-12-17 17:49:16.434 INFO [__main__] Tourcoing Lille Metropole vs Politechnika Lublin的animation1为空
+2024-12-17 17:49:16.434 INFO [__main__] Volley Menen vs CSKA Sofia的animation1为空
+2024-12-17 17:49:18.347 INFO [__main__] Heungkuk Pink Spiders (w) vs KGC Daejeon (w)获取Statscore ID成功: 14370606 用时0:00:01.912443
+2024-12-17 17:49:18.348 INFO [__main__] Zenit Kazan vs Yenisei Krasnoyarsk的animation1为空
+2024-12-17 17:49:18.348 INFO [__main__] USC Munster (w) vs Alemannia Aachen (w)的animation1为空
+2024-12-17 17:49:20.101 INFO [__main__] Sesi SP vs Volei Renata获取Statscore ID成功: 14420953 用时0:00:01.752139
+2024-12-17 17:49:22.261 INFO [__main__] Tianjin Bohai Bank (w) vs Al Zamalek (w)获取Statscore ID成功: 14370618 用时0:00:02.159495
+2024-12-17 17:49:22.261 INFO [__main__] SIP Sempeter (w) vs Kamnik (w)的animation1为空
+2024-12-17 17:49:22.261 INFO [__main__] Debreceni EAC vs Penzugyor SE的animation1为空
+2024-12-17 17:49:24.942 INFO [__main__] 插入了 15 条记录
+2024-12-17 17:49:24.943 INFO [__main__] 开始请求sportId: 2
+2024-12-17 17:49:25.530 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 17:49:26.067 INFO [__main__] San Jose Sharks vs Winnipeg Jets的animation1为空
+2024-12-17 17:49:26.068 INFO [__main__] Sibir Novosibirsk Region vs Avangard Omsk的animation1为空
+2024-12-17 17:49:26.068 INFO [__main__] Vityaz Moscow Region vs Torpedo Nizhny Novgorod的animation1为空
+2024-12-17 17:49:26.068 INFO [__main__] Dynamo Moscow vs Barys Astana的animation1为空
+2024-12-17 17:49:26.068 INFO [__main__] CSKA Moscow vs Kunlun Red Star的animation1为空
+2024-12-17 17:49:26.068 INFO [__main__] SKA Saint Petersburg vs Lokomotiv Yaroslavl的animation1为空
+2024-12-17 17:49:28.746 INFO [__main__] 插入了 6 条记录
+2024-12-17 17:49:28.747 INFO [__main__] 开始请求sportId: 6
+2024-12-17 17:49:29.291 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 17:49:29.800 INFO [__main__] West Virginia Mountaineers vs Memphis Tigers的animation1为空
+2024-12-17 17:49:32.556 INFO [__main__] 插入了 1 条记录
+2024-12-17 17:49:32.559 INFO [__main__] 开始请求sportId: 18
+2024-12-17 17:49:33.195 INFO [__main__] 开始请求sportId: 19
+2024-12-17 17:49:33.734 INFO [__main__] 开始请求sportId: 14
+2024-12-17 17:49:34.245 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 17:49:34.767 INFO [__main__] India (w) vs West Indies (w)的animation1为空
+2024-12-17 17:49:34.768 INFO [__main__] South Africa vs Pakistan的animation1为空
+2024-12-17 17:49:34.768 INFO [__main__] West Indies vs Bangladesh的animation1为空
+2024-12-17 17:49:37.530 INFO [__main__] 插入了 3 条记录
+2024-12-17 17:49:37.531 INFO [__main__] 开始请求sportId: 16
+2024-12-17 17:49:38.153 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 17:49:38.969 INFO [__main__] Jordan Brown vs Ken Doherty的animation1为空
+2024-12-17 17:49:38.969 INFO [__main__] Dominic Dale vs Zak Surety的animation1为空
+2024-12-17 17:49:38.969 INFO [__main__] Lyu Haotian vs Bulcsu Revesz的animation1为空
+2024-12-17 17:49:38.969 INFO [__main__] Liu Hongyu vs Farakh Ajaib的animation1为空
+2024-12-17 17:49:38.969 INFO [__main__] Fan Zhengyi vs Gong Chenzhi的animation1为空
+2024-12-17 17:49:38.969 INFO [__main__] Anthony McGill vs Haydon Pinhey的animation1为空
+2024-12-17 17:49:38.969 INFO [__main__] Tian Pengfei vs Jiang Jun的animation1为空
+2024-12-17 17:49:38.970 INFO [__main__] Yuan Sijun vs Bai Yulu (w)的animation1为空
+2024-12-17 17:49:38.970 INFO [__main__] Anthony Hamilton vs Cheung Ka Wai的animation1为空
+2024-12-17 17:49:38.970 INFO [__main__] Daniel Wells vs Stuart Carrington的animation1为空
+2024-12-17 17:49:41.612 INFO [__main__] 插入了 10 条记录
+2024-12-17 17:49:41.612 INFO [__main__] 开始请求sportId: 47
+2024-12-17 17:49:42.140 INFO [__main__] 开始请求sportId: 15
+2024-12-17 17:49:42.942 INFO [__main__] 开始请求页数: 1 共5页
+2024-12-17 17:49:43.465 INFO [__main__] 开始请求页数: 2 共5页
+2024-12-17 17:49:44.033 INFO [__main__] 开始请求页数: 3 共5页
+2024-12-17 17:49:44.564 INFO [__main__] 开始请求页数: 4 共5页
+2024-12-17 17:49:45.091 INFO [__main__] 开始请求页数: 5 共5页
+2024-12-17 17:49:45.612 INFO [__main__] Adrian Spychala vs Frantisek Krcil的animation1为空
+2024-12-17 17:49:45.612 INFO [__main__] Adrian Wiecek vs Mateusz Golebiowski的animation1为空
+2024-12-17 17:49:45.612 INFO [__main__] Karol Strowski vs Marcin Balcerzak的animation1为空
+2024-12-17 17:49:45.612 INFO [__main__] Mariusz Baron vs Patryk Gamrot的animation1为空
+2024-12-17 17:49:45.612 INFO [__main__] Adam Dosz vs Marcin Jadczyk的animation1为空
+2024-12-17 17:49:45.612 INFO [__main__] Kacper Petas vs Maciej Nowalinski的animation1为空
+2024-12-17 17:49:45.612 INFO [__main__] Jakub Pruszkowski vs Tomasz Wrzalik的animation1为空
+2024-12-17 17:49:45.612 INFO [__main__] Damian Wederlich vs Slawomir Dosz的animation1为空
+2024-12-17 17:49:45.612 INFO [__main__] Josef Braun vs Frantisek Krcil的animation1为空
+2024-12-17 17:49:45.612 INFO [__main__] Przemyslaw Blocho vs Jakub Grzegorczyk的animation1为空
+2024-12-17 17:49:45.612 INFO [__main__] Adrian Wiecek vs Marcin Jadczyk的animation1为空
+2024-12-17 17:49:45.612 INFO [__main__] Michal Murawski vs Maciej Nowalinski的animation1为空
+2024-12-17 17:49:45.612 INFO [__main__] Adrian Spychala vs Kacper Petas的animation1为空
+2024-12-17 17:49:45.612 INFO [__main__] Mateusz Golebiowski vs Slawomir Dosz的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Patryk Gamrot vs Jakub Grzegorczyk的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Adam Dosz vs Damian Wederlich的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Frantisek Krcil vs Bartosz Czerwinski的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Adrian Wiecek vs Slawomir Dosz的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Maksymilian Miastowski vs Michal Murawski的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Adam Dosz vs Josef Braun的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Karol Wisniewski vs Kacper Petas的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Frantisek Krcil vs Maksymilian Miastowski的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Adrian Wiecek vs Adam Dosz的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Kacper Petas vs Bartosz Czerwinski的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Karol Wisniewski vs Michal Murawski的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Maksymilian Miastowski vs Bartosz Czerwinski的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Adam Dosz vs Slawomir Dosz的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Frantisek Krcil vs Karol Wisniewski的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Adrian Wiecek vs Damian Wederlich的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Kacper Petas vs Michal Murawski的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Marcin Jadczyk vs Josef Braun的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Maksymilian Miastowski vs Karol Wisniewski的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Michal Murawski vs Bartosz Czerwinski的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Josef Braun vs Slawomir Dosz的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Maksymilian Miastowski vs Kacper Petas的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Karol Wisniewski vs Bartosz Czerwinski的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Adrian Wiecek vs Josef Braun的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Jan Framberk (CZE) vs Vaclav Nykl (CZE)的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Jan Kocab (CZE) vs Vojtech Kosak (CZE)的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Pawel Gola (POL) vs Krzysztof Pawlowski (POL)的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Dariusz Drozdz (POL) vs Karol Sulkowski (POL)的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Juan Cayuela (ESP) vs Guillermo Sanchez (ESP)的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Ales Brandtl (CZE) vs Tomas Cerveny (CZE)的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Dawid Stapor (POL) vs Mateusz Galus (POL)的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Bartlomiej Molka (POL) vs Marcin Stepien (POL)的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Alejandro Martinez (ESP) vs Leon Jose Garcia (ESP)的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Pawel Gola (POL) vs Milosz Kukawka (POL)的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Jaroslav Sprongl (CZE) vs Jakub Rolik (CZE)的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Roman Urban (CZE) vs Jaroslav Zamyslicky (CZE)的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Vlastimil Kolar (CZE) vs Adam Kosacky (CZE)的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Jaroslav Sprongl (CZE) vs Jaroslav Zamyslicky (CZE)的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Stanislav Dolejsi (CZE) vs Tomas Cafourek (CZE)的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Martin Pakk (EST) vs Jevgeni Sikorski (EST)的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Jakub Rolik (CZE) vs Roman Urban (CZE)的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Vlastimil Kolar (CZE) vs Tomas Cafourek (CZE)的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Jaroslav Sprongl (CZE) vs Roman Urban (CZE)的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Adam Kosacky (CZE) vs Stanislav Dolejsi (CZE)的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Jaroslav Zamyslicky (CZE) vs Jakub Rolik (CZE)的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Vlastimil Kolar (CZE) vs Stanislav Dolejsi (CZE)的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Tomas Cafourek (CZE) vs Adam Kosacky (CZE)的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Zdenek Dusek (CZE) vs Petr Vodal (CZE)的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Adam Kral (CZE) vs Petr Kubat (CZE)的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Tomas Cerveny Jr (CZE) vs Jean Baptiste Cousin (FRA)的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Ladislav Moravec (CZE) vs Milan Dvorak (CZE)的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Martin Hargas (CZE) vs Jiri Melichar (CZE)的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Zdenek Dusek (CZE) vs Jean Baptiste Cousin (FRA)的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Horst Bauer (CZE) vs Jiri Cerny (CZE)的animation1为空
+2024-12-17 17:49:45.613 INFO [__main__] Adam Kral (CZE) vs Jiri Melichar (CZE)的animation1为空
+2024-12-17 17:49:45.614 INFO [__main__] Petr Vodal (CZE) vs Tomas Cerveny Jr (CZE)的animation1为空
+2024-12-17 17:49:45.614 INFO [__main__] Ladislav Moravec (CZE) vs Jiri Cerny (CZE)的animation1为空
+2024-12-17 17:49:45.614 INFO [__main__] Petr Kubat (CZE) vs Martin Hargas (CZE)的animation1为空
+2024-12-17 17:49:45.614 INFO [__main__] Zdenek Dusek (CZE) vs Tomas Cerveny Jr (CZE)的animation1为空
+2024-12-17 17:49:45.614 INFO [__main__] Milan Dvorak (CZE) vs Horst Bauer (CZE)的animation1为空
+2024-12-17 17:49:45.614 INFO [__main__] Adam Kral (CZE) vs Martin Hargas (CZE)的animation1为空
+2024-12-17 17:49:45.614 INFO [__main__] Jean Baptiste Cousin (FRA) vs Petr Vodal (CZE)的animation1为空
+2024-12-17 17:49:45.614 INFO [__main__] Ladislav Moravec (CZE) vs Horst Bauer (CZE)的animation1为空
+2024-12-17 17:49:45.614 INFO [__main__] Jiri Melichar (CZE) vs Petr Kubat (CZE)的animation1为空
+2024-12-17 17:49:45.614 INFO [__main__] Jiri Cerny (CZE) vs Milan Dvorak (CZE)的animation1为空
+2024-12-17 17:49:45.614 INFO [__main__] Marek Teiml (CZE) vs Petr Libovicky (CZE)的animation1为空
+2024-12-17 17:49:45.614 INFO [__main__] Adam Kosacky (CZE) vs Michal Brozek (CZE)的animation1为空
+2024-12-17 17:49:45.614 INFO [__main__] Ivo Hladik (CZE) vs Ales Zacharda (CZE)的animation1为空
+2024-12-17 17:49:45.614 INFO [__main__] David Jicha (CZE) vs Michal Spalek (CZE)的animation1为空
+2024-12-17 17:49:45.614 INFO [__main__] Jan Hendrych (CZE) vs Jan Hrncir (CZE)的animation1为空
+2024-12-17 17:49:45.614 INFO [__main__] Marek Teiml (CZE) vs Ales Zacharda (CZE)的animation1为空
+2024-12-17 17:49:45.614 INFO [__main__] Tomas Vorisek (CZE) vs Jaromir Zlamal (CZE)的animation1为空
+2024-12-17 17:49:45.614 INFO [__main__] Adam Kosacky (CZE) vs Jan Hrncir (CZE)的animation1为空
+2024-12-17 17:49:45.614 INFO [__main__] Petr Libovicky (CZE) vs Ivo Hladik (CZE)的animation1为空
+2024-12-17 17:49:45.614 INFO [__main__] David Jicha (CZE) vs Jaromir Zlamal (CZE)的animation1为空
+2024-12-17 17:49:45.614 INFO [__main__] Michal Brozek (CZE) vs Jan Hendrych (CZE)的animation1为空
+2024-12-17 17:49:45.614 INFO [__main__] Marek Teiml (CZE) vs Ivo Hladik (CZE)的animation1为空
+2024-12-17 17:49:45.614 INFO [__main__] Michal Spalek (CZE) vs Tomas Vorisek (CZE)的animation1为空
+2024-12-17 17:49:45.614 INFO [__main__] Adam Kosacky (CZE) vs Jan Hendrych (CZE)的animation1为空
+2024-12-17 17:49:45.614 INFO [__main__] Ales Zacharda (CZE) vs Petr Libovicky (CZE)的animation1为空
+2024-12-17 17:49:45.614 INFO [__main__] David Jicha (CZE) vs Tomas Vorisek (CZE)的animation1为空
+2024-12-17 17:49:45.614 INFO [__main__] Jan Hrncir (CZE) vs Michal Brozek (CZE)的animation1为空
+2024-12-17 17:49:45.614 INFO [__main__] Jaromir Zlamal (CZE) vs Michal Spalek (CZE)的animation1为空
+2024-12-17 17:49:47.550 INFO [__main__] Tadeas Zika (CZE) vs Rostyslav Kliuchuk (UKR)获取Statscore ID成功: 14419329 用时0:00:01.936069
+2024-12-17 17:49:49.878 INFO [__main__] Lukas Malek (CZE) vs Ladislav Janousek (CZE)获取Statscore ID成功: 14419339 用时0:00:02.327336
+2024-12-17 17:49:52.598 INFO [__main__] Jan Steffan (CZE) vs Milan Longin (CZE)获取Statscore ID成功: 14419340 用时0:00:02.719636
+2024-12-17 17:49:54.584 INFO [__main__] Michal Zobac (CZE) vs Tomas Beran 2000 (CZE)获取Statscore ID成功: 14419321 用时0:00:01.985296
+2024-12-17 17:49:56.633 INFO [__main__] Michal Zahradka (CZE) vs Jiri Ruzicka (CZE)获取Statscore ID成功: 14419332 用时0:00:02.048772
+2024-12-17 17:49:58.755 INFO [__main__] Ludek Vtelensky (CZE) vs Jaroslav Novotny (CZE)获取Statscore ID成功: 14419331 用时0:00:02.120784
+2024-12-17 17:50:01.031 INFO [__main__] Stanislav Olejarcik (CZE) vs Tomas Barta (CZE)获取Statscore ID成功: 14420083 用时0:00:02.275940
+2024-12-17 17:50:03.087 INFO [__main__] Tomas Bartik (CZE) vs Jan Volhejn (CZE)获取Statscore ID成功: 14419336 用时0:00:02.055564
+2024-12-17 17:50:05.198 INFO [__main__] Rostyslav Kliuchuk (UKR) vs Michal Zahradka (CZE)获取Statscore ID成功: 14419323 用时0:00:02.110573
+2024-12-17 17:50:07.156 INFO [__main__] Ladislav Janousek (CZE) vs Ludek Vtelensky (CZE)获取Statscore ID成功: 14419333 用时0:00:01.957354
+2024-12-17 17:50:09.237 INFO [__main__] Milan Longin (CZE) vs Stanislav Olejarcik (CZE)获取Statscore ID成功: 14419318 用时0:00:02.080519
+2024-12-17 17:50:11.334 INFO [__main__] Tomas Beran 2000 (CZE) vs Tomas Bartik (CZE)获取Statscore ID成功: 14419328 用时0:00:02.094907
+2024-12-17 17:50:13.419 INFO [__main__] Jiri Ruzicka (CZE) vs Tadeas Zika (CZE)获取Statscore ID成功: 14419324 用时0:00:02.084487
+2024-12-17 17:50:15.385 INFO [__main__] Jaroslav Novotny (CZE) vs Lukas Malek (CZE)获取Statscore ID成功: 14419317 用时0:00:01.965071
+2024-12-17 17:50:18.426 INFO [__main__] Tomas Barta (CZE) vs Jan Steffan (CZE)获取Statscore ID成功: 14420084 用时0:00:03.039959
+2024-12-17 17:50:20.513 INFO [__main__] Jan Volhejn (CZE) vs Michal Zobac (CZE)获取Statscore ID成功: 14419320 用时0:00:02.087005
+2024-12-17 17:50:23.416 INFO [__main__] Tadeas Zika (CZE) vs Michal Zahradka (CZE)获取Statscore ID成功: 14419335 用时0:00:02.901076
+2024-12-17 17:50:25.491 INFO [__main__] Lukas Malek (CZE) vs Ludek Vtelensky (CZE)获取Statscore ID成功: 14419326 用时0:00:02.074474
+2024-12-17 17:50:27.721 INFO [__main__] Jan Steffan (CZE) vs Stanislav Olejarcik (CZE)获取Statscore ID成功: 14420128 用时0:00:02.228480
+2024-12-17 17:50:29.672 INFO [__main__] Michal Zobac (CZE) vs Tomas Bartik (CZE)获取Statscore ID成功: 14419327 用时0:00:01.950304
+2024-12-17 17:50:31.674 INFO [__main__] Rostyslav Kliuchuk (UKR) vs Jiri Ruzicka (CZE)获取Statscore ID成功: 14419337 用时0:00:02.000720
+2024-12-17 17:50:33.729 INFO [__main__] Ladislav Janousek (CZE) vs Jaroslav Novotny (CZE)获取Statscore ID成功: 14419330 用时0:00:02.055209
+2024-12-17 17:50:35.796 INFO [__main__] Milan Longin (CZE) vs Tomas Barta (CZE)获取Statscore ID成功: 14419319 用时0:00:02.066090
+2024-12-17 17:50:37.752 INFO [__main__] Tomas Beran 2000 (CZE) vs Jan Volhejn (CZE)获取Statscore ID成功: 14419338 用时0:00:01.954666
+2024-12-17 17:50:39.808 INFO [__main__] Jan Kanera (CZE) vs Rostyslav Kliuchuk (UKR)获取Statscore ID成功: 14420085 用时0:00:02.055400
+2024-12-17 17:50:42.676 INFO [__main__] Tomas Regner (CZE) vs Pavel Kulhanek (CZE)获取Statscore ID成功: 14420088 用时0:00:02.866575
+2024-12-17 17:50:44.839 INFO [__main__] Erik Mares (CZE) vs Zdenek Bilek (CZE)获取Statscore ID成功: 14420082 用时0:00:02.162900
+2024-12-17 17:50:49.589 INFO [__main__] Milan Fikar (CZE) vs Vaclav Stinil (CZE)获取Statscore ID成功: 14420080 用时0:00:04.747828
+2024-12-17 17:50:51.101 INFO [__main__] Tadeas Zika (CZE) vs Jiri Ruzicka (CZE)获取Statscore ID成功: 14420131 用时0:00:01.511353
+2024-12-17 17:50:53.719 INFO [__main__] Josef Grill (CZE) vs Ladislav Havel 1956 (CZE)获取Statscore ID成功: 14420087 用时0:00:02.617275
+2024-12-17 17:50:55.696 INFO [__main__] Tomas Postelt (CZE) vs Pavel Gireth (CZE)获取Statscore ID成功: 14420086 用时0:00:01.975781
+2024-12-17 17:50:58.223 INFO [__main__] Pavel Divis (CZE) vs Josef Fuchs (CZE)获取Statscore ID成功: 14420081 用时0:00:02.526286
+2024-12-17 17:51:00.839 INFO [__main__] Rostyslav Kliuchuk (UKR) vs Tadeas Zika (CZE)获取Statscore ID成功: 14420130 用时0:00:02.614436
+2024-12-17 17:51:03.742 INFO [__main__] Pavel Kulhanek (CZE) vs Josef Grill (CZE)获取Statscore ID成功: 14420127 用时0:00:02.901842
+2024-12-17 17:51:03.743 INFO [__main__] Zdenek Bilek (CZE) vs Tomas Postelt (CZE)的animation1为空
+2024-12-17 17:51:05.848 INFO [__main__] Vaclav Stinil (CZE) vs Pavel Divis (CZE)获取Statscore ID成功: 14420089 用时0:00:02.105013
+2024-12-17 17:51:07.930 INFO [__main__] Jiri Ruzicka (CZE) vs Jan Kanera (CZE)获取Statscore ID成功: 14420124 用时0:00:02.079782
+2024-12-17 17:51:09.823 INFO [__main__] Ladislav Havel 1956 (CZE) vs Tomas Regner (CZE)获取Statscore ID成功: 14420129 用时0:00:01.891766
+2024-12-17 17:51:11.981 INFO [__main__] Pavel Gireth (CZE) vs Erik Mares (CZE)获取Statscore ID成功: 14420126 用时0:00:02.157384
+2024-12-17 17:51:14.073 INFO [__main__] Josef Fuchs (CZE) vs Milan Fikar (CZE)获取Statscore ID成功: 14420135 用时0:00:02.091351
+2024-12-17 17:51:16.166 INFO [__main__] Jan Kanera (CZE) vs Tadeas Zika (CZE)获取Statscore ID成功: 14420002 用时0:00:02.090954
+2024-12-17 17:51:18.571 INFO [__main__] Tomas Regner (CZE) vs Josef Grill (CZE)获取Statscore ID成功: 14420137 用时0:00:02.404340
+2024-12-17 17:51:20.517 INFO [__main__] Erik Mares (CZE) vs Tomas Postelt (CZE)获取Statscore ID成功: 14420001 用时0:00:01.946178
+2024-12-17 17:51:22.832 INFO [__main__] Milan Fikar (CZE) vs Pavel Divis (CZE)获取Statscore ID成功: 14420138 用时0:00:02.313669
+2024-12-17 17:51:25.020 INFO [__main__] Rostyslav Kliuchuk (UKR) vs Jiri Ruzicka (CZE)获取Statscore ID成功: 14420161 用时0:00:02.186611
+2024-12-17 17:51:27.317 INFO [__main__] Pavel Kulhanek (CZE) vs Ladislav Havel 1956 (CZE)获取Statscore ID成功: 14420160 用时0:00:02.296998
+2024-12-17 17:51:29.588 INFO [__main__] Zdenek Bilek (CZE) vs Pavel Gireth (CZE)获取Statscore ID成功: 14420043 用时0:00:02.270085
+2024-12-17 17:51:31.771 INFO [__main__] Vaclav Stinil (CZE) vs Josef Fuchs (CZE)获取Statscore ID成功: 14420141 用时0:00:02.182160
+2024-12-17 17:51:33.858 INFO [__main__] Marek Placek (CZE) vs Frantisek Briza (CZE)获取Statscore ID成功: 14420142 用时0:00:02.086154
+2024-12-17 17:51:33.859 INFO [__main__] Tomas Zahradnik (CZE) vs Martin Bittner (CZE)的animation1为空
+2024-12-17 17:51:35.779 INFO [__main__] Michal Regner (CZE) vs Robin Pacha (CZE)获取Statscore ID成功: 14420167 用时0:00:01.920101
+2024-12-17 17:51:38.525 INFO [__main__] Oldrich Stehlik (CZE) vs Ladislav Vosyka (CZE)获取Statscore ID成功: 14420178 用时0:00:02.744914
+2024-12-17 17:51:40.841 INFO [__main__] Tomas Dousa (CZE) vs Lukas Krok (CZE)获取Statscore ID成功: 14420060 用时0:00:02.314800
+2024-12-17 17:51:43.864 INFO [__main__] Jiri Louda (CZE) vs Ondrej Cmerda (CZE)获取Statscore ID成功: 14420143 用时0:00:03.022989
+2024-12-17 17:51:45.908 INFO [__main__] Radek Vosyka (CZE) vs Lubomir Vana (CZE)获取Statscore ID成功: 14420144 用时0:00:02.042124
+2024-12-17 17:51:45.909 INFO [__main__] Jakub Vales (CZE) vs Zbynek Pagac (CZE)的animation1为空
+2024-12-17 17:51:48.104 INFO [__main__] Frantisek Briza (CZE) vs Tomas Dousa (CZE)获取Statscore ID成功: 14420091 用时0:00:02.193983
+2024-12-17 17:51:50.142 INFO [__main__] Robin Pacha (CZE) vs Jiri Louda (CZE)获取Statscore ID成功: 14420139 用时0:00:02.036394
+2024-12-17 17:51:52.230 INFO [__main__] Ladislav Vosyka (CZE) vs Radek Vosyka (CZE)获取Statscore ID成功: 14420176 用时0:00:02.087757
+2024-12-17 17:51:52.231 INFO [__main__] Martin Bittner (CZE) vs Jakub Vales (CZE)的animation1为空
+2024-12-17 17:51:54.345 INFO [__main__] Lukas Krok (CZE) vs Marek Placek (CZE)获取Statscore ID成功: 14420145 用时0:00:02.114070
+2024-12-17 17:51:56.364 INFO [__main__] Zbynek Pagac (CZE) vs Tomas Zahradnik (CZE)获取Statscore ID成功: 14420146 用时0:00:02.018485
+2024-12-17 17:51:59.251 INFO [__main__] Ondrej Cmerda (CZE) vs Michal Regner (CZE)获取Statscore ID成功: 14420140 用时0:00:02.886066
+2024-12-17 17:52:01.269 INFO [__main__] Lubomir Vana (CZE) vs Oldrich Stehlik (CZE)获取Statscore ID成功: 14420093 用时0:00:02.016219
+2024-12-17 17:52:01.270 INFO [__main__] Marek Placek (CZE) vs Tomas Dousa (CZE)的animation1为空
+2024-12-17 17:52:03.432 INFO [__main__] Michal Regner (CZE) vs Jiri Louda (CZE)获取Statscore ID成功: 14420147 用时0:00:02.161791
+2024-12-17 17:52:05.580 INFO [__main__] Oldrich Stehlik (CZE) vs Radek Vosyka (CZE)获取Statscore ID成功: 14420181 用时0:00:02.146898
+2024-12-17 17:52:05.580 INFO [__main__] Tomas Zahradnik (CZE) vs Jakub Vales (CZE)的animation1为空
+2024-12-17 17:52:07.606 INFO [__main__] Frantisek Briza (CZE) vs Lukas Krok (CZE)获取Statscore ID成功: 14420151 用时0:00:02.025504
+2024-12-17 17:52:09.697 INFO [__main__] Martin Bittner (CZE) vs Zbynek Pagac (CZE)获取Statscore ID成功: 14420149 用时0:00:02.090541
+2024-12-17 17:52:11.802 INFO [__main__] Robin Pacha (CZE) vs Ondrej Cmerda (CZE)获取Statscore ID成功: 14420148 用时0:00:02.103428
+2024-12-17 17:52:14.032 INFO [__main__] Ladislav Vosyka (CZE) vs Lubomir Vana (CZE)获取Statscore ID成功: 14420177 用时0:00:02.228797
+2024-12-17 17:52:16.812 INFO [__main__] Vaclav Pulkrabek (CZE) vs Jaromir Cernik (CZE)获取Statscore ID成功: 14420152 用时0:00:02.779355
+2024-12-17 17:52:16.812 INFO [__main__] Kir Martin (CZE) vs Lubor Sulava (CZE)的animation1为空
+2024-12-17 17:52:19.214 INFO [__main__] Daniel Tuma (CZE) vs Tomas Andrle (CZE)获取Statscore ID成功: 14420150 用时0:00:02.401243
+2024-12-17 17:52:19.215 INFO [__main__] Pavel Berdych (CZE) vs Milan Vrabec (CZE)的animation1为空
+2024-12-17 17:52:21.214 INFO [__main__] Milan Smrcek (CZE) vs Rostislav Hasmanda (CZE)获取Statscore ID成功: 14420090 用时0:00:01.998259
+2024-12-17 17:52:23.487 INFO [__main__] Tomas Janata (CZE) vs Jan Briska (CZE)获取Statscore ID成功: 14420044 用时0:00:02.272644
+2024-12-17 17:52:25.951 INFO [__main__] Jaromir Cernik (CZE) vs Pavel Sprynar (CZE)获取Statscore ID成功: 14420197 用时0:00:02.463015
+2024-12-17 17:52:28.038 INFO [__main__] Lubor Sulava (CZE) vs Jan Steffan (CZE)获取Statscore ID成功: 14420198 用时0:00:02.086679
+2024-12-17 17:52:30.049 INFO [__main__] Tomas Andrle (CZE) vs Martin Sychra (CZE)获取Statscore ID成功: 14420201 用时0:00:02.010002
+2024-12-17 17:52:32.190 INFO [__main__] Vaclav Pulkrabek (CZE) vs Pavel Berdych (CZE)获取Statscore ID成功: 14420208 用时0:00:02.137554
+2024-12-17 17:52:32.191 INFO [__main__] Kir Martin (CZE) vs Milan Smrcek (CZE)的animation1为空
+2024-12-17 17:52:35.023 INFO [__main__] Daniel Tuma (CZE) vs Tomas Janata (CZE)获取Statscore ID成功: 14420216 用时0:00:02.831573
+2024-12-17 17:52:37.050 INFO [__main__] Pavel Sprynar (CZE) vs Milan Vrabec (CZE)获取Statscore ID成功: 14420200 用时0:00:02.024540
+2024-12-17 17:52:39.373 INFO [__main__] Jan Steffan (CZE) vs Rostislav Hasmanda (CZE)获取Statscore ID成功: 14420220 用时0:00:02.321545
+2024-12-17 17:52:41.459 INFO [__main__] Martin Sychra (CZE) vs Jan Briska (CZE)获取Statscore ID成功: 14420209 用时0:00:02.085079
+2024-12-17 17:52:43.768 INFO [__main__] Jaromir Cernik (CZE) vs Pavel Berdych (CZE)获取Statscore ID成功: 14420221 用时0:00:02.307589
+2024-12-17 17:52:45.917 INFO [__main__] Lubor Sulava (CZE) vs Milan Smrcek (CZE)获取Statscore ID成功: 14420202 用时0:00:02.148201
+2024-12-17 17:52:48.228 INFO [__main__] Tomas Andrle (CZE) vs Tomas Janata (CZE)获取Statscore ID成功: 14420225 用时0:00:02.310709
+2024-12-17 17:52:49.673 INFO [__main__] Milan Vrabec (CZE) vs Vaclav Pulkrabek (CZE)获取Statscore ID成功: 14420204 用时0:00:01.445304
+2024-12-17 17:52:49.674 INFO [__main__] Rostislav Hasmanda (CZE) vs Kir Martin (CZE)的animation1为空
+2024-12-17 17:52:51.773 INFO [__main__] Jan Briska (CZE) vs Daniel Tuma (CZE)获取Statscore ID成功: 14420206 用时0:00:02.099122
+2024-12-17 17:52:54.181 INFO [__main__] Pavel Berdych (CZE) vs Pavel Sprynar (CZE)获取Statscore ID成功: 14420195 用时0:00:02.407258
+2024-12-17 17:52:56.426 INFO [__main__] Milan Smrcek (CZE) vs Jan Steffan (CZE)获取Statscore ID成功: 14420199 用时0:00:02.239819
+2024-12-17 17:52:56.427 INFO [__main__] Tomas Janata (CZE) vs Martin Sychra (CZE)的animation1为空
+2024-12-17 17:52:58.397 INFO [__main__] Milan Vrabec (CZE) vs Jaromir Cernik (CZE)获取Statscore ID成功: 14420207 用时0:00:01.969924
+2024-12-17 17:53:00.953 INFO [__main__] Rostislav Hasmanda (CZE) vs Lubor Sulava (CZE)获取Statscore ID成功: 14420226 用时0:00:02.555218
+2024-12-17 17:53:03.303 INFO [__main__] Jan Briska (CZE) vs Tomas Andrle (CZE)获取Statscore ID成功: 14420205 用时0:00:02.348768
+2024-12-17 17:53:05.418 INFO [__main__] Pavel Sprynar (CZE) vs Vaclav Pulkrabek (CZE)获取Statscore ID成功: 14420203 用时0:00:02.114323
+2024-12-17 17:53:05.418 INFO [__main__] Jan Steffan (CZE) vs Kir Martin (CZE)的animation1为空
+2024-12-17 17:53:07.631 INFO [__main__] Martin Sychra (CZE) vs Daniel Tuma (CZE)获取Statscore ID成功: 14420196 用时0:00:02.213138
+2024-12-17 17:53:10.800 INFO [__main__] 插入了 198 条记录
+2024-12-17 17:53:10.802 INFO [__main__] 开始请求sportId: 7
+2024-12-17 17:53:11.417 INFO [__main__] 开始请求sportId: 24
+2024-12-17 17:53:12.023 INFO [__main__] 开始请求sportId: 92
+2024-12-17 18:02:12.084 INFO [__main__] 程序开始运行
+2024-12-17 18:02:12.085 ERROR [__main__] 这是一条测试错误信息
+2024-12-17 18:02:12.161 INFO [__main__] 开始请求sportId: 1
+2024-12-17 18:02:13.182 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 18:02:16.105 INFO [__main__] Eyupspor vs Etimesgut Belediyespor获取Statscore ID成功: 14421363 用时0:00:02.115935
+2024-12-17 18:02:18.064 INFO [__main__] Kuala Lumpur City FC vs Negeri Sembilan获取Statscore ID成功: 14183740 用时0:00:01.958062
+2024-12-17 18:02:19.879 INFO [__main__] Malut United FC vs PSM Makassar获取Statscore ID成功: 14209016 用时0:00:01.814982
+2024-12-17 18:02:19.879 INFO [__main__] SHB Da Nang vs Long An FC的animation1为空
+2024-12-17 18:02:19.880 INFO [__main__] Delhi FT vs Tamil Nadu FC的animation1为空
+2024-12-17 18:02:19.880 INFO [__main__] Punjab Heroes FC (w) vs Haryana (w)的animation1为空
+2024-12-17 18:02:23.304 INFO [__main__] 更新了 6 条记录
+2024-12-17 18:02:23.439 INFO [__main__] 开始请求sportId: 3
+2024-12-17 18:02:24.359 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 18:02:27.734 INFO [__main__] LG Sakers vs Samsung Thunders获取Statscore ID成功: 14370649 用时0:00:02.029738
+2024-12-17 18:02:30.128 INFO [__main__] Converge Fiberxers vs NLEX Road Warriors获取Statscore ID成功: 14418879 用时0:00:02.393845
+2024-12-17 18:02:32.779 INFO [__main__] 更新了 2 条记录
+2024-12-17 18:02:32.913 INFO [__main__] 开始请求sportId: 5
+2024-12-17 18:02:33.795 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 18:02:34.691 INFO [__main__] Andrea Paolini (ITA) vs Simone Agostini (ITA)的animation1为空
+2024-12-17 18:02:34.691 INFO [__main__] Aleksandr Lobanov (RUS) vs Michel Hopp (GER)的animation1为空
+2024-12-17 18:02:34.691 INFO [__main__] Federico Campana (ITA) vs Fabrizio Karol Pio Osti (ITA)的animation1为空
+2024-12-17 18:02:34.691 INFO [__main__] Nikita Mashtakov (UKR) vs Anthony Genov (BUL)的animation1为空
+2024-12-17 18:02:34.691 INFO [__main__] Simeon Stankovic (SRB) vs Wout Vermeer (NED)的animation1为空
+2024-12-17 18:02:34.692 INFO [__main__] Tommaso Compagnucci (ITA) vs Niccolo Catini (ITA)的animation1为空
+2024-12-17 18:02:34.692 INFO [__main__] Jizel Matos Sequeira Fernandes (GBR) vs Eva Garkusha (RUS)的animation1为空
+2024-12-17 18:02:34.692 INFO [__main__] Edda Mamedova (RUS) vs Laura Boehner (GER)的animation1为空
+2024-12-17 18:02:38.008 INFO [__main__] 更新了 7 条记录
+2024-12-17 18:02:38.680 INFO [__main__] 插入了 1 条记录
+2024-12-17 18:02:38.680 INFO [__main__] 开始请求sportId: 13
+2024-12-17 18:02:39.565 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 18:02:40.421 INFO [__main__] 开始请求sportId: 2
+2024-12-17 18:02:41.258 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 18:02:42.310 INFO [__main__] Amur Khabarovsk vs Admiral Vladivostok的animation1为空
+2024-12-17 18:02:44.944 INFO [__main__] 更新了 1 条记录
+2024-12-17 18:02:45.089 INFO [__main__] 开始请求sportId: 6
+2024-12-17 18:02:46.719 INFO [__main__] 开始请求sportId: 18
+2024-12-17 18:02:47.809 INFO [__main__] 开始请求sportId: 19
+2024-12-17 18:02:50.039 INFO [__main__] 开始请求sportId: 14
+2024-12-17 18:02:50.987 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 18:02:51.998 INFO [__main__] Sydney Thunder vs Adelaide Strikers的animation1为空
+2024-12-17 18:02:54.524 INFO [__main__] 更新了 1 条记录
+2024-12-17 18:02:54.671 INFO [__main__] 开始请求sportId: 16
+2024-12-17 18:02:56.148 INFO [__main__] 开始请求sportId: 47
+2024-12-17 18:02:57.030 INFO [__main__] 开始请求sportId: 15
+2024-12-17 18:02:57.904 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 18:02:58.734 INFO [__main__] Adrian Wiecek vs Mateusz Golebiowski的animation1为空
+2024-12-17 18:02:58.736 INFO [__main__] Karol Strowski vs Marcin Balcerzak的animation1为空
+2024-12-17 18:02:58.736 INFO [__main__] Jan Framberk (CZE) vs Vaclav Nykl (CZE)的animation1为空
+2024-12-17 18:02:58.736 INFO [__main__] Jan Kocab (CZE) vs Vojtech Kosak (CZE)的animation1为空
+2024-12-17 18:03:01.841 INFO [__main__] 更新了 4 条记录
+2024-12-17 18:03:01.975 INFO [__main__] 开始请求sportId: 7
+2024-12-17 18:03:02.945 INFO [__main__] 开始请求sportId: 24
+2024-12-17 18:03:03.859 INFO [__main__] 开始请求sportId: 92
+2024-12-17 18:04:10.770 INFO [__main__] 程序开始运行
+2024-12-17 18:04:10.770 ERROR [__main__] 这是一条测试错误信息
+2024-12-17 18:04:10.845 INFO [__main__] 开始请求sportId: 1
+2024-12-17 18:04:11.829 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 18:04:14.853 INFO [__main__] Eyupspor vs Etimesgut Belediyespor获取Statscore ID成功: 14421363 用时0:00:02.117130
+2024-12-17 18:04:16.896 INFO [__main__] Kuala Lumpur City FC vs Negeri Sembilan获取Statscore ID成功: 14183740 用时0:00:02.042761
+2024-12-17 18:04:18.966 INFO [__main__] Malut United FC vs PSM Makassar获取Statscore ID成功: 14209016 用时0:00:02.069690
+2024-12-17 18:04:18.967 INFO [__main__] SHB Da Nang vs Long An FC的animation1为空
+2024-12-17 18:04:18.967 INFO [__main__] Delhi FT vs Tamil Nadu FC的animation1为空
+2024-12-17 18:04:18.968 INFO [__main__] Punjab Heroes FC (w) vs Haryana (w)的animation1为空
+2024-12-17 18:04:22.308 INFO [__main__] 更新了 6 条记录
+2024-12-17 18:04:22.440 INFO [__main__] 开始请求sportId: 3
+2024-12-17 18:04:23.363 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 18:04:26.762 INFO [__main__] LG Sakers vs Samsung Thunders获取Statscore ID成功: 14370649 用时0:00:02.562055
+2024-12-17 18:04:28.830 INFO [__main__] Converge Fiberxers vs NLEX Road Warriors获取Statscore ID成功: 14418879 用时0:00:02.067344
+2024-12-17 18:04:31.514 INFO [__main__] 更新了 2 条记录
+2024-12-17 18:04:31.658 INFO [__main__] 开始请求sportId: 5
+2024-12-17 18:04:32.634 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 18:04:33.457 INFO [__main__] Andrea Paolini (ITA) vs Simone Agostini (ITA)的animation1为空
+2024-12-17 18:04:33.457 INFO [__main__] Aleksandr Lobanov (RUS) vs Michel Hopp (GER)的animation1为空
+2024-12-17 18:04:33.457 INFO [__main__] Federico Campana (ITA) vs Fabrizio Karol Pio Osti (ITA)的animation1为空
+2024-12-17 18:04:33.457 INFO [__main__] Nikita Mashtakov (UKR) vs Anthony Genov (BUL)的animation1为空
+2024-12-17 18:04:33.457 INFO [__main__] Simeon Stankovic (SRB) vs Wout Vermeer (NED)的animation1为空
+2024-12-17 18:04:33.457 INFO [__main__] Tommaso Compagnucci (ITA) vs Niccolo Catini (ITA)的animation1为空
+2024-12-17 18:04:33.457 INFO [__main__] Jizel Matos Sequeira Fernandes (GBR) vs Eva Garkusha (RUS)的animation1为空
+2024-12-17 18:04:33.457 INFO [__main__] Edda Mamedova (RUS) vs Laura Boehner (GER)的animation1为空
+2024-12-17 18:04:33.457 INFO [__main__] Maria Kalyakina (RUS) vs Briana Szabo (ROU)的animation1为空
+2024-12-17 18:04:37.145 INFO [__main__] 更新了 9 条记录
+2024-12-17 18:04:37.279 INFO [__main__] 开始请求sportId: 13
+2024-12-17 18:04:37.844 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 18:04:38.393 INFO [__main__] 开始请求sportId: 2
+2024-12-17 18:04:38.907 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 18:04:39.462 INFO [__main__] Amur Khabarovsk vs Admiral Vladivostok的animation1为空
+2024-12-17 18:04:41.989 INFO [__main__] 更新了 1 条记录
+2024-12-17 18:04:42.122 INFO [__main__] 开始请求sportId: 6
+2024-12-17 18:04:42.758 INFO [__main__] 开始请求sportId: 18
+2024-12-17 18:04:43.297 INFO [__main__] 开始请求sportId: 19
+2024-12-17 18:04:43.817 INFO [__main__] 开始请求sportId: 14
+2024-12-17 18:04:44.332 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 18:04:44.886 INFO [__main__] Sydney Thunder vs Adelaide Strikers的animation1为空
+2024-12-17 18:04:47.476 INFO [__main__] 更新了 1 条记录
+2024-12-17 18:04:47.614 INFO [__main__] 开始请求sportId: 16
+2024-12-17 18:04:48.206 INFO [__main__] 开始请求sportId: 47
+2024-12-17 18:04:48.723 INFO [__main__] 开始请求sportId: 15
+2024-12-17 18:04:49.241 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 18:04:49.775 INFO [__main__] Adrian Wiecek vs Mateusz Golebiowski的animation1为空
+2024-12-17 18:04:49.776 INFO [__main__] Karol Strowski vs Marcin Balcerzak的animation1为空
+2024-12-17 18:04:49.776 INFO [__main__] Jan Framberk (CZE) vs Vaclav Nykl (CZE)的animation1为空
+2024-12-17 18:04:49.776 INFO [__main__] Jan Kocab (CZE) vs Vojtech Kosak (CZE)的animation1为空
+2024-12-17 18:04:52.738 INFO [__main__] 更新了 4 条记录
+2024-12-17 18:04:52.871 INFO [__main__] 开始请求sportId: 7
+2024-12-17 18:04:53.438 INFO [__main__] 开始请求sportId: 24
+2024-12-17 18:04:53.956 INFO [__main__] 开始请求sportId: 92
+2024-12-17 18:19:54.510 INFO [__main__] 开始请求sportId: 1
+2024-12-17 18:19:55.118 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 18:19:57.377 INFO [__main__] Eyupspor vs Etimesgut Belediyespor获取Statscore ID成功: 14421363 用时0:00:01.592423
+2024-12-17 18:19:58.942 INFO [__main__] Kuala Lumpur City FC vs Negeri Sembilan获取Statscore ID成功: 14183740 用时0:00:01.563864
+2024-12-17 18:20:00.504 INFO [__main__] Malut United FC vs PSM Makassar获取Statscore ID成功: 14209016 用时0:00:01.561564
+2024-12-17 18:20:00.504 INFO [__main__] SHB Da Nang vs Long An FC的animation1为空
+2024-12-17 18:20:00.504 INFO [__main__] Delhi FT vs Tamil Nadu FC的animation1为空
+2024-12-17 18:20:00.504 INFO [__main__] Sidama Bunna SC (w) vs Dire Dawa (w)的animation1为空
+2024-12-17 18:20:00.504 INFO [__main__] Punjab Heroes FC (w) vs Haryana (w)的animation1为空
+2024-12-17 18:20:03.698 INFO [__main__] 更新了 6 条记录
+2024-12-17 18:20:04.470 INFO [__main__] 插入了 1 条记录
+2024-12-17 18:20:04.473 INFO [__main__] 开始请求sportId: 3
+2024-12-17 18:20:05.101 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 18:20:07.179 INFO [__main__] LG Sakers vs Samsung Thunders获取Statscore ID成功: 14370649 用时0:00:01.498560
+2024-12-17 18:20:08.699 INFO [__main__] Converge Fiberxers vs NLEX Road Warriors获取Statscore ID成功: 14418879 用时0:00:01.518862
+2024-12-17 18:20:11.394 INFO [__main__] 更新了 2 条记录
+2024-12-17 18:20:11.528 INFO [__main__] 开始请求sportId: 5
+2024-12-17 18:20:12.137 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 18:20:12.665 INFO [__main__] Andrea Paolini (ITA) vs Simone Agostini (ITA)的animation1为空
+2024-12-17 18:20:12.665 INFO [__main__] Aleksandr Lobanov (RUS) vs Michel Hopp (GER)的animation1为空
+2024-12-17 18:20:12.666 INFO [__main__] Federico Campana (ITA) vs Fabrizio Karol Pio Osti (ITA)的animation1为空
+2024-12-17 18:20:12.666 INFO [__main__] Nikita Mashtakov (UKR) vs Anthony Genov (BUL)的animation1为空
+2024-12-17 18:20:12.666 INFO [__main__] Tommaso Compagnucci (ITA) vs Niccolo Catini (ITA)的animation1为空
+2024-12-17 18:20:12.666 INFO [__main__] Jizel Matos Sequeira Fernandes (GBR) vs Eva Garkusha (RUS)的animation1为空
+2024-12-17 18:20:12.666 INFO [__main__] Edda Mamedova (RUS) vs Laura Boehner (GER)的animation1为空
+2024-12-17 18:20:12.666 INFO [__main__] Maria Kalyakina (RUS) vs Briana Szabo (ROU)的animation1为空
+2024-12-17 18:20:12.666 INFO [__main__] Sarah Melany Fajmonova (CZE) vs Denise Valente (ITA)的animation1为空
+2024-12-17 18:20:16.271 INFO [__main__] 更新了 9 条记录
+2024-12-17 18:20:16.404 INFO [__main__] 开始请求sportId: 13
+2024-12-17 18:20:17.037 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 18:20:17.570 INFO [__main__] 开始请求sportId: 2
+2024-12-17 18:20:18.083 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 18:20:18.599 INFO [__main__] Amur Khabarovsk vs Admiral Vladivostok的animation1为空
+2024-12-17 18:20:21.015 INFO [__main__] 更新了 1 条记录
+2024-12-17 18:20:21.220 INFO [__main__] 开始请求sportId: 6
+2024-12-17 18:20:21.798 INFO [__main__] 开始请求sportId: 18
+2024-12-17 18:20:22.318 INFO [__main__] 开始请求sportId: 19
+2024-12-17 18:20:22.821 INFO [__main__] 开始请求sportId: 14
+2024-12-17 18:20:23.382 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 18:20:23.895 INFO [__main__] Sydney Thunder vs Adelaide Strikers的animation1为空
+2024-12-17 18:20:26.464 INFO [__main__] 更新了 1 条记录
+2024-12-17 18:20:26.597 INFO [__main__] 开始请求sportId: 16
+2024-12-17 18:20:27.183 INFO [__main__] 开始请求sportId: 47
+2024-12-17 18:20:27.707 INFO [__main__] 开始请求sportId: 15
+2024-12-17 18:20:28.237 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 18:20:28.753 INFO [__main__] Mariusz Baron vs Patryk Gamrot的animation1为空
+2024-12-17 18:20:28.753 INFO [__main__] Adam Dosz vs Marcin Jadczyk的animation1为空
+2024-12-17 18:20:28.753 INFO [__main__] Kacper Petas vs Maciej Nowalinski的animation1为空
+2024-12-17 18:20:28.754 INFO [__main__] Dariusz Drozdz (POL) vs Karol Sulkowski (POL)的animation1为空
+2024-12-17 18:20:28.754 INFO [__main__] Juan Cayuela (ESP) vs Guillermo Sanchez (ESP)的animation1为空
+2024-12-17 18:20:31.864 INFO [__main__] 更新了 5 条记录
+2024-12-17 18:20:31.996 INFO [__main__] 开始请求sportId: 7
+2024-12-17 18:20:32.503 INFO [__main__] 开始请求sportId: 24
+2024-12-17 18:20:33.021 INFO [__main__] 开始请求sportId: 92
+2024-12-17 18:22:31.637 INFO [__main__] 程序开始运行
+2024-12-17 18:22:31.637 ERROR [__main__] 这是一条测试错误信息
+2024-12-17 18:22:31.706 INFO [__main__] 开始请求
+2024-12-17 18:22:31.706 INFO [__main__] 开始请求sportId: 1
+2024-12-17 18:22:32.289 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 18:22:34.385 INFO [__main__] Eyupspor vs Etimesgut Belediyespor获取Statscore ID成功: 14421363 用时0:00:01.570821
+2024-12-17 18:22:35.961 INFO [__main__] Kuala Lumpur City FC vs Negeri Sembilan获取Statscore ID成功: 14183740 用时0:00:01.575971
+2024-12-17 18:22:37.677 INFO [__main__] Malut United FC vs PSM Makassar获取Statscore ID成功: 14209016 用时0:00:01.714651
+2024-12-17 18:22:37.678 INFO [__main__] SHB Da Nang vs Long An FC的animation1为空
+2024-12-17 18:22:37.678 INFO [__main__] Delhi FT vs Tamil Nadu FC的animation1为空
+2024-12-17 18:22:37.678 INFO [__main__] Sidama Bunna SC (w) vs Dire Dawa (w)的animation1为空
+2024-12-17 18:22:37.678 INFO [__main__] Punjab Heroes FC (w) vs Haryana (w)的animation1为空
+2024-12-17 18:22:41.095 INFO [__main__] 更新了 7 条记录
+2024-12-17 18:22:41.227 INFO [__main__] 开始请求sportId: 3
+2024-12-17 18:22:41.761 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 18:22:43.824 INFO [__main__] LG Sakers vs Samsung Thunders获取Statscore ID成功: 14370649 用时0:00:01.563184
+2024-12-17 18:22:45.430 INFO [__main__] Converge Fiberxers vs NLEX Road Warriors获取Statscore ID成功: 14418879 用时0:00:01.606042
+2024-12-17 18:22:48.163 INFO [__main__] 更新了 2 条记录
+2024-12-17 18:22:48.296 INFO [__main__] 开始请求sportId: 5
+2024-12-17 18:22:48.894 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 18:22:49.594 INFO [__main__] Aleksandr Lobanov (RUS) vs Michel Hopp (GER)的animation1为空
+2024-12-17 18:22:49.594 INFO [__main__] Federico Campana (ITA) vs Fabrizio Karol Pio Osti (ITA)的animation1为空
+2024-12-17 18:22:49.594 INFO [__main__] Nikita Mashtakov (UKR) vs Anthony Genov (BUL)的animation1为空
+2024-12-17 18:22:49.594 INFO [__main__] Tommaso Compagnucci (ITA) vs Niccolo Catini (ITA)的animation1为空
+2024-12-17 18:22:49.594 INFO [__main__] Jizel Matos Sequeira Fernandes (GBR) vs Eva Garkusha (RUS)的animation1为空
+2024-12-17 18:22:49.594 INFO [__main__] Edda Mamedova (RUS) vs Laura Boehner (GER)的animation1为空
+2024-12-17 18:22:49.594 INFO [__main__] Maria Kalyakina (RUS) vs Briana Szabo (ROU)的animation1为空
+2024-12-17 18:22:49.595 INFO [__main__] Sarah Melany Fajmonova (CZE) vs Denise Valente (ITA)的animation1为空
+2024-12-17 18:22:53.258 INFO [__main__] 更新了 8 条记录
+2024-12-17 18:22:53.392 INFO [__main__] 开始请求sportId: 13
+2024-12-17 18:22:53.862 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 18:22:54.378 INFO [__main__] 开始请求sportId: 2
+2024-12-17 18:22:54.905 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 18:22:55.400 INFO [__main__] Amur Khabarovsk vs Admiral Vladivostok的animation1为空
+2024-12-17 18:22:57.874 INFO [__main__] 更新了 1 条记录
+2024-12-17 18:22:58.007 INFO [__main__] 开始请求sportId: 6
+2024-12-17 18:22:58.538 INFO [__main__] 开始请求sportId: 18
+2024-12-17 18:22:59.026 INFO [__main__] 开始请求sportId: 19
+2024-12-17 18:22:59.551 INFO [__main__] 开始请求sportId: 14
+2024-12-17 18:23:00.079 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 18:23:00.601 INFO [__main__] Sydney Thunder vs Adelaide Strikers的animation1为空
+2024-12-17 18:23:03.533 INFO [__main__] 更新了 1 条记录
+2024-12-17 18:23:03.743 INFO [__main__] 开始请求sportId: 16
+2024-12-17 18:23:04.310 INFO [__main__] 开始请求sportId: 47
+2024-12-17 18:23:04.890 INFO [__main__] 开始请求sportId: 15
+2024-12-17 18:23:05.508 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 18:23:06.086 INFO [__main__] Mariusz Baron vs Patryk Gamrot的animation1为空
+2024-12-17 18:23:06.086 INFO [__main__] Adam Dosz vs Marcin Jadczyk的animation1为空
+2024-12-17 18:23:06.087 INFO [__main__] Kacper Petas vs Maciej Nowalinski的animation1为空
+2024-12-17 18:23:06.087 INFO [__main__] Juan Cayuela (ESP) vs Guillermo Sanchez (ESP)的animation1为空
+2024-12-17 18:23:09.411 INFO [__main__] 更新了 4 条记录
+2024-12-17 18:23:09.549 INFO [__main__] 开始请求sportId: 7
+2024-12-17 18:23:10.225 INFO [__main__] 开始请求sportId: 24
+2024-12-17 18:23:10.868 INFO [__main__] 开始请求sportId: 92
+2024-12-17 18:23:11.507 INFO [__main__] 等待15分钟
+2024-12-17 18:30:57.653 INFO [__main__] 程序开始运行
+2024-12-17 18:30:57.653 ERROR [__main__] 这是一条测试错误信息
+2024-12-17 18:30:57.724 INFO [__main__] 开始请求
+2024-12-17 18:30:57.724 INFO [__main__] 开始请求sportId: 1
+2024-12-17 18:30:58.332 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 18:31:00.821 INFO [__main__] Eyupspor vs Etimesgut Belediyespor获取Statscore ID成功: 14421363 用时0:00:01.756776
+2024-12-17 18:31:03.338 INFO [__main__] Kuala Lumpur City FC vs Negeri Sembilan获取Statscore ID成功: 14183740 用时0:00:02.517685
+2024-12-17 18:31:03.339 INFO [__main__] Delhi FT vs Tamil Nadu FC的animation1为空
+2024-12-17 18:31:03.339 INFO [__main__] Sidama Bunna SC (w) vs Dire Dawa (w)的animation1为空
+2024-12-17 18:31:03.339 INFO [__main__] Punjab Heroes FC (w) vs Haryana (w)的animation1为空
+2024-12-17 18:31:09.733 INFO [__main__] 更新了 5 条记录
+2024-12-17 18:31:10.019 INFO [__main__] 开始请求sportId: 3
+2024-12-17 18:31:10.785 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 18:31:13.526 INFO [__main__] LG Sakers vs Samsung Thunders获取Statscore ID成功: 14370649 用时0:00:01.936772
+2024-12-17 18:31:15.256 INFO [__main__] Converge Fiberxers vs NLEX Road Warriors获取Statscore ID成功: 14418879 用时0:00:01.728505
+2024-12-17 18:31:15.256 INFO [__main__] Shandong Hi Speed Kirin (Res) vs Nanjing Tongxi Monkey Kings (Res)的animation1为空
