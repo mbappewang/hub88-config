@@ -1,3 +1,9 @@
 # 忽略密码配置文件
 /pwd.json
 /sender.json
+macos/
+.vscode/
+.idea/
+__pycache__/
+Log/
+windows/
