@@ -8823,3 +8823,502 @@
 2024-12-17 22:25:18.465 INFO [__main__] Al Difaa Aljawie vs AL Hilla - None
 2024-12-17 22:25:21.321 INFO [__main__] 更新了 2 条记录
 2024-12-17 22:25:21.454 INFO [__main__] 等待1分钟
+2024-12-17 22:26:32.622 INFO [__main__] 程序开始运行
+2024-12-17 22:26:32.623 ERROR [__main__] 这是一条测试错误信息
+2024-12-17 22:26:32.688 INFO [__main__] 开始请求
+2024-12-17 22:26:32.688 INFO [__main__] 开始请求sportId: 1
+2024-12-17 22:26:33.126 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:26:36.344 INFO [__main__] AL Ain FC vs AL Hazem FC获取Statscore ID成功: 14412569 用时0:00:02.793712
+2024-12-17 22:26:36.344 INFO [__main__] AL Ain FC vs AL Hazem FC - None
+2024-12-17 22:26:39.555 INFO [__main__] Singapore vs Thailand获取Statscore ID成功: 13914993 用时0:00:03.211133
+2024-12-17 22:26:39.556 INFO [__main__] Singapore vs Thailand - https://live.bbapcall.com/live/sd-1-4205363.m3u8?txSecret=92fe4117e0417935532a789a1313946c&txTime=6761D2C1
+2024-12-17 22:26:41.510 INFO [__main__] Sri Pahang FC vs Johor Darul Takzim FC获取Statscore ID成功: 14183748 用时0:00:01.954292
+2024-12-17 22:26:41.511 INFO [__main__] Sri Pahang FC vs Johor Darul Takzim FC - https://live.bbapcall.com/live/sd-1-4249825.m3u8?txSecret=11ccfef142254e6250091a21d0863db1&txTime=6761D2C1
+2024-12-17 22:26:43.455 INFO [__main__] SC East Bengal vs RoundGlass Punjab FC获取Statscore ID成功: 14370642 用时0:00:01.944620
+2024-12-17 22:26:43.456 INFO [__main__] SC East Bengal vs RoundGlass Punjab FC - https://live.bbapcall.com/live/sd-1-4211083.m3u8?txSecret=667eea892ef5d165b5f4026fbaa99df1&txTime=6761D2C1
+2024-12-17 22:26:45.588 INFO [__main__] El Qanah vs Tersana SC获取Statscore ID成功: 14390253 用时0:00:02.131728
+2024-12-17 22:26:45.589 INFO [__main__] El Qanah vs Tersana SC - None
+2024-12-17 22:26:45.589 INFO [__main__] Maccabi Haifa U19 vs Maccabi Tel Aviv U19的animation1为空
+2024-12-17 22:26:45.589 INFO [__main__] Maccabi Haifa U19 vs Maccabi Tel Aviv U19 - None
+2024-12-17 22:26:45.589 INFO [__main__] Kerala FA vs Meghalaya的animation1为空
+2024-12-17 22:26:45.589 INFO [__main__] Kerala FA vs Meghalaya - None
+2024-12-17 22:26:49.124 INFO [__main__] 更新了 6 条记录
+2024-12-17 22:26:49.899 INFO [__main__] 插入了 1 条记录
+2024-12-17 22:26:49.900 INFO [__main__] 开始请求sportId: 3
+2024-12-17 22:26:50.322 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:26:52.559 INFO [__main__] Al Arabi vs Al Sadd获取Statscore ID成功: 14417282 用时0:00:01.726354
+2024-12-17 22:26:52.559 INFO [__main__] Al Arabi vs Al Sadd - https://live.bbapcall.com/live/sd-2-3827717.m3u8?txSecret=0a5600f8bb99e6771ffd486284722b9e&txTime=6761D2D3
+2024-12-17 22:26:52.559 INFO [__main__] Al Difaa Aljawie vs AL Hilla的animation1为空
+2024-12-17 22:26:52.559 INFO [__main__] Al Difaa Aljawie vs AL Hilla - None
+2024-12-17 22:26:55.276 INFO [__main__] 更新了 2 条记录
+2024-12-17 22:26:55.410 INFO [__main__] 开始请求sportId: 5
+2024-12-17 22:26:55.834 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:26:56.350 INFO [__main__] Sebastian Grundtvig Jorgensen (DEN) vs Matthew Summers (GBR)的animation1为空
+2024-12-17 22:26:56.350 INFO [__main__] Sebastian Grundtvig Jorgensen (DEN) vs Matthew Summers (GBR) - None
+2024-12-17 22:26:56.350 INFO [__main__] Sean Cuenin (FRA) vs Eero Vasa (FIN)的animation1为空
+2024-12-17 22:26:56.350 INFO [__main__] Sean Cuenin (FRA) vs Eero Vasa (FIN) - None
+2024-12-17 22:26:59.337 INFO [__main__] 更新了 2 条记录
+2024-12-17 22:26:59.470 INFO [__main__] 开始请求sportId: 13
+2024-12-17 22:26:59.895 INFO [__main__] 开始请求sportId: 2
+2024-12-17 22:27:00.390 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:27:00.912 INFO [__main__] Sibir Novosibirsk Region vs Avangard Omsk的animation1为空
+2024-12-17 22:27:00.913 INFO [__main__] Sibir Novosibirsk Region vs Avangard Omsk - None
+2024-12-17 22:27:03.405 INFO [__main__] 更新了 1 条记录
+2024-12-17 22:27:03.539 INFO [__main__] 开始请求sportId: 6
+2024-12-17 22:27:03.962 INFO [__main__] 开始请求sportId: 18
+2024-12-17 22:27:04.469 INFO [__main__] 开始请求sportId: 19
+2024-12-17 22:27:04.884 INFO [__main__] 开始请求sportId: 14
+2024-12-17 22:27:05.388 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:27:05.812 INFO [__main__] India (w) vs West Indies (w)的animation1为空
+2024-12-17 22:27:05.812 INFO [__main__] India (w) vs West Indies (w) - None
+2024-12-17 22:27:08.490 INFO [__main__] 更新了 1 条记录
+2024-12-17 22:27:08.632 INFO [__main__] 开始请求sportId: 16
+2024-12-17 22:27:09.050 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:27:09.470 INFO [__main__] Jordan Brown vs Ken Doherty的animation1为空
+2024-12-17 22:27:09.474 INFO [__main__] Jordan Brown vs Ken Doherty - https://live.bbapcall.com/live/sd-19-4557724.m3u8?txSecret=f8bc66aaa824cfbff779b0935b76b171&txTime=6761D2E5
+2024-12-17 22:27:12.190 INFO [__main__] 更新了 1 条记录
+2024-12-17 22:27:12.323 INFO [__main__] 开始请求sportId: 47
+2024-12-17 22:27:12.746 INFO [__main__] 开始请求sportId: 15
+2024-12-17 22:27:13.249 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:27:13.663 INFO [__main__] Damian Wederlich vs Josef Braun的animation1为空
+2024-12-17 22:27:13.664 INFO [__main__] Damian Wederlich vs Josef Braun - None
+2024-12-17 22:27:13.664 INFO [__main__] Szymon Seroka vs Marcin Balcerzak的animation1为空
+2024-12-17 22:27:13.664 INFO [__main__] Szymon Seroka vs Marcin Balcerzak - None
+2024-12-17 22:27:13.664 INFO [__main__] Mateusz Galus (POL) vs Milosz Kukawka (POL)的animation1为空
+2024-12-17 22:27:13.664 INFO [__main__] Mateusz Galus (POL) vs Milosz Kukawka (POL) - None
+2024-12-17 22:27:13.664 INFO [__main__] Tomas Cafourek (CZE) vs Adam Kosacky (CZE)的animation1为空
+2024-12-17 22:27:13.664 INFO [__main__] Tomas Cafourek (CZE) vs Adam Kosacky (CZE) - None
+2024-12-17 22:27:16.247 INFO [__main__] 更新了 1 条记录
+2024-12-17 22:27:16.922 INFO [__main__] 插入了 3 条记录
+2024-12-17 22:27:16.923 INFO [__main__] 开始请求sportId: 7
+2024-12-17 22:27:17.355 INFO [__main__] 开始请求sportId: 24
+2024-12-17 22:27:17.919 INFO [__main__] 开始请求sportId: 92
+2024-12-17 22:27:18.488 INFO [__main__] 等待1分钟
+2024-12-17 22:28:18.491 INFO [__main__] 开始请求
+2024-12-17 22:28:18.491 INFO [__main__] 开始请求sportId: 1
+2024-12-17 22:28:18.925 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:28:21.377 INFO [__main__] AL Ain FC vs AL Hazem FC获取Statscore ID成功: 14412569 用时0:00:02.018248
+2024-12-17 22:28:21.378 INFO [__main__] AL Ain FC vs AL Hazem FC - None
+2024-12-17 22:28:23.345 INFO [__main__] Singapore vs Thailand获取Statscore ID成功: 13914993 用时0:00:01.966847
+2024-12-17 22:28:23.345 INFO [__main__] Singapore vs Thailand - https://live.bbapcall.com/live/sd-1-4205363.m3u8?txSecret=a5366e5af52e187027d4c7bd043add56&txTime=6761D32B
+2024-12-17 22:28:25.344 INFO [__main__] Sri Pahang FC vs Johor Darul Takzim FC获取Statscore ID成功: 14183748 用时0:00:01.999069
+2024-12-17 22:28:25.345 INFO [__main__] Sri Pahang FC vs Johor Darul Takzim FC - https://live.bbapcall.com/live/sd-1-4249825.m3u8?txSecret=fedd739a4d3517764ca2aeff50a92b8d&txTime=6761D32B
+2024-12-17 22:28:27.271 INFO [__main__] SC East Bengal vs RoundGlass Punjab FC获取Statscore ID成功: 14370642 用时0:00:01.925243
+2024-12-17 22:28:27.271 INFO [__main__] SC East Bengal vs RoundGlass Punjab FC - https://live.bbapcall.com/live/sd-1-4211083.m3u8?txSecret=eabd47a12c29575835e9697c349de767&txTime=6761D32B
+2024-12-17 22:28:29.294 INFO [__main__] El Qanah vs Tersana SC获取Statscore ID成功: 14390253 用时0:00:02.023378
+2024-12-17 22:28:29.295 INFO [__main__] El Qanah vs Tersana SC - None
+2024-12-17 22:28:29.295 INFO [__main__] Maccabi Haifa U19 vs Maccabi Tel Aviv U19的animation1为空
+2024-12-17 22:28:29.295 INFO [__main__] Maccabi Haifa U19 vs Maccabi Tel Aviv U19 - None
+2024-12-17 22:28:29.295 INFO [__main__] Kerala FA vs Meghalaya的animation1为空
+2024-12-17 22:28:29.295 INFO [__main__] Kerala FA vs Meghalaya - None
+2024-12-17 22:28:32.812 INFO [__main__] 更新了 7 条记录
+2024-12-17 22:28:32.944 INFO [__main__] 开始请求sportId: 3
+2024-12-17 22:28:33.372 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:28:35.378 INFO [__main__] Al Arabi vs Al Sadd获取Statscore ID成功: 14417282 用时0:00:01.524121
+2024-12-17 22:28:35.379 INFO [__main__] Al Arabi vs Al Sadd - https://live.bbapcall.com/live/sd-2-3827717.m3u8?txSecret=2f2fad93361d64812263233db81a66ff&txTime=6761D33A
+2024-12-17 22:28:35.379 INFO [__main__] Al Difaa Aljawie vs AL Hilla的animation1为空
+2024-12-17 22:28:35.379 INFO [__main__] Al Difaa Aljawie vs AL Hilla - None
+2024-12-17 22:28:38.162 INFO [__main__] 更新了 2 条记录
+2024-12-17 22:28:38.294 INFO [__main__] 开始请求sportId: 5
+2024-12-17 22:28:38.737 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:28:39.228 INFO [__main__] Sebastian Grundtvig Jorgensen (DEN) vs Matthew Summers (GBR)的animation1为空
+2024-12-17 22:28:39.229 INFO [__main__] Sebastian Grundtvig Jorgensen (DEN) vs Matthew Summers (GBR) - None
+2024-12-17 22:28:39.229 INFO [__main__] Sean Cuenin (FRA) vs Eero Vasa (FIN)的animation1为空
+2024-12-17 22:28:39.229 INFO [__main__] Sean Cuenin (FRA) vs Eero Vasa (FIN) - None
+2024-12-17 22:28:41.867 INFO [__main__] 更新了 2 条记录
+2024-12-17 22:28:42.090 INFO [__main__] 开始请求sportId: 13
+2024-12-17 22:28:42.616 INFO [__main__] 开始请求sportId: 2
+2024-12-17 22:28:43.045 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:28:43.550 INFO [__main__] Sibir Novosibirsk Region vs Avangard Omsk的animation1为空
+2024-12-17 22:28:43.551 INFO [__main__] Sibir Novosibirsk Region vs Avangard Omsk - None
+2024-12-17 22:28:46.073 INFO [__main__] 更新了 1 条记录
+2024-12-17 22:28:46.283 INFO [__main__] 开始请求sportId: 6
+2024-12-17 22:28:46.810 INFO [__main__] 开始请求sportId: 18
+2024-12-17 22:28:47.235 INFO [__main__] 开始请求sportId: 19
+2024-12-17 22:28:47.753 INFO [__main__] 开始请求sportId: 14
+2024-12-17 22:28:48.184 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:28:48.669 INFO [__main__] India (w) vs West Indies (w)的animation1为空
+2024-12-17 22:28:48.670 INFO [__main__] India (w) vs West Indies (w) - None
+2024-12-17 22:28:51.542 INFO [__main__] 更新了 1 条记录
+2024-12-17 22:28:51.676 INFO [__main__] 开始请求sportId: 16
+2024-12-17 22:28:52.096 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:28:52.580 INFO [__main__] Jordan Brown vs Ken Doherty的animation1为空
+2024-12-17 22:28:52.581 INFO [__main__] Jordan Brown vs Ken Doherty - https://live.bbapcall.com/live/sd-19-4557724.m3u8?txSecret=57d5cc269f0694aa4775a4bd27cc13f4&txTime=6761D34C
+2024-12-17 22:28:55.079 INFO [__main__] 更新了 1 条记录
+2024-12-17 22:28:55.212 INFO [__main__] 开始请求sportId: 47
+2024-12-17 22:28:55.638 INFO [__main__] 开始请求sportId: 15
+2024-12-17 22:28:56.126 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:28:56.546 INFO [__main__] Szymon Seroka vs Marcin Balcerzak的animation1为空
+2024-12-17 22:28:56.546 INFO [__main__] Szymon Seroka vs Marcin Balcerzak - None
+2024-12-17 22:28:56.546 INFO [__main__] Maksymilian Miastowski vs Bartosz Czerwinski的animation1为空
+2024-12-17 22:28:56.546 INFO [__main__] Maksymilian Miastowski vs Bartosz Czerwinski - None
+2024-12-17 22:28:56.546 INFO [__main__] Mateusz Galus (POL) vs Milosz Kukawka (POL)的animation1为空
+2024-12-17 22:28:56.546 INFO [__main__] Mateusz Galus (POL) vs Milosz Kukawka (POL) - None
+2024-12-17 22:28:56.547 INFO [__main__] Tomas Cafourek (CZE) vs Adam Kosacky (CZE)的animation1为空
+2024-12-17 22:28:56.547 INFO [__main__] Tomas Cafourek (CZE) vs Adam Kosacky (CZE) - None
+2024-12-17 22:28:59.560 INFO [__main__] 更新了 4 条记录
+2024-12-17 22:28:59.694 INFO [__main__] 开始请求sportId: 7
+2024-12-17 22:29:00.210 INFO [__main__] 开始请求sportId: 24
+2024-12-17 22:29:00.771 INFO [__main__] 开始请求sportId: 92
+2024-12-17 22:29:01.251 INFO [__main__] 等待1分钟
+2024-12-17 22:30:01.257 INFO [__main__] 开始请求
+2024-12-17 22:30:01.259 INFO [__main__] 开始请求sportId: 1
+2024-12-17 22:30:01.783 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:30:04.403 INFO [__main__] AL Ain FC vs AL Hazem FC获取Statscore ID成功: 14412569 用时0:00:02.190636
+2024-12-17 22:30:04.403 INFO [__main__] AL Ain FC vs AL Hazem FC - None
+2024-12-17 22:30:06.369 INFO [__main__] Singapore vs Thailand获取Statscore ID成功: 13914993 用时0:00:01.965001
+2024-12-17 22:30:06.369 INFO [__main__] Singapore vs Thailand - https://live.bbapcall.com/live/sd-1-4205363.m3u8?txSecret=94219b3508cb9521c0e44296b18873aa&txTime=6761D392
+2024-12-17 22:30:08.600 INFO [__main__] Sri Pahang FC vs Johor Darul Takzim FC获取Statscore ID成功: 14183748 用时0:00:02.230876
+2024-12-17 22:30:08.600 INFO [__main__] Sri Pahang FC vs Johor Darul Takzim FC - https://live.bbapcall.com/live/sd-1-4249825.m3u8?txSecret=d9d660c7c04c25c91d90d82972ba1718&txTime=6761D392
+2024-12-17 22:30:10.697 INFO [__main__] SC East Bengal vs RoundGlass Punjab FC获取Statscore ID成功: 14370642 用时0:00:02.096783
+2024-12-17 22:30:10.698 INFO [__main__] SC East Bengal vs RoundGlass Punjab FC - https://live.bbapcall.com/live/sd-1-4211083.m3u8?txSecret=aa4852844f44ee4f2b23c5a49ee11739&txTime=6761D392
+2024-12-17 22:30:12.792 INFO [__main__] El Qanah vs Tersana SC获取Statscore ID成功: 14390253 用时0:00:02.093672
+2024-12-17 22:30:12.793 INFO [__main__] El Qanah vs Tersana SC - None
+2024-12-17 22:30:12.794 INFO [__main__] Maccabi Haifa U19 vs Maccabi Tel Aviv U19的animation1为空
+2024-12-17 22:30:12.794 INFO [__main__] Maccabi Haifa U19 vs Maccabi Tel Aviv U19 - None
+2024-12-17 22:30:12.794 INFO [__main__] Kerala FA vs Meghalaya的animation1为空
+2024-12-17 22:30:12.794 INFO [__main__] Kerala FA vs Meghalaya - None
+2024-12-17 22:30:16.351 INFO [__main__] 更新了 7 条记录
+2024-12-17 22:30:16.486 INFO [__main__] 开始请求sportId: 3
+2024-12-17 22:30:17.027 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:30:19.084 INFO [__main__] Al Arabi vs Al Sadd获取Statscore ID成功: 14417282 用时0:00:01.576334
+2024-12-17 22:30:19.085 INFO [__main__] Al Arabi vs Al Sadd - https://live.bbapcall.com/live/sd-2-3827717.m3u8?txSecret=4fabf50742ebf4e5a8d130b66864aacf&txTime=6761D3A1
+2024-12-17 22:30:19.085 INFO [__main__] Al Difaa Aljawie vs AL Hilla的animation1为空
+2024-12-17 22:30:19.085 INFO [__main__] Al Difaa Aljawie vs AL Hilla - None
+2024-12-17 22:30:21.841 INFO [__main__] 更新了 2 条记录
+2024-12-17 22:30:21.973 INFO [__main__] 开始请求sportId: 5
+2024-12-17 22:30:22.383 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:30:22.794 INFO [__main__] Sebastian Grundtvig Jorgensen (DEN) vs Matthew Summers (GBR)的animation1为空
+2024-12-17 22:30:22.795 INFO [__main__] Sebastian Grundtvig Jorgensen (DEN) vs Matthew Summers (GBR) - None
+2024-12-17 22:30:22.795 INFO [__main__] Sean Cuenin (FRA) vs Eero Vasa (FIN)的animation1为空
+2024-12-17 22:30:22.795 INFO [__main__] Sean Cuenin (FRA) vs Eero Vasa (FIN) - None
+2024-12-17 22:30:25.531 INFO [__main__] 更新了 2 条记录
+2024-12-17 22:30:25.665 INFO [__main__] 开始请求sportId: 13
+2024-12-17 22:30:26.170 INFO [__main__] 开始请求sportId: 2
+2024-12-17 22:30:26.583 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:30:27.006 INFO [__main__] Sibir Novosibirsk Region vs Avangard Omsk的animation1为空
+2024-12-17 22:30:27.007 INFO [__main__] Sibir Novosibirsk Region vs Avangard Omsk - None
+2024-12-17 22:30:29.586 INFO [__main__] 更新了 1 条记录
+2024-12-17 22:30:29.721 INFO [__main__] 开始请求sportId: 6
+2024-12-17 22:30:30.229 INFO [__main__] 开始请求sportId: 18
+2024-12-17 22:30:30.647 INFO [__main__] 开始请求sportId: 19
+2024-12-17 22:30:31.141 INFO [__main__] 开始请求sportId: 14
+2024-12-17 22:30:31.556 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:30:31.974 INFO [__main__] India (w) vs West Indies (w)的animation1为空
+2024-12-17 22:30:31.975 INFO [__main__] India (w) vs West Indies (w) - None
+2024-12-17 22:30:34.692 INFO [__main__] 更新了 1 条记录
+2024-12-17 22:30:34.830 INFO [__main__] 开始请求sportId: 16
+2024-12-17 22:30:35.241 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:30:35.734 INFO [__main__] Jordan Brown vs Ken Doherty的animation1为空
+2024-12-17 22:30:35.734 INFO [__main__] Jordan Brown vs Ken Doherty - https://live.bbapcall.com/live/sd-19-4557724.m3u8?txSecret=426dcd62f44a2f9131bad13b47f63737&txTime=6761D3B3
+2024-12-17 22:30:38.378 INFO [__main__] 更新了 1 条记录
+2024-12-17 22:30:38.512 INFO [__main__] 开始请求sportId: 47
+2024-12-17 22:30:39.010 INFO [__main__] 开始请求sportId: 15
+2024-12-17 22:30:39.418 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:30:39.935 INFO [__main__] Szymon Seroka vs Marcin Balcerzak的animation1为空
+2024-12-17 22:30:39.935 INFO [__main__] Szymon Seroka vs Marcin Balcerzak - None
+2024-12-17 22:30:39.935 INFO [__main__] Maksymilian Miastowski vs Bartosz Czerwinski的animation1为空
+2024-12-17 22:30:39.935 INFO [__main__] Maksymilian Miastowski vs Bartosz Czerwinski - None
+2024-12-17 22:30:39.935 INFO [__main__] Mateusz Galus (POL) vs Milosz Kukawka (POL)的animation1为空
+2024-12-17 22:30:39.935 INFO [__main__] Mateusz Galus (POL) vs Milosz Kukawka (POL) - None
+2024-12-17 22:30:39.935 INFO [__main__] Tomas Cafourek (CZE) vs Adam Kosacky (CZE)的animation1为空
+2024-12-17 22:30:39.935 INFO [__main__] Tomas Cafourek (CZE) vs Adam Kosacky (CZE) - None
+2024-12-17 22:30:39.935 INFO [__main__] Jan Steffan (CZE) vs Tomas Barta (CZE)的animation1为空
+2024-12-17 22:30:39.935 INFO [__main__] Jan Steffan (CZE) vs Tomas Barta (CZE) - None
+2024-12-17 22:30:39.935 INFO [__main__] Jan Volhejn (CZE) vs Michal Zobac (CZE)的animation1为空
+2024-12-17 22:30:39.935 INFO [__main__] Jan Volhejn (CZE) vs Michal Zobac (CZE) - None
+2024-12-17 22:30:39.936 INFO [__main__] Tadeas Zika (CZE) vs Rostyslav Kliuchuk (UKR)的animation1为空
+2024-12-17 22:30:39.936 INFO [__main__] Tadeas Zika (CZE) vs Rostyslav Kliuchuk (UKR) - None
+2024-12-17 22:30:42.948 INFO [__main__] 更新了 4 条记录
+2024-12-17 22:30:43.629 INFO [__main__] 插入了 3 条记录
+2024-12-17 22:30:43.629 INFO [__main__] 开始请求sportId: 7
+2024-12-17 22:30:44.125 INFO [__main__] 开始请求sportId: 24
+2024-12-17 22:30:44.528 INFO [__main__] 开始请求sportId: 92
+2024-12-17 22:30:44.953 INFO [__main__] 等待1分钟
+2024-12-17 22:31:44.959 INFO [__main__] 开始请求
+2024-12-17 22:31:44.960 INFO [__main__] 开始请求sportId: 1
+2024-12-17 22:31:45.482 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:31:48.069 INFO [__main__] AL Ain FC vs AL Hazem FC获取Statscore ID成功: 14412569 用时0:00:02.162709
+2024-12-17 22:31:48.069 INFO [__main__] AL Ain FC vs AL Hazem FC - None
+2024-12-17 22:31:50.029 INFO [__main__] Al Safa (Sa) vs Al Zulfi获取Statscore ID成功: 14413606 用时0:00:01.959421
+2024-12-17 22:31:50.029 INFO [__main__] Al Safa (Sa) vs Al Zulfi - https://live.bbapcall.com/live/sd-1-4198382.m3u8?txSecret=8614fbe9ebad7883bcd92103681a0674&txTime=6761D3FA
+2024-12-17 22:31:52.505 INFO [__main__] Singapore vs Thailand获取Statscore ID成功: 13914993 用时0:00:02.475985
+2024-12-17 22:31:52.506 INFO [__main__] Singapore vs Thailand - https://live.bbapcall.com/live/sd-1-4205363.m3u8?txSecret=3c97efbeb11a578e5366e1c8188ee68f&txTime=6761D3FA
+2024-12-17 22:31:54.500 INFO [__main__] Sri Pahang FC vs Johor Darul Takzim FC获取Statscore ID成功: 14183748 用时0:00:01.993580
+2024-12-17 22:31:54.501 INFO [__main__] Sri Pahang FC vs Johor Darul Takzim FC - https://live.bbapcall.com/live/sd-1-4249825.m3u8?txSecret=a11577b438513606aa2ab60430b3d8dc&txTime=6761D3FA
+2024-12-17 22:31:56.500 INFO [__main__] SC East Bengal vs RoundGlass Punjab FC获取Statscore ID成功: 14370642 用时0:00:01.998461
+2024-12-17 22:31:56.504 INFO [__main__] SC East Bengal vs RoundGlass Punjab FC - https://live.bbapcall.com/live/sd-1-4211083.m3u8?txSecret=b459c2699b15c4fbfa6f21a2cbabd9b5&txTime=6761D3FA
+2024-12-17 22:31:58.541 INFO [__main__] El Qanah vs Tersana SC获取Statscore ID成功: 14390253 用时0:00:02.036654
+2024-12-17 22:31:58.541 INFO [__main__] El Qanah vs Tersana SC - None
+2024-12-17 22:31:58.541 INFO [__main__] Maccabi Haifa U19 vs Maccabi Tel Aviv U19的animation1为空
+2024-12-17 22:31:58.541 INFO [__main__] Maccabi Haifa U19 vs Maccabi Tel Aviv U19 - None
+2024-12-17 22:31:58.541 INFO [__main__] Kerala FA vs Meghalaya的animation1为空
+2024-12-17 22:31:58.541 INFO [__main__] Kerala FA vs Meghalaya - None
+2024-12-17 22:32:02.145 INFO [__main__] 更新了 8 条记录
+2024-12-17 22:32:02.367 INFO [__main__] 开始请求sportId: 3
+2024-12-17 22:32:02.791 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:32:04.850 INFO [__main__] Al Arabi vs Al Sadd获取Statscore ID成功: 14417282 用时0:00:01.557536
+2024-12-17 22:32:04.850 INFO [__main__] Al Arabi vs Al Sadd - https://live.bbapcall.com/live/sd-2-3827717.m3u8?txSecret=86b7706aa82c875bbd165ed61e5de73f&txTime=6761D40B
+2024-12-17 22:32:07.358 INFO [__main__] 更新了 1 条记录
+2024-12-17 22:32:07.493 INFO [__main__] 开始请求sportId: 5
+2024-12-17 22:32:07.905 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:32:08.403 INFO [__main__] Sebastian Grundtvig Jorgensen (DEN) vs Matthew Summers (GBR)的animation1为空
+2024-12-17 22:32:08.404 INFO [__main__] Sebastian Grundtvig Jorgensen (DEN) vs Matthew Summers (GBR) - None
+2024-12-17 22:32:08.404 INFO [__main__] Sean Cuenin (FRA) vs Eero Vasa (FIN)的animation1为空
+2024-12-17 22:32:08.404 INFO [__main__] Sean Cuenin (FRA) vs Eero Vasa (FIN) - None
+2024-12-17 22:32:11.056 INFO [__main__] 更新了 2 条记录
+2024-12-17 22:32:11.274 INFO [__main__] 开始请求sportId: 13
+2024-12-17 22:32:11.690 INFO [__main__] 开始请求sportId: 2
+2024-12-17 22:32:12.098 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:32:12.506 INFO [__main__] Sibir Novosibirsk Region vs Avangard Omsk的animation1为空
+2024-12-17 22:32:12.506 INFO [__main__] Sibir Novosibirsk Region vs Avangard Omsk - None
+2024-12-17 22:32:15.086 INFO [__main__] 更新了 1 条记录
+2024-12-17 22:32:15.219 INFO [__main__] 开始请求sportId: 6
+2024-12-17 22:32:15.629 INFO [__main__] 开始请求sportId: 18
+2024-12-17 22:32:16.040 INFO [__main__] 开始请求sportId: 19
+2024-12-17 22:32:16.520 INFO [__main__] 开始请求sportId: 14
+2024-12-17 22:32:16.923 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:32:17.346 INFO [__main__] India (w) vs West Indies (w)的animation1为空
+2024-12-17 22:32:17.346 INFO [__main__] India (w) vs West Indies (w) - None
+2024-12-17 22:32:17.346 INFO [__main__] South Africa vs Pakistan的animation1为空
+2024-12-17 22:32:17.346 INFO [__main__] South Africa vs Pakistan - None
+2024-12-17 22:32:20.184 INFO [__main__] 更新了 2 条记录
+2024-12-17 22:32:20.319 INFO [__main__] 开始请求sportId: 16
+2024-12-17 22:32:20.726 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:32:21.140 INFO [__main__] Jordan Brown vs Ken Doherty的animation1为空
+2024-12-17 22:32:21.140 INFO [__main__] Jordan Brown vs Ken Doherty - https://live.bbapcall.com/live/sd-19-4557724.m3u8?txSecret=e1d03b2af6ab93b75196cb00142ee3a2&txTime=6761D41D
+2024-12-17 22:32:21.140 INFO [__main__] Yuan Sijun vs Bai Yulu (w)的animation1为空
+2024-12-17 22:32:21.140 INFO [__main__] Yuan Sijun vs Bai Yulu (w) - None
+2024-12-17 22:32:24.170 INFO [__main__] 更新了 2 条记录
+2024-12-17 22:32:24.380 INFO [__main__] 开始请求sportId: 47
+2024-12-17 22:32:24.792 INFO [__main__] 开始请求sportId: 15
+2024-12-17 22:32:25.203 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:32:25.703 INFO [__main__] Szymon Seroka vs Marcin Balcerzak的animation1为空
+2024-12-17 22:32:25.703 INFO [__main__] Szymon Seroka vs Marcin Balcerzak - None
+2024-12-17 22:32:25.704 INFO [__main__] Maksymilian Miastowski vs Bartosz Czerwinski的animation1为空
+2024-12-17 22:32:25.704 INFO [__main__] Maksymilian Miastowski vs Bartosz Czerwinski - None
+2024-12-17 22:32:25.704 INFO [__main__] Patryk Gamrot vs Przemyslaw Blocho的animation1为空
+2024-12-17 22:32:25.704 INFO [__main__] Patryk Gamrot vs Przemyslaw Blocho - None
+2024-12-17 22:32:25.704 INFO [__main__] Mateusz Galus (POL) vs Milosz Kukawka (POL)的animation1为空
+2024-12-17 22:32:25.704 INFO [__main__] Mateusz Galus (POL) vs Milosz Kukawka (POL) - None
+2024-12-17 22:32:25.704 INFO [__main__] Tomas Cafourek (CZE) vs Adam Kosacky (CZE)的animation1为空
+2024-12-17 22:32:25.704 INFO [__main__] Tomas Cafourek (CZE) vs Adam Kosacky (CZE) - None
+2024-12-17 22:32:25.704 INFO [__main__] Jan Steffan (CZE) vs Tomas Barta (CZE)的animation1为空
+2024-12-17 22:32:25.704 INFO [__main__] Jan Steffan (CZE) vs Tomas Barta (CZE) - None
+2024-12-17 22:32:25.704 INFO [__main__] Ladislav Janousek (CZE) vs Lukas Malek (CZE)的animation1为空
+2024-12-17 22:32:25.704 INFO [__main__] Ladislav Janousek (CZE) vs Lukas Malek (CZE) - None
+2024-12-17 22:32:25.704 INFO [__main__] Jan Volhejn (CZE) vs Michal Zobac (CZE)的animation1为空
+2024-12-17 22:32:25.704 INFO [__main__] Jan Volhejn (CZE) vs Michal Zobac (CZE) - None
+2024-12-17 22:32:25.704 INFO [__main__] Tadeas Zika (CZE) vs Rostyslav Kliuchuk (UKR)的animation1为空
+2024-12-17 22:32:25.704 INFO [__main__] Tadeas Zika (CZE) vs Rostyslav Kliuchuk (UKR) - None
+2024-12-17 22:32:29.123 INFO [__main__] 更新了 7 条记录
+2024-12-17 22:32:29.960 INFO [__main__] 插入了 2 条记录
+2024-12-17 22:32:29.961 INFO [__main__] 开始请求sportId: 7
+2024-12-17 22:32:30.437 INFO [__main__] 开始请求sportId: 24
+2024-12-17 22:32:30.853 INFO [__main__] 开始请求sportId: 92
+2024-12-17 22:32:31.342 INFO [__main__] 等待1分钟
+2024-12-17 22:33:31.352 INFO [__main__] 开始请求
+2024-12-17 22:33:31.356 INFO [__main__] 开始请求sportId: 1
+2024-12-17 22:33:31.779 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:33:34.342 INFO [__main__] AL Ain FC vs AL Hazem FC获取Statscore ID成功: 14412569 用时0:00:02.149171
+2024-12-17 22:33:34.342 INFO [__main__] AL Ain FC vs AL Hazem FC - None
+2024-12-17 22:33:36.328 INFO [__main__] Al Safa (Sa) vs Al Zulfi获取Statscore ID成功: 14413606 用时0:00:01.985227
+2024-12-17 22:33:36.328 INFO [__main__] Al Safa (Sa) vs Al Zulfi - https://live.bbapcall.com/live/sd-1-4198382.m3u8?txSecret=7772f6c55236d5f6085ce46dbe9cb4bb&txTime=6761D464
+2024-12-17 22:33:38.463 INFO [__main__] Singapore vs Thailand获取Statscore ID成功: 13914993 用时0:00:02.134495
+2024-12-17 22:33:38.464 INFO [__main__] Singapore vs Thailand - https://live.bbapcall.com/live/sd-1-4205363.m3u8?txSecret=07e2c3591fffdc74503b78e040f2631f&txTime=6761D464
+2024-12-17 22:33:40.512 INFO [__main__] Sri Pahang FC vs Johor Darul Takzim FC获取Statscore ID成功: 14183748 用时0:00:02.047893
+2024-12-17 22:33:40.512 INFO [__main__] Sri Pahang FC vs Johor Darul Takzim FC - https://live.bbapcall.com/live/sd-1-4249825.m3u8?txSecret=4ee45df0e7de1a12e07208932287eca9&txTime=6761D464
+2024-12-17 22:33:42.500 INFO [__main__] SC East Bengal vs RoundGlass Punjab FC获取Statscore ID成功: 14370642 用时0:00:01.986655
+2024-12-17 22:33:42.500 INFO [__main__] SC East Bengal vs RoundGlass Punjab FC - https://live.bbapcall.com/live/sd-1-4211083.m3u8?txSecret=5dcdae498e901547fdc69f096f7607b8&txTime=6761D464
+2024-12-17 22:33:44.641 INFO [__main__] El Qanah vs Tersana SC获取Statscore ID成功: 14390253 用时0:00:02.141125
+2024-12-17 22:33:44.642 INFO [__main__] El Qanah vs Tersana SC - None
+2024-12-17 22:33:44.642 INFO [__main__] Maccabi Haifa U19 vs Maccabi Tel Aviv U19的animation1为空
+2024-12-17 22:33:44.642 INFO [__main__] Maccabi Haifa U19 vs Maccabi Tel Aviv U19 - None
+2024-12-17 22:33:44.642 INFO [__main__] Kerala FA vs Meghalaya的animation1为空
+2024-12-17 22:33:44.642 INFO [__main__] Kerala FA vs Meghalaya - None
+2024-12-17 22:33:48.262 INFO [__main__] 更新了 8 条记录
+2024-12-17 22:33:48.471 INFO [__main__] 开始请求sportId: 3
+2024-12-17 22:33:48.941 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:33:51.449 INFO [__main__] BK Uralmash Yekaterinburg vs Avtodor Saratov获取Statscore ID成功: 14406009 用时0:00:02.092077
+2024-12-17 22:33:51.449 INFO [__main__] BK Uralmash Yekaterinburg vs Avtodor Saratov - https://live.bbapcall.com/live/sd-2-3825973.m3u8?txSecret=79d1c8978bf862e34c3cf8efab3f876e&txTime=6761D475
+2024-12-17 22:33:53.035 INFO [__main__] Al Arabi vs Al Sadd获取Statscore ID成功: 14417282 用时0:00:01.585125
+2024-12-17 22:33:53.035 INFO [__main__] Al Arabi vs Al Sadd - https://live.bbapcall.com/live/sd-2-3827717.m3u8?txSecret=8fe9370a3836dacf4850edfb9d2a4332&txTime=6761D475
+2024-12-17 22:33:55.774 INFO [__main__] 更新了 2 条记录
+2024-12-17 22:33:55.910 INFO [__main__] 开始请求sportId: 5
+2024-12-17 22:33:56.411 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:33:56.820 INFO [__main__] Sebastian Grundtvig Jorgensen (DEN) vs Matthew Summers (GBR)的animation1为空
+2024-12-17 22:33:56.820 INFO [__main__] Sebastian Grundtvig Jorgensen (DEN) vs Matthew Summers (GBR) - None
+2024-12-17 22:33:56.820 INFO [__main__] Sean Cuenin (FRA) vs Eero Vasa (FIN)的animation1为空
+2024-12-17 22:33:56.820 INFO [__main__] Sean Cuenin (FRA) vs Eero Vasa (FIN) - None
+2024-12-17 22:33:59.554 INFO [__main__] 更新了 2 条记录
+2024-12-17 22:33:59.692 INFO [__main__] 开始请求sportId: 13
+2024-12-17 22:34:00.115 INFO [__main__] 开始请求sportId: 2
+2024-12-17 22:34:00.621 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:34:01.076 INFO [__main__] Sibir Novosibirsk Region vs Avangard Omsk的animation1为空
+2024-12-17 22:34:01.077 INFO [__main__] Sibir Novosibirsk Region vs Avangard Omsk - None
+2024-12-17 22:34:03.643 INFO [__main__] 更新了 1 条记录
+2024-12-17 22:34:03.776 INFO [__main__] 开始请求sportId: 6
+2024-12-17 22:34:04.260 INFO [__main__] 开始请求sportId: 18
+2024-12-17 22:34:04.671 INFO [__main__] 开始请求sportId: 19
+2024-12-17 22:34:05.082 INFO [__main__] 开始请求sportId: 14
+2024-12-17 22:34:05.576 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:34:05.990 INFO [__main__] India (w) vs West Indies (w)的animation1为空
+2024-12-17 22:34:05.991 INFO [__main__] India (w) vs West Indies (w) - None
+2024-12-17 22:34:05.991 INFO [__main__] South Africa vs Pakistan的animation1为空
+2024-12-17 22:34:05.991 INFO [__main__] South Africa vs Pakistan - None
+2024-12-17 22:34:08.746 INFO [__main__] 更新了 2 条记录
+2024-12-17 22:34:08.908 INFO [__main__] 开始请求sportId: 16
+2024-12-17 22:34:09.432 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:34:09.909 INFO [__main__] Graeme Dott vs Xing Zihao的animation1为空
+2024-12-17 22:34:09.910 INFO [__main__] Graeme Dott vs Xing Zihao - https://live.bbapcall.com/live/sd-19-4557783.m3u8?txSecret=d75d94ba6c63a16ea09b9afc97f2a3ab&txTime=6761D48A
+2024-12-17 22:34:09.911 INFO [__main__] Yuan Sijun vs Bai Yulu (w)的animation1为空
+2024-12-17 22:34:09.911 INFO [__main__] Yuan Sijun vs Bai Yulu (w) - https://live.bbapcall.com/live/sd-19-4557849.m3u8?txSecret=dcd800553ccdd0dd26bf73fde2ab2140&txTime=6761D48A
+2024-12-17 22:34:12.563 INFO [__main__] 更新了 1 条记录
+2024-12-17 22:34:13.319 INFO [__main__] 插入了 1 条记录
+2024-12-17 22:34:13.319 INFO [__main__] 开始请求sportId: 47
+2024-12-17 22:34:13.722 INFO [__main__] 开始请求sportId: 15
+2024-12-17 22:34:14.124 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:34:14.629 INFO [__main__] Szymon Seroka vs Marcin Balcerzak的animation1为空
+2024-12-17 22:34:14.630 INFO [__main__] Szymon Seroka vs Marcin Balcerzak - None
+2024-12-17 22:34:14.630 INFO [__main__] Maksymilian Miastowski vs Bartosz Czerwinski的animation1为空
+2024-12-17 22:34:14.630 INFO [__main__] Maksymilian Miastowski vs Bartosz Czerwinski - None
+2024-12-17 22:34:14.630 INFO [__main__] Patryk Gamrot vs Przemyslaw Blocho的animation1为空
+2024-12-17 22:34:14.630 INFO [__main__] Patryk Gamrot vs Przemyslaw Blocho - None
+2024-12-17 22:34:14.630 INFO [__main__] Mateusz Galus (POL) vs Milosz Kukawka (POL)的animation1为空
+2024-12-17 22:34:14.630 INFO [__main__] Mateusz Galus (POL) vs Milosz Kukawka (POL) - None
+2024-12-17 22:34:14.630 INFO [__main__] Tomas Cafourek (CZE) vs Adam Kosacky (CZE)的animation1为空
+2024-12-17 22:34:14.630 INFO [__main__] Tomas Cafourek (CZE) vs Adam Kosacky (CZE) - None
+2024-12-17 22:34:14.630 INFO [__main__] Jan Steffan (CZE) vs Tomas Barta (CZE)的animation1为空
+2024-12-17 22:34:14.630 INFO [__main__] Jan Steffan (CZE) vs Tomas Barta (CZE) - None
+2024-12-17 22:34:14.630 INFO [__main__] Ladislav Janousek (CZE) vs Lukas Malek (CZE)的animation1为空
+2024-12-17 22:34:14.630 INFO [__main__] Ladislav Janousek (CZE) vs Lukas Malek (CZE) - None
+2024-12-17 22:34:14.630 INFO [__main__] Jan Volhejn (CZE) vs Michal Zobac (CZE)的animation1为空
+2024-12-17 22:34:14.630 INFO [__main__] Jan Volhejn (CZE) vs Michal Zobac (CZE) - None
+2024-12-17 22:34:14.630 INFO [__main__] Tadeas Zika (CZE) vs Rostyslav Kliuchuk (UKR)的animation1为空
+2024-12-17 22:34:14.630 INFO [__main__] Tadeas Zika (CZE) vs Rostyslav Kliuchuk (UKR) - None
+2024-12-17 22:34:18.425 INFO [__main__] 更新了 9 条记录
+2024-12-17 22:34:18.573 INFO [__main__] 开始请求sportId: 7
+2024-12-17 22:34:19.206 INFO [__main__] 开始请求sportId: 24
+2024-12-17 22:34:19.625 INFO [__main__] 开始请求sportId: 92
+2024-12-17 22:34:20.120 INFO [__main__] 等待1分钟
+2024-12-17 22:35:20.133 INFO [__main__] 开始请求
+2024-12-17 22:35:20.134 INFO [__main__] 开始请求sportId: 1
+2024-12-17 22:35:20.558 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:35:23.160 INFO [__main__] AL Ain FC vs AL Hazem FC获取Statscore ID成功: 14412569 用时0:00:02.192544
+2024-12-17 22:35:23.161 INFO [__main__] AL Ain FC vs AL Hazem FC - None
+2024-12-17 22:35:25.262 INFO [__main__] Al Safa (Sa) vs Al Zulfi获取Statscore ID成功: 14413606 用时0:00:02.101144
+2024-12-17 22:35:25.262 INFO [__main__] Al Safa (Sa) vs Al Zulfi - https://live.bbapcall.com/live/sd-1-4198382.m3u8?txSecret=bdb561700837ecac419af3c3d1b5696e&txTime=6761D4D1
+2024-12-17 22:35:27.224 INFO [__main__] Singapore vs Thailand获取Statscore ID成功: 13914993 用时0:00:01.961355
+2024-12-17 22:35:27.224 INFO [__main__] Singapore vs Thailand - https://live.bbapcall.com/live/sd-1-4205363.m3u8?txSecret=5108b9c94a359d895f177eafa8959120&txTime=6761D4D1
+2024-12-17 22:35:29.295 INFO [__main__] Sri Pahang FC vs Johor Darul Takzim FC获取Statscore ID成功: 14183748 用时0:00:02.070903
+2024-12-17 22:35:29.296 INFO [__main__] Sri Pahang FC vs Johor Darul Takzim FC - https://live.bbapcall.com/live/sd-1-4249825.m3u8?txSecret=56bc1f5fc7d7795f5780fd226b802f54&txTime=6761D4D1
+2024-12-17 22:35:32.074 INFO [__main__] SC East Bengal vs RoundGlass Punjab FC获取Statscore ID成功: 14370642 用时0:00:02.778088
+2024-12-17 22:35:32.074 INFO [__main__] SC East Bengal vs RoundGlass Punjab FC - https://live.bbapcall.com/live/sd-1-4211083.m3u8?txSecret=1f81fa6c7b8e53cabe0ebc5548d4ae4f&txTime=6761D4D1
+2024-12-17 22:35:34.012 INFO [__main__] El Qanah vs Tersana SC获取Statscore ID成功: 14390253 用时0:00:01.937966
+2024-12-17 22:35:34.013 INFO [__main__] El Qanah vs Tersana SC - None
+2024-12-17 22:35:34.013 INFO [__main__] Maccabi Haifa U19 vs Maccabi Tel Aviv U19的animation1为空
+2024-12-17 22:35:34.013 INFO [__main__] Maccabi Haifa U19 vs Maccabi Tel Aviv U19 - None
+2024-12-17 22:35:34.013 INFO [__main__] Kerala FA vs Meghalaya的animation1为空
+2024-12-17 22:35:34.013 INFO [__main__] Kerala FA vs Meghalaya - None
+2024-12-17 22:35:37.583 INFO [__main__] 更新了 8 条记录
+2024-12-17 22:35:37.718 INFO [__main__] 开始请求sportId: 3
+2024-12-17 22:35:38.131 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:35:40.625 INFO [__main__] BK Uralmash Yekaterinburg vs Avtodor Saratov获取Statscore ID成功: 14406009 用时0:00:01.983957
+2024-12-17 22:35:40.626 INFO [__main__] BK Uralmash Yekaterinburg vs Avtodor Saratov - https://live.bbapcall.com/live/sd-2-3825973.m3u8?txSecret=a80b82016294c2c90612890039a85a8c&txTime=6761D4E2
+2024-12-17 22:35:42.176 INFO [__main__] Al Arabi vs Al Sadd获取Statscore ID成功: 14417282 用时0:00:01.549720
+2024-12-17 22:35:42.177 INFO [__main__] Al Arabi vs Al Sadd - https://live.bbapcall.com/live/sd-2-3827717.m3u8?txSecret=1bb1fec8add3ae4f6a1d047e38716e56&txTime=6761D4E2
+2024-12-17 22:35:44.943 INFO [__main__] 更新了 2 条记录
+2024-12-17 22:35:45.078 INFO [__main__] 开始请求sportId: 5
+2024-12-17 22:35:45.575 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:35:45.993 INFO [__main__] Sebastian Grundtvig Jorgensen (DEN) vs Matthew Summers (GBR)的animation1为空
+2024-12-17 22:35:45.994 INFO [__main__] Sebastian Grundtvig Jorgensen (DEN) vs Matthew Summers (GBR) - None
+2024-12-17 22:35:45.994 INFO [__main__] Sean Cuenin (FRA) vs Eero Vasa (FIN)的animation1为空
+2024-12-17 22:35:45.994 INFO [__main__] Sean Cuenin (FRA) vs Eero Vasa (FIN) - None
+2024-12-17 22:35:48.740 INFO [__main__] 更新了 2 条记录
+2024-12-17 22:35:48.874 INFO [__main__] 开始请求sportId: 13
+2024-12-17 22:35:49.376 INFO [__main__] 开始请求sportId: 2
+2024-12-17 22:35:49.809 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:35:50.356 INFO [__main__] Sibir Novosibirsk Region vs Avangard Omsk的animation1为空
+2024-12-17 22:35:50.356 INFO [__main__] Sibir Novosibirsk Region vs Avangard Omsk - None
+2024-12-17 22:35:53.101 INFO [__main__] 更新了 1 条记录
+2024-12-17 22:35:53.236 INFO [__main__] 开始请求sportId: 6
+2024-12-17 22:35:53.642 INFO [__main__] 开始请求sportId: 18
+2024-12-17 22:35:54.055 INFO [__main__] 开始请求sportId: 19
+2024-12-17 22:35:54.675 INFO [__main__] 开始请求sportId: 14
+2024-12-17 22:35:55.096 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:35:55.495 INFO [__main__] India (w) vs West Indies (w)的animation1为空
+2024-12-17 22:35:55.496 INFO [__main__] India (w) vs West Indies (w) - None
+2024-12-17 22:35:55.496 INFO [__main__] South Africa vs Pakistan的animation1为空
+2024-12-17 22:35:55.496 INFO [__main__] South Africa vs Pakistan - None
+2024-12-17 22:35:58.249 INFO [__main__] 更新了 2 条记录
+2024-12-17 22:35:58.577 INFO [__main__] 开始请求sportId: 16
+2024-12-17 22:35:59.021 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:35:59.433 INFO [__main__] Graeme Dott vs Xing Zihao的animation1为空
+2024-12-17 22:35:59.433 INFO [__main__] Graeme Dott vs Xing Zihao - https://live.bbapcall.com/live/sd-19-4557783.m3u8?txSecret=06c00f9ad6d53bff5704f66f6ea2c1a9&txTime=6761D4F7
+2024-12-17 22:35:59.434 INFO [__main__] Aaron Hill vs Stan Moody的animation1为空
+2024-12-17 22:35:59.434 INFO [__main__] Aaron Hill vs Stan Moody - https://live.bbapcall.com/live/sd-19-4557785.m3u8?txSecret=c42a4ee42d57c36b0000d8287c6795eb&txTime=6761D4F7
+2024-12-17 22:35:59.434 INFO [__main__] Anthony McGill vs Haydon Pinhey的animation1为空
+2024-12-17 22:35:59.434 INFO [__main__] Anthony McGill vs Haydon Pinhey - https://live.bbapcall.com/live/sd-19-4557782.m3u8?txSecret=5498bf35129e0c8772ae631af0f69e8c&txTime=6761D4F7
+2024-12-17 22:35:59.434 INFO [__main__] Yuan Sijun vs Bai Yulu (w)的animation1为空
+2024-12-17 22:35:59.434 INFO [__main__] Yuan Sijun vs Bai Yulu (w) - https://live.bbapcall.com/live/sd-19-4557849.m3u8?txSecret=1d1689a57c8ba28016a91660d431bc94&txTime=6761D4F7
+2024-12-17 22:36:02.295 INFO [__main__] 更新了 3 条记录
+2024-12-17 22:36:03.060 INFO [__main__] 插入了 1 条记录
+2024-12-17 22:36:03.060 INFO [__main__] 开始请求sportId: 47
+2024-12-17 22:36:03.470 INFO [__main__] 开始请求sportId: 15
+2024-12-17 22:36:03.886 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:36:04.388 INFO [__main__] Szymon Seroka vs Marcin Balcerzak的animation1为空
+2024-12-17 22:36:04.388 INFO [__main__] Szymon Seroka vs Marcin Balcerzak - None
+2024-12-17 22:36:04.388 INFO [__main__] Maksymilian Miastowski vs Bartosz Czerwinski的animation1为空
+2024-12-17 22:36:04.388 INFO [__main__] Maksymilian Miastowski vs Bartosz Czerwinski - None
+2024-12-17 22:36:04.388 INFO [__main__] Patryk Gamrot vs Przemyslaw Blocho的animation1为空
+2024-12-17 22:36:04.388 INFO [__main__] Patryk Gamrot vs Przemyslaw Blocho - None
+2024-12-17 22:36:04.388 INFO [__main__] Mateusz Galus (POL) vs Milosz Kukawka (POL)的animation1为空
+2024-12-17 22:36:04.388 INFO [__main__] Mateusz Galus (POL) vs Milosz Kukawka (POL) - None
+2024-12-17 22:36:04.388 INFO [__main__] Tomas Cafourek (CZE) vs Adam Kosacky (CZE)的animation1为空
+2024-12-17 22:36:04.388 INFO [__main__] Tomas Cafourek (CZE) vs Adam Kosacky (CZE) - None
+2024-12-17 22:36:04.388 INFO [__main__] Jan Steffan (CZE) vs Tomas Barta (CZE)的animation1为空
+2024-12-17 22:36:04.389 INFO [__main__] Jan Steffan (CZE) vs Tomas Barta (CZE) - None
+2024-12-17 22:36:04.389 INFO [__main__] Ladislav Janousek (CZE) vs Lukas Malek (CZE)的animation1为空
+2024-12-17 22:36:04.389 INFO [__main__] Ladislav Janousek (CZE) vs Lukas Malek (CZE) - None
+2024-12-17 22:36:04.389 INFO [__main__] Jan Volhejn (CZE) vs Michal Zobac (CZE)的animation1为空
+2024-12-17 22:36:04.389 INFO [__main__] Jan Volhejn (CZE) vs Michal Zobac (CZE) - None
+2024-12-17 22:36:04.389 INFO [__main__] Tadeas Zika (CZE) vs Rostyslav Kliuchuk (UKR)的animation1为空
+2024-12-17 22:36:04.389 INFO [__main__] Tadeas Zika (CZE) vs Rostyslav Kliuchuk (UKR) - None
+2024-12-17 22:36:08.205 INFO [__main__] 更新了 9 条记录
+2024-12-17 22:36:08.336 INFO [__main__] 开始请求sportId: 7
+2024-12-17 22:36:08.730 INFO [__main__] 开始请求sportId: 24
+2024-12-17 22:36:09.222 INFO [__main__] 开始请求sportId: 92
+2024-12-17 22:36:09.643 INFO [__main__] 等待1分钟
+2024-12-17 22:37:09.645 INFO [__main__] 开始请求
+2024-12-17 22:37:09.645 INFO [__main__] 开始请求sportId: 1
+2024-12-17 22:37:10.876 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:37:13.311 INFO [__main__] AL Ain FC vs AL Hazem FC获取Statscore ID成功: 14412569 用时0:00:01.945684
+2024-12-17 22:37:13.312 INFO [__main__] AL Ain FC vs AL Hazem FC - None
+2024-12-17 22:37:15.258 INFO [__main__] Al Safa (Sa) vs Al Zulfi获取Statscore ID成功: 14413606 用时0:00:01.945796
+2024-12-17 22:37:15.258 INFO [__main__] Al Safa (Sa) vs Al Zulfi - https://live.bbapcall.com/live/sd-1-4198382.m3u8?txSecret=d3f74fa00faa9f63bd0d081c927b917a&txTime=6761D53F
+2024-12-17 22:37:18.266 INFO [__main__] Singapore vs Thailand获取Statscore ID成功: 13914993 用时0:00:03.007763
+2024-12-17 22:37:18.267 INFO [__main__] Singapore vs Thailand - https://live.bbapcall.com/live/sd-1-4205363.m3u8?txSecret=d05533b201e3d94f086c749c11095ca4&txTime=6761D53F
+2024-12-17 22:37:20.221 INFO [__main__] Sri Pahang FC vs Johor Darul Takzim FC获取Statscore ID成功: 14183748 用时0:00:01.954497
+2024-12-17 22:37:20.221 INFO [__main__] Sri Pahang FC vs Johor Darul Takzim FC - https://live.bbapcall.com/live/sd-1-4249825.m3u8?txSecret=1b2218cb08b67a53f93d3308280cfe9f&txTime=6761D53F
+2024-12-17 22:37:22.227 INFO [__main__] SC East Bengal vs RoundGlass Punjab FC获取Statscore ID成功: 14370642 用时0:00:02.005423
+2024-12-17 22:37:22.227 INFO [__main__] SC East Bengal vs RoundGlass Punjab FC - https://live.bbapcall.com/live/sd-1-4211083.m3u8?txSecret=d23ff6cd21a5c20695f90b68de789a51&txTime=6761D53F
+2024-12-17 22:37:24.185 INFO [__main__] El Qanah vs Tersana SC获取Statscore ID成功: 14390253 用时0:00:01.957406
+2024-12-17 22:37:24.185 INFO [__main__] El Qanah vs Tersana SC - None
+2024-12-17 22:37:24.185 INFO [__main__] Maccabi Haifa U19 vs Maccabi Tel Aviv U19的animation1为空
+2024-12-17 22:37:24.185 INFO [__main__] Maccabi Haifa U19 vs Maccabi Tel Aviv U19 - None
+2024-12-17 22:37:24.186 INFO [__main__] Kerala FA vs Meghalaya的animation1为空
+2024-12-17 22:37:24.186 INFO [__main__] Kerala FA vs Meghalaya - None
+2024-12-17 22:37:27.767 INFO [__main__] 更新了 8 条记录
+2024-12-17 22:37:27.899 INFO [__main__] 开始请求sportId: 3
+2024-12-17 22:37:28.518 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:37:31.012 INFO [__main__] BK Uralmash Yekaterinburg vs Avtodor Saratov获取Statscore ID成功: 14406009 用时0:00:02.076400
+2024-12-17 22:37:31.012 INFO [__main__] BK Uralmash Yekaterinburg vs Avtodor Saratov - https://live.bbapcall.com/live/sd-2-3825973.m3u8?txSecret=0e2d5e35a37b924fb7363af89b9db136&txTime=6761D551
+2024-12-17 22:37:32.680 INFO [__main__] 程序开始运行
+2024-12-17 22:37:32.680 ERROR [__main__] 这是一条测试错误信息
+2024-12-17 22:37:32.746 INFO [__main__] 开始请求
+2024-12-17 22:37:32.746 INFO [__main__] 开始请求sportId: 1
+2024-12-17 22:37:33.283 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:37:35.708 INFO [__main__] AL Ain FC vs AL Hazem FC获取Statscore ID成功: 14412569 用时0:00:01.947712
+2024-12-17 22:37:35.708 INFO [__main__] AL Ain FC vs AL Hazem FC - None
+2024-12-17 22:37:37.695 INFO [__main__] Al Safa (Sa) vs Al Zulfi获取Statscore ID成功: 14413606 用时0:00:01.986279
+2024-12-17 22:37:37.695 INFO [__main__] Al Safa (Sa) vs Al Zulfi - https://live.bbapcall.com/live/sd-1-4198382.m3u8?txSecret=31eeff613b77f2d30ab19f034a01fc43&txTime=6761D555

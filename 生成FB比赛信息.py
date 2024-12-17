@@ -279,5 +279,5 @@ while True:
             continue
         engine = create_engine('mysql+pymysql://sportData:syrJBBSPT67At4rs@34.84.102.182:3306/sportdata')
         upsert_to_database(df, engine,'fb','match_id')
-    logger.info("等待1分钟")
-    time.sleep(1*60)
+    logger.info("等待5分钟")
+    time.sleep(5*60)
