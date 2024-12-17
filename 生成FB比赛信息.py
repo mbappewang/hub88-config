@@ -240,6 +240,7 @@ def upsert_to_database(df, engine, table_name, primary_key):
 while True:
     logger.info("开始请求")
     sportIds = [1,3,5,13,2,6,18,19,14,16,47,15,7,24,92]
+    sportIds = [3]
     # getList(sportId,current,languageType,orderBy,type):
     for sportId in sportIds:
         logger.info(f"开始请求sportId: {sportId}")
@@ -258,6 +259,7 @@ while True:
             logger.info(f"开始请求页数: {current} 共{pageTotal}页")
             results = getList(sportId,current, 'ENG', 1,1)
             data = results.get('data', {})
+            # print(data)
             if not data:
                 continue
             matchInfo_list = matchInfo_list +  getMatchInfo(data)
@@ -269,6 +271,7 @@ while True:
                 continue
             matchInfo['statscore_id'] = statscore_id
             matchInfo_list_finial.append(matchInfo)
+            logger.info(f"{matchInfo['name']} - {matchInfo['m3u8SD']}")
         # logger.info(f"Get {len(matchInfo_list_finial)} matches with statscore_id")
 
         df = pd.DataFrame(matchInfo_list_finial)
@@ -276,5 +279,5 @@ while True:
             continue
         engine = create_engine('mysql+pymysql://sportData:syrJBBSPT67At4rs@34.84.102.182:3306/sportdata')
         upsert_to_database(df, engine,'fb','match_id')
-    logger.info("等待15分钟")
-    time.sleep(15*60)
+    logger.info("等待1分钟")
+    time.sleep(1*60)

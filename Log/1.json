@@ -1,0 +1,2431 @@
+{
+  "current": 1,
+  "size": 50,
+  "total": 11,
+  "records": [
+    {
+      "nsg": [
+        {
+          "pe": 3001,
+          "tyg": 5,
+          "sc": [
+            54,
+            45
+          ]
+        },
+        {
+          "pe": 3003,
+          "tyg": 5,
+          "sc": [
+            54,
+            45
+          ]
+        },
+        {
+          "pe": 3005,
+          "tyg": 5,
+          "sc": [
+            33,
+            29
+          ]
+        },
+        {
+          "pe": 3006,
+          "tyg": 5,
+          "sc": [
+            21,
+            16
+          ]
+        }
+      ],
+      "mg": [
+        {
+          "mty": 3002,
+          "pe": 3001,
+          "mks": [
+            {
+              "op": [
+                {
+                  "na": "Zhejiang Golden Bulls",
+                  "nm": "-19.5",
+                  "ty": 1,
+                  "od": 1.77,
+                  "bod": 1.77,
+                  "odt": 1,
+                  "li": "-19.5"
+                },
+                {
+                  "na": "Sichuan Blue Whales",
+                  "nm": "+19.5",
+                  "ty": 2,
+                  "od": 1.91,
+                  "bod": 1.91,
+                  "odt": 1,
+                  "li": "+19.5"
+                }
+              ],
+              "id": 141388878,
+              "ss": 1,
+              "au": 1,
+              "mbl": 1,
+              "li": "-19.5"
+            },
+            {
+              "op": [
+                {
+                  "na": "Zhejiang Golden Bulls",
+                  "nm": "-20.5",
+                  "ty": 1,
+                  "od": 1.92,
+                  "bod": 1.92,
+                  "odt": 1,
+                  "li": "-20.5"
+                },
+                {
+                  "na": "Sichuan Blue Whales",
+                  "nm": "+20.5",
+                  "ty": 2,
+                  "od": 1.76,
+                  "bod": 1.76,
+                  "odt": 1,
+                  "li": "+20.5"
+                }
+              ],
+              "id": 141295963,
+              "ss": 1,
+              "au": 1,
+              "mbl": 2,
+              "li": "-20.5"
+            },
+            {
+              "op": [
+                {
+                  "na": "Zhejiang Golden Bulls",
+                  "nm": "-21.5",
+                  "ty": 1,
+                  "od": 2.07,
+                  "bod": 2.07,
+                  "odt": 1,
+                  "li": "-21.5"
+                },
+                {
+                  "na": "Sichuan Blue Whales",
+                  "nm": "+21.5",
+                  "ty": 2,
+                  "od": 1.61,
+                  "bod": 1.61,
+                  "odt": 1,
+                  "li": "+21.5"
+                }
+              ],
+              "id": 141295960,
+              "ss": 1,
+              "au": 1,
+              "mbl": 3,
+              "li": "-21.5"
+            }
+          ],
+          "tps": [
+            "p",
+            "h"
+          ],
+          "nm": "Handicap"
+        },
+        {
+          "mty": 3003,
+          "pe": 3001,
+          "mks": [
+            {
+              "op": [
+                {
+                  "na": "Over",
+                  "nm": "o 224.5",
+                  "ty": 4,
+                  "od": 1.82,
+                  "bod": 1.82,
+                  "odt": 1,
+                  "li": "224.5"
+                },
+                {
+                  "na": "Under",
+                  "nm": "u 224.5",
+                  "ty": 5,
+                  "od": 1.82,
+                  "bod": 1.82,
+                  "odt": 1,
+                  "li": "224.5"
+                }
+              ],
+              "id": 141407287,
+              "ss": 1,
+              "au": 1,
+              "mbl": 1,
+              "li": "224.5"
+            },
+            {
+              "op": [
+                {
+                  "na": "Over",
+                  "nm": "o 223.5",
+                  "ty": 4,
+                  "od": 1.7,
+                  "bod": 1.7,
+                  "odt": 1,
+                  "li": "223.5"
+                },
+                {
+                  "na": "Under",
+                  "nm": "u 223.5",
+                  "ty": 5,
+                  "od": 1.94,
+                  "bod": 1.94,
+                  "odt": 1,
+                  "li": "223.5"
+                }
+              ],
+              "id": 141407215,
+              "ss": 1,
+              "au": 1,
+              "mbl": 2,
+              "li": "223.5"
+            },
+            {
+              "op": [
+                {
+                  "na": "Over",
+                  "nm": "o 225.5",
+                  "ty": 4,
+                  "od": 1.94,
+                  "bod": 1.94,
+                  "odt": 1,
+                  "li": "225.5"
+                },
+                {
+                  "na": "Under",
+                  "nm": "u 225.5",
+                  "ty": 5,
+                  "od": 1.7,
+                  "bod": 1.7,
+                  "odt": 1,
+                  "li": "225.5"
+                }
+              ],
+              "id": 141407288,
+              "ss": 1,
+              "au": 1,
+              "mbl": 3,
+              "li": "225.5"
+            }
+          ],
+          "tps": [
+            "p",
+            "h"
+          ],
+          "nm": "Over/under"
+        },
+        {
+          "mty": 3005,
+          "pe": 3001,
+          "mks": [
+            {
+              "op": [
+                {
+                  "na": "Odd",
+                  "nm": "Odd",
+                  "ty": 7,
+                  "od": 1.89,
+                  "bod": 1.89,
+                  "odt": 1
+                },
+                {
+                  "na": "Even",
+                  "nm": "Even",
+                  "ty": 6,
+                  "od": 1.89,
+                  "bod": 1.89,
+                  "odt": 1
+                }
+              ],
+              "id": 140624523,
+              "ss": 1,
+              "au": 1
+            }
+          ],
+          "tps": [],
+          "nm": "Odd/Even"
+        }
+      ],
+      "tms": 21,
+      "tps": [],
+      "lg": {
+        "na": "China CBA",
+        "id": 11276,
+        "or": 4,
+        "lurl": "https: //static.w.fbs6668.com/data/55079df012c412f2187b0499cbc960dc.png",
+        "sid": 3,
+        "rid": 61,
+        "rnm": "China",
+        "rlg": "https://static.w.fbs6668.com/data/71a5a5ddb95cf575def081b54c640260.png",
+        "hot": True,
+        "slid": 112760000
+      },
+      "ts": [
+        {
+          "na": "Zhejiang Golden Bulls",
+          "id": 68357,
+          "lurl": "https://static.w.fbs6668.com/data/e4be7684dc5ce0013b8025adcf9c7bb0.png"
+        },
+        {
+          "na": "Sichuan Blue Whales",
+          "id": 68356,
+          "lurl": "https://static.w.fbs6668.com/data/737a1547378c91a8e664a09b792af5e5.png"
+        }
+      ],
+      "mc": {
+        "s": 292,
+        "pe": 3007,
+        "r": True,
+        "tp": 2
+      },
+      "id": 2748354,
+      "bt": 1734435300000,
+      "ms": 5,
+      "fid": 4,
+      "fmt": 300001,
+      "ne": 0,
+      "vs": {
+        "flvSD": "https://live.bbapcall.com/live/sd-2-3804927.flv?txSecret=55bde0bfd9b0f25d019bdf68bc947e6a&txTime=6761B47E",
+        "m3u8SD": "https://live.bbapcall.com/live/sd-2-3804927.m3u8?txSecret=55bde0bfd9b0f25d019bdf68bc947e6a&txTime=6761B47E",
+        "web": "https://v.567440.com/live/index.html",
+        "have": True
+      },
+      "as": [
+        "https://animation.byanimxyz.com/animation/index2.html?matchId=5719178&configId=672203d24ddc0852ad9ce0d6",
+        "https://animation.byanimxyz.com/animation/index.html?matchId=53799739&configId="
+      ],
+      "sid": 3,
+      "ty": 2,
+      "nm": "Zhejiang Golden Bulls vs Sichuan Blue Whales",
+      "sb": {},
+      "pl": 1
+    },
+    {
+      "nsg": [
+        {
+          "pe": 3001,
+          "tyg": 5,
+          "sc": [
+            32,
+            53
+          ]
+        },
+        {
+          "pe": 3003,
+          "tyg": 5,
+          "sc": [
+            32,
+            53
+          ]
+        },
+        {
+          "pe": 3005,
+          "tyg": 5,
+          "sc": [
+            19,
+            39
+          ]
+        },
+        {
+          "pe": 3006,
+          "tyg": 5,
+          "sc": [
+            13,
+            14
+          ]
+        }
+      ],
+      "mg": [
+        {
+          "mty": 3003,
+          "pe": 3001,
+          "mks": [
+            {
+              "op": [
+                {
+                  "na": "Over",
+                  "nm": "o 215.5",
+                  "ty": 4,
+                  "od": 1.82,
+                  "bod": 1.82,
+                  "odt": 1,
+                  "li": "215.5"
+                },
+                {
+                  "na": "Under",
+                  "nm": "u 215.5",
+                  "ty": 5,
+                  "od": 1.82,
+                  "bod": 1.82,
+                  "odt": 1,
+                  "li": "215.5"
+                }
+              ],
+              "id": 141403592,
+              "ss": 0,
+              "au": 1,
+              "mbl": 1,
+              "li": "215.5"
+            },
+            {
+              "op": [
+                {
+                  "na": "Over",
+                  "nm": "o 214.5",
+                  "ty": 4,
+                  "od": 1.7,
+                  "bod": 1.7,
+                  "odt": 1,
+                  "li": "214.5"
+                },
+                {
+                  "na": "Under",
+                  "nm": "u 214.5",
+                  "ty": 5,
+                  "od": 1.94,
+                  "bod": 1.94,
+                  "odt": 1,
+                  "li": "214.5"
+                }
+              ],
+              "id": 141394570,
+              "ss": 0,
+              "au": 1,
+              "mbl": 2,
+              "li": "214.5"
+            },
+            {
+              "op": [
+                {
+                  "na": "Over",
+                  "nm": "o 216.5",
+                  "ty": 4,
+                  "od": 1.94,
+                  "bod": 1.94,
+                  "odt": 1,
+                  "li": "216.5"
+                },
+                {
+                  "na": "Under",
+                  "nm": "u 216.5",
+                  "ty": 5,
+                  "od": 1.7,
+                  "bod": 1.7,
+                  "odt": 1,
+                  "li": "216.5"
+                }
+              ],
+              "id": 141404304,
+              "ss": 0,
+              "au": 1,
+              "mbl": 3,
+              "li": "216.5"
+            }
+          ],
+          "tps": [
+            "p",
+            "h"
+          ],
+          "nm": "Over/under"
+        },
+        {
+          "mty": 3005,
+          "pe": 3001,
+          "mks": [
+            {
+              "op": [
+                {
+                  "na": "Odd",
+                  "nm": "Odd",
+                  "ty": 7,
+                  "od": 1.89,
+                  "bod": 1.89,
+                  "odt": 1
+                },
+                {
+                  "na": "Even",
+                  "nm": "Even",
+                  "ty": 6,
+                  "od": 1.89,
+                  "bod": 1.89,
+                  "odt": 1
+                }
+              ],
+              "id": 140624564,
+              "ss": 1,
+              "au": 1
+            }
+          ],
+          "tps": [],
+          "nm": "Odd/Even"
+        }
+      ],
+      "tms": 26,
+      "tps": [],
+      "lg": {
+        "na": "China CBA",
+        "id": 11276,
+        "or": 4,
+        "lurl": "https://static.w.fbs6668.com/data/55079df012c412f2187b0499cbc960dc.png",
+        "sid": 3,
+        "rid": 61,
+        "rnm": "China",
+        "rlg": "https://static.w.fbs6668.com/data/71a5a5ddb95cf575def081b54c640260.png",
+        "hot": True,
+        "slid": 112760000
+      },
+      "ts": [
+        {
+          "na": "Ningbo Rockets",
+          "id": 121270,
+          "lurl": "https://static.w.fbs6668.com/data/36cdd876f7a19cdcf8bc01f262f524b.png"
+        },
+        {
+          "na": "Beijing Royal Fighters",
+          "id": 68390,
+          "lurl": "https://static.w.fbs6668.com/data/9d204d624712e784c30c77ca8122445b.png"
+        }
+      ],
+      "mc": {
+        "s": 301,
+        "pe": 3007,
+        "r": False,
+        "tp": 2
+      },
+      "id": 2748355,
+      "bt": 1734435300000,
+      "ms": 5,
+      "fid": 4,
+      "fmt": 300001,
+      "ne": 0,
+      "vs": {
+        "flvSD": "https://live.bbapcall.com/live/sd-2-3804926.flv?txSecret=c85954b4ddb393a29ad99bb464277898&txTime=6761B47E",
+        "m3u8SD": "https://live.bbapcall.com/live/sd-2-3804926.m3u8?txSecret=c85954b4ddb393a29ad99bb464277898&txTime=6761B47E",
+        "web": "https://v.567440.com/live/index.html",
+        "have": True
+      },
+      "as": [
+        "https://animation.byanimxyz.com/animation/index2.html?matchId=5719177&configId=672203d24ddc0852ad9ce0d6",
+        "https://animation.byanimxyz.com/animation/index.html?matchId=53799345&configId="
+      ],
+      "sid": 3,
+      "ty": 2,
+      "nm": "Ningbo Rockets vs Beijing Royal Fighters",
+      "sb": {},
+      "pl": 1
+    },
+    {
+      "nsg": [
+        {
+          "pe": 3001,
+          "tyg": 5,
+          "sc": [
+            50,
+            38
+          ]
+        },
+        {
+          "pe": 3003,
+          "tyg": 5,
+          "sc": [
+            50,
+            38
+          ]
+        },
+        {
+          "pe": 3005,
+          "tyg": 5,
+          "sc": [
+            29,
+            21
+          ]
+        },
+        {
+          "pe": 3006,
+          "tyg": 5,
+          "sc": [
+            21,
+            17
+          ]
+        }
+      ],
+      "mg": [
+        {
+          "mty": 3002,
+          "pe": 3001,
+          "mks": [
+            {
+              "op": [
+                {
+                  "na": "Phoenix Fuel Masters",
+                  "nm": "-3.5",
+                  "ty": 1,
+                  "od": 1.89,
+                  "bod": 1.89,
+                  "odt": 1,
+                  "li": "-3.5"
+                },
+                {
+                  "na": "NorthPort Batang Pier",
+                  "nm": "+3.5",
+                  "ty": 2,
+                  "od": 1.85,
+                  "bod": 1.85,
+                  "odt": 1,
+                  "li": "+3.5"
+                }
+              ],
+              "id": 141408983,
+              "ss": 1,
+              "au": 1,
+              "mbl": 1,
+              "li": "-3.5"
+            },
+            {
+              "op": [
+                {
+                  "na": "Phoenix Fuel Masters",
+                  "nm": "-2.5",
+                  "ty": 1,
+                  "od": 1.74,
+                  "bod": 1.74,
+                  "odt": 1,
+                  "li": "-2.5"
+                },
+                {
+                  "na": "NorthPort Batang Pier",
+                  "nm": "+2.5",
+                  "ty": 2,
+                  "od": 2,
+                  "bod": 2,
+                  "odt": 1,
+                  "li": "+2.5"
+                }
+              ],
+              "id": 141407469,
+              "ss": 1,
+              "au": 1,
+              "mbl": 2,
+              "li": "-2.5"
+            },
+            {
+              "op": [
+                {
+                  "na": "Phoenix Fuel Masters",
+                  "nm": "-1.5",
+                  "ty": 1,
+                  "od": 1.64,
+                  "bod": 1.64,
+                  "odt": 1,
+                  "li": "-1.5"
+                },
+                {
+                  "na": "NorthPort Batang Pier",
+                  "nm": "+1.5",
+                  "ty": 2,
+                  "od": 2.11,
+                  "bod": 2.11,
+                  "odt": 1,
+                  "li": "+1.5"
+                }
+              ],
+              "id": 141407468,
+              "ss": 1,
+              "au": 1,
+              "mbl": 3,
+              "li": "-1.5"
+            }
+          ],
+          "tps": [
+            "p",
+            "h"
+          ],
+          "nm": "Handicap"
+        },
+        {
+          "mty": 3003,
+          "pe": 3001,
+          "mks": [
+            {
+              "op": [
+                {
+                  "na": "Over",
+                  "nm": "o 201.5",
+                  "ty": 4,
+                  "od": 1.76,
+                  "bod": 1.76,
+                  "odt": 1,
+                  "li": "201.5"
+                },
+                {
+                  "na": "Under",
+                  "nm": "u 201.5",
+                  "ty": 5,
+                  "od": 1.88,
+                  "bod": 1.88,
+                  "odt": 1,
+                  "li": "201.5"
+                }
+              ],
+              "id": 141383332,
+              "ss": 1,
+              "au": 1,
+              "mbl": 1,
+              "li": "201.5"
+            },
+            {
+              "op": [
+                {
+                  "na": "Over",
+                  "nm": "o 202.5",
+                  "ty": 4,
+                  "od": 1.93,
+                  "bod": 1.93,
+                  "odt": 1,
+                  "li": "202.5"
+                },
+                {
+                  "na": "Under",
+                  "nm": "u 202.5",
+                  "ty": 5,
+                  "od": 1.71,
+                  "bod": 1.71,
+                  "odt": 1,
+                  "li": "202.5"
+                }
+              ],
+              "id": 141382244,
+              "ss": 1,
+              "au": 1,
+              "mbl": 2,
+              "li": "202.5"
+            },
+            {
+              "op": [
+                {
+                  "na": "Over",
+                  "nm": "o 200.5",
+                  "ty": 4,
+                  "od": 1.69,
+                  "bod": 1.69,
+                  "odt": 1,
+                  "li": "200.5"
+                },
+                {
+                  "na": "Under",
+                  "nm": "u 200.5",
+                  "ty": 5,
+                  "od": 1.95,
+                  "bod": 1.95,
+                  "odt": 1,
+                  "li": "200.5"
+                }
+              ],
+              "id": 141385054,
+              "ss": 1,
+              "au": 1,
+              "mbl": 3,
+              "li": "200.5"
+            }
+          ],
+          "tps": [
+            "p",
+            "h"
+          ],
+          "nm": "Over/under"
+        },
+        {
+          "mty": 3004,
+          "pe": 3001,
+          "mks": [
+            {
+              "op": [
+                {
+                  "na": "Phoenix Fuel Masters",
+                  "nm": "Home",
+                  "ty": 1,
+                  "od": 1.49,
+                  "bod": 1.49,
+                  "odt": 1
+                },
+                {
+                  "na": "NorthPort Batang Pier",
+                  "nm": "Away",
+                  "ty": 2,
+                  "od": 2.42,
+                  "bod": 2.42,
+                  "odt": 1
+                }
+              ],
+              "id": 140160298,
+              "ss": 1,
+              "au": 1
+            }
+          ],
+          "tps": [
+            "p"
+          ],
+          "nm": "Winner"
+        },
+        {
+          "mty": 3005,
+          "pe": 3001,
+          "mks": [
+            {
+              "op": [
+                {
+                  "na": "Odd",
+                  "nm": "Odd",
+                  "ty": 7,
+                  "od": 1.89,
+                  "bod": 1.89,
+                  "odt": 1
+                },
+                {
+                  "na": "Even",
+                  "nm": "Even",
+                  "ty": 6,
+                  "od": 1.89,
+                  "bod": 1.89,
+                  "odt": 1
+                }
+              ],
+              "id": 140160299,
+              "ss": 1,
+              "au": 1
+            }
+          ],
+          "tps": [],
+          "nm": "Odd/Even"
+        }
+      ],
+      "tms": 15,
+      "tps": [],
+      "lg": {
+        "na": "PBA Commissioner Cup",
+        "id": 11904,
+        "or": 23,
+        "lurl": "https://static.w.fbs6668.com/data/8943310e92d2bcb9b8760c851c210c25.png",
+        "sid": 3,
+        "rid": 169,
+        "rnm": "Philippines",
+        "rlg": "https://static.w.fbs6668.com/data/e6417a6ce09fe4579e077a5dcbd767c2.png",
+        "hot": False,
+        "slid": 119040000
+      },
+      "ts": [
+        {
+          "na": "Phoenix Fuel Masters",
+          "id": 64604,
+          "lurl": "https://static.w.fbs6668.com/data/4245f47857f084bcfbbe8b058b71801.png"
+        },
+        {
+          "na": "NorthPort Batang Pier",
+          "id": 117048,
+          "lurl": "https://static.w.fbs6668.com/data/5eadd666bd0c23c5922014d23fe1fb16.jpeg"
+        }
+      ],
+      "mc": {
+        "s": 193,
+        "pe": 3007,
+        "r": False,
+        "tp": 2
+      },
+      "id": 2806600,
+      "bt": 1734435000000,
+      "ms": 5,
+      "fid": 4,
+      "fmt": 300001,
+      "ne": 0,
+      "vs": {
+        "flvSD": "https://live.bbapcall.com/live/sd-2-3823450.flv?txSecret=bb4344a818f022379aaaa3729659ccb0&txTime=6761B47E",
+        "m3u8SD": "https://live.bbapcall.com/live/sd-2-3823450.m3u8?txSecret=bb4344a818f022379aaaa3729659ccb0&txTime=6761B47E",
+        "web": "https://v.567440.com/live/index.html",
+        "have": True
+      },
+      "as": [
+        "https://animation.byanimxyz.com/animation/index2.html?matchId=5759948&configId=672203d24ddc0852ad9ce0d6",
+        "https://animation.byanimxyz.com/animation/index.html?matchId=55707489&configId="
+      ],
+      "sid": 3,
+      "ty": 2,
+      "nm": "Phoenix Fuel Masters vs NorthPort Batang Pier",
+      "sb": {},
+      "pl": 1
+    },
+    {
+      "nsg": [
+        {
+          "pe": 3001,
+          "tyg": 5,
+          "sc": [
+            34,
+            29
+          ]
+        },
+        {
+          "pe": 3003,
+          "tyg": 5,
+          "sc": [
+            34,
+            29
+          ]
+        },
+        {
+          "pe": 3005,
+          "tyg": 5,
+          "sc": [
+            22,
+            12
+          ]
+        },
+        {
+          "pe": 3006,
+          "tyg": 5,
+          "sc": [
+            12,
+            17
+          ]
+        }
+      ],
+      "mg": [
+        {
+          "mty": 3002,
+          "pe": 3001,
+          "mks": [
+            {
+              "op": [
+                {
+                  "na": "Hefei Culture and Tourism (w)",
+                  "nm": "-1.5",
+                  "ty": 1,
+                  "od": 1.72,
+                  "bod": 1.72,
+                  "odt": 1,
+                  "li": "-1.5"
+                },
+                {
+                  "na": "Shaanxi Tianze Red Wolves (w)",
+                  "nm": "+1.5",
+                  "ty": 2,
+                  "od": 1.92,
+                  "bod": 1.92,
+                  "odt": 1,
+                  "li": "+1.5"
+                }
+              ],
+              "id": 141404141,
+              "ss": 0,
+              "au": 0,
+              "mbl": 1,
+              "li": "-1.5"
+            }
+          ],
+          "tps": [
+            "p",
+            "h"
+          ],
+          "nm": "Handicap"
+        },
+        {
+          "mty": 3003,
+          "pe": 3001,
+          "mks": [
+            {
+              "op": [
+                {
+                  "na": "Over",
+                  "nm": "o 135.5",
+                  "ty": 4,
+                  "od": 1.78,
+                  "bod": 1.78,
+                  "odt": 1,
+                  "li": "135.5"
+                },
+                {
+                  "na": "Under",
+                  "nm": "u 135.5",
+                  "ty": 5,
+                  "od": 1.8,
+                  "bod": 1.8,
+                  "odt": 1,
+                  "li": "135.5"
+                }
+              ],
+              "id": 141409029,
+              "ss": 0,
+              "au": 0,
+              "mbl": 1,
+              "li": "135.5"
+            }
+          ],
+          "tps": [
+            "p",
+            "h"
+          ],
+          "nm": "Over/under"
+        },
+        {
+          "mty": 3005,
+          "pe": 3001,
+          "mks": [
+            {
+              "op": [
+                {
+                  "na": "Odd",
+                  "nm": "Odd",
+                  "ty": 7,
+                  "od": 1.89,
+                  "bod": 1.89,
+                  "odt": 1
+                },
+                {
+                  "na": "Even",
+                  "nm": "Even",
+                  "ty": 6,
+                  "od": 1.89,
+                  "bod": 1.89,
+                  "odt": 1
+                }
+              ],
+              "id": 141204216,
+              "ss": 1,
+              "au": 0
+            }
+          ],
+          "tps": [],
+          "nm": "Odd/Even"
+        }
+      ],
+      "tms": 10,
+      "tps": [],
+      "lg": {
+        "na": "China WCBA",
+        "id": 11277,
+        "or": 31,
+        "lurl": "https://static.w.fbs6668.com/data/6a32c6e01f5565f49a3c37e30ac5a1a8.png",
+        "sid": 3,
+        "rid": 61,
+        "rnm": "China",
+        "rlg": "https://static.w.fbs6668.com/data/71a5a5ddb95cf575def081b54c640260.png",
+        "hot": False,
+        "slid": 112770000
+      },
+      "ts": [
+        {
+          "na": "Hefei Culture and Tourism (w)",
+          "id": 205444,
+          "lurl": "https://static.w.fbs6668.com/data/5df9e2fb2697b2d00c18d5e32b1fc14e.png"
+        },
+        {
+          "na": "Shaanxi Tianze Red Wolves (w)",
+          "id": 123841,
+          "lurl": "https://static.w.fbs6668.com/data/419fc15067b949c663a32560e280140c.png"
+        }
+      ],
+      "mc": {
+        "s": 0,
+        "pe": 3008,
+        "r": False,
+        "tp": 2
+      },
+      "id": 2785760,
+      "bt": 1734435000000,
+      "ms": 5,
+      "fid": 4,
+      "fmt": 300002,
+      "ne": 0,
+      "vs": {
+        "flvSD": "https://live.bbapcall.com/live/sd-2-3820754.flv?txSecret=a9040aa8ba0cad441b3924e91c8d8ea4&txTime=6761B47E",
+        "m3u8SD": "https://live.bbapcall.com/live/sd-2-3820754.m3u8?txSecret=a9040aa8ba0cad441b3924e91c8d8ea4&txTime=6761B47E",
+        "web": "https://v.567440.com/live/index.html",
+        "have": True
+      },
+      "as": [
+        "https://animation.byanimxyz.com/animation/index2.html?matchId=5754532&configId=672203d24ddc0852ad9ce0d6"
+      ],
+      "sid": 3,
+      "ty": 2,
+      "nm": "Hefei Culture and Tourism (w) vs Shaanxi Tianze Red Wolves (w)",
+      "sb": {},
+      "pl": 1
+    },
+    {
+      "nsg": [
+        {
+          "pe": 3001,
+          "tyg": 5,
+          "sc": [
+            39,
+            51
+          ]
+        },
+        {
+          "pe": 3003,
+          "tyg": 5,
+          "sc": [
+            39,
+            51
+          ]
+        },
+        {
+          "pe": 3005,
+          "tyg": 5,
+          "sc": [
+            25,
+            27
+          ]
+        },
+        {
+          "pe": 3006,
+          "tyg": 5,
+          "sc": [
+            14,
+            24
+          ]
+        }
+      ],
+      "mg": [
+        {
+          "mty": 3002,
+          "pe": 3001,
+          "mks": [
+            {
+              "op": [
+                {
+                  "na": "Fujian Zoten BC (w)",
+                  "nm": "+24.5",
+                  "ty": 1,
+                  "od": 1.93,
+                  "bod": 1.93,
+                  "odt": 1,
+                  "li": "+24.5"
+                },
+                {
+                  "na": "Inner Mongolia (w)",
+                  "nm": "-24.5",
+                  "ty": 2,
+                  "od": 1.71,
+                  "bod": 1.71,
+                  "odt": 1,
+                  "li": "-24.5"
+                }
+              ],
+              "id": 141404229,
+              "ss": 1,
+              "au": 0,
+              "mbl": 1,
+              "li": "24.5"
+            }
+          ],
+          "tps": [
+            "p",
+            "h"
+          ],
+          "nm": "Handicap"
+        },
+        {
+          "mty": 3003,
+          "pe": 3001,
+          "mks": [
+            {
+              "op": [
+                {
+                  "na": "Over",
+                  "nm": "o 176.5",
+                  "ty": 4,
+                  "od": 1.77,
+                  "bod": 1.77,
+                  "odt": 1,
+                  "li": "176.5"
+                },
+                {
+                  "na": "Under",
+                  "nm": "u 176.5",
+                  "ty": 5,
+                  "od": 1.81,
+                  "bod": 1.81,
+                  "odt": 1,
+                  "li": "176.5"
+                }
+              ],
+              "id": 141404233,
+              "ss": 1,
+              "au": 0,
+              "mbl": 1,
+              "li": "176.5"
+            }
+          ],
+          "tps": [
+            "p",
+            "h"
+          ],
+          "nm": "Over/under"
+        },
+        {
+          "mty": 3005,
+          "pe": 3001,
+          "mks": [
+            {
+              "op": [
+                {
+                  "na": "Odd",
+                  "nm": "Odd",
+                  "ty": 7,
+                  "od": 1.89,
+                  "bod": 1.89,
+                  "odt": 1
+                },
+                {
+                  "na": "Even",
+                  "nm": "Even",
+                  "ty": 6,
+                  "od": 1.89,
+                  "bod": 1.89,
+                  "odt": 1
+                }
+              ],
+              "id": 141204231,
+              "ss": 1,
+              "au": 0
+            }
+          ],
+          "tps": [],
+          "nm": "Odd/Even"
+        }
+      ],
+      "tms": 11,
+      "tps": [],
+      "lg": {
+        "na": "China WCBA",
+        "id": 11277,
+        "or": 31,
+        "lurl": "https://static.w.fbs6668.com/data/6a32c6e01f5565f49a3c37e30ac5a1a8.png",
+        "sid": 3,
+        "rid": 61,
+        "rnm": "China",
+        "rlg": "https://static.w.fbs6668.com/data/71a5a5ddb95cf575def081b54c640260.png",
+        "hot": False,
+        "slid": 112770000
+      },
+      "ts": [
+        {
+          "na": "Fujian Zoten BC (w)",
+          "id": 123793,
+          "lurl": "https://static.w.fbs6668.com/data/42e34fb1e555e1384feed008d9511c49.png"
+        },
+        {
+          "na": "Inner Mongolia (w)",
+          "id": 70315,
+          "lurl": "https://static.w.fbs6668.com/data/d6e5806ef737045b836c6be9e94438b1.png"
+        }
+      ],
+      "mc": {
+        "s": 0,
+        "pe": 3008,
+        "r": False,
+        "tp": 2
+      },
+      "id": 2785761,
+      "bt": 1734435000000,
+      "ms": 5,
+      "fid": 4,
+      "fmt": 300002,
+      "ne": 0,
+      "vs": {
+        "flvSD": "https://live.bbapcall.com/live/sd-2-3820755.flv?txSecret=a1b866f935af2f5e9fa4add7ff7913ae&txTime=6761B47E",
+        "m3u8SD": "https://live.bbapcall.com/live/sd-2-3820755.m3u8?txSecret=a1b866f935af2f5e9fa4add7ff7913ae&txTime=6761B47E",
+        "web": "https://v.567440.com/live/index.html",
+        "have": True
+      },
+      "sid": 3,
+      "ty": 2,
+      "nm": "Fujian Zoten BC (w) vs Inner Mongolia (w)",
+      "sb": {},
+      "pl": 1
+    },
+    {
+      "nsg": [
+        {
+          "pe": 3001,
+          "tyg": 5,
+          "sc": [
+            39,
+            49
+          ]
+        },
+        {
+          "pe": 3003,
+          "tyg": 5,
+          "sc": [
+            39,
+            49
+          ]
+        },
+        {
+          "pe": 3005,
+          "tyg": 5,
+          "sc": [
+            24,
+            26
+          ]
+        },
+        {
+          "pe": 3006,
+          "tyg": 5,
+          "sc": [
+            15,
+            23
+          ]
+        }
+      ],
+      "mg": [
+        {
+          "mty": 3002,
+          "pe": 3001,
+          "mks": [
+            {
+              "op": [
+                {
+                  "na": "Sichuan Yuanda (w)",
+                  "nm": "-6.5",
+                  "ty": 1,
+                  "od": 1.97,
+                  "bod": 1.97,
+                  "odt": 1,
+                  "li": "-6.5"
+                },
+                {
+                  "na": "Dongguan Xintong Sheng (w)",
+                  "nm": "+6.5",
+                  "ty": 2,
+                  "od": 1.67,
+                  "bod": 1.67,
+                  "odt": 1,
+                  "li": "+6.5"
+                }
+              ],
+              "id": 141408307,
+              "ss": 0,
+              "au": 0,
+              "mbl": 1,
+              "li": "-6.5"
+            }
+          ],
+          "tps": [
+            "p",
+            "h"
+          ],
+          "nm": "Handicap"
+        },
+        {
+          "mty": 3003,
+          "pe": 3001,
+          "mks": [
+            {
+              "op": [
+                {
+                  "na": "Over",
+                  "nm": "o 171.5",
+                  "ty": 4,
+                  "od": 1.74,
+                  "bod": 1.74,
+                  "odt": 1,
+                  "li": "171.5"
+                },
+                {
+                  "na": "Under",
+                  "nm": "u 171.5",
+                  "ty": 5,
+                  "od": 1.84,
+                  "bod": 1.84,
+                  "odt": 1,
+                  "li": "171.5"
+                }
+              ],
+              "id": 141404039,
+              "ss": 0,
+              "au": 0,
+              "mbl": 1,
+              "li": "171.5"
+            }
+          ],
+          "tps": [
+            "p",
+            "h"
+          ],
+          "nm": "Over/under"
+        },
+        {
+          "mty": 3005,
+          "pe": 3001,
+          "mks": [
+            {
+              "op": [
+                {
+                  "na": "Odd",
+                  "nm": "Odd",
+                  "ty": 7,
+                  "od": 1.89,
+                  "bod": 1.89,
+                  "odt": 1
+                },
+                {
+                  "na": "Even",
+                  "nm": "Even",
+                  "ty": 6,
+                  "od": 1.89,
+                  "bod": 1.89,
+                  "odt": 1
+                }
+              ],
+              "id": 141204239,
+              "ss": 1,
+              "au": 0
+            }
+          ],
+          "tps": [],
+          "nm": "Odd/Even"
+        }
+      ],
+      "tms": 5,
+      "tps": [],
+      "lg": {
+        "na": "China WCBA",
+        "id": 11277,
+        "or": 31,
+        "lurl": "https://static.w.fbs6668.com/data/6a32c6e01f5565f49a3c37e30ac5a1a8.png",
+        "sid": 3,
+        "rid": 61,
+        "rnm": "China",
+        "rlg": "https://static.w.fbs6668.com/data/71a5a5ddb95cf575def081b54c640260.png",
+        "hot": False,
+        "slid": 112770000
+      },
+      "ts": [
+        {
+          "na": "Sichuan Yuanda (w)",
+          "id": 123844,
+          "lurl": "https://static.w.fbs6668.com/data/5f69d43693f179ac8f9b9bbe07534529.png"
+        },
+        {
+          "na": "Dongguan Xintong Sheng (w)",
+          "id": 164665,
+          "lurl": "https://static.w.fbs6668.com/data/bc293dcb34e233fce004fdc021c8ffbb.png"
+        }
+      ],
+      "mc": {
+        "s": 0,
+        "pe": 3007,
+        "r": True,
+        "tp": 2
+      },
+      "id": 2785762,
+      "bt": 1734435000000,
+      "ms": 5,
+      "fid": 4,
+      "fmt": 300002,
+      "ne": 0,
+      "vs": {
+        "flvSD": "https://live.bbapcall.com/live/sd-2-3820757.flv?txSecret=058e7d5096e64c74e29363948f9120c9&txTime=6761B47E",
+        "m3u8SD": "https://live.bbapcall.com/live/sd-2-3820757.m3u8?txSecret=058e7d5096e64c74e29363948f9120c9&txTime=6761B47E",
+        "web": "https://v.567440.com/live/index.html",
+        "have": True
+      },
+      "as": [
+        "https://animation.byanimxyz.com/animation/index2.html?matchId=5754534&configId=672203d24ddc0852ad9ce0d6"
+      ],
+      "sid": 3,
+      "ty": 2,
+      "nm": "Sichuan Yuanda (w) vs Dongguan Xintong Sheng (w)",
+      "sb": {},
+      "pl": 1
+    },
+    {
+      "nsg": [
+        {
+          "pe": 3001,
+          "tyg": 5,
+          "sc": [
+            40,
+            38
+          ]
+        },
+        {
+          "pe": 3003,
+          "tyg": 5,
+          "sc": [
+            40,
+            38
+          ]
+        },
+        {
+          "pe": 3005,
+          "tyg": 5,
+          "sc": [
+            25,
+            13
+          ]
+        },
+        {
+          "pe": 3006,
+          "tyg": 5,
+          "sc": [
+            15,
+            25
+          ]
+        }
+      ],
+      "mg": [
+        {
+          "mty": 3002,
+          "pe": 3001,
+          "mks": [
+            {
+              "op": [
+                {
+                  "na": "Shanxi Xing Rui Flame (w)",
+                  "nm": "-6.5",
+                  "ty": 1,
+                  "od": 1.76,
+                  "bod": 1.76,
+                  "odt": 1,
+                  "li": "-6.5"
+                },
+                {
+                  "na": "Shandong High Speed (w)",
+                  "nm": "+6.5",
+                  "ty": 2,
+                  "od": 1.88,
+                  "bod": 1.88,
+                  "odt": 1,
+                  "li": "+6.5"
+                }
+              ],
+              "id": 141408353,
+              "ss": 1,
+              "au": 0,
+              "mbl": 1,
+              "li": "-6.5"
+            }
+          ],
+          "tps": [
+            "p",
+            "h"
+          ],
+          "nm": "Handicap"
+        },
+        {
+          "mty": 3003,
+          "pe": 3001,
+          "mks": [
+            {
+              "op": [
+                {
+                  "na": "Over",
+                  "nm": "o 156.5",
+                  "ty": 4,
+                  "od": 1.69,
+                  "bod": 1.69,
+                  "odt": 1,
+                  "li": "156.5"
+                },
+                {
+                  "na": "Under",
+                  "nm": "u 156.5",
+                  "ty": 5,
+                  "od": 1.89,
+                  "bod": 1.89,
+                  "odt": 1,
+                  "li": "156.5"
+                }
+              ],
+              "id": 141381814,
+              "ss": 1,
+              "au": 0,
+              "mbl": 1,
+              "li": "156.5"
+            }
+          ],
+          "tps": [
+            "p",
+            "h"
+          ],
+          "nm": "Over/under"
+        },
+        {
+          "mty": 3004,
+          "pe": 3001,
+          "mks": [
+            {
+              "op": [
+                {
+                  "na": "Shanxi Xing Rui Flame (w)",
+                  "nm": "Home",
+                  "ty": 1,
+                  "od": 1.2,
+                  "bod": 1.2,
+                  "odt": 1
+                },
+                {
+                  "na": "Shandong High Speed (w)",
+                  "nm": "Away",
+                  "ty": 2,
+                  "od": 3.59,
+                  "bod": 3.59,
+                  "odt": 1
+                }
+              ],
+              "id": 141204250,
+              "ss": 1,
+              "au": 0
+            }
+          ],
+          "tps": [
+            "p"
+          ],
+          "nm": "Winner"
+        },
+        {
+          "mty": 3005,
+          "pe": 3001,
+          "mks": [
+            {
+              "op": [
+                {
+                  "na": "Odd",
+                  "nm": "Odd",
+                  "ty": 7,
+                  "od": 1.89,
+                  "bod": 1.89,
+                  "odt": 1
+                },
+                {
+                  "na": "Even",
+                  "nm": "Even",
+                  "ty": 6,
+                  "od": 1.89,
+                  "bod": 1.89,
+                  "odt": 1
+                }
+              ],
+              "id": 141204251,
+              "ss": 1,
+              "au": 0
+            }
+          ],
+          "tps": [],
+          "nm": "Odd/Even"
+        }
+      ],
+      "tms": 12,
+      "tps": [],
+      "lg": {
+        "na": "China WCBA",
+        "id": 11277,
+        "or": 31,
+        "lurl": "https://static.w.fbs6668.com/data/6a32c6e01f5565f49a3c37e30ac5a1a8.png",
+        "sid": 3,
+        "rid": 61,
+        "rnm": "China",
+        "rlg": "https://static.w.fbs6668.com/data/71a5a5ddb95cf575def081b54c640260.png",
+        "hot": False,
+        "slid": 112770000
+      },
+      "ts": [
+        {
+          "na": "Shanxi Xing Rui Flame (w)",
+          "id": 123750,
+          "lurl": "https://static.w.fbs6668.com/data/3a71e68e5f16298c63d34c9ba1b3917a.png"
+        },
+        {
+          "na": "Shandong High Speed (w)",
+          "id": 124014,
+          "lurl": "https://static.w.fbs6668.com/data/ee15f6e85c6b90cd9bd600aa68261480.png"
+        }
+      ],
+      "mc": {
+        "s": 0,
+        "pe": 3008,
+        "r": False,
+        "tp": 2
+      },
+      "id": 2785763,
+      "bt": 1734435000000,
+      "ms": 5,
+      "fid": 4,
+      "fmt": 300002,
+      "ne": 0,
+      "vs": {
+        "flvSD": "https://live.bbapcall.com/live/sd-2-3820756.flv?txSecret=81efecde2e0e585ad00fc759614bd5dd&txTime=6761B47E",
+        "m3u8SD": "https://live.bbapcall.com/live/sd-2-3820756.m3u8?txSecret=81efecde2e0e585ad00fc759614bd5dd&txTime=6761B47E",
+        "web": "https://v.567440.com/live/index.html",
+        "have": True
+      },
+      "as": [
+        "https://animation.byanimxyz.com/animation/index2.html?matchId=5754533&configId=672203d24ddc0852ad9ce0d6",
+        "https://animation.byanimxyz.com/animation/index.html?matchId=55479849&configId="
+      ],
+      "sid": 3,
+      "ty": 2,
+      "nm": "Shanxi Xing Rui Flame (w) vs Shandong High Speed (w)",
+      "sb": {},
+      "pl": 1
+    },
+    {
+      "nsg": [
+        {
+          "pe": 3001,
+          "tyg": 5,
+          "sc": [
+            42,
+            40
+          ]
+        },
+        {
+          "pe": 3003,
+          "tyg": 5,
+          "sc": [
+            42,
+            40
+          ]
+        },
+        {
+          "pe": 3005,
+          "tyg": 5,
+          "sc": [
+            19,
+            24
+          ]
+        },
+        {
+          "pe": 3006,
+          "tyg": 5,
+          "sc": [
+            23,
+            16
+          ]
+        }
+      ],
+      "mg": [
+        {
+          "mty": 3005,
+          "pe": 3001,
+          "mks": [
+            {
+              "op": [
+                {
+                  "na": "Odd",
+                  "nm": "Odd",
+                  "ty": 7,
+                  "od": 1.89,
+                  "bod": 1.89,
+                  "odt": 1
+                },
+                {
+                  "na": "Even",
+                  "nm": "Even",
+                  "ty": 6,
+                  "od": 1.89,
+                  "bod": 1.89,
+                  "odt": 1
+                }
+              ],
+              "id": 140167576,
+              "ss": 1,
+              "au": 1
+            }
+          ],
+          "tps": [],
+          "nm": "Odd/Even"
+        }
+      ],
+      "tms": 5,
+      "tps": [],
+      "lg": {
+        "na": "Taiwan PLG Basketball",
+        "id": 16431,
+        "or": 271,
+        "lurl": "https://static.w.fbs6668.com/data/6d0393845fc6a98523392bbb6f11b98.png",
+        "sid": 3,
+        "rid": 337,
+        "rnm": "Chinese Taipei",
+        "rlg": "https://static.w.fbs6668.com/data/1b2c79c20921c993ab26fe24d0e6edd4.png",
+        "hot": False,
+        "slid": 164310000
+      },
+      "ts": [
+        {
+          "na": "Taoyuan Pilots",
+          "id": 125669,
+          "lurl": "https://static.w.fbs6668.com/data/f79fc9531576f228dd542928f52ca6c9.png"
+        },
+        {
+          "na": "Tainan TSG GhostHawks",
+          "id": 125783,
+          "lurl": "https://static.w.fbs6668.com/data/d92a83cf394594e23bd8deea04c8ba5.png"
+        }
+      ],
+      "mc": {
+        "s": 0,
+        "pe": 3008,
+        "r": False,
+        "tp": 2
+      },
+      "id": 2856176,
+      "bt": 1734433200000,
+      "ms": 5,
+      "fid": 4,
+      "fmt": 300001,
+      "ne": 0,
+      "vs": {
+        "flvSD": "https://live.bbapcall.com/live/sd-2-3827698.flv?txSecret=958d35e56f86d44b5023d022821e7a13&txTime=6761B47E",
+        "m3u8SD": "https://live.bbapcall.com/live/sd-2-3827698.m3u8?txSecret=958d35e56f86d44b5023d022821e7a13&txTime=6761B47E",
+        "web": "https://v.567440.com/live/index.html",
+        "have": True
+      },
+      "as": [
+        "https://animation.byanimxyz.com/animation/index.html?matchId=54810707&configId="
+      ],
+      "sid": 3,
+      "ty": 2,
+      "nm": "Taoyuan Pilots vs Tainan TSG GhostHawks",
+      "sb": {},
+      "pl": 1
+    },
+    {
+      "nsg": [
+        {
+          "pe": 3001,
+          "tyg": 5,
+          "sc": [
+            51,
+            81
+          ]
+        },
+        {
+          "pe": 3003,
+          "tyg": 5,
+          "sc": [
+            29,
+            54
+          ]
+        },
+        {
+          "pe": 3004,
+          "tyg": 5,
+          "sc": [
+            22,
+            27
+          ]
+        },
+        {
+          "pe": 3005,
+          "tyg": 5,
+          "sc": [
+            11,
+            30
+          ]
+        },
+        {
+          "pe": 3006,
+          "tyg": 5,
+          "sc": [
+            18,
+            24
+          ]
+        },
+        {
+          "pe": 3007,
+          "tyg": 5,
+          "sc": [
+            17,
+            16
+          ]
+        },
+        {
+          "pe": 3008,
+          "tyg": 5,
+          "sc": [
+            5,
+            11
+          ]
+        }
+      ],
+      "mg": [
+        {
+          "mty": 3002,
+          "pe": 3001,
+          "mks": [
+            {
+              "op": [
+                {
+                  "na": "Able Hon Friends",
+                  "nm": "+34.5",
+                  "ty": 1,
+                  "od": 1.93,
+                  "bod": 1.93,
+                  "odt": 1,
+                  "li": "+34.5"
+                },
+                {
+                  "na": "Tycoon BC",
+                  "nm": "-34.5",
+                  "ty": 2,
+                  "od": 1.71,
+                  "bod": 1.71,
+                  "odt": 1,
+                  "li": "-34.5"
+                }
+              ],
+              "id": 141404050,
+              "ss": 1,
+              "au": 1,
+              "mbl": 1,
+              "li": "34.5"
+            }
+          ],
+          "tps": [
+            "p",
+            "h"
+          ],
+          "nm": "Handicap"
+        },
+        {
+          "mty": 3003,
+          "pe": 3001,
+          "mks": [
+            {
+              "op": [
+                {
+                  "na": "Over",
+                  "nm": "o 153.5",
+                  "ty": 4,
+                  "od": 1.79,
+                  "bod": 1.79,
+                  "odt": 1,
+                  "li": "153.5"
+                },
+                {
+                  "na": "Under",
+                  "nm": "u 153.5",
+                  "ty": 5,
+                  "od": 1.79,
+                  "bod": 1.79,
+                  "odt": 1,
+                  "li": "153.5"
+                }
+              ],
+              "id": 141401880,
+              "ss": 1,
+              "au": 1,
+              "mbl": 1,
+              "li": "153.5"
+            }
+          ],
+          "tps": [
+            "p",
+            "h"
+          ],
+          "nm": "Over/under"
+        },
+        {
+          "mty": 3005,
+          "pe": 3001,
+          "mks": [
+            {
+              "op": [
+                {
+                  "na": "Odd",
+                  "nm": "Odd",
+                  "ty": 7,
+                  "od": 1.89,
+                  "bod": 1.89,
+                  "odt": 1
+                },
+                {
+                  "na": "Even",
+                  "nm": "Even",
+                  "ty": 6,
+                  "od": 1.89,
+                  "bod": 1.89,
+                  "odt": 1
+                }
+              ],
+              "id": 141378862,
+              "ss": 1,
+              "au": 1
+            }
+          ],
+          "tps": [],
+          "nm": "Odd/Even"
+        }
+      ],
+      "tms": 9,
+      "tps": [],
+      "lg": {
+        "na": "Hong Kong Basketball League",
+        "id": 16423,
+        "or": 290,
+        "lurl": "https://static.w.fbs6668.com/data/bc3121767d4dd7622f76765ae6c4b613.jpg",
+        "sid": 3,
+        "rid": 110,
+        "rnm": "Hong Kong",
+        "rlg": "https://static.w.fbs6668.com/data/ecad804c836a80ad102ec7c75b44bfd3.png",
+        "hot": False,
+        "slid": 164230000
+      },
+      "ts": [
+        {
+          "na": "Able Hon Friends",
+          "id": 120086,
+          "lurl": "https://static.w.fbs6668.com/data/de79ea2122fcc400f98f290d2dc6e43c.png"
+        },
+        {
+          "na": "Tycoon BC",
+          "id": 120087,
+          "lurl": "https://static.w.fbs6668.com/data/16f02842da19f17be6518d8323b10620.png"
+        }
+      ],
+      "mc": {
+        "s": 376,
+        "pe": 3011,
+        "r": False,
+        "tp": 2
+      },
+      "id": 2884078,
+      "bt": 1734433080000,
+      "ms": 5,
+      "fid": 4,
+      "fmt": 300002,
+      "ne": 0,
+      "vs": {
+        "have": False
+      },
+      "sid": 3,
+      "ty": 2,
+      "nm": "Able Hon Friends vs Tycoon BC",
+      "sb": {},
+      "pl": 1
+    },
+    {
+      "nsg": [
+        {
+          "pe": 3001,
+          "tyg": 5,
+          "sc": [
+            69,
+            54
+          ]
+        },
+        {
+          "pe": 3003,
+          "tyg": 5,
+          "sc": [
+            48,
+            36
+          ]
+        },
+        {
+          "pe": 3004,
+          "tyg": 5,
+          "sc": [
+            21,
+            18
+          ]
+        },
+        {
+          "pe": 3005,
+          "tyg": 5,
+          "sc": [
+            24,
+            18
+          ]
+        },
+        {
+          "pe": 3006,
+          "tyg": 5,
+          "sc": [
+            24,
+            18
+          ]
+        },
+        {
+          "pe": 3007,
+          "tyg": 5,
+          "sc": [
+            17,
+            17
+          ]
+        },
+        {
+          "pe": 3008,
+          "tyg": 5,
+          "sc": [
+            4,
+            1
+          ]
+        }
+      ],
+      "mg": [
+        {
+          "mty": 3002,
+          "pe": 3001,
+          "mks": [
+            {
+              "op": [
+                {
+                  "na": "CSKA Moscow Junior",
+                  "nm": "-18.5",
+                  "ty": 1,
+                  "od": 1.82,
+                  "bod": 1.82,
+                  "odt": 1,
+                  "li": "-18.5"
+                },
+                {
+                  "na": "Minsk II",
+                  "nm": "+18.5",
+                  "ty": 2,
+                  "od": 1.82,
+                  "bod": 1.82,
+                  "odt": 1,
+                  "li": "+18.5"
+                }
+              ],
+              "id": 141402845,
+              "ss": 1,
+              "au": 1,
+              "mbl": 1,
+              "li": "-18.5"
+            }
+          ],
+          "tps": [
+            "p",
+            "h"
+          ],
+          "nm": "Handicap"
+        },
+        {
+          "mty": 3003,
+          "pe": 3001,
+          "mks": [
+            {
+              "op": [
+                {
+                  "na": "Over",
+                  "nm": "o 158.5",
+                  "ty": 4,
+                  "od": 1.84,
+                  "bod": 1.84,
+                  "odt": 1,
+                  "li": "158.5"
+                },
+                {
+                  "na": "Under",
+                  "nm": "u 158.5",
+                  "ty": 5,
+                  "od": 1.74,
+                  "bod": 1.74,
+                  "odt": 1,
+                  "li": "158.5"
+                }
+              ],
+              "id": 141402689,
+              "ss": 1,
+              "au": 1,
+              "mbl": 1,
+              "li": "158.5"
+            }
+          ],
+          "tps": [
+            "p",
+            "h"
+          ],
+          "nm": "Over/under"
+        },
+        {
+          "mty": 3005,
+          "pe": 3001,
+          "mks": [
+            {
+              "op": [
+                {
+                  "na": "Odd",
+                  "nm": "Odd",
+                  "ty": 7,
+                  "od": 1.89,
+                  "bod": 1.89,
+                  "odt": 1
+                },
+                {
+                  "na": "Even",
+                  "nm": "Even",
+                  "ty": 6,
+                  "od": 1.89,
+                  "bod": 1.89,
+                  "odt": 1
+                }
+              ],
+              "id": 140306669,
+              "ss": 1,
+              "au": 1
+            }
+          ],
+          "tps": [],
+          "nm": "Odd/Even"
+        }
+      ],
+      "tms": 9,
+      "tps": [],
+      "lg": {
+        "na": "VTB United Youth League",
+        "id": 12464,
+        "or": 450,
+        "lurl": "https://static.w.fbs6668.com/data/76ff269df461221ba09249172bf4437f.png",
+        "sid": 3,
+        "rid": 106,
+        "rnm": "International",
+        "rlg": "https://static.w.fbs6668.com/data/7a6fa667d9903f04c9990000018127de.png",
+        "hot": False,
+        "slid": 124640000
+      },
+      "ts": [
+        {
+          "na": "CSKA Moscow Junior",
+          "id": 78718,
+          "lurl": "https://static.w.fbs6668.com/data/13dd3cfcf1ae52431b08dc862c9eb004.png"
+        },
+        {
+          "na": "Minsk II",
+          "id": 204351,
+          "lurl": "https://static.w.fbs6668.com/data/b0d0aa6273c5d26f23ae2413b28a6d1f.png"
+        }
+      ],
+      "mc": {
+        "s": 526,
+        "pe": 3011,
+        "r": False,
+        "tp": 2
+      },
+      "id": 2786985,
+      "bt": 1734433200000,
+      "ms": 5,
+      "fid": 4,
+      "fmt": 300002,
+      "ne": 0,
+      "vs": {
+        "have": False
+      },
+      "as": [
+        "https://animation.byanimxyz.com/animation/index.html?matchId=55736151&configId="
+      ],
+      "sid": 3,
+      "ty": 2,
+      "nm": "CSKA Moscow Junior vs Minsk II",
+      "sb": {},
+      "pl": 1
+    },
+    {
+      "nsg": [
+        {
+          "pe": 3001,
+          "tyg": 5,
+          "sc": [
+            34,
+            30
+          ]
+        },
+        {
+          "pe": 3003,
+          "tyg": 5,
+          "sc": [
+            34,
+            30
+          ]
+        },
+        {
+          "pe": 3005,
+          "tyg": 5,
+          "sc": [
+            24,
+            12
+          ]
+        },
+        {
+          "pe": 3006,
+          "tyg": 5,
+          "sc": [
+            10,
+            18
+          ]
+        }
+      ],
+      "mg": [
+        {
+          "mty": 3002,
+          "pe": 3001,
+          "mks": [
+            {
+              "op": [
+                {
+                  "na": "Omsk",
+                  "nm": "-3.5",
+                  "ty": 1,
+                  "od": 1.81,
+                  "bod": 1.81,
+                  "odt": 1,
+                  "li": "-3.5"
+                },
+                {
+                  "na": "Krasnodar",
+                  "nm": "+3.5",
+                  "ty": 2,
+                  "od": 1.77,
+                  "bod": 1.77,
+                  "odt": 1,
+                  "li": "+3.5"
+                }
+              ],
+              "id": 141408051,
+              "ss": 1,
+              "au": 0,
+              "mbl": 1,
+              "li": "-3.5"
+            }
+          ],
+          "tps": [
+            "p",
+            "h"
+          ],
+          "nm": "Handicap"
+        },
+        {
+          "mty": 3003,
+          "pe": 3001,
+          "mks": [
+            {
+              "op": [
+                {
+                  "na": "Over",
+                  "nm": "o 182.5",
+                  "ty": 4,
+                  "od": 1.75,
+                  "bod": 1.75,
+                  "odt": 1,
+                  "li": "182.5"
+                },
+                {
+                  "na": "Under",
+                  "nm": "u 182.5",
+                  "ty": 5,
+                  "od": 1.83,
+                  "bod": 1.83,
+                  "odt": 1,
+                  "li": "182.5"
+                }
+              ],
+              "id": 141408161,
+              "ss": 1,
+              "au": 0,
+              "mbl": 1,
+              "li": "182.5"
+            }
+          ],
+          "tps": [
+            "p",
+            "h"
+          ],
+          "nm": "Over/under"
+        },
+        {
+          "mty": 3005,
+          "pe": 3001,
+          "mks": [
+            {
+              "op": [
+                {
+                  "na": "Odd",
+                  "nm": "Odd",
+                  "ty": 7,
+                  "od": 1.87,
+                  "bod": 1.87,
+                  "odt": 1
+                },
+                {
+                  "na": "Even",
+                  "nm": "Even",
+                  "ty": 6,
+                  "od": 1.87,
+                  "bod": 1.87,
+                  "odt": 1
+                }
+              ],
+              "id": 141407343,
+              "ss": 1,
+              "au": 0
+            }
+          ],
+          "tps": [],
+          "nm": "Odd/Even"
+        }
+      ],
+      "tms": 5,
+      "tps": [],
+      "lg": {
+        "na": "IPBL Pro Division",
+        "id": 18346,
+        "or": 636,
+        "lurl": "https://static.w.fbs6668.com/data/9ea1a5ff39b78658aabc27bc192f8562.png",
+        "sid": 3,
+        "rid": 106,
+        "rnm": "International",
+        "rlg": "https://static.w.fbs6668.com/data/7a6fa667d9903f04c9990000018127de.png",
+        "hot": False,
+        "slid": 183460000
+      },
+      "ts": [
+        {
+          "na": "Omsk",
+          "id": 162530,
+          "lurl": "https://static.w.fbs6668.com/data/1b67def40b23d3c1f77034f2a3b71046.png"
+        },
+        {
+          "na": "Krasnodar",
+          "id": 162531,
+          "lurl": "https://static.w.fbs6668.com/data/d9bd3b1992d8fddc46117343c3fb585c.png"
+        }
+      ],
+      "mc": {
+        "s": 319,
+        "pe": 3007,
+        "r": False,
+        "tp": 2
+      },
+      "id": 2884688,
+      "bt": 1734436800000,
+      "ms": 5,
+      "fid": 4,
+      "fmt": 300002,
+      "ne": 0,
+      "vs": {
+        "have": False
+      },
+      "sid": 3,
+      "ty": 2,
+      "nm": "Omsk vs Krasnodar",
+      "sb": {},
+      "pl": 1
+    }
+  ],
+  "pageTotal": 1
+}
