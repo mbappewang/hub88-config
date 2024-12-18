@@ -9322,3 +9322,1535 @@
 2024-12-17 22:37:35.708 INFO [__main__] AL Ain FC vs AL Hazem FC - None
 2024-12-17 22:37:37.695 INFO [__main__] Al Safa (Sa) vs Al Zulfi获取Statscore ID成功: 14413606 用时0:00:01.986279
 2024-12-17 22:37:37.695 INFO [__main__] Al Safa (Sa) vs Al Zulfi - https://live.bbapcall.com/live/sd-1-4198382.m3u8?txSecret=31eeff613b77f2d30ab19f034a01fc43&txTime=6761D555
+2024-12-17 22:20:35.624 INFO [__main__] 程序开始运行
+2024-12-17 22:20:35.624 ERROR [__main__] 这是一条测试错误信息
+2024-12-17 22:20:36.356 INFO [__main__] 开始请求
+2024-12-17 22:20:36.356 INFO [__main__] 开始请求sportId: 1
+2024-12-17 22:20:36.677 INFO [__main__] 开始请求sportId: 3
+2024-12-17 22:20:36.975 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:20:39.298 INFO [__main__] Howard Bison vs Drexel Dragons获取Statscore ID成功: 14335896 用时0:00:01.926906
+2024-12-17 22:20:39.298 INFO [__main__] Howard Bison vs Drexel Dragons - https://live.bbapcall.com/live/sd-2-3817060.m3u8?txSecret=7021ff602a95970a02ef8166f5dc0fda&txTime=676241DD
+2024-12-17 22:20:39.298 INFO [__main__] Nacional Natacao vs Lobos da Malveira的animation1为空
+2024-12-17 22:20:39.298 INFO [__main__] Nacional Natacao vs Lobos da Malveira - None
+2024-12-17 22:20:41.246 INFO [__main__] CP Esgueira vs UD Oliveirense获取Statscore ID成功: 14420194 用时0:00:01.947179
+2024-12-17 22:20:41.246 INFO [__main__] CP Esgueira vs UD Oliveirense - None
+2024-12-17 22:20:41.246 INFO [__main__] Sporting CP (w) vs CB Queluz (w)的animation1为空
+2024-12-17 22:20:41.246 INFO [__main__] Sporting CP (w) vs CB Queluz (w) - None
+2024-12-17 22:20:41.246 INFO [__main__] Ferro Carril Oeste (w) vs Obras Basket (w)的animation1为空
+2024-12-17 22:20:41.246 INFO [__main__] Ferro Carril Oeste (w) vs Obras Basket (w) - https://live.bbapcall.com/live/sd-2-3828714.m3u8?txSecret=ac32d0b76110967e707d23e78c428356&txTime=676241DD
+2024-12-17 22:20:41.246 INFO [__main__] UNC Asheville Bulldogs (w) vs East Tennessee State Buccaneers (w)的animation1为空
+2024-12-17 22:20:41.246 INFO [__main__] UNC Asheville Bulldogs (w) vs East Tennessee State Buccaneers (w) - None
+2024-12-17 22:23:49.541 INFO [__main__] 程序开始运行
+2024-12-17 22:23:49.541 ERROR [__main__] 这是一条测试错误信息
+2024-12-17 22:23:49.621 INFO [__main__] 开始请求
+2024-12-17 22:23:49.621 INFO [__main__] 开始请求sportId: 1
+2024-12-17 22:23:50.025 INFO [__main__] 开始请求sportId: 3
+2024-12-17 22:23:50.418 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:23:52.593 INFO [__main__] Howard Bison vs Drexel Dragons获取Statscore ID成功: 14335896 用时0:00:01.882598
+2024-12-17 22:23:52.593 INFO [__main__] Howard Bison vs Drexel Dragons - https://live.bbapcall.com/live/sd-2-3817060.m3u8?txSecret=9ca0ff36b9524644e71f5ee1b309d233&txTime=6762429E
+2024-12-17 22:23:52.593 INFO [__main__] Nacional Natacao vs Lobos da Malveira的animation1为空
+2024-12-17 22:23:52.593 INFO [__main__] Nacional Natacao vs Lobos da Malveira - None
+2024-12-17 22:23:53.928 INFO [__main__] CP Esgueira vs UD Oliveirense获取Statscore ID成功: 14420194 用时0:00:01.334470
+2024-12-17 22:23:53.928 INFO [__main__] CP Esgueira vs UD Oliveirense - None
+2024-12-17 22:23:53.928 INFO [__main__] Sporting CP (w) vs CB Queluz (w)的animation1为空
+2024-12-17 22:23:53.928 INFO [__main__] Sporting CP (w) vs CB Queluz (w) - None
+2024-12-17 22:23:53.929 INFO [__main__] Ferro Carril Oeste (w) vs Obras Basket (w)的animation1为空
+2024-12-17 22:23:53.929 INFO [__main__] Ferro Carril Oeste (w) vs Obras Basket (w) - https://live.bbapcall.com/live/sd-2-3828714.m3u8?txSecret=004f65850b77315ab59655a6dec01e1c&txTime=6762429E
+2024-12-17 22:23:53.929 INFO [__main__] UNC Asheville Bulldogs (w) vs East Tennessee State Buccaneers (w)的animation1为空
+2024-12-17 22:23:53.929 INFO [__main__] UNC Asheville Bulldogs (w) vs East Tennessee State Buccaneers (w) - None
+2024-12-17 22:29:18.285 INFO [__main__] 程序开始运行
+2024-12-17 22:29:18.285 ERROR [__main__] 这是一条测试错误信息
+2024-12-17 22:29:18.365 INFO [__main__] 开始请求
+2024-12-17 22:29:18.365 INFO [__main__] 开始请求sportId: 1
+2024-12-17 22:29:18.667 INFO [__main__] 开始请求sportId: 3
+2024-12-17 22:29:18.975 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:29:19.267 INFO [__main__] Nacional Natacao vs Lobos da Malveira的animation1为空
+2024-12-17 22:29:19.268 INFO [__main__] Nacional Natacao vs Lobos da Malveira - None
+2024-12-17 22:29:20.544 INFO [__main__] CP Esgueira vs UD Oliveirense获取Statscore ID成功: 14420194 用时0:00:01.276380
+2024-12-17 22:29:20.544 INFO [__main__] CP Esgueira vs UD Oliveirense - None
+2024-12-17 22:29:20.544 INFO [__main__] Sporting CP (w) vs CB Queluz (w)的animation1为空
+2024-12-17 22:29:20.544 INFO [__main__] Sporting CP (w) vs CB Queluz (w) - None
+2024-12-17 22:29:20.544 INFO [__main__] Ferro Carril Oeste (w) vs Obras Basket (w)的animation1为空
+2024-12-17 22:29:20.544 INFO [__main__] Ferro Carril Oeste (w) vs Obras Basket (w) - https://live.bbapcall.com/live/sd-2-3828714.m3u8?txSecret=c12029368ee626c129ddc51217fba498&txTime=676243E7
+2024-12-17 22:29:20.544 INFO [__main__] UNC Asheville Bulldogs (w) vs East Tennessee State Buccaneers (w)的animation1为空
+2024-12-17 22:29:20.544 INFO [__main__] UNC Asheville Bulldogs (w) vs East Tennessee State Buccaneers (w) - None
+2024-12-17 22:34:32.919 INFO [__main__] 程序开始运行
+2024-12-17 22:34:32.920 ERROR [__main__] 这是一条测试错误信息
+2024-12-17 22:34:33.001 INFO [__main__] 开始请求
+2024-12-17 22:34:33.001 INFO [__main__] 开始请求sportId: 1
+2024-12-17 22:34:33.312 INFO [__main__] 开始请求sportId: 3
+2024-12-17 22:34:33.604 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:34:35.177 INFO [__main__] Sao Jose dos Campos vs EC Pinheiros SP获取Statscore ID成功: 14409025 用时0:00:01.295848
+2024-12-17 22:34:35.178 INFO [__main__] Sao Jose dos Campos vs EC Pinheiros SP - None
+2024-12-17 22:34:35.178 INFO [__main__] Nacional Natacao vs Lobos da Malveira的animation1为空
+2024-12-17 22:34:35.178 INFO [__main__] Nacional Natacao vs Lobos da Malveira - None
+2024-12-17 22:34:36.632 INFO [__main__] CP Esgueira vs UD Oliveirense获取Statscore ID成功: 14420194 用时0:00:01.454070
+2024-12-17 22:34:36.632 INFO [__main__] CP Esgueira vs UD Oliveirense - None
+2024-12-17 22:34:36.632 INFO [__main__] Sporting CP (w) vs CB Queluz (w)的animation1为空
+2024-12-17 22:34:36.632 INFO [__main__] Sporting CP (w) vs CB Queluz (w) - None
+2024-12-17 22:34:36.632 INFO [__main__] Ferro Carril Oeste (w) vs Obras Basket (w)的animation1为空
+2024-12-17 22:34:36.632 INFO [__main__] Ferro Carril Oeste (w) vs Obras Basket (w) - https://live.bbapcall.com/live/sd-2-3828714.m3u8?txSecret=80390464255025b5c49b75d2e4310582&txTime=67624521
+2024-12-17 22:34:36.633 INFO [__main__] UNC Asheville Bulldogs (w) vs East Tennessee State Buccaneers (w)的animation1为空
+2024-12-17 22:34:36.633 INFO [__main__] UNC Asheville Bulldogs (w) vs East Tennessee State Buccaneers (w) - None
+2024-12-17 22:34:37.320 ERROR [__main__] 数据库操作错误: (pymysql.err.OperationalError) (1054, "Unknown column 'match_name' in 'field list'")
+[SQL: INSERT INTO fb (match_time, name, `regionName`, `regionId`, `regionUrl`, `leagueName`, `leagueId`, `leagueUrl`, match_id, match_name, `homeTeam`, `homeTeamUrl`, `homeTeamId`, `awayTeam`, `awayTeamUrl`, `awayTeamId`, animation1, animation2, web, `flvHD`, `flvSD`, `m3u8HD`, `m3u8SD`, statscore_id) VALUES (%(match_time)s, %(name)s, %(regionName)s, %(regionId)s, %(regionUrl)s, %(leagueName)s, %(leagueId)s, %(leagueUrl)s, %(match_id)s, %(match_name)s, %(homeTeam)s, %(homeTeamUrl)s, %(homeTeamId)s, %(awayTeam)s, %(awayTeamUrl)s, %(awayTeamId)s, %(animation1)s, %(animation2)s, %(web)s, %(flvHD)s, %(flvSD)s, %(m3u8HD)s, %(m3u8SD)s, %(statscore_id)s)]
+[parameters: [{'match_time': 1734474600.0, 'name': 'Sao Jose dos Campos vs EC Pinheiros SP', 'regionName': 'Brazil', 'regionId': 41, 'regionUrl': 'https://static.w.fbs6668.com/data/1d6c905e1243664c54468b40aad58e8e.png', 'leagueName': 'Brazil NBB League', 'leagueId': 11407, 'leagueUrl': 'https://static.w.fbs6668.com/data/123bf18b062c7f90076b001b1bb1ea78.png', 'match_id': 2856082, 'match_name': 'Sao Jose dos Campos vs EC Pinheiros SP', 'homeTeam': 'Sao Jose dos Campos', 'homeTeamUrl': 'https://static.w.fbs6668.com/data/7f21ac76f271decfac3c332b8ca5f21.png', 'homeTeamId': 127880, 'awayTeam': 'EC Pinheiros SP', 'awayTeamUrl': 'https://static.w.fbs6668.com/data/ca3ab2eee442977e7af7d20daf251afa.png', 'awayTeamId': 70374, 'animation1': 'https://animation.byanimxyz.com/animation/index2.html?matchId=5681879&configId=672203d24ddc0852ad9ce0d6', 'animation2': 'https://animation.byanimxyz.com/animation/index.html?matchId=53336451&configId=', 'web': None, 'flvHD': None, 'flvSD': None, 'm3u8HD': None, 'm3u8SD': None, 'statscore_id': 14409025}, {'match_time': 1734471900.0, 'name': 'Nacional Natacao vs Lobos da Malveira', 'regionName': 'Portugal', 'regionId': 55, 'regionUrl': 'https://static.w.fbs6668.com/data/26604471dc6d111cc59a417a9d996e1d.png', 'leagueName': 'Portugal Basketball Nacional 2 Division', 'leagueId': 12366, 'leagueUrl': 'https://static.w.fbs6668.com/data/e5db727a9437b237a44bba81b469c57.png', 'match_id': 2840096, 'match_name': 'Nacional Natacao vs Lobos da Malveira', 'homeTeam': 'Nacional Natacao', 'homeTeamUrl': 'https://static.w.fbs6668.com/data/70cd4a777b6f23e9875e01898a076b3b.png', 'homeTeamId': 119385, 'awayTeam': 'Lobos da Malveira', 'awayTeamUrl': 'https://static.w.fbs6668.com/data/12e1d818b89937dd3b493801f3395718.jpg', 'awayTeamId': 149666, 'animation1': None, 'animation2': 'https://animation.byanimxyz.com/animation/index.html?matchId=56104831&configId=', 'web': None, 'flvHD': None, 'flvSD': None, 'm3u8HD': None, 'm3u8SD': None, 'statscore_id': 0}, {'match_time': 1734471000.0, 'name': 'CP Esgueira vs UD Oliveirense', 'regionName': 'Portugal', 'regionId': 55, 'regionUrl': 'https://static.w.fbs6668.com/data/26604471dc6d111cc59a417a9d996e1d.png', 'leagueName': 'Portugal Taca Hugo Dos Santos', 'leagueId': 12499, 'leagueUrl': 'https://static.w.fbs6668.com/data/8d2c44896ea223677e87527a19edd438.png', 'match_id': 2856794, 'match_name': 'CP Esgueira vs UD Oliveirense', 'homeTeam': 'CP Esgueira', 'homeTeamUrl': 'https://static.w.fbs6668.com/data/f60ca835ec6f7a80678c828acad2fdda.png', 'homeTeamId': 71079, 'awayTeam': 'UD Oliveirense', 'awayTeamUrl': 'https://static.w.fbs6668.com/data/aaae3186e483f389d0cf7e99935f359d.png', 'awayTeamId': 71070, 'animation1': 'https://animation.byanimxyz.com/animation/index2.html?matchId=5762179&configId=672203d24ddc0852ad9ce0d6', 'animation2': 'https://animation.byanimxyz.com/animation/index.html?matchId=55371617&configId=', 'web': None, 'flvHD': None, 'flvSD': None, 'm3u8HD': None, 'm3u8SD': None, 'statscore_id': 14420194}, {'match_time': 1734471000.0, 'name': 'Sporting CP (w) vs CB Queluz (w)', 'regionName': 'Portugal', 'regionId': 55, 'regionUrl': 'https://static.w.fbs6668.com/data/26604471dc6d111cc59a417a9d996e1d.png', 'leagueName': 'Portugal Basketball Division 1 Women', 'leagueId': 12476, 'leagueUrl': 'https://static.w.fbs6668.com/data/543ac9d4633680721ac767fefe270ae1.png', 'match_id': 2873869, 'match_name': 'Sporting CP (w) vs CB Queluz (w)', 'homeTeam': 'Sporting CP (w)', 'homeTeamUrl': 'https://static.w.fbs6668.com/data/9ee77d60cc1f42467898452cd69a516b.png', 'homeTeamId': 176073, 'awayTeam': 'CB Queluz (w)', 'awayTeamUrl': 'https://static.w.fbs6668.com/data/6e3957b9129e734450db55fec4178a1f.png', 'awayTeamId': 152789, 'animation1': None, 'animation2': 'https://animation.byanimxyz.com/animation/index.html?matchId=56382975&configId=', 'web': None, 'flvHD': None, 'flvSD': None, 'm3u8HD': None, 'm3u8SD': None, 'statscore_id': 0}, {'match_time': 1734469200.0, 'name': 'Ferro Carril Oeste (w) vs Obras Basket (w)', 'regionName': 'Argentina', 'regionId': 102, 'regionUrl': 'https://static.w.fbs6668.com/data/8f12acfed6b1b87a6d20bb5ef0445b75.png', 'leagueName': 'Argentina La Liga Women', 'leagueId': 12483, 'leagueUrl': 'https://static.w.fbs6668.com/data/e55ca58fab95fc814cf060c7e19cd8e7.png', 'match_id': 2871675, 'match_name': 'Ferro Carril Oeste (w) vs Obras Basket (w)', 'homeTeam': 'Ferro Carril Oeste (w)', 'homeTeamUrl': 'https://static.w.fbs6668.com/data/6c23547ba73a494d52a3865d269af0c1.png', 'homeTeamId': 123774, 'awayTeam': 'Obras Basket (w)', 'awayTeamUrl': 'https://static.w.fbs6668.com/data/8835c9c65100e2f06b431777d9d85990.png', 'awayTeamId': 117335, 'animation1': None, 'animation2': 'https://animation.byanimxyz.com/animation/index.html?matchId=56428981&configId=', 'web': 'https://v.567440.com/live/index.html', 'flvHD': None, 'flvSD': 'https://live.bbapcall.com/live/sd-2-3828714.flv?txSecret=80390464255025b5c49b75d2e4310582&txTime=67624521', 'm3u8HD': None, 'm3u8SD': 'https://live.bbapcall.com/live/sd-2-3828714.m3u8?txSecret=80390464255025b5c49b75d2e4310582&txTime=67624521', 'statscore_id': 0}, {'match_time': 1734471000.0, 'name': 'UNC Asheville Bulldogs (w) vs East Tennessee State Buccaneers (w)', 'regionName': 'USA', 'regionId': 84, 'regionUrl': 'https://static.w.fbs6668.com/data/b2266e6801e1878ed9767fbef619283d.png', 'leagueName': 'NCAA Basketball Women', 'leagueId': 12034, 'leagueUrl': 'https://static.w.fbs6668.com/data/6eb9915055c651927fc8a1720b5c7b1b.png', 'match_id': 2856778, 'match_name': 'UNC Asheville Bulldogs (w) vs East Tennessee State Buccaneers (w)', 'homeTeam': 'UNC Asheville Bulldogs (w)', 'homeTeamUrl': 'https://static.w.fbs6668.com/data/eefd42994b97dc20eee2bfcc89ea31c0.png', 'homeTeamId': 123583, 'awayTeam': 'East Tennessee State Buccaneers (w)', 'awayTeamUrl': 'https://static.w.fbs6668.com/data/158989d5bae2e2609c8c526d387b2414.png', 'awayTeamId': 152007, 'animation1': None, 'animation2': 'https://animation.byanimxyz.com/animation/index.html?matchId=54593189&configId=', 'web': None, 'flvHD': None, 'flvSD': None, 'm3u8HD': None, 'm3u8SD': None, 'statscore_id': 0}]]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-17 22:34:37.321 INFO [__main__] 开始请求sportId: 5
+2024-12-17 22:34:37.613 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:34:37.918 INFO [__main__] Harry Pugh (NZL) vs Finley Hall (NZL)的animation1为空
+2024-12-17 22:34:37.918 INFO [__main__] Harry Pugh (NZL) vs Finley Hall (NZL) - None
+2024-12-17 22:34:37.918 INFO [__main__] Casey Hoole (AUS) vs Kiranpal Pannu (NZL)的animation1为空
+2024-12-17 22:34:37.918 INFO [__main__] Casey Hoole (AUS) vs Kiranpal Pannu (NZL) - None
+2024-12-17 22:34:37.918 INFO [__main__] Thijmen Loof (NED) vs Mikal Statham (NZL)的animation1为空
+2024-12-17 22:34:37.918 INFO [__main__] Thijmen Loof (NED) vs Mikal Statham (NZL) - None
+2024-12-17 22:34:37.918 INFO [__main__] Merel Hoedt (NED) vs Yui Chikaraishi (JPN)的animation1为空
+2024-12-17 22:34:37.919 INFO [__main__] Merel Hoedt (NED) vs Yui Chikaraishi (JPN) - None
+2024-12-17 22:34:37.919 INFO [__main__] Wan I Wen (TPE) vs Yuka Hosoki (JPN)的animation1为空
+2024-12-17 22:34:37.919 INFO [__main__] Wan I Wen (TPE) vs Yuka Hosoki (JPN) - None
+2024-12-17 22:34:37.919 INFO [__main__] Monique Barry (NZL) vs Vivian Yang (NZL)的animation1为空
+2024-12-17 22:34:37.919 INFO [__main__] Monique Barry (NZL) vs Vivian Yang (NZL) - None
+2024-12-17 22:34:37.942 ERROR [__main__] 数据库操作错误: (pymysql.err.OperationalError) (1054, "Unknown column 'match_name' in 'field list'")
+[SQL: INSERT INTO fb (match_time, name, `regionName`, `regionId`, `regionUrl`, `leagueName`, `leagueId`, `leagueUrl`, match_id, match_name, `homeTeam`, `homeTeamUrl`, `homeTeamId`, `awayTeam`, `awayTeamUrl`, `awayTeamId`, animation1, animation2, web, `flvHD`, `flvSD`, `m3u8HD`, `m3u8SD`, statscore_id) VALUES (%(match_time)s, %(name)s, %(regionName)s, %(regionId)s, %(regionUrl)s, %(leagueName)s, %(leagueId)s, %(leagueUrl)s, %(match_id)s, %(match_name)s, %(homeTeam)s, %(homeTeamUrl)s, %(homeTeamId)s, %(awayTeam)s, %(awayTeamUrl)s, %(awayTeamId)s, %(animation1)s, %(animation2)s, %(web)s, %(flvHD)s, %(flvSD)s, %(m3u8HD)s, %(m3u8SD)s, %(statscore_id)s)]
+[parameters: [{'match_time': 1734469200.0, 'name': 'Harry Pugh (NZL) vs Finley Hall (NZL)', 'regionName': 'ITF', 'regionId': 574, 'regionUrl': 'https://static.w.fbs6668.com/data/42f8eb9db90f2278decafd4b99f2d43a.png', 'leagueName': 'ITF - M15 Tauranga Men Singles', 'leagueId': 21625, 'leagueUrl': 'https://static.w.fbs6668.com/data/42f8eb9db90f2278decafd4b99f2d43a.png', 'match_id': 2883741, 'match_name': 'Harry Pugh (NZL) vs Finley Hall (NZL)', 'homeTeam': 'Harry Pugh (NZL)', 'homeTeamUrl': '', 'homeTeamId': 180857, 'awayTeam': 'Finley Hall (NZL)', 'awayTeamUrl': '', 'awayTeamId': 180279, 'animation1': None, 'animation2': 'https://animation.byanimxyz.com/animation/index.html?matchId=56491933&configId=', 'web': None, 'flvHD': None, 'flvSD': None, 'm3u8HD': None, 'm3u8SD': None, 'statscore_id': 0}, {'match_time': 1734469200.0, 'name': 'Casey Hoole (AUS) vs Kiranpal Pannu (NZL)', 'regionName': 'ITF', 'regionId': 574, 'regionUrl': 'https://static.w.fbs6668.com/data/42f8eb9db90f2278decafd4b99f2d43a.png', 'leagueName': 'ITF - M15 Tauranga Men Singles', 'leagueId': 21625, 'leagueUrl': 'https://static.w.fbs6668.com/data/42f8eb9db90f2278decafd4b99f2d43a.png', 'match_id': 2883747, 'match_name': 'Casey Hoole (AUS) vs Kiranpal Pannu (NZL)', 'homeTeam': 'Casey Hoole (AUS)', 'homeTeamUrl': '', 'homeTeamId': 99293, 'awayTeam': 'Kiranpal Pannu (NZL)', 'awayTeamUrl': '', 'awayTeamId': 79005, 'animation1': None, 'animation2': 'https://animation.byanimxyz.com/animation/index.html?matchId=56491947&configId=', 'web': None, 'flvHD': None, 'flvSD': None, 'm3u8HD': None, 'm3u8SD': None, 'statscore_id': 0}, {'match_time': 1734477300.0, 'name': 'Thijmen Loof (NED) vs Mikal Statham (NZL)', 'regionName': 'ITF', 'regionId': 574, 'regionUrl': 'https://static.w.fbs6668.com/data/42f8eb9db90f2278decafd4b99f2d43a.png', 'leagueName': 'ITF - M15 Tauranga Men Singles', 'leagueId': 21625, 'leagueUrl': 'https://static.w.fbs6668.com/data/42f8eb9db90f2278decafd4b99f2d43a.png', 'match_id': 2884002, 'match_name': 'Thijmen Loof (NED) vs Mikal Statham (NZL)', 'homeTeam': 'Thijmen Loof (NED)', 'homeTeamUrl': '', 'homeTeamId': 173688, 'awayTeam': 'Mikal Statham (NZL)', 'awayTeamUrl': '', 'awayTeamId': 211287, 'animation1': None, 'animation2': 'https://animation.byanimxyz.com/animation/index.html?matchId=56491945&configId=', 'web': None, 'flvHD': None, 'flvSD': None, 'm3u8HD': None, 'm3u8SD': None, 'statscore_id': 0}, {'match_time': 1734469200.0, 'name': 'Merel Hoedt (NED) vs Yui Chikaraishi (JPN)', 'regionName': 'ITF', 'regionId': 574, 'regionUrl': 'https://static.w.fbs6668.com/data/42f8eb9db90f2278decafd4b99f2d43a.png', 'leagueName': 'ITF - W35 Tauranga Women Singles', 'leagueId': 21622, 'leagueUrl': 'https://static.w.fbs6668.com/data/42f8eb9db90f2278decafd4b99f2d43a.png', 'match_id': 2883601, 'match_name': 'Merel Hoedt (NED) vs Yui Chikaraishi (JPN)', 'homeTeam': 'Merel Hoedt (NED)', 'homeTeamUrl': '', 'homeTeamId': 163548, 'awayTeam': 'Yui Chikaraishi (JPN)', 'awayTeamUrl': '', 'awayTeamId': 109061, 'animation1': None, 'animation2': 'https://animation.byanimxyz.com/animation/index.html?matchId=56491099&configId=', 'web': None, 'flvHD': None, 'flvSD': None, 'm3u8HD': None, 'm3u8SD': None, 'statscore_id': 0}, {'match_time': 1734469200.0, 'name': 'Wan I Wen (TPE) vs Yuka Hosoki (JPN)', 'regionName': 'ITF', 'regionId': 574, 'regionUrl': 'https://static.w.fbs6668.com/data/42f8eb9db90f2278decafd4b99f2d43a.png', 'leagueName': 'ITF - W35 Tauranga Women Singles', 'leagueId': 21622, 'leagueUrl': 'https://static.w.fbs6668.com/data/42f8eb9db90f2278decafd4b99f2d43a.png', 'match_id': 2883994, 'match_name': 'Wan I Wen (TPE) vs Yuka Hosoki (JPN)', 'homeTeam': 'Wan I Wen (TPE)', 'homeTeamUrl': '', 'homeTeamId': 194765, 'awayTeam': 'Yuka Hosoki (JPN)', 'awayTeamUrl': '', 'awayTeamId': 105663, 'animation1': None, 'animation2': 'https://animation.byanimxyz.com/animation/index.html?matchId=56495431&configId=', 'web': None, 'flvHD': None, 'flvSD': None, 'm3u8HD': None, 'm3u8SD': None, 'statscore_id': 0}, {'match_time': 1734473400.0, 'name': 'Monique Barry (NZL) vs Vivian Yang (NZL)', 'regionName': 'ITF', 'regionId': 574, 'regionUrl': 'https://static.w.fbs6668.com/data/42f8eb9db90f2278decafd4b99f2d43a.png', 'leagueName': 'ITF - W35 Tauranga Women Singles', 'leagueId': 21622, 'leagueUrl': 'https://static.w.fbs6668.com/data/42f8eb9db90f2278decafd4b99f2d43a.png', 'match_id': 2883993, 'match_name': 'Monique Barry (NZL) vs Vivian Yang (NZL)', 'homeTeam': 'Monique Barry (NZL)', 'homeTeamUrl': '', 'homeTeamId': 103976, 'awayTeam': 'Vivian Yang (NZL)', 'awayTeamUrl': '', 'awayTeamId': 151217, 'animation1': None, 'animation2': 'https://animation.byanimxyz.com/animation/index.html?matchId=56495433&configId=', 'web': None, 'flvHD': None, 'flvSD': None, 'm3u8HD': None, 'm3u8SD': None, 'statscore_id': 0}]]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-17 22:34:37.943 INFO [__main__] 开始请求sportId: 13
+2024-12-17 22:34:38.237 INFO [__main__] 开始请求sportId: 2
+2024-12-17 22:34:38.524 INFO [__main__] 开始请求sportId: 6
+2024-12-17 22:34:38.820 INFO [__main__] 开始请求sportId: 18
+2024-12-17 22:34:39.116 INFO [__main__] 开始请求sportId: 19
+2024-12-17 22:34:39.392 INFO [__main__] 开始请求sportId: 14
+2024-12-17 22:34:39.695 INFO [__main__] 开始请求sportId: 16
+2024-12-17 22:34:40.073 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:34:40.371 INFO [__main__] Matthew Selt vs Artemijs Zizins的animation1为空
+2024-12-17 22:34:40.371 INFO [__main__] Matthew Selt vs Artemijs Zizins - https://live.bbapcall.com/live/sd-19-4558102.m3u8?txSecret=4845e62836fc0093bf1802997bf522cf&txTime=67624528
+2024-12-17 22:34:40.371 INFO [__main__] Daniel Wells vs Stuart Carrington的animation1为空
+2024-12-17 22:34:40.371 INFO [__main__] Daniel Wells vs Stuart Carrington - https://live.bbapcall.com/live/sd-19-4558100.m3u8?txSecret=2f4065d27b96a323e2c2c4b43950ccc2&txTime=67624528
+2024-12-17 22:34:40.390 ERROR [__main__] 数据库操作错误: (pymysql.err.OperationalError) (1054, "Unknown column 'match_name' in 'field list'")
+[SQL: INSERT INTO fb (match_time, name, `regionName`, `regionId`, `regionUrl`, `leagueName`, `leagueId`, `leagueUrl`, match_id, match_name, `homeTeam`, `homeTeamUrl`, `homeTeamId`, `awayTeam`, `awayTeamUrl`, `awayTeamId`, animation1, animation2, web, `flvHD`, `flvSD`, `m3u8HD`, `m3u8SD`, statscore_id) VALUES (%(match_time)s, %(name)s, %(regionName)s, %(regionId)s, %(regionUrl)s, %(leagueName)s, %(leagueId)s, %(leagueUrl)s, %(match_id)s, %(match_name)s, %(homeTeam)s, %(homeTeamUrl)s, %(homeTeamId)s, %(awayTeam)s, %(awayTeamUrl)s, %(awayTeamId)s, %(animation1)s, %(animation2)s, %(web)s, %(flvHD)s, %(flvSD)s, %(m3u8HD)s, %(m3u8SD)s, %(statscore_id)s)]
+[parameters: [{'match_time': 1734462000.0, 'name': 'Matthew Selt vs Artemijs Zizins', 'regionName': 'International', 'regionId': 106, 'regionUrl': 'https://static.w.fbs6668.com/data/7a6fa667d9903f04c9990000018127de.png', 'leagueName': 'German Masters', 'leagueId': 16513, 'leagueUrl': 'https://static.w.fbs6668.com/data/e1967b3bee803f14e402ec3e9c5def23.png', 'match_id': 2883634, 'match_name': 'Matthew Selt vs Artemijs Zizins', 'homeTeam': 'Matthew Selt', 'homeTeamUrl': '', 'homeTeamId': 125054, 'awayTeam': 'Artemijs Zizins', 'awayTeamUrl': '', 'awayTeamId': 194806, 'animation1': None, 'animation2': 'https://animation.byanimxyz.com/animation/index2.html?matchId=5777485&configId=6721ffe59f20341410ebc605', 'web': 'https://v.567440.com/live/index.html', 'flvHD': None, 'flvSD': 'https://live.bbapcall.com/live/sd-19-4558102.flv?txSecret=4845e62836fc0093bf1802997bf522cf&txTime=67624528', 'm3u8HD': None, 'm3u8SD': 'https://live.bbapcall.com/live/sd-19-4558102.m3u8?txSecret=4845e62836fc0093bf1802997bf522cf&txTime=67624528', 'statscore_id': 0}, {'match_time': 1734462000.0, 'name': 'Daniel Wells vs Stuart Carrington', 'regionName': 'International', 'regionId': 106, 'regionUrl': 'https://static.w.fbs6668.com/data/7a6fa667d9903f04c9990000018127de.png', 'leagueName': 'German Masters', 'leagueId': 16513, 'leagueUrl': 'https://static.w.fbs6668.com/data/e1967b3bee803f14e402ec3e9c5def23.png', 'match_id': 2883636, 'match_name': 'Daniel Wells vs Stuart Carrington', 'homeTeam': 'Daniel Wells', 'homeTeamUrl': '', 'homeTeamId': 125142, 'awayTeam': 'Stuart Carrington', 'awayTeamUrl': '', 'awayTeamId': 125098, 'animation1': None, 'animation2': 'https://animation.byanimxyz.com/animation/index2.html?matchId=5777486&configId=6721ffe59f20341410ebc605', 'web': 'https://v.567440.com/live/index.html', 'flvHD': None, 'flvSD': 'https://live.bbapcall.com/live/sd-19-4558100.flv?txSecret=2f4065d27b96a323e2c2c4b43950ccc2&txTime=67624528', 'm3u8HD': None, 'm3u8SD': 'https://live.bbapcall.com/live/sd-19-4558100.m3u8?txSecret=2f4065d27b96a323e2c2c4b43950ccc2&txTime=67624528', 'statscore_id': 0}]]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-17 22:34:40.391 INFO [__main__] 开始请求sportId: 47
+2024-12-17 22:34:40.692 INFO [__main__] 开始请求sportId: 15
+2024-12-17 22:34:40.971 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:34:41.282 INFO [__main__] Maksymilian Miastowski vs Krzysztof Wloczko的animation1为空
+2024-12-17 22:34:41.283 INFO [__main__] Maksymilian Miastowski vs Krzysztof Wloczko - None
+2024-12-17 22:34:41.283 INFO [__main__] Miroslaw Warzecha vs Arkadiusz Skupinski的animation1为空
+2024-12-17 22:34:41.283 INFO [__main__] Miroslaw Warzecha vs Arkadiusz Skupinski - None
+2024-12-17 22:34:41.283 INFO [__main__] Ivo Hladik (CZE) vs Marek Teiml (CZE)的animation1为空
+2024-12-17 22:34:41.283 INFO [__main__] Ivo Hladik (CZE) vs Marek Teiml (CZE) - None
+2024-12-17 22:34:41.283 INFO [__main__] Jaromir Zlamal (CZE) vs Michal Spalek (CZE)的animation1为空
+2024-12-17 22:34:41.283 INFO [__main__] Jaromir Zlamal (CZE) vs Michal Spalek (CZE) - None
+2024-12-17 22:34:41.283 INFO [__main__] Marek Placek (CZE) vs Tomas Dousa (CZE)的animation1为空
+2024-12-17 22:34:41.283 INFO [__main__] Marek Placek (CZE) vs Tomas Dousa (CZE) - None
+2024-12-17 22:34:41.283 INFO [__main__] Ladislav Vosyka (CZE) vs Radek Vosyka (CZE)的animation1为空
+2024-12-17 22:34:41.283 INFO [__main__] Ladislav Vosyka (CZE) vs Radek Vosyka (CZE) - None
+2024-12-17 22:34:41.304 ERROR [__main__] 数据库操作错误: (pymysql.err.OperationalError) (1054, "Unknown column 'match_name' in 'field list'")
+[SQL: INSERT INTO fb (match_time, name, `regionName`, `regionId`, `regionUrl`, `leagueName`, `leagueId`, `leagueUrl`, match_id, match_name, `homeTeam`, `homeTeamUrl`, `homeTeamId`, `awayTeam`, `awayTeamUrl`, `awayTeamId`, animation1, animation2, web, `flvHD`, `flvSD`, `m3u8HD`, `m3u8SD`, statscore_id) VALUES (%(match_time)s, %(name)s, %(regionName)s, %(regionId)s, %(regionUrl)s, %(leagueName)s, %(leagueId)s, %(leagueUrl)s, %(match_id)s, %(match_name)s, %(homeTeam)s, %(homeTeamUrl)s, %(homeTeamId)s, %(awayTeam)s, %(awayTeamUrl)s, %(awayTeamId)s, %(animation1)s, %(animation2)s, %(web)s, %(flvHD)s, %(flvSD)s, %(m3u8HD)s, %(m3u8SD)s, %(statscore_id)s)]
+[parameters: [{'match_time': 1734474600.0, 'name': 'Maksymilian Miastowski vs Krzysztof Wloczko', 'regionName': 'International', 'regionId': 106, 'regionUrl': 'https://static.w.fbs6668.com/data/7a6fa667d9903f04c9990000018127de.png', 'leagueName': 'TT Elite Series - Men Singles', 'leagueId': 17168, 'leagueUrl': 'https://static.w.fbs6668.com/data/7ddcac61d187c23df2707401150e8a68.png', 'match_id': 2882664, 'match_name': 'Maksymilian Miastowski vs Krzysztof Wloczko', 'homeTeam': 'Maksymilian Miastowski', 'homeTeamUrl': '', 'homeTeamId': 139175, 'awayTeam': 'Krzysztof Wloczko', 'awayTeamUrl': '', 'awayTeamId': 164423, 'animation1': None, 'animation2': 'https://animation.byanimxyz.com/animation/index.html?matchId=56485363&configId=', 'web': None, 'flvHD': None, 'flvSD': None, 'm3u8HD': None, 'm3u8SD': None, 'statscore_id': 0}, {'match_time': 1734474600.0, 'name': 'Miroslaw Warzecha vs Arkadiusz Skupinski', 'regionName': 'International', 'regionId': 106, 'regionUrl': 'https://static.w.fbs6668.com/data/7a6fa667d9903f04c9990000018127de.png', 'leagueName': 'TT Elite Series - Men Singles', 'leagueId': 17168, 'leagueUrl': 'https://static.w.fbs6668.com/data/7ddcac61d187c23df2707401150e8a68.png', 'match_id': 2882695, 'match_name': 'Miroslaw Warzecha vs Arkadiusz Skupinski', 'homeTeam': 'Miroslaw Warzecha', 'homeTeamUrl': '', 'homeTeamId': 152534, 'awayTeam': 'Arkadiusz Skupinski', 'awayTeamUrl': '', 'awayTeamId': 152921, 'animation1': None, 'animation2': 'https://animation.byanimxyz.com/animation/index.html?matchId=56485361&configId=', 'web': None, 'flvHD': None, 'flvSD': None, 'm3u8HD': None, 'm3u8SD': None, 'statscore_id': 0}, {'match_time': 1734474000.0, 'name': 'Ivo Hladik (CZE) vs Marek Teiml (CZE)', 'regionName': 'Ukraine', 'regionId': 75, 'regionUrl': 'https://static.w.fbs6668.com/data/2e627787270513f293f484f2c6d82969.png', 'leagueName': 'Ukraine TT Cup Men Singles', 'leagueId': 16124, 'leagueUrl': 'https://static.w.fbs6668.com/data/720ee4db1cea6fd851b2c030f615a397.png', 'match_id': 2885828, 'match_name': 'Ivo Hladik (CZE) vs Marek Teiml (CZE)', 'homeTeam': 'Ivo Hladik (CZE)', 'homeTeamUrl': '', 'homeTeamId': 157938, 'awayTeam': 'Marek Teiml (CZE)', 'awayTeamUrl': '', 'awayTeamId': 138882, 'animation1': None, 'animation2': 'https://animation.byanimxyz.com/animation/index.html?matchId=56522519&configId=', 'web': None, 'flvHD': None, 'flvSD': None, 'm3u8HD': None, 'm3u8SD': None, 'statscore_id': 0}, {'match_time': 1734474300.0, 'name': 'Jaromir Zlamal (CZE) vs Michal Spalek (CZE)', 'regionName': 'Ukraine', 'regionId': 75, 'regionUrl': 'https://static.w.fbs6668.com/data/2e627787270513f293f484f2c6d82969.png', 'leagueName': 'Ukraine TT Cup Men Singles', 'leagueId': 16124, 'leagueUrl': 'https://static.w.fbs6668.com/data/720ee4db1cea6fd851b2c030f615a397.png', 'match_id': 2884126, 'match_name': 'Jaromir Zlamal (CZE) vs Michal Spalek (CZE)', 'homeTeam': 'Jaromir Zlamal (CZE)', 'homeTeamUrl': '', 'homeTeamId': 128628, 'awayTeam': 'Michal Spalek (CZE)', 'awayTeamUrl': '', 'awayTeamId': 149600, 'animation1': None, 'animation2': 'https://animation.byanimxyz.com/animation/index.html?matchId=56506883&configId=', 'web': None, 'flvHD': None, 'flvSD': None, 'm3u8HD': None, 'm3u8SD': None, 'statscore_id': 0}, {'match_time': 1734474600.0, 'name': 'Marek Placek (CZE) vs Tomas Dousa (CZE)', 'regionName': 'Czech Republic', 'regionId': 555, 'regionUrl': 'https://static.w.fbs6668.com/data/40ff84d197b29853e081b98d5a42c27f.jpeg', 'leagueName': 'Czech Liga Pro Men Singles', 'leagueId': 16587, 'leagueUrl': 'https://static.w.fbs6668.com/data/b948aaa96ae1a425fcea57dde2226a81.png', 'match_id': 2885817, 'match_name': 'Marek Placek (CZE) vs Tomas Dousa (CZE)', 'homeTeam': 'Marek Placek (CZE)', 'homeTeamUrl': '', 'homeTeamId': 128107, 'awayTeam': 'Tomas Dousa (CZE)', 'awayTeamUrl': '', 'awayTeamId': 150047, 'animation1': None, 'animation2': 'https://animation.byanimxyz.com/animation/index.html?matchId=56522445&configId=', 'web': None, 'flvHD': None, 'flvSD': None, 'm3u8HD': None, 'm3u8SD': None, 'statscore_id': 0}, {'match_time': 1734474600.0, 'name': 'Ladislav Vosyka (CZE) vs Radek Vosyka (CZE)', 'regionName': 'Czech Republic', 'regionId': 555, 'regionUrl': 'https://static.w.fbs6668.com/data/40ff84d197b29853e081b98d5a42c27f.jpeg', 'leagueName': 'Czech Liga Pro Men Singles', 'leagueId': 16587, 'leagueUrl': 'https://static.w.fbs6668.com/data/b948aaa96ae1a425fcea57dde2226a81.png', 'match_id': 2885821, 'match_name': 'Ladislav Vosyka (CZE) vs Radek Vosyka (CZE)', 'homeTeam': 'Ladislav Vosyka (CZE)', 'homeTeamUrl': '', 'homeTeamId': 161793, 'awayTeam': 'Radek Vosyka (CZE)', 'awayTeamUrl': '', 'awayTeamId': 168719, 'animation1': None, 'animation2': 'https://animation.byanimxyz.com/animation/index.html?matchId=56522513&configId=', 'web': None, 'flvHD': None, 'flvSD': None, 'm3u8HD': None, 'm3u8SD': None, 'statscore_id': 0}]]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-17 22:34:41.305 INFO [__main__] 开始请求sportId: 7
+2024-12-17 22:34:41.595 INFO [__main__] 开始请求sportId: 24
+2024-12-17 22:34:41.871 INFO [__main__] 开始请求sportId: 92
+2024-12-17 22:34:42.257 INFO [__main__] 等待5分钟
+2024-12-17 22:37:44.792 INFO [__main__] 程序开始运行
+2024-12-17 22:37:44.792 ERROR [__main__] 这是一条测试错误信息
+2024-12-17 22:37:44.868 INFO [__main__] 开始请求
+2024-12-17 22:37:44.868 INFO [__main__] 开始请求sportId: 1
+2024-12-17 22:37:45.247 INFO [__main__] 开始请求sportId: 3
+2024-12-17 22:37:45.619 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:37:47.179 INFO [__main__] Sao Jose dos Campos vs EC Pinheiros SP获取Statscore ID成功: 14409025 用时0:00:01.277860
+2024-12-17 22:37:47.180 INFO [__main__] Sao Jose dos Campos vs EC Pinheiros SP - https://live.bbapcall.com/live/sd-2-3802415.m3u8?txSecret=74ba916daade518f61fba9b2ec078d84&txTime=676245E1
+2024-12-17 22:37:47.180 INFO [__main__] Nacional Natacao vs Lobos da Malveira的animation1为空
+2024-12-17 22:37:47.180 INFO [__main__] Nacional Natacao vs Lobos da Malveira - None
+2024-12-17 22:37:48.651 INFO [__main__] CP Esgueira vs UD Oliveirense获取Statscore ID成功: 14420194 用时0:00:01.470331
+2024-12-17 22:37:48.651 INFO [__main__] CP Esgueira vs UD Oliveirense - None
+2024-12-17 22:37:48.651 INFO [__main__] Sporting CP (w) vs CB Queluz (w)的animation1为空
+2024-12-17 22:37:48.651 INFO [__main__] Sporting CP (w) vs CB Queluz (w) - None
+2024-12-17 22:37:48.651 INFO [__main__] Ferro Carril Oeste (w) vs Obras Basket (w)的animation1为空
+2024-12-17 22:37:48.652 INFO [__main__] Ferro Carril Oeste (w) vs Obras Basket (w) - https://live.bbapcall.com/live/sd-2-3828714.m3u8?txSecret=0716fb20d41b54b389b82fd468cd81ac&txTime=676245E1
+2024-12-17 22:37:48.652 INFO [__main__] UNC Asheville Bulldogs (w) vs East Tennessee State Buccaneers (w)的animation1为空
+2024-12-17 22:37:48.652 INFO [__main__] UNC Asheville Bulldogs (w) vs East Tennessee State Buccaneers (w) - None
+2024-12-17 22:37:48.719 ERROR [__main__] 数据库操作错误: (pymysql.err.OperationalError) (1054, "Unknown column 'statscore_id' in 'field list'")
+[SQL: INSERT INTO fb (match_time, name, `regionName`, `regionId`, `regionUrl`, `leagueName`, `leagueId`, `leagueUrl`, match_id, `homeTeam`, `homeTeamUrl`, `homeTeamId`, `awayTeam`, `awayTeamUrl`, `awayTeamId`, animation1, animation2, web, `flvHD`, `flvSD`, `m3u8HD`, `m3u8SD`, statscore_id) VALUES (%(match_time)s, %(name)s, %(regionName)s, %(regionId)s, %(regionUrl)s, %(leagueName)s, %(leagueId)s, %(leagueUrl)s, %(match_id)s, %(homeTeam)s, %(homeTeamUrl)s, %(homeTeamId)s, %(awayTeam)s, %(awayTeamUrl)s, %(awayTeamId)s, %(animation1)s, %(animation2)s, %(web)s, %(flvHD)s, %(flvSD)s, %(m3u8HD)s, %(m3u8SD)s, %(statscore_id)s)]
+[parameters: [{'match_time': 1734474600.0, 'name': 'Sao Jose dos Campos vs EC Pinheiros SP', 'regionName': 'Brazil', 'regionId': 41, 'regionUrl': 'https://static.w.fbs6668.com/data/1d6c905e1243664c54468b40aad58e8e.png', 'leagueName': 'Brazil NBB League', 'leagueId': 11407, 'leagueUrl': 'https://static.w.fbs6668.com/data/123bf18b062c7f90076b001b1bb1ea78.png', 'match_id': 2856082, 'homeTeam': 'Sao Jose dos Campos', 'homeTeamUrl': 'https://static.w.fbs6668.com/data/7f21ac76f271decfac3c332b8ca5f21.png', 'homeTeamId': 127880, 'awayTeam': 'EC Pinheiros SP', 'awayTeamUrl': 'https://static.w.fbs6668.com/data/ca3ab2eee442977e7af7d20daf251afa.png', 'awayTeamId': 70374, 'animation1': 'https://animation.byanimxyz.com/animation/index2.html?matchId=5681879&configId=672203d24ddc0852ad9ce0d6', 'animation2': 'https://animation.byanimxyz.com/animation/index.html?matchId=53336451&configId=', 'web': 'https://v.567440.com/live/index.html', 'flvHD': None, 'flvSD': 'https://live.bbapcall.com/live/sd-2-3802415.flv?txSecret=74ba916daade518f61fba9b2ec078d84&txTime=676245E1', 'm3u8HD': None, 'm3u8SD': 'https://live.bbapcall.com/live/sd-2-3802415.m3u8?txSecret=74ba916daade518f61fba9b2ec078d84&txTime=676245E1', 'statscore_id': 14409025}, {'match_time': 1734471900.0, 'name': 'Nacional Natacao vs Lobos da Malveira', 'regionName': 'Portugal', 'regionId': 55, 'regionUrl': 'https://static.w.fbs6668.com/data/26604471dc6d111cc59a417a9d996e1d.png', 'leagueName': 'Portugal Basketball Nacional 2 Division', 'leagueId': 12366, 'leagueUrl': 'https://static.w.fbs6668.com/data/e5db727a9437b237a44bba81b469c57.png', 'match_id': 2840096, 'homeTeam': 'Nacional Natacao', 'homeTeamUrl': 'https://static.w.fbs6668.com/data/70cd4a777b6f23e9875e01898a076b3b.png', 'homeTeamId': 119385, 'awayTeam': 'Lobos da Malveira', 'awayTeamUrl': 'https://static.w.fbs6668.com/data/12e1d818b89937dd3b493801f3395718.jpg', 'awayTeamId': 149666, 'animation1': None, 'animation2': 'https://animation.byanimxyz.com/animation/index.html?matchId=56104831&configId=', 'web': None, 'flvHD': None, 'flvSD': None, 'm3u8HD': None, 'm3u8SD': None, 'statscore_id': 0}, {'match_time': 1734471000.0, 'name': 'CP Esgueira vs UD Oliveirense', 'regionName': 'Portugal', 'regionId': 55, 'regionUrl': 'https://static.w.fbs6668.com/data/26604471dc6d111cc59a417a9d996e1d.png', 'leagueName': 'Portugal Taca Hugo Dos Santos', 'leagueId': 12499, 'leagueUrl': 'https://static.w.fbs6668.com/data/8d2c44896ea223677e87527a19edd438.png', 'match_id': 2856794, 'homeTeam': 'CP Esgueira', 'homeTeamUrl': 'https://static.w.fbs6668.com/data/f60ca835ec6f7a80678c828acad2fdda.png', 'homeTeamId': 71079, 'awayTeam': 'UD Oliveirense', 'awayTeamUrl': 'https://static.w.fbs6668.com/data/aaae3186e483f389d0cf7e99935f359d.png', 'awayTeamId': 71070, 'animation1': 'https://animation.byanimxyz.com/animation/index2.html?matchId=5762179&configId=672203d24ddc0852ad9ce0d6', 'animation2': 'https://animation.byanimxyz.com/animation/index.html?matchId=55371617&configId=', 'web': None, 'flvHD': None, 'flvSD': None, 'm3u8HD': None, 'm3u8SD': None, 'statscore_id': 14420194}, {'match_time': 1734471000.0, 'name': 'Sporting CP (w) vs CB Queluz (w)', 'regionName': 'Portugal', 'regionId': 55, 'regionUrl': 'https://static.w.fbs6668.com/data/26604471dc6d111cc59a417a9d996e1d.png', 'leagueName': 'Portugal Basketball Division 1 Women', 'leagueId': 12476, 'leagueUrl': 'https://static.w.fbs6668.com/data/543ac9d4633680721ac767fefe270ae1.png', 'match_id': 2873869, 'homeTeam': 'Sporting CP (w)', 'homeTeamUrl': 'https://static.w.fbs6668.com/data/9ee77d60cc1f42467898452cd69a516b.png', 'homeTeamId': 176073, 'awayTeam': 'CB Queluz (w)', 'awayTeamUrl': 'https://static.w.fbs6668.com/data/6e3957b9129e734450db55fec4178a1f.png', 'awayTeamId': 152789, 'animation1': None, 'animation2': 'https://animation.byanimxyz.com/animation/index.html?matchId=56382975&configId=', 'web': None, 'flvHD': None, 'flvSD': None, 'm3u8HD': None, 'm3u8SD': None, 'statscore_id': 0}, {'match_time': 1734469200.0, 'name': 'Ferro Carril Oeste (w) vs Obras Basket (w)', 'regionName': 'Argentina', 'regionId': 102, 'regionUrl': 'https://static.w.fbs6668.com/data/8f12acfed6b1b87a6d20bb5ef0445b75.png', 'leagueName': 'Argentina La Liga Women', 'leagueId': 12483, 'leagueUrl': 'https://static.w.fbs6668.com/data/e55ca58fab95fc814cf060c7e19cd8e7.png', 'match_id': 2871675, 'homeTeam': 'Ferro Carril Oeste (w)', 'homeTeamUrl': 'https://static.w.fbs6668.com/data/6c23547ba73a494d52a3865d269af0c1.png', 'homeTeamId': 123774, 'awayTeam': 'Obras Basket (w)', 'awayTeamUrl': 'https://static.w.fbs6668.com/data/8835c9c65100e2f06b431777d9d85990.png', 'awayTeamId': 117335, 'animation1': None, 'animation2': 'https://animation.byanimxyz.com/animation/index.html?matchId=56428981&configId=', 'web': 'https://v.567440.com/live/index.html', 'flvHD': None, 'flvSD': 'https://live.bbapcall.com/live/sd-2-3828714.flv?txSecret=0716fb20d41b54b389b82fd468cd81ac&txTime=676245E1', 'm3u8HD': None, 'm3u8SD': 'https://live.bbapcall.com/live/sd-2-3828714.m3u8?txSecret=0716fb20d41b54b389b82fd468cd81ac&txTime=676245E1', 'statscore_id': 0}, {'match_time': 1734471000.0, 'name': 'UNC Asheville Bulldogs (w) vs East Tennessee State Buccaneers (w)', 'regionName': 'USA', 'regionId': 84, 'regionUrl': 'https://static.w.fbs6668.com/data/b2266e6801e1878ed9767fbef619283d.png', 'leagueName': 'NCAA Basketball Women', 'leagueId': 12034, 'leagueUrl': 'https://static.w.fbs6668.com/data/6eb9915055c651927fc8a1720b5c7b1b.png', 'match_id': 2856778, 'homeTeam': 'UNC Asheville Bulldogs (w)', 'homeTeamUrl': 'https://static.w.fbs6668.com/data/eefd42994b97dc20eee2bfcc89ea31c0.png', 'homeTeamId': 123583, 'awayTeam': 'East Tennessee State Buccaneers (w)', 'awayTeamUrl': 'https://static.w.fbs6668.com/data/158989d5bae2e2609c8c526d387b2414.png', 'awayTeamId': 152007, 'animation1': None, 'animation2': 'https://animation.byanimxyz.com/animation/index.html?matchId=54593189&configId=', 'web': None, 'flvHD': None, 'flvSD': None, 'm3u8HD': None, 'm3u8SD': None, 'statscore_id': 0}]]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-17 22:37:48.720 INFO [__main__] 开始请求sportId: 5
+2024-12-17 22:37:49.092 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:37:49.384 INFO [__main__] Harry Pugh (NZL) vs Finley Hall (NZL)的animation1为空
+2024-12-17 22:37:49.384 INFO [__main__] Harry Pugh (NZL) vs Finley Hall (NZL) - None
+2024-12-17 22:37:49.384 INFO [__main__] Casey Hoole (AUS) vs Kiranpal Pannu (NZL)的animation1为空
+2024-12-17 22:37:49.384 INFO [__main__] Casey Hoole (AUS) vs Kiranpal Pannu (NZL) - None
+2024-12-17 22:37:49.384 INFO [__main__] Thijmen Loof (NED) vs Mikal Statham (NZL)的animation1为空
+2024-12-17 22:37:49.384 INFO [__main__] Thijmen Loof (NED) vs Mikal Statham (NZL) - None
+2024-12-17 22:37:49.384 INFO [__main__] Merel Hoedt (NED) vs Yui Chikaraishi (JPN)的animation1为空
+2024-12-17 22:37:49.384 INFO [__main__] Merel Hoedt (NED) vs Yui Chikaraishi (JPN) - None
+2024-12-17 22:37:49.384 INFO [__main__] Wan I Wen (TPE) vs Yuka Hosoki (JPN)的animation1为空
+2024-12-17 22:37:49.384 INFO [__main__] Wan I Wen (TPE) vs Yuka Hosoki (JPN) - None
+2024-12-17 22:37:49.385 INFO [__main__] Monique Barry (NZL) vs Vivian Yang (NZL)的animation1为空
+2024-12-17 22:37:49.385 INFO [__main__] Monique Barry (NZL) vs Vivian Yang (NZL) - None
+2024-12-17 22:37:49.397 ERROR [__main__] 数据库操作错误: (pymysql.err.OperationalError) (1054, "Unknown column 'statscore_id' in 'field list'")
+[SQL: INSERT INTO fb (match_time, name, `regionName`, `regionId`, `regionUrl`, `leagueName`, `leagueId`, `leagueUrl`, match_id, `homeTeam`, `homeTeamUrl`, `homeTeamId`, `awayTeam`, `awayTeamUrl`, `awayTeamId`, animation1, animation2, web, `flvHD`, `flvSD`, `m3u8HD`, `m3u8SD`, statscore_id) VALUES (%(match_time)s, %(name)s, %(regionName)s, %(regionId)s, %(regionUrl)s, %(leagueName)s, %(leagueId)s, %(leagueUrl)s, %(match_id)s, %(homeTeam)s, %(homeTeamUrl)s, %(homeTeamId)s, %(awayTeam)s, %(awayTeamUrl)s, %(awayTeamId)s, %(animation1)s, %(animation2)s, %(web)s, %(flvHD)s, %(flvSD)s, %(m3u8HD)s, %(m3u8SD)s, %(statscore_id)s)]
+[parameters: [{'match_time': 1734469200.0, 'name': 'Harry Pugh (NZL) vs Finley Hall (NZL)', 'regionName': 'ITF', 'regionId': 574, 'regionUrl': 'https://static.w.fbs6668.com/data/42f8eb9db90f2278decafd4b99f2d43a.png', 'leagueName': 'ITF - M15 Tauranga Men Singles', 'leagueId': 21625, 'leagueUrl': 'https://static.w.fbs6668.com/data/42f8eb9db90f2278decafd4b99f2d43a.png', 'match_id': 2883741, 'homeTeam': 'Harry Pugh (NZL)', 'homeTeamUrl': '', 'homeTeamId': 180857, 'awayTeam': 'Finley Hall (NZL)', 'awayTeamUrl': '', 'awayTeamId': 180279, 'animation1': None, 'animation2': 'https://animation.byanimxyz.com/animation/index.html?matchId=56491933&configId=', 'web': None, 'flvHD': None, 'flvSD': None, 'm3u8HD': None, 'm3u8SD': None, 'statscore_id': 0}, {'match_time': 1734469200.0, 'name': 'Casey Hoole (AUS) vs Kiranpal Pannu (NZL)', 'regionName': 'ITF', 'regionId': 574, 'regionUrl': 'https://static.w.fbs6668.com/data/42f8eb9db90f2278decafd4b99f2d43a.png', 'leagueName': 'ITF - M15 Tauranga Men Singles', 'leagueId': 21625, 'leagueUrl': 'https://static.w.fbs6668.com/data/42f8eb9db90f2278decafd4b99f2d43a.png', 'match_id': 2883747, 'homeTeam': 'Casey Hoole (AUS)', 'homeTeamUrl': '', 'homeTeamId': 99293, 'awayTeam': 'Kiranpal Pannu (NZL)', 'awayTeamUrl': '', 'awayTeamId': 79005, 'animation1': None, 'animation2': 'https://animation.byanimxyz.com/animation/index.html?matchId=56491947&configId=', 'web': None, 'flvHD': None, 'flvSD': None, 'm3u8HD': None, 'm3u8SD': None, 'statscore_id': 0}, {'match_time': 1734477300.0, 'name': 'Thijmen Loof (NED) vs Mikal Statham (NZL)', 'regionName': 'ITF', 'regionId': 574, 'regionUrl': 'https://static.w.fbs6668.com/data/42f8eb9db90f2278decafd4b99f2d43a.png', 'leagueName': 'ITF - M15 Tauranga Men Singles', 'leagueId': 21625, 'leagueUrl': 'https://static.w.fbs6668.com/data/42f8eb9db90f2278decafd4b99f2d43a.png', 'match_id': 2884002, 'homeTeam': 'Thijmen Loof (NED)', 'homeTeamUrl': '', 'homeTeamId': 173688, 'awayTeam': 'Mikal Statham (NZL)', 'awayTeamUrl': '', 'awayTeamId': 211287, 'animation1': None, 'animation2': 'https://animation.byanimxyz.com/animation/index.html?matchId=56491945&configId=', 'web': None, 'flvHD': None, 'flvSD': None, 'm3u8HD': None, 'm3u8SD': None, 'statscore_id': 0}, {'match_time': 1734469200.0, 'name': 'Merel Hoedt (NED) vs Yui Chikaraishi (JPN)', 'regionName': 'ITF', 'regionId': 574, 'regionUrl': 'https://static.w.fbs6668.com/data/42f8eb9db90f2278decafd4b99f2d43a.png', 'leagueName': 'ITF - W35 Tauranga Women Singles', 'leagueId': 21622, 'leagueUrl': 'https://static.w.fbs6668.com/data/42f8eb9db90f2278decafd4b99f2d43a.png', 'match_id': 2883601, 'homeTeam': 'Merel Hoedt (NED)', 'homeTeamUrl': '', 'homeTeamId': 163548, 'awayTeam': 'Yui Chikaraishi (JPN)', 'awayTeamUrl': '', 'awayTeamId': 109061, 'animation1': None, 'animation2': 'https://animation.byanimxyz.com/animation/index.html?matchId=56491099&configId=', 'web': None, 'flvHD': None, 'flvSD': None, 'm3u8HD': None, 'm3u8SD': None, 'statscore_id': 0}, {'match_time': 1734469200.0, 'name': 'Wan I Wen (TPE) vs Yuka Hosoki (JPN)', 'regionName': 'ITF', 'regionId': 574, 'regionUrl': 'https://static.w.fbs6668.com/data/42f8eb9db90f2278decafd4b99f2d43a.png', 'leagueName': 'ITF - W35 Tauranga Women Singles', 'leagueId': 21622, 'leagueUrl': 'https://static.w.fbs6668.com/data/42f8eb9db90f2278decafd4b99f2d43a.png', 'match_id': 2883994, 'homeTeam': 'Wan I Wen (TPE)', 'homeTeamUrl': '', 'homeTeamId': 194765, 'awayTeam': 'Yuka Hosoki (JPN)', 'awayTeamUrl': '', 'awayTeamId': 105663, 'animation1': None, 'animation2': 'https://animation.byanimxyz.com/animation/index.html?matchId=56495431&configId=', 'web': None, 'flvHD': None, 'flvSD': None, 'm3u8HD': None, 'm3u8SD': None, 'statscore_id': 0}, {'match_time': 1734473400.0, 'name': 'Monique Barry (NZL) vs Vivian Yang (NZL)', 'regionName': 'ITF', 'regionId': 574, 'regionUrl': 'https://static.w.fbs6668.com/data/42f8eb9db90f2278decafd4b99f2d43a.png', 'leagueName': 'ITF - W35 Tauranga Women Singles', 'leagueId': 21622, 'leagueUrl': 'https://static.w.fbs6668.com/data/42f8eb9db90f2278decafd4b99f2d43a.png', 'match_id': 2883993, 'homeTeam': 'Monique Barry (NZL)', 'homeTeamUrl': '', 'homeTeamId': 103976, 'awayTeam': 'Vivian Yang (NZL)', 'awayTeamUrl': '', 'awayTeamId': 151217, 'animation1': None, 'animation2': 'https://animation.byanimxyz.com/animation/index.html?matchId=56495433&configId=', 'web': None, 'flvHD': None, 'flvSD': None, 'm3u8HD': None, 'm3u8SD': None, 'statscore_id': 0}]]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-17 22:37:49.397 INFO [__main__] 开始请求sportId: 13
+2024-12-17 22:37:49.688 INFO [__main__] 开始请求sportId: 2
+2024-12-17 22:37:49.962 INFO [__main__] 开始请求sportId: 6
+2024-12-17 22:37:50.252 INFO [__main__] 开始请求sportId: 18
+2024-12-17 22:37:50.525 INFO [__main__] 开始请求sportId: 19
+2024-12-17 22:37:50.912 INFO [__main__] 开始请求sportId: 14
+2024-12-17 22:37:51.210 INFO [__main__] 开始请求sportId: 16
+2024-12-17 22:37:51.503 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:37:51.783 INFO [__main__] Matthew Selt vs Artemijs Zizins的animation1为空
+2024-12-17 22:37:51.784 INFO [__main__] Matthew Selt vs Artemijs Zizins - https://live.bbapcall.com/live/sd-19-4558102.m3u8?txSecret=ff98040a24f49c4b0a0802af52efe035&txTime=676245E7
+2024-12-17 22:37:51.805 ERROR [__main__] 数据库操作错误: (pymysql.err.OperationalError) (1054, "Unknown column 'statscore_id' in 'field list'")
+[SQL: INSERT INTO fb (match_time, name, `regionName`, `regionId`, `regionUrl`, `leagueName`, `leagueId`, `leagueUrl`, match_id, `homeTeam`, `homeTeamUrl`, `homeTeamId`, `awayTeam`, `awayTeamUrl`, `awayTeamId`, animation1, animation2, web, `flvHD`, `flvSD`, `m3u8HD`, `m3u8SD`, statscore_id) VALUES (%(match_time)s, %(name)s, %(regionName)s, %(regionId)s, %(regionUrl)s, %(leagueName)s, %(leagueId)s, %(leagueUrl)s, %(match_id)s, %(homeTeam)s, %(homeTeamUrl)s, %(homeTeamId)s, %(awayTeam)s, %(awayTeamUrl)s, %(awayTeamId)s, %(animation1)s, %(animation2)s, %(web)s, %(flvHD)s, %(flvSD)s, %(m3u8HD)s, %(m3u8SD)s, %(statscore_id)s)]
+[parameters: {'match_time': 1734462000.0, 'name': 'Matthew Selt vs Artemijs Zizins', 'regionName': 'International', 'regionId': 106, 'regionUrl': 'https://static.w.fbs6668.com/data/7a6fa667d9903f04c9990000018127de.png', 'leagueName': 'German Masters', 'leagueId': 16513, 'leagueUrl': 'https://static.w.fbs6668.com/data/e1967b3bee803f14e402ec3e9c5def23.png', 'match_id': 2883634, 'homeTeam': 'Matthew Selt', 'homeTeamUrl': '', 'homeTeamId': 125054, 'awayTeam': 'Artemijs Zizins', 'awayTeamUrl': '', 'awayTeamId': 194806, 'animation1': None, 'animation2': 'https://animation.byanimxyz.com/animation/index2.html?matchId=5777485&configId=6721ffe59f20341410ebc605', 'web': 'https://v.567440.com/live/index.html', 'flvHD': None, 'flvSD': 'https://live.bbapcall.com/live/sd-19-4558102.flv?txSecret=ff98040a24f49c4b0a0802af52efe035&txTime=676245E7', 'm3u8HD': None, 'm3u8SD': 'https://live.bbapcall.com/live/sd-19-4558102.m3u8?txSecret=ff98040a24f49c4b0a0802af52efe035&txTime=676245E7', 'statscore_id': 0}]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-17 22:37:51.805 INFO [__main__] 开始请求sportId: 47
+2024-12-17 22:37:52.176 INFO [__main__] 开始请求sportId: 15
+2024-12-17 22:37:52.574 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:37:52.862 INFO [__main__] Maksymilian Miastowski vs Krzysztof Wloczko的animation1为空
+2024-12-17 22:37:52.863 INFO [__main__] Maksymilian Miastowski vs Krzysztof Wloczko - None
+2024-12-17 22:37:52.863 INFO [__main__] Miroslaw Warzecha vs Arkadiusz Skupinski的animation1为空
+2024-12-17 22:37:52.863 INFO [__main__] Miroslaw Warzecha vs Arkadiusz Skupinski - None
+2024-12-17 22:37:52.863 INFO [__main__] Jaroslaw Rolak vs Mateusz Burkacki的animation1为空
+2024-12-17 22:37:52.863 INFO [__main__] Jaroslaw Rolak vs Mateusz Burkacki - None
+2024-12-17 22:37:52.863 INFO [__main__] Ivo Hladik (CZE) vs Marek Teiml (CZE)的animation1为空
+2024-12-17 22:37:52.863 INFO [__main__] Ivo Hladik (CZE) vs Marek Teiml (CZE) - None
+2024-12-17 22:37:52.863 INFO [__main__] Jaromir Zlamal (CZE) vs Michal Spalek (CZE)的animation1为空
+2024-12-17 22:37:52.863 INFO [__main__] Jaromir Zlamal (CZE) vs Michal Spalek (CZE) - None
+2024-12-17 22:37:52.863 INFO [__main__] Marek Placek (CZE) vs Tomas Dousa (CZE)的animation1为空
+2024-12-17 22:37:52.863 INFO [__main__] Marek Placek (CZE) vs Tomas Dousa (CZE) - None
+2024-12-17 22:37:52.863 INFO [__main__] Ladislav Vosyka (CZE) vs Radek Vosyka (CZE)的animation1为空
+2024-12-17 22:37:52.863 INFO [__main__] Ladislav Vosyka (CZE) vs Radek Vosyka (CZE) - None
+2024-12-17 22:37:52.876 ERROR [__main__] 数据库操作错误: (pymysql.err.OperationalError) (1054, "Unknown column 'statscore_id' in 'field list'")
+[SQL: INSERT INTO fb (match_time, name, `regionName`, `regionId`, `regionUrl`, `leagueName`, `leagueId`, `leagueUrl`, match_id, `homeTeam`, `homeTeamUrl`, `homeTeamId`, `awayTeam`, `awayTeamUrl`, `awayTeamId`, animation1, animation2, web, `flvHD`, `flvSD`, `m3u8HD`, `m3u8SD`, statscore_id) VALUES (%(match_time)s, %(name)s, %(regionName)s, %(regionId)s, %(regionUrl)s, %(leagueName)s, %(leagueId)s, %(leagueUrl)s, %(match_id)s, %(homeTeam)s, %(homeTeamUrl)s, %(homeTeamId)s, %(awayTeam)s, %(awayTeamUrl)s, %(awayTeamId)s, %(animation1)s, %(animation2)s, %(web)s, %(flvHD)s, %(flvSD)s, %(m3u8HD)s, %(m3u8SD)s, %(statscore_id)s)]
+[parameters: [{'match_time': 1734474600.0, 'name': 'Maksymilian Miastowski vs Krzysztof Wloczko', 'regionName': 'International', 'regionId': 106, 'regionUrl': 'https://static.w.fbs6668.com/data/7a6fa667d9903f04c9990000018127de.png', 'leagueName': 'TT Elite Series - Men Singles', 'leagueId': 17168, 'leagueUrl': 'https://static.w.fbs6668.com/data/7ddcac61d187c23df2707401150e8a68.png', 'match_id': 2882664, 'homeTeam': 'Maksymilian Miastowski', 'homeTeamUrl': '', 'homeTeamId': 139175, 'awayTeam': 'Krzysztof Wloczko', 'awayTeamUrl': '', 'awayTeamId': 164423, 'animation1': None, 'animation2': 'https://animation.byanimxyz.com/animation/index.html?matchId=56485363&configId=', 'web': None, 'flvHD': None, 'flvSD': None, 'm3u8HD': None, 'm3u8SD': None, 'statscore_id': 0}, {'match_time': 1734474600.0, 'name': 'Miroslaw Warzecha vs Arkadiusz Skupinski', 'regionName': 'International', 'regionId': 106, 'regionUrl': 'https://static.w.fbs6668.com/data/7a6fa667d9903f04c9990000018127de.png', 'leagueName': 'TT Elite Series - Men Singles', 'leagueId': 17168, 'leagueUrl': 'https://static.w.fbs6668.com/data/7ddcac61d187c23df2707401150e8a68.png', 'match_id': 2882695, 'homeTeam': 'Miroslaw Warzecha', 'homeTeamUrl': '', 'homeTeamId': 152534, 'awayTeam': 'Arkadiusz Skupinski', 'awayTeamUrl': '', 'awayTeamId': 152921, 'animation1': None, 'animation2': 'https://animation.byanimxyz.com/animation/index.html?matchId=56485361&configId=', 'web': None, 'flvHD': None, 'flvSD': None, 'm3u8HD': None, 'm3u8SD': None, 'statscore_id': 0}, {'match_time': 1734474900.0, 'name': 'Jaroslaw Rolak vs Mateusz Burkacki', 'regionName': 'International', 'regionId': 106, 'regionUrl': 'https://static.w.fbs6668.com/data/7a6fa667d9903f04c9990000018127de.png', 'leagueName': 'TT Elite Series - Men Singles', 'leagueId': 17168, 'leagueUrl': 'https://static.w.fbs6668.com/data/7ddcac61d187c23df2707401150e8a68.png', 'match_id': 2882671, 'homeTeam': 'Jaroslaw Rolak', 'homeTeamUrl': '', 'homeTeamId': 138935, 'awayTeam': 'Mateusz Burkacki', 'awayTeamUrl': '', 'awayTeamId': 139354, 'animation1': None, 'animation2': 'https://animation.byanimxyz.com/animation/index.html?matchId=56485365&configId=', 'web': None, 'flvHD': None, 'flvSD': None, 'm3u8HD': None, 'm3u8SD': None, 'statscore_id': 0}, {'match_time': 1734474000.0, 'name': 'Ivo Hladik (CZE) vs Marek Teiml (CZE)', 'regionName': 'Ukraine', 'regionId': 75, 'regionUrl': 'https://static.w.fbs6668.com/data/2e627787270513f293f484f2c6d82969.png', 'leagueName': 'Ukraine TT Cup Men Singles', 'leagueId': 16124, 'leagueUrl': 'https://static.w.fbs6668.com/data/720ee4db1cea6fd851b2c030f615a397.png', 'match_id': 2885828, 'homeTeam': 'Ivo Hladik (CZE)', 'homeTeamUrl': '', 'homeTeamId': 157938, 'awayTeam': 'Marek Teiml (CZE)', 'awayTeamUrl': '', 'awayTeamId': 138882, 'animation1': None, 'animation2': 'https://animation.byanimxyz.com/animation/index.html?matchId=56522519&configId=', 'web': None, 'flvHD': None, 'flvSD': None, 'm3u8HD': None, 'm3u8SD': None, 'statscore_id': 0}, {'match_time': 1734474300.0, 'name': 'Jaromir Zlamal (CZE) vs Michal Spalek (CZE)', 'regionName': 'Ukraine', 'regionId': 75, 'regionUrl': 'https://static.w.fbs6668.com/data/2e627787270513f293f484f2c6d82969.png', 'leagueName': 'Ukraine TT Cup Men Singles', 'leagueId': 16124, 'leagueUrl': 'https://static.w.fbs6668.com/data/720ee4db1cea6fd851b2c030f615a397.png', 'match_id': 2884126, 'homeTeam': 'Jaromir Zlamal (CZE)', 'homeTeamUrl': '', 'homeTeamId': 128628, 'awayTeam': 'Michal Spalek (CZE)', 'awayTeamUrl': '', 'awayTeamId': 149600, 'animation1': None, 'animation2': 'https://animation.byanimxyz.com/animation/index.html?matchId=56506883&configId=', 'web': None, 'flvHD': None, 'flvSD': None, 'm3u8HD': None, 'm3u8SD': None, 'statscore_id': 0}, {'match_time': 1734474600.0, 'name': 'Marek Placek (CZE) vs Tomas Dousa (CZE)', 'regionName': 'Czech Republic', 'regionId': 555, 'regionUrl': 'https://static.w.fbs6668.com/data/40ff84d197b29853e081b98d5a42c27f.jpeg', 'leagueName': 'Czech Liga Pro Men Singles', 'leagueId': 16587, 'leagueUrl': 'https://static.w.fbs6668.com/data/b948aaa96ae1a425fcea57dde2226a81.png', 'match_id': 2885817, 'homeTeam': 'Marek Placek (CZE)', 'homeTeamUrl': '', 'homeTeamId': 128107, 'awayTeam': 'Tomas Dousa (CZE)', 'awayTeamUrl': '', 'awayTeamId': 150047, 'animation1': None, 'animation2': 'https://animation.byanimxyz.com/animation/index.html?matchId=56522445&configId=', 'web': None, 'flvHD': None, 'flvSD': None, 'm3u8HD': None, 'm3u8SD': None, 'statscore_id': 0}, {'match_time': 1734474600.0, 'name': 'Ladislav Vosyka (CZE) vs Radek Vosyka (CZE)', 'regionName': 'Czech Republic', 'regionId': 555, 'regionUrl': 'https://static.w.fbs6668.com/data/40ff84d197b29853e081b98d5a42c27f.jpeg', 'leagueName': 'Czech Liga Pro Men Singles', 'leagueId': 16587, 'leagueUrl': 'https://static.w.fbs6668.com/data/b948aaa96ae1a425fcea57dde2226a81.png', 'match_id': 2885821, 'homeTeam': 'Ladislav Vosyka (CZE)', 'homeTeamUrl': '', 'homeTeamId': 161793, 'awayTeam': 'Radek Vosyka (CZE)', 'awayTeamUrl': '', 'awayTeamId': 168719, 'animation1': None, 'animation2': 'https://animation.byanimxyz.com/animation/index.html?matchId=56522513&configId=', 'web': None, 'flvHD': None, 'flvSD': None, 'm3u8HD': None, 'm3u8SD': None, 'statscore_id': 0}]]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-12-17 22:37:52.876 INFO [__main__] 开始请求sportId: 7
+2024-12-17 22:37:53.152 INFO [__main__] 开始请求sportId: 24
+2024-12-17 22:37:53.431 INFO [__main__] 开始请求sportId: 92
+2024-12-17 22:37:53.806 INFO [__main__] 等待5分钟
+2024-12-17 22:38:35.873 INFO [__main__] 程序开始运行
+2024-12-17 22:38:35.873 ERROR [__main__] 这是一条测试错误信息
+2024-12-17 22:38:35.937 INFO [__main__] 开始请求
+2024-12-17 22:38:35.937 INFO [__main__] 开始请求sportId: 1
+2024-12-17 22:38:36.347 INFO [__main__] 开始请求sportId: 3
+2024-12-17 22:38:36.627 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:38:38.327 INFO [__main__] Sao Jose dos Campos vs EC Pinheiros SP获取Statscore ID成功: 14409025 用时0:00:01.408840
+2024-12-17 22:38:38.328 INFO [__main__] Sao Jose dos Campos vs EC Pinheiros SP - https://live.bbapcall.com/live/sd-2-3802415.m3u8?txSecret=34652eb784fd6a02be17afbd6b7da09d&txTime=67624614
+2024-12-17 22:38:38.328 INFO [__main__] Nacional Natacao vs Lobos da Malveira的animation1为空
+2024-12-17 22:38:38.328 INFO [__main__] Nacional Natacao vs Lobos da Malveira - None
+2024-12-17 22:38:39.880 INFO [__main__] CP Esgueira vs UD Oliveirense获取Statscore ID成功: 14420194 用时0:00:01.552009
+2024-12-17 22:38:39.880 INFO [__main__] CP Esgueira vs UD Oliveirense - None
+2024-12-17 22:38:39.880 INFO [__main__] Sporting CP (w) vs CB Queluz (w)的animation1为空
+2024-12-17 22:38:39.881 INFO [__main__] Sporting CP (w) vs CB Queluz (w) - None
+2024-12-17 22:38:39.881 INFO [__main__] Ferro Carril Oeste (w) vs Obras Basket (w)的animation1为空
+2024-12-17 22:38:39.881 INFO [__main__] Ferro Carril Oeste (w) vs Obras Basket (w) - https://live.bbapcall.com/live/sd-2-3828714.m3u8?txSecret=9df0b241172215adf0dcd3bb675916c9&txTime=67624614
+2024-12-17 22:38:39.881 INFO [__main__] UNC Asheville Bulldogs (w) vs East Tennessee State Buccaneers (w)的animation1为空
+2024-12-17 22:38:39.881 INFO [__main__] UNC Asheville Bulldogs (w) vs East Tennessee State Buccaneers (w) - None
+2024-12-17 22:38:39.946 INFO [__main__] 插入了 6 条记录
+2024-12-17 22:38:39.946 INFO [__main__] 开始请求sportId: 5
+2024-12-17 22:38:40.229 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:38:40.522 INFO [__main__] Harry Pugh (NZL) vs Finley Hall (NZL)的animation1为空
+2024-12-17 22:38:40.523 INFO [__main__] Harry Pugh (NZL) vs Finley Hall (NZL) - None
+2024-12-17 22:38:40.523 INFO [__main__] Casey Hoole (AUS) vs Kiranpal Pannu (NZL)的animation1为空
+2024-12-17 22:38:40.523 INFO [__main__] Casey Hoole (AUS) vs Kiranpal Pannu (NZL) - None
+2024-12-17 22:38:40.523 INFO [__main__] Thijmen Loof (NED) vs Mikal Statham (NZL)的animation1为空
+2024-12-17 22:38:40.523 INFO [__main__] Thijmen Loof (NED) vs Mikal Statham (NZL) - None
+2024-12-17 22:38:40.523 INFO [__main__] Merel Hoedt (NED) vs Yui Chikaraishi (JPN)的animation1为空
+2024-12-17 22:38:40.523 INFO [__main__] Merel Hoedt (NED) vs Yui Chikaraishi (JPN) - None
+2024-12-17 22:38:40.523 INFO [__main__] Wan I Wen (TPE) vs Yuka Hosoki (JPN)的animation1为空
+2024-12-17 22:38:40.523 INFO [__main__] Wan I Wen (TPE) vs Yuka Hosoki (JPN) - None
+2024-12-17 22:38:40.523 INFO [__main__] Monique Barry (NZL) vs Vivian Yang (NZL)的animation1为空
+2024-12-17 22:38:40.524 INFO [__main__] Monique Barry (NZL) vs Vivian Yang (NZL) - None
+2024-12-17 22:38:40.546 INFO [__main__] 插入了 6 条记录
+2024-12-17 22:38:40.546 INFO [__main__] 开始请求sportId: 13
+2024-12-17 22:38:40.819 INFO [__main__] 开始请求sportId: 2
+2024-12-17 22:38:41.210 INFO [__main__] 开始请求sportId: 6
+2024-12-17 22:38:41.585 INFO [__main__] 开始请求sportId: 18
+2024-12-17 22:38:41.875 INFO [__main__] 开始请求sportId: 19
+2024-12-17 22:38:42.167 INFO [__main__] 开始请求sportId: 14
+2024-12-17 22:38:42.442 INFO [__main__] 开始请求sportId: 16
+2024-12-17 22:38:42.810 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:38:43.106 INFO [__main__] Matthew Selt vs Artemijs Zizins的animation1为空
+2024-12-17 22:38:43.106 INFO [__main__] Matthew Selt vs Artemijs Zizins - https://live.bbapcall.com/live/sd-19-4558102.m3u8?txSecret=fd491fe122bcaa8c00d10662808cfb4a&txTime=6762461B
+2024-12-17 22:38:43.128 INFO [__main__] 插入了 1 条记录
+2024-12-17 22:38:43.128 INFO [__main__] 开始请求sportId: 47
+2024-12-17 22:38:43.406 INFO [__main__] 开始请求sportId: 15
+2024-12-17 22:38:43.798 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:38:44.095 INFO [__main__] Maksymilian Miastowski vs Krzysztof Wloczko的animation1为空
+2024-12-17 22:38:44.095 INFO [__main__] Maksymilian Miastowski vs Krzysztof Wloczko - None
+2024-12-17 22:38:44.095 INFO [__main__] Miroslaw Warzecha vs Arkadiusz Skupinski的animation1为空
+2024-12-17 22:38:44.095 INFO [__main__] Miroslaw Warzecha vs Arkadiusz Skupinski - None
+2024-12-17 22:38:44.096 INFO [__main__] Jaroslaw Rolak vs Mateusz Burkacki的animation1为空
+2024-12-17 22:38:44.096 INFO [__main__] Jaroslaw Rolak vs Mateusz Burkacki - None
+2024-12-17 22:38:44.096 INFO [__main__] Ivo Hladik (CZE) vs Marek Teiml (CZE)的animation1为空
+2024-12-17 22:38:44.096 INFO [__main__] Ivo Hladik (CZE) vs Marek Teiml (CZE) - None
+2024-12-17 22:38:44.096 INFO [__main__] Jaromir Zlamal (CZE) vs Michal Spalek (CZE)的animation1为空
+2024-12-17 22:38:44.096 INFO [__main__] Jaromir Zlamal (CZE) vs Michal Spalek (CZE) - None
+2024-12-17 22:38:44.096 INFO [__main__] Marek Placek (CZE) vs Tomas Dousa (CZE)的animation1为空
+2024-12-17 22:38:44.096 INFO [__main__] Marek Placek (CZE) vs Tomas Dousa (CZE) - None
+2024-12-17 22:38:44.096 INFO [__main__] Ladislav Vosyka (CZE) vs Radek Vosyka (CZE)的animation1为空
+2024-12-17 22:38:44.096 INFO [__main__] Ladislav Vosyka (CZE) vs Radek Vosyka (CZE) - None
+2024-12-17 22:38:44.121 INFO [__main__] 插入了 7 条记录
+2024-12-17 22:38:44.121 INFO [__main__] 开始请求sportId: 7
+2024-12-17 22:38:44.421 INFO [__main__] 开始请求sportId: 24
+2024-12-17 22:38:44.700 INFO [__main__] 开始请求sportId: 92
+2024-12-17 22:38:44.979 INFO [__main__] 等待5分钟
+2024-12-17 22:43:44.984 INFO [__main__] 开始请求
+2024-12-17 22:43:44.985 INFO [__main__] 开始请求sportId: 1
+2024-12-17 22:43:49.991 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 1/10 次重试
+2024-12-17 22:43:54.996 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 2/10 次重试
+2024-12-17 22:44:00.002 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 3/10 次重试
+2024-12-17 22:44:05.006 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 4/10 次重试
+2024-12-17 22:44:10.012 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 5/10 次重试
+2024-12-17 22:44:15.018 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 6/10 次重试
+2024-12-17 22:44:20.024 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 7/10 次重试
+2024-12-17 22:44:25.030 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 8/10 次重试
+2024-12-17 22:44:30.036 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 9/10 次重试
+2024-12-17 22:44:35.042 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 10/10 次重试
+2024-12-17 22:44:35.042 ERROR [__main__] 更新Live数据失败，重试了 10 次，仍未成功
+2024-12-17 22:44:35.042 ERROR [__main__] Error get pageTotal: 'NoneType' object has no attribute 'get'
+2024-12-17 22:44:35.042 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:44:40.048 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 1/10 次重试
+2024-12-17 22:44:45.054 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 2/10 次重试
+2024-12-17 22:44:50.060 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 3/10 次重试
+2024-12-17 22:44:55.065 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 4/10 次重试
+2024-12-17 22:45:00.071 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 5/10 次重试
+2024-12-17 22:45:05.077 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 6/10 次重试
+2024-12-17 22:45:10.083 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 7/10 次重试
+2024-12-17 22:45:15.089 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 8/10 次重试
+2024-12-17 22:45:20.095 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 9/10 次重试
+2024-12-17 22:45:25.101 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 10/10 次重试
+2024-12-17 22:45:25.101 ERROR [__main__] 更新Live数据失败，重试了 10 次，仍未成功
+2024-12-17 22:48:39.870 INFO [__main__] 程序开始运行
+2024-12-17 22:48:39.871 ERROR [__main__] 这是一条测试错误信息
+2024-12-17 22:48:39.960 INFO [__main__] 开始请求
+2024-12-17 22:48:39.960 INFO [__main__] 开始请求sportId: 1
+2024-12-17 22:48:44.968 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 1/10 次重试
+2024-12-17 22:48:49.975 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 2/10 次重试
+2024-12-17 22:48:54.979 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 3/10 次重试
+2024-12-17 22:48:59.985 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 4/10 次重试
+2024-12-17 22:49:04.991 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 5/10 次重试
+2024-12-17 22:49:09.996 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 6/10 次重试
+2024-12-17 22:49:15.002 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 7/10 次重试
+2024-12-17 22:49:20.008 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 8/10 次重试
+2024-12-17 22:49:25.014 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 9/10 次重试
+2024-12-17 22:49:30.019 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 10/10 次重试
+2024-12-17 22:49:30.019 ERROR [__main__] 更新Live数据失败，重试了 10 次，仍未成功
+2024-12-17 22:49:30.020 ERROR [__main__] Error get pageTotal: 'NoneType' object has no attribute 'get'
+2024-12-17 22:49:30.020 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:49:35.025 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 1/10 次重试
+2024-12-17 22:49:40.031 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 2/10 次重试
+2024-12-17 22:49:45.037 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 3/10 次重试
+2024-12-17 22:49:50.052 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 4/10 次重试
+2024-12-17 22:49:55.057 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 5/10 次重试
+2024-12-17 22:50:00.062 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 6/10 次重试
+2024-12-17 22:50:05.068 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 7/10 次重试
+2024-12-17 22:50:10.074 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 8/10 次重试
+2024-12-17 22:50:15.079 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 9/10 次重试
+2024-12-17 22:50:20.083 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 10/10 次重试
+2024-12-17 22:50:20.084 ERROR [__main__] 更新Live数据失败，重试了 10 次，仍未成功
+2024-12-17 22:52:18.803 INFO [__main__] 程序开始运行
+2024-12-17 22:52:18.803 ERROR [__main__] 这是一条测试错误信息
+2024-12-17 22:52:18.860 INFO [__main__] 开始请求
+2024-12-17 22:52:18.860 INFO [__main__] 开始请求sportId: 1
+2024-12-17 22:52:23.867 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 1/10 次重试
+2024-12-17 22:52:28.873 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 2/10 次重试
+2024-12-17 22:52:33.877 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 3/10 次重试
+2024-12-17 22:52:38.881 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 4/10 次重试
+2024-12-17 22:52:43.887 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 5/10 次重试
+2024-12-17 22:52:48.892 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 6/10 次重试
+2024-12-17 22:52:53.897 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 7/10 次重试
+2024-12-17 22:52:58.903 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 8/10 次重试
+2024-12-17 22:53:03.909 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 9/10 次重试
+2024-12-17 22:53:08.915 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 10/10 次重试
+2024-12-17 22:53:08.915 ERROR [__main__] 更新Live数据失败，重试了 10 次，仍未成功
+2024-12-17 22:53:08.915 ERROR [__main__] Error get pageTotal: 'NoneType' object has no attribute 'get'
+2024-12-17 22:53:08.915 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:53:13.921 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 1/10 次重试
+2024-12-17 22:53:18.927 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 2/10 次重试
+2024-12-17 22:53:23.932 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 3/10 次重试
+2024-12-17 22:53:28.946 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 4/10 次重试
+2024-12-17 22:53:33.951 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 5/10 次重试
+2024-12-17 22:53:38.956 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 6/10 次重试
+2024-12-17 22:53:43.961 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 7/10 次重试
+2024-12-17 22:53:48.966 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 8/10 次重试
+2024-12-17 22:53:53.972 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 9/10 次重试
+2024-12-17 22:53:58.979 ERROR [__main__] 请求LiveMatchList发生错误：('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), 第 10/10 次重试
+2024-12-17 22:53:58.979 ERROR [__main__] 更新Live数据失败，重试了 10 次，仍未成功
+2024-12-17 22:56:04.287 INFO [__main__] 程序开始运行
+2024-12-17 22:56:04.287 ERROR [__main__] 这是一条测试错误信息
+2024-12-17 22:56:04.368 INFO [__main__] 开始请求
+2024-12-17 22:56:04.368 INFO [__main__] 开始请求sportId: 1
+2024-12-17 22:56:04.962 INFO [__main__] 开始请求sportId: 3
+2024-12-17 22:56:05.478 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:56:07.597 INFO [__main__] Flamengo RJ vs Toros de Chiriqui获取Statscore ID成功: 14425258 用时0:00:01.612293
+2024-12-17 22:56:07.597 INFO [__main__] Flamengo RJ vs Toros de Chiriqui - None
+2024-12-17 22:56:09.235 INFO [__main__] Sao Jose dos Campos vs EC Pinheiros SP获取Statscore ID成功: 14409025 用时0:00:01.637686
+2024-12-17 22:56:09.235 INFO [__main__] Sao Jose dos Campos vs EC Pinheiros SP - https://live.bbapcall.com/live/sd-2-3802415.m3u8?txSecret=169a0a5c0aa8dfa8ea4a2c025556d0f3&txTime=67624A2D
+2024-12-17 22:56:09.235 INFO [__main__] Nacional Natacao vs Lobos da Malveira的animation1为空
+2024-12-17 22:56:09.235 INFO [__main__] Nacional Natacao vs Lobos da Malveira - None
+2024-12-17 22:56:10.876 INFO [__main__] CP Esgueira vs UD Oliveirense获取Statscore ID成功: 14420194 用时0:00:01.640105
+2024-12-17 22:56:10.876 INFO [__main__] CP Esgueira vs UD Oliveirense - None
+2024-12-17 22:56:10.876 INFO [__main__] Sporting CP (w) vs CB Queluz (w)的animation1为空
+2024-12-17 22:56:10.876 INFO [__main__] Sporting CP (w) vs CB Queluz (w) - None
+2024-12-17 22:56:10.876 INFO [__main__] UNC Asheville Bulldogs (w) vs East Tennessee State Buccaneers (w)的animation1为空
+2024-12-17 22:56:10.877 INFO [__main__] UNC Asheville Bulldogs (w) vs East Tennessee State Buccaneers (w) - None
+2024-12-17 22:56:10.964 INFO [__main__] 更新了 5 条记录
+2024-12-17 22:56:10.970 INFO [__main__] 插入了 1 条记录
+2024-12-17 22:56:10.970 INFO [__main__] 开始请求sportId: 5
+2024-12-17 22:56:11.502 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:56:11.995 INFO [__main__] Harry Pugh (NZL) vs Finley Hall (NZL)的animation1为空
+2024-12-17 22:56:11.995 INFO [__main__] Harry Pugh (NZL) vs Finley Hall (NZL) - None
+2024-12-17 22:56:11.995 INFO [__main__] Thijmen Loof (NED) vs Mikal Statham (NZL)的animation1为空
+2024-12-17 22:56:11.995 INFO [__main__] Thijmen Loof (NED) vs Mikal Statham (NZL) - None
+2024-12-17 22:56:11.995 INFO [__main__] Merel Hoedt (NED) vs Yui Chikaraishi (JPN)的animation1为空
+2024-12-17 22:56:11.995 INFO [__main__] Merel Hoedt (NED) vs Yui Chikaraishi (JPN) - None
+2024-12-17 22:56:11.996 INFO [__main__] Monique Barry (NZL) vs Vivian Yang (NZL)的animation1为空
+2024-12-17 22:56:11.996 INFO [__main__] Monique Barry (NZL) vs Vivian Yang (NZL) - None
+2024-12-17 22:56:11.996 INFO [__main__] Oh Eunji (KOR) vs Maelys Bougrat (FRA)的animation1为空
+2024-12-17 22:56:11.996 INFO [__main__] Oh Eunji (KOR) vs Maelys Bougrat (FRA) - None
+2024-12-17 22:56:12.013 INFO [__main__] 更新了 4 条记录
+2024-12-17 22:56:12.023 INFO [__main__] 插入了 1 条记录
+2024-12-17 22:56:12.023 INFO [__main__] 开始请求sportId: 13
+2024-12-17 22:56:12.625 INFO [__main__] 开始请求sportId: 2
+2024-12-17 22:56:13.097 INFO [__main__] 开始请求sportId: 6
+2024-12-17 22:56:13.577 INFO [__main__] 开始请求sportId: 18
+2024-12-17 22:56:14.050 INFO [__main__] 开始请求sportId: 19
+2024-12-17 22:56:14.541 INFO [__main__] 开始请求sportId: 14
+2024-12-17 22:56:15.174 INFO [__main__] 开始请求sportId: 16
+2024-12-17 22:56:15.654 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:56:16.185 INFO [__main__] Matthew Selt vs Artemijs Zizins的animation1为空
+2024-12-17 22:56:16.185 INFO [__main__] Matthew Selt vs Artemijs Zizins - https://live.bbapcall.com/live/sd-19-4558102.m3u8?txSecret=d198b1984920b8d8c86c03189fb9aaeb&txTime=67624A38
+2024-12-17 22:56:16.198 INFO [__main__] 更新了 1 条记录
+2024-12-17 22:56:16.199 INFO [__main__] 开始请求sportId: 47
+2024-12-17 22:56:16.663 INFO [__main__] 开始请求sportId: 15
+2024-12-17 22:56:17.234 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 22:56:17.713 INFO [__main__] Miroslaw Warzecha vs Arkadiusz Skupinski的animation1为空
+2024-12-17 22:56:17.714 INFO [__main__] Miroslaw Warzecha vs Arkadiusz Skupinski - None
+2024-12-17 22:56:17.714 INFO [__main__] Szymon Seroka vs Grzegorz Poliniewicz的animation1为空
+2024-12-17 22:56:17.714 INFO [__main__] Szymon Seroka vs Grzegorz Poliniewicz - None
+2024-12-17 22:56:17.714 INFO [__main__] Mariusz Koczyba vs Piotr Strus的animation1为空
+2024-12-17 22:56:17.714 INFO [__main__] Mariusz Koczyba vs Piotr Strus - None
+2024-12-17 22:56:17.728 INFO [__main__] 更新了 1 条记录
+2024-12-17 22:56:17.737 INFO [__main__] 插入了 2 条记录
+2024-12-17 22:56:17.737 INFO [__main__] 开始请求sportId: 7
+2024-12-17 22:56:18.332 INFO [__main__] 开始请求sportId: 24
+2024-12-17 22:56:18.805 INFO [__main__] 开始请求sportId: 92
+2024-12-17 22:56:19.281 INFO [__main__] 等待5分钟
+2024-12-17 23:01:19.283 INFO [__main__] 开始请求
+2024-12-17 23:01:19.283 INFO [__main__] 开始请求sportId: 1
+2024-12-17 23:01:19.953 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 23:01:22.064 INFO [__main__] Independiente Petrolero vs Always Ready获取Statscore ID成功: 14421190 用时0:00:01.555692
+2024-12-17 23:01:22.064 INFO [__main__] Independiente Petrolero vs Always Ready - https://live.bbapcall.com/live/sd-1-4252042.m3u8?txSecret=c1297e1db4ba00d7b1236c6bc3d0ec86&txTime=67624B68
+2024-12-17 23:01:23.806 INFO [__main__] Club Aurora vs CA Nacional Potosi获取Statscore ID成功: 14421181 用时0:00:01.741740
+2024-12-17 23:01:23.806 INFO [__main__] Club Aurora vs CA Nacional Potosi - https://live.bbapcall.com/live/sd-1-4252041.m3u8?txSecret=64bea93d8a63689958f8ce43c8bf8f7e&txTime=67624B68
+2024-12-17 23:01:23.807 INFO [__main__] CA River Plate (Res) vs Velez Sarsfield (Res)的animation1为空
+2024-12-17 23:01:23.807 INFO [__main__] CA River Plate (Res) vs Velez Sarsfield (Res) - None
+2024-12-17 23:01:23.828 INFO [__main__] 插入了 3 条记录
+2024-12-17 23:01:23.828 INFO [__main__] 开始请求sportId: 3
+2024-12-17 23:01:24.310 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 23:01:26.674 INFO [__main__] Flamengo RJ vs Toros de Chiriqui获取Statscore ID成功: 14425258 用时0:00:01.880923
+2024-12-17 23:01:26.674 INFO [__main__] Flamengo RJ vs Toros de Chiriqui - https://live.bbapcall.com/live/sd-2-3824738.m3u8?txSecret=5ec7d4dfd1339f72f9cedabc80c1bbca&txTime=67624B6C
+2024-12-17 23:01:28.312 INFO [__main__] Sao Jose dos Campos vs EC Pinheiros SP获取Statscore ID成功: 14409025 用时0:00:01.637591
+2024-12-17 23:01:28.313 INFO [__main__] Sao Jose dos Campos vs EC Pinheiros SP - https://live.bbapcall.com/live/sd-2-3802415.m3u8?txSecret=e63b50a37f0e27a19af82be30da70b23&txTime=67624B6C
+2024-12-17 23:01:30.559 INFO [__main__] Mogi das Cruzes vs SC Corinthians Paulista获取Statscore ID成功: 14409026 用时0:00:02.246042
+2024-12-17 23:01:30.559 INFO [__main__] Mogi das Cruzes vs SC Corinthians Paulista - None
+2024-12-17 23:01:30.559 INFO [__main__] Nacional Natacao vs Lobos da Malveira的animation1为空
+2024-12-17 23:01:30.560 INFO [__main__] Nacional Natacao vs Lobos da Malveira - None
+2024-12-17 23:01:32.206 INFO [__main__] CP Esgueira vs UD Oliveirense获取Statscore ID成功: 14420194 用时0:00:01.646263
+2024-12-17 23:01:32.206 INFO [__main__] CP Esgueira vs UD Oliveirense - None
+2024-12-17 23:01:32.206 INFO [__main__] Sporting CP (w) vs CB Queluz (w)的animation1为空
+2024-12-17 23:01:32.206 INFO [__main__] Sporting CP (w) vs CB Queluz (w) - None
+2024-12-17 23:01:32.206 INFO [__main__] UNC Asheville Bulldogs (w) vs East Tennessee State Buccaneers (w)的animation1为空
+2024-12-17 23:01:32.207 INFO [__main__] UNC Asheville Bulldogs (w) vs East Tennessee State Buccaneers (w) - None
+2024-12-17 23:01:32.221 INFO [__main__] 更新了 6 条记录
+2024-12-17 23:01:32.228 INFO [__main__] 插入了 1 条记录
+2024-12-17 23:01:32.228 INFO [__main__] 开始请求sportId: 5
+2024-12-17 23:01:32.805 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 23:01:33.328 INFO [__main__] Thijmen Loof (NED) vs Mikal Statham (NZL)的animation1为空
+2024-12-17 23:01:33.328 INFO [__main__] Thijmen Loof (NED) vs Mikal Statham (NZL) - None
+2024-12-17 23:01:33.328 INFO [__main__] Merel Hoedt (NED) vs Yui Chikaraishi (JPN)的animation1为空
+2024-12-17 23:01:33.329 INFO [__main__] Merel Hoedt (NED) vs Yui Chikaraishi (JPN) - None
+2024-12-17 23:01:33.329 INFO [__main__] Monique Barry (NZL) vs Vivian Yang (NZL)的animation1为空
+2024-12-17 23:01:33.329 INFO [__main__] Monique Barry (NZL) vs Vivian Yang (NZL) - None
+2024-12-17 23:01:33.329 INFO [__main__] Oh Eunji (KOR) vs Maelys Bougrat (FRA)的animation1为空
+2024-12-17 23:01:33.329 INFO [__main__] Oh Eunji (KOR) vs Maelys Bougrat (FRA) - None
+2024-12-17 23:01:33.343 INFO [__main__] 更新了 4 条记录
+2024-12-17 23:01:33.343 INFO [__main__] 开始请求sportId: 13
+2024-12-17 23:01:33.815 INFO [__main__] 开始请求sportId: 2
+2024-12-17 23:01:34.324 INFO [__main__] 开始请求sportId: 6
+2024-12-17 23:01:34.816 INFO [__main__] 开始请求sportId: 18
+2024-12-17 23:01:35.380 INFO [__main__] 开始请求sportId: 19
+2024-12-17 23:01:35.887 INFO [__main__] 开始请求sportId: 14
+2024-12-17 23:01:36.369 INFO [__main__] 开始请求sportId: 16
+2024-12-17 23:01:36.840 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 23:01:37.325 INFO [__main__] Matthew Selt vs Artemijs Zizins的animation1为空
+2024-12-17 23:01:37.325 INFO [__main__] Matthew Selt vs Artemijs Zizins - https://live.bbapcall.com/live/sd-19-4558102.m3u8?txSecret=419e68ec6f085f99f1ee7b4e40153457&txTime=67624B79
+2024-12-17 23:01:37.340 INFO [__main__] 更新了 1 条记录
+2024-12-17 23:01:37.340 INFO [__main__] 开始请求sportId: 47
+2024-12-17 23:01:37.923 INFO [__main__] 开始请求sportId: 15
+2024-12-17 23:01:38.418 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 23:01:38.896 INFO [__main__] Bartosz Czerwinski vs Kacper Petas的animation1为空
+2024-12-17 23:01:38.896 INFO [__main__] Bartosz Czerwinski vs Kacper Petas - None
+2024-12-17 23:01:38.896 INFO [__main__] Waldemar Glanowski vs Michal Wolny的animation1为空
+2024-12-17 23:01:38.896 INFO [__main__] Waldemar Glanowski vs Michal Wolny - None
+2024-12-17 23:01:38.896 INFO [__main__] Mariusz Koczyba vs Piotr Strus的animation1为空
+2024-12-17 23:01:38.897 INFO [__main__] Mariusz Koczyba vs Piotr Strus - None
+2024-12-17 23:01:38.897 INFO [__main__] Ales Zacharda (CZE) vs Petr Libovicky (CZE)的animation1为空
+2024-12-17 23:01:38.897 INFO [__main__] Ales Zacharda (CZE) vs Petr Libovicky (CZE) - None
+2024-12-17 23:01:40.429 INFO [__main__] Vaclav Pulkrabek (CZE) vs Jaromir Cernik (CZE)获取Statscore ID成功: 14420152 用时0:00:01.532569
+2024-12-17 23:01:40.430 INFO [__main__] Vaclav Pulkrabek (CZE) vs Jaromir Cernik (CZE) - None
+2024-12-17 23:01:40.430 INFO [__main__] Kir Martin (CZE) vs Lubor Sulava (CZE)的animation1为空
+2024-12-17 23:01:40.430 INFO [__main__] Kir Martin (CZE) vs Lubor Sulava (CZE) - None
+2024-12-17 23:01:41.998 INFO [__main__] Daniel Tuma (CZE) vs Tomas Andrle (CZE)获取Statscore ID成功: 14420150 用时0:00:01.568655
+2024-12-17 23:01:41.999 INFO [__main__] Daniel Tuma (CZE) vs Tomas Andrle (CZE) - None
+2024-12-17 23:01:42.013 INFO [__main__] 更新了 1 条记录
+2024-12-17 23:01:42.024 INFO [__main__] 插入了 6 条记录
+2024-12-17 23:01:42.025 INFO [__main__] 开始请求sportId: 7
+2024-12-17 23:01:42.509 INFO [__main__] 开始请求sportId: 24
+2024-12-17 23:01:42.974 INFO [__main__] 开始请求sportId: 92
+2024-12-17 23:01:43.564 INFO [__main__] 等待5分钟
+2024-12-17 23:06:43.569 INFO [__main__] 开始请求
+2024-12-17 23:06:43.571 INFO [__main__] 开始请求sportId: 1
+2024-12-17 23:06:44.167 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 23:06:46.370 INFO [__main__] Independiente Petrolero vs Always Ready获取Statscore ID成功: 14421190 用时0:00:01.675318
+2024-12-17 23:06:46.370 INFO [__main__] Independiente Petrolero vs Always Ready - https://live.bbapcall.com/live/sd-1-4252042.m3u8?txSecret=73db93c1702e69dcfe71e4cfba60a691&txTime=67624CAC
+2024-12-17 23:06:48.025 INFO [__main__] Club Aurora vs CA Nacional Potosi获取Statscore ID成功: 14421181 用时0:00:01.653913
+2024-12-17 23:06:48.025 INFO [__main__] Club Aurora vs CA Nacional Potosi - https://live.bbapcall.com/live/sd-1-4252041.m3u8?txSecret=34f1cb0226c25a9e8f26726eb62e691c&txTime=67624CAC
+2024-12-17 23:06:48.025 INFO [__main__] CA River Plate (Res) vs Velez Sarsfield (Res)的animation1为空
+2024-12-17 23:06:48.025 INFO [__main__] CA River Plate (Res) vs Velez Sarsfield (Res) - None
+2024-12-17 23:06:48.041 INFO [__main__] 更新了 3 条记录
+2024-12-17 23:06:48.042 INFO [__main__] 开始请求sportId: 3
+2024-12-17 23:06:48.637 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 23:06:50.772 INFO [__main__] Flamengo RJ vs Toros de Chiriqui获取Statscore ID成功: 14425258 用时0:00:01.652028
+2024-12-17 23:06:50.773 INFO [__main__] Flamengo RJ vs Toros de Chiriqui - https://live.bbapcall.com/live/sd-2-3824738.m3u8?txSecret=b9897a2c43560353b9a61e46aaec7f68&txTime=67624CB1
+2024-12-17 23:06:52.793 INFO [__main__] Sao Jose dos Campos vs EC Pinheiros SP获取Statscore ID成功: 14409025 用时0:00:02.020108
+2024-12-17 23:06:52.794 INFO [__main__] Sao Jose dos Campos vs EC Pinheiros SP - https://live.bbapcall.com/live/sd-2-3802415.m3u8?txSecret=c57517c30b93465ca678b9098d4971f7&txTime=67624CB1
+2024-12-17 23:06:54.466 INFO [__main__] Mogi das Cruzes vs SC Corinthians Paulista获取Statscore ID成功: 14409026 用时0:00:01.671832
+2024-12-17 23:06:54.466 INFO [__main__] Mogi das Cruzes vs SC Corinthians Paulista - None
+2024-12-17 23:06:54.466 INFO [__main__] Nacional Natacao vs Lobos da Malveira的animation1为空
+2024-12-17 23:06:54.466 INFO [__main__] Nacional Natacao vs Lobos da Malveira - None
+2024-12-17 23:06:56.916 INFO [__main__] CP Esgueira vs UD Oliveirense获取Statscore ID成功: 14420194 用时0:00:02.449626
+2024-12-17 23:06:56.917 INFO [__main__] CP Esgueira vs UD Oliveirense - None
+2024-12-17 23:06:56.917 INFO [__main__] Sporting CP (w) vs CB Queluz (w)的animation1为空
+2024-12-17 23:06:56.917 INFO [__main__] Sporting CP (w) vs CB Queluz (w) - None
+2024-12-17 23:06:56.917 INFO [__main__] UNC Asheville Bulldogs (w) vs East Tennessee State Buccaneers (w)的animation1为空
+2024-12-17 23:06:56.917 INFO [__main__] UNC Asheville Bulldogs (w) vs East Tennessee State Buccaneers (w) - None
+2024-12-17 23:06:56.917 INFO [__main__] Louisiana Monroe Warhawks (w) vs Mississippi State Bulldogs (w)的animation1为空
+2024-12-17 23:06:56.918 INFO [__main__] Louisiana Monroe Warhawks (w) vs Mississippi State Bulldogs (w) - None
+2024-12-17 23:06:56.934 INFO [__main__] 更新了 7 条记录
+2024-12-17 23:06:56.944 INFO [__main__] 插入了 1 条记录
+2024-12-17 23:06:56.944 INFO [__main__] 开始请求sportId: 5
+2024-12-17 23:06:57.549 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 23:06:58.065 INFO [__main__] Thijmen Loof (NED) vs Mikal Statham (NZL)的animation1为空
+2024-12-17 23:06:58.065 INFO [__main__] Thijmen Loof (NED) vs Mikal Statham (NZL) - None
+2024-12-17 23:06:58.065 INFO [__main__] Merel Hoedt (NED) vs Yui Chikaraishi (JPN)的animation1为空
+2024-12-17 23:06:58.065 INFO [__main__] Merel Hoedt (NED) vs Yui Chikaraishi (JPN) - None
+2024-12-17 23:06:58.065 INFO [__main__] Monique Barry (NZL) vs Vivian Yang (NZL)的animation1为空
+2024-12-17 23:06:58.065 INFO [__main__] Monique Barry (NZL) vs Vivian Yang (NZL) - None
+2024-12-17 23:06:58.065 INFO [__main__] Oh Eunji (KOR) vs Maelys Bougrat (FRA)的animation1为空
+2024-12-17 23:06:58.065 INFO [__main__] Oh Eunji (KOR) vs Maelys Bougrat (FRA) - None
+2024-12-17 23:06:58.066 INFO [__main__] Wi Hwi Won (KOR) vs Zhang Ying (CHN)的animation1为空
+2024-12-17 23:06:58.066 INFO [__main__] Wi Hwi Won (KOR) vs Zhang Ying (CHN) - None
+2024-12-17 23:06:58.080 INFO [__main__] 更新了 4 条记录
+2024-12-17 23:06:58.090 INFO [__main__] 插入了 1 条记录
+2024-12-17 23:06:58.090 INFO [__main__] 开始请求sportId: 13
+2024-12-17 23:06:58.652 INFO [__main__] 开始请求sportId: 2
+2024-12-17 23:06:59.129 INFO [__main__] 开始请求sportId: 6
+2024-12-17 23:06:59.589 INFO [__main__] 开始请求sportId: 18
+2024-12-17 23:07:00.189 INFO [__main__] 开始请求sportId: 19
+2024-12-17 23:07:00.655 INFO [__main__] 开始请求sportId: 14
+2024-12-17 23:07:01.218 INFO [__main__] 开始请求sportId: 16
+2024-12-17 23:07:01.714 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 23:07:02.205 INFO [__main__] Matthew Selt vs Artemijs Zizins的animation1为空
+2024-12-17 23:07:02.205 INFO [__main__] Matthew Selt vs Artemijs Zizins - https://live.bbapcall.com/live/sd-19-4558102.m3u8?txSecret=253653c7bc471589e285b85394b1a9d1&txTime=67624CBE
+2024-12-17 23:07:02.218 INFO [__main__] 更新了 1 条记录
+2024-12-17 23:07:02.218 INFO [__main__] 开始请求sportId: 47
+2024-12-17 23:07:02.698 INFO [__main__] 开始请求sportId: 15
+2024-12-17 23:07:03.176 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 23:07:03.775 INFO [__main__] Bartosz Czerwinski vs Kacper Petas的animation1为空
+2024-12-17 23:07:03.775 INFO [__main__] Bartosz Czerwinski vs Kacper Petas - None
+2024-12-17 23:07:03.776 INFO [__main__] Waldemar Glanowski vs Michal Wolny的animation1为空
+2024-12-17 23:07:03.776 INFO [__main__] Waldemar Glanowski vs Michal Wolny - None
+2024-12-17 23:07:03.776 INFO [__main__] Mariusz Koczyba vs Piotr Strus的animation1为空
+2024-12-17 23:07:03.776 INFO [__main__] Mariusz Koczyba vs Piotr Strus - None
+2024-12-17 23:07:03.776 INFO [__main__] Ales Zacharda (CZE) vs Petr Libovicky (CZE)的animation1为空
+2024-12-17 23:07:03.776 INFO [__main__] Ales Zacharda (CZE) vs Petr Libovicky (CZE) - None
+2024-12-17 23:07:05.312 INFO [__main__] Vaclav Pulkrabek (CZE) vs Jaromir Cernik (CZE)获取Statscore ID成功: 14420152 用时0:00:01.536212
+2024-12-17 23:07:05.313 INFO [__main__] Vaclav Pulkrabek (CZE) vs Jaromir Cernik (CZE) - None
+2024-12-17 23:07:05.313 INFO [__main__] Kir Martin (CZE) vs Lubor Sulava (CZE)的animation1为空
+2024-12-17 23:07:05.313 INFO [__main__] Kir Martin (CZE) vs Lubor Sulava (CZE) - None
+2024-12-17 23:07:06.951 INFO [__main__] Daniel Tuma (CZE) vs Tomas Andrle (CZE)获取Statscore ID成功: 14420150 用时0:00:01.637682
+2024-12-17 23:07:06.952 INFO [__main__] Daniel Tuma (CZE) vs Tomas Andrle (CZE) - None
+2024-12-17 23:07:06.969 INFO [__main__] 更新了 7 条记录
+2024-12-17 23:07:06.969 INFO [__main__] 开始请求sportId: 7
+2024-12-17 23:07:07.434 INFO [__main__] 开始请求sportId: 24
+2024-12-17 23:07:07.905 INFO [__main__] 开始请求sportId: 92
+2024-12-17 23:07:08.386 INFO [__main__] 等待5分钟
+2024-12-17 23:12:08.391 INFO [__main__] 开始请求
+2024-12-17 23:12:08.393 INFO [__main__] 开始请求sportId: 1
+2024-12-17 23:12:08.927 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 23:12:11.696 INFO [__main__] Independiente Petrolero vs Always Ready获取Statscore ID成功: 14421190 用时0:00:02.160033
+2024-12-17 23:12:11.697 INFO [__main__] Independiente Petrolero vs Always Ready - https://live.bbapcall.com/live/sd-1-4252042.m3u8?txSecret=6dd4a5d34836d0b21142c8c8e4f41c87&txTime=67624DF1
+2024-12-17 23:12:13.437 INFO [__main__] Club Aurora vs CA Nacional Potosi获取Statscore ID成功: 14421181 用时0:00:01.740121
+2024-12-17 23:12:13.438 INFO [__main__] Club Aurora vs CA Nacional Potosi - https://live.bbapcall.com/live/sd-1-4252041.m3u8?txSecret=6302213e7ac12442587753f5a07567f4&txTime=67624DF1
+2024-12-17 23:12:13.438 INFO [__main__] CA River Plate (Res) vs Velez Sarsfield (Res)的animation1为空
+2024-12-17 23:12:13.438 INFO [__main__] CA River Plate (Res) vs Velez Sarsfield (Res) - None
+2024-12-17 23:12:13.454 INFO [__main__] 更新了 3 条记录
+2024-12-17 23:12:13.454 INFO [__main__] 开始请求sportId: 3
+2024-12-17 23:12:13.976 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 23:12:15.997 INFO [__main__] Flamengo RJ vs Toros de Chiriqui获取Statscore ID成功: 14425258 用时0:00:01.527989
+2024-12-17 23:12:15.997 INFO [__main__] Flamengo RJ vs Toros de Chiriqui - https://live.bbapcall.com/live/sd-2-3824738.m3u8?txSecret=b47db841cae43f07e6300ad64916c795&txTime=67624DF6
+2024-12-17 23:12:17.635 INFO [__main__] Sao Jose dos Campos vs EC Pinheiros SP获取Statscore ID成功: 14409025 用时0:00:01.637960
+2024-12-17 23:12:17.636 INFO [__main__] Sao Jose dos Campos vs EC Pinheiros SP - https://live.bbapcall.com/live/sd-2-3802415.m3u8?txSecret=60c16f4ed7d5bbd145b9b9ef4eba05d4&txTime=67624DF6
+2024-12-17 23:12:19.274 INFO [__main__] Mogi das Cruzes vs SC Corinthians Paulista获取Statscore ID成功: 14409026 用时0:00:01.637644
+2024-12-17 23:12:19.274 INFO [__main__] Mogi das Cruzes vs SC Corinthians Paulista - None
+2024-12-17 23:12:19.274 INFO [__main__] Nacional Natacao vs Lobos da Malveira的animation1为空
+2024-12-17 23:12:19.274 INFO [__main__] Nacional Natacao vs Lobos da Malveira - None
+2024-12-17 23:12:20.910 INFO [__main__] CP Esgueira vs UD Oliveirense获取Statscore ID成功: 14420194 用时0:00:01.635722
+2024-12-17 23:12:20.910 INFO [__main__] CP Esgueira vs UD Oliveirense - None
+2024-12-17 23:12:20.910 INFO [__main__] Sporting CP (w) vs CB Queluz (w)的animation1为空
+2024-12-17 23:12:20.911 INFO [__main__] Sporting CP (w) vs CB Queluz (w) - None
+2024-12-17 23:12:20.911 INFO [__main__] UNC Asheville Bulldogs (w) vs East Tennessee State Buccaneers (w)的animation1为空
+2024-12-17 23:12:20.911 INFO [__main__] UNC Asheville Bulldogs (w) vs East Tennessee State Buccaneers (w) - None
+2024-12-17 23:12:20.911 INFO [__main__] Louisiana Monroe Warhawks (w) vs Mississippi State Bulldogs (w)的animation1为空
+2024-12-17 23:12:20.911 INFO [__main__] Louisiana Monroe Warhawks (w) vs Mississippi State Bulldogs (w) - None
+2024-12-17 23:12:20.911 INFO [__main__] Seton Hall Pirates (w) vs LSU Tigers (w)的animation1为空
+2024-12-17 23:12:20.911 INFO [__main__] Seton Hall Pirates (w) vs LSU Tigers (w) - None
+2024-12-17 23:12:20.927 INFO [__main__] 更新了 8 条记录
+2024-12-17 23:12:20.936 INFO [__main__] 插入了 1 条记录
+2024-12-17 23:12:20.937 INFO [__main__] 开始请求sportId: 5
+2024-12-17 23:12:21.537 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 23:12:22.045 INFO [__main__] Thijmen Loof (NED) vs Mikal Statham (NZL)的animation1为空
+2024-12-17 23:12:22.046 INFO [__main__] Thijmen Loof (NED) vs Mikal Statham (NZL) - None
+2024-12-17 23:12:22.046 INFO [__main__] Merel Hoedt (NED) vs Yui Chikaraishi (JPN)的animation1为空
+2024-12-17 23:12:22.046 INFO [__main__] Merel Hoedt (NED) vs Yui Chikaraishi (JPN) - None
+2024-12-17 23:12:22.046 INFO [__main__] Monique Barry (NZL) vs Vivian Yang (NZL)的animation1为空
+2024-12-17 23:12:22.046 INFO [__main__] Monique Barry (NZL) vs Vivian Yang (NZL) - None
+2024-12-17 23:12:22.046 INFO [__main__] Oh Eunji (KOR) vs Maelys Bougrat (FRA)的animation1为空
+2024-12-17 23:12:22.046 INFO [__main__] Oh Eunji (KOR) vs Maelys Bougrat (FRA) - None
+2024-12-17 23:12:22.046 INFO [__main__] Wi Hwi Won (KOR) vs Zhang Ying (CHN)的animation1为空
+2024-12-17 23:12:22.046 INFO [__main__] Wi Hwi Won (KOR) vs Zhang Ying (CHN) - None
+2024-12-17 23:12:22.061 INFO [__main__] 更新了 5 条记录
+2024-12-17 23:12:22.061 INFO [__main__] 开始请求sportId: 13
+2024-12-17 23:12:22.555 INFO [__main__] 开始请求sportId: 2
+2024-12-17 23:12:23.158 INFO [__main__] 开始请求sportId: 6
+2024-12-17 23:12:23.641 INFO [__main__] 开始请求sportId: 18
+2024-12-17 23:12:24.138 INFO [__main__] 开始请求sportId: 19
+2024-12-17 23:12:24.694 INFO [__main__] 开始请求sportId: 14
+2024-12-17 23:12:25.210 INFO [__main__] 开始请求sportId: 16
+2024-12-17 23:12:25.928 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 23:12:26.397 INFO [__main__] Matthew Selt vs Artemijs Zizins的animation1为空
+2024-12-17 23:12:26.397 INFO [__main__] Matthew Selt vs Artemijs Zizins - https://live.bbapcall.com/live/sd-19-4558102.m3u8?txSecret=44d99f8dc50ca5c49f9e7d7e9053b685&txTime=67624E02
+2024-12-17 23:12:26.437 INFO [__main__] 更新了 1 条记录
+2024-12-17 23:12:26.437 INFO [__main__] 开始请求sportId: 47
+2024-12-17 23:12:26.928 INFO [__main__] 开始请求sportId: 15
+2024-12-17 23:12:27.567 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 23:12:28.048 INFO [__main__] Waldemar Glanowski vs Michal Wolny的animation1为空
+2024-12-17 23:12:28.048 INFO [__main__] Waldemar Glanowski vs Michal Wolny - None
+2024-12-17 23:12:28.048 INFO [__main__] Filip Kujawa vs Jakub Zochniak的animation1为空
+2024-12-17 23:12:28.048 INFO [__main__] Filip Kujawa vs Jakub Zochniak - None
+2024-12-17 23:12:28.048 INFO [__main__] Krzysztof Zapala (POL) vs Michal Bracha (POL)的animation1为空
+2024-12-17 23:12:28.049 INFO [__main__] Krzysztof Zapala (POL) vs Michal Bracha (POL) - None
+2024-12-17 23:12:28.049 INFO [__main__] Adam Kosacky (CZE) vs Michal Brozek (CZE)的animation1为空
+2024-12-17 23:12:28.049 INFO [__main__] Adam Kosacky (CZE) vs Michal Brozek (CZE) - None
+2024-12-17 23:12:28.049 INFO [__main__] Tomas Vorisek (CZE) vs David Jicha (CZE)的animation1为空
+2024-12-17 23:12:28.049 INFO [__main__] Tomas Vorisek (CZE) vs David Jicha (CZE) - None
+2024-12-17 23:12:29.615 INFO [__main__] Vaclav Pulkrabek (CZE) vs Jaromir Cernik (CZE)获取Statscore ID成功: 14420152 用时0:00:01.566571
+2024-12-17 23:12:29.616 INFO [__main__] Vaclav Pulkrabek (CZE) vs Jaromir Cernik (CZE) - None
+2024-12-17 23:12:29.616 INFO [__main__] Kir Martin (CZE) vs Lubor Sulava (CZE)的animation1为空
+2024-12-17 23:12:29.616 INFO [__main__] Kir Martin (CZE) vs Lubor Sulava (CZE) - None
+2024-12-17 23:12:31.253 INFO [__main__] Daniel Tuma (CZE) vs Tomas Andrle (CZE)获取Statscore ID成功: 14420150 用时0:00:01.636808
+2024-12-17 23:12:31.254 INFO [__main__] Daniel Tuma (CZE) vs Tomas Andrle (CZE) - None
+2024-12-17 23:12:31.269 INFO [__main__] 更新了 4 条记录
+2024-12-17 23:12:31.277 INFO [__main__] 插入了 4 条记录
+2024-12-17 23:12:31.277 INFO [__main__] 开始请求sportId: 7
+2024-12-17 23:12:31.760 INFO [__main__] 开始请求sportId: 24
+2024-12-17 23:12:32.252 INFO [__main__] 开始请求sportId: 92
+2024-12-17 23:12:32.753 INFO [__main__] 等待5分钟
+2024-12-17 23:17:32.753 INFO [__main__] 开始请求
+2024-12-17 23:17:32.755 INFO [__main__] 开始请求sportId: 1
+2024-12-17 23:17:33.297 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 23:17:35.366 INFO [__main__] Independiente Petrolero vs Always Ready获取Statscore ID成功: 14421190 用时0:00:01.525477
+2024-12-17 23:17:35.367 INFO [__main__] Independiente Petrolero vs Always Ready - https://live.bbapcall.com/live/sd-1-4252042.m3u8?txSecret=fbdaddbd7d85fb069868785fefd74843&txTime=67624F35
+2024-12-17 23:17:37.030 INFO [__main__] Club Aurora vs CA Nacional Potosi获取Statscore ID成功: 14421181 用时0:00:01.663325
+2024-12-17 23:17:37.031 INFO [__main__] Club Aurora vs CA Nacional Potosi - https://live.bbapcall.com/live/sd-1-4252041.m3u8?txSecret=db08c8463ef781630a54ba9ee7561696&txTime=67624F35
+2024-12-17 23:17:37.031 INFO [__main__] CA River Plate (Res) vs Velez Sarsfield (Res)的animation1为空
+2024-12-17 23:17:37.031 INFO [__main__] CA River Plate (Res) vs Velez Sarsfield (Res) - None
+2024-12-17 23:17:37.047 INFO [__main__] 更新了 3 条记录
+2024-12-17 23:17:37.047 INFO [__main__] 开始请求sportId: 3
+2024-12-17 23:17:37.550 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 23:17:39.668 INFO [__main__] Flamengo RJ vs Toros de Chiriqui获取Statscore ID成功: 14425258 用时0:00:01.641081
+2024-12-17 23:17:39.669 INFO [__main__] Flamengo RJ vs Toros de Chiriqui - https://live.bbapcall.com/live/sd-2-3824738.m3u8?txSecret=93d4aef7711bec4bfbb082b02639617f&txTime=67624F39
+2024-12-17 23:17:41.374 INFO [__main__] Sao Jose dos Campos vs EC Pinheiros SP获取Statscore ID成功: 14409025 用时0:00:01.704969
+2024-12-17 23:17:41.374 INFO [__main__] Sao Jose dos Campos vs EC Pinheiros SP - https://live.bbapcall.com/live/sd-2-3802415.m3u8?txSecret=edefee71ecb76f6838bd2f3502055b61&txTime=67624F39
+2024-12-17 23:17:42.959 INFO [__main__] Mogi das Cruzes vs SC Corinthians Paulista获取Statscore ID成功: 14409026 用时0:00:01.584176
+2024-12-17 23:17:42.959 INFO [__main__] Mogi das Cruzes vs SC Corinthians Paulista - None
+2024-12-17 23:17:42.959 INFO [__main__] Nacional Natacao vs Lobos da Malveira的animation1为空
+2024-12-17 23:17:42.959 INFO [__main__] Nacional Natacao vs Lobos da Malveira - None
+2024-12-17 23:17:44.679 INFO [__main__] CP Esgueira vs UD Oliveirense获取Statscore ID成功: 14420194 用时0:00:01.719389
+2024-12-17 23:17:44.679 INFO [__main__] CP Esgueira vs UD Oliveirense - None
+2024-12-17 23:17:44.679 INFO [__main__] Sporting CP (w) vs CB Queluz (w)的animation1为空
+2024-12-17 23:17:44.680 INFO [__main__] Sporting CP (w) vs CB Queluz (w) - None
+2024-12-17 23:17:44.680 INFO [__main__] UNC Asheville Bulldogs (w) vs East Tennessee State Buccaneers (w)的animation1为空
+2024-12-17 23:17:44.680 INFO [__main__] UNC Asheville Bulldogs (w) vs East Tennessee State Buccaneers (w) - None
+2024-12-17 23:17:44.680 INFO [__main__] Louisiana Monroe Warhawks (w) vs Mississippi State Bulldogs (w)的animation1为空
+2024-12-17 23:17:44.680 INFO [__main__] Louisiana Monroe Warhawks (w) vs Mississippi State Bulldogs (w) - None
+2024-12-17 23:17:44.680 INFO [__main__] Seton Hall Pirates (w) vs LSU Tigers (w)的animation1为空
+2024-12-17 23:17:44.680 INFO [__main__] Seton Hall Pirates (w) vs LSU Tigers (w) - None
+2024-12-17 23:17:44.698 INFO [__main__] 更新了 9 条记录
+2024-12-17 23:17:44.699 INFO [__main__] 开始请求sportId: 5
+2024-12-17 23:17:45.280 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 23:17:45.775 INFO [__main__] Thijmen Loof (NED) vs Mikal Statham (NZL)的animation1为空
+2024-12-17 23:17:45.776 INFO [__main__] Thijmen Loof (NED) vs Mikal Statham (NZL) - None
+2024-12-17 23:17:45.776 INFO [__main__] Merel Hoedt (NED) vs Yui Chikaraishi (JPN)的animation1为空
+2024-12-17 23:17:45.776 INFO [__main__] Merel Hoedt (NED) vs Yui Chikaraishi (JPN) - None
+2024-12-17 23:17:45.776 INFO [__main__] Monique Barry (NZL) vs Vivian Yang (NZL)的animation1为空
+2024-12-17 23:17:45.776 INFO [__main__] Monique Barry (NZL) vs Vivian Yang (NZL) - None
+2024-12-17 23:17:45.776 INFO [__main__] Oh Eunji (KOR) vs Maelys Bougrat (FRA)的animation1为空
+2024-12-17 23:17:45.776 INFO [__main__] Oh Eunji (KOR) vs Maelys Bougrat (FRA) - None
+2024-12-17 23:17:45.777 INFO [__main__] Wi Hwi Won (KOR) vs Zhang Ying (CHN)的animation1为空
+2024-12-17 23:17:45.777 INFO [__main__] Wi Hwi Won (KOR) vs Zhang Ying (CHN) - None
+2024-12-17 23:17:45.791 INFO [__main__] 更新了 5 条记录
+2024-12-17 23:17:45.791 INFO [__main__] 开始请求sportId: 13
+2024-12-17 23:17:46.262 INFO [__main__] 开始请求sportId: 2
+2024-12-17 23:17:46.764 INFO [__main__] 开始请求sportId: 6
+2024-12-17 23:17:47.240 INFO [__main__] 开始请求sportId: 18
+2024-12-17 23:17:47.751 INFO [__main__] 开始请求sportId: 19
+2024-12-17 23:17:48.235 INFO [__main__] 开始请求sportId: 14
+2024-12-17 23:17:48.733 INFO [__main__] 开始请求sportId: 16
+2024-12-17 23:17:49.225 INFO [__main__] 开始请求sportId: 47
+2024-12-17 23:17:49.838 INFO [__main__] 开始请求sportId: 15
+2024-12-17 23:17:50.441 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 23:17:50.925 INFO [__main__] Filip Kujawa vs Jakub Zochniak的animation1为空
+2024-12-17 23:17:50.925 INFO [__main__] Filip Kujawa vs Jakub Zochniak - None
+2024-12-17 23:17:50.925 INFO [__main__] Krzysztof Zapala (POL) vs Michal Bracha (POL)的animation1为空
+2024-12-17 23:17:50.925 INFO [__main__] Krzysztof Zapala (POL) vs Michal Bracha (POL) - None
+2024-12-17 23:17:50.925 INFO [__main__] Adam Kosacky (CZE) vs Michal Brozek (CZE)的animation1为空
+2024-12-17 23:17:50.925 INFO [__main__] Adam Kosacky (CZE) vs Michal Brozek (CZE) - None
+2024-12-17 23:17:50.925 INFO [__main__] Tomas Vorisek (CZE) vs David Jicha (CZE)的animation1为空
+2024-12-17 23:17:50.925 INFO [__main__] Tomas Vorisek (CZE) vs David Jicha (CZE) - None
+2024-12-17 23:17:52.527 INFO [__main__] Vaclav Pulkrabek (CZE) vs Jaromir Cernik (CZE)获取Statscore ID成功: 14420152 用时0:00:01.600992
+2024-12-17 23:17:52.527 INFO [__main__] Vaclav Pulkrabek (CZE) vs Jaromir Cernik (CZE) - None
+2024-12-17 23:17:54.120 INFO [__main__] Daniel Tuma (CZE) vs Tomas Andrle (CZE)获取Statscore ID成功: 14420150 用时0:00:01.593069
+2024-12-17 23:17:54.121 INFO [__main__] Daniel Tuma (CZE) vs Tomas Andrle (CZE) - None
+2024-12-17 23:17:54.136 INFO [__main__] 更新了 6 条记录
+2024-12-17 23:17:54.136 INFO [__main__] 开始请求sportId: 7
+2024-12-17 23:17:54.634 INFO [__main__] 开始请求sportId: 24
+2024-12-17 23:17:55.234 INFO [__main__] 开始请求sportId: 92
+2024-12-17 23:17:55.707 INFO [__main__] 等待5分钟
+2024-12-17 23:22:55.711 INFO [__main__] 开始请求
+2024-12-17 23:22:55.712 INFO [__main__] 开始请求sportId: 1
+2024-12-17 23:22:56.225 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 23:22:58.353 INFO [__main__] Independiente Petrolero vs Always Ready获取Statscore ID成功: 14421190 用时0:00:01.595308
+2024-12-17 23:22:58.353 INFO [__main__] Independiente Petrolero vs Always Ready - https://live.bbapcall.com/live/sd-1-4252042.m3u8?txSecret=9a3b97e01c265074764b31e2b9fe79ae&txTime=67625078
+2024-12-17 23:22:59.887 INFO [__main__] Club Aurora vs CA Nacional Potosi获取Statscore ID成功: 14421181 用时0:00:01.533482
+2024-12-17 23:22:59.887 INFO [__main__] Club Aurora vs CA Nacional Potosi - https://live.bbapcall.com/live/sd-1-4252041.m3u8?txSecret=a7adb1b15c6e653f0624d58434c700d4&txTime=67625078
+2024-12-17 23:22:59.887 INFO [__main__] CA River Plate (Res) vs Velez Sarsfield (Res)的animation1为空
+2024-12-17 23:22:59.887 INFO [__main__] CA River Plate (Res) vs Velez Sarsfield (Res) - None
+2024-12-17 23:22:59.902 INFO [__main__] 更新了 3 条记录
+2024-12-17 23:22:59.902 INFO [__main__] 开始请求sportId: 3
+2024-12-17 23:23:00.497 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 23:23:02.756 INFO [__main__] Flamengo RJ vs Toros de Chiriqui获取Statscore ID成功: 14425258 用时0:00:01.623978
+2024-12-17 23:23:02.757 INFO [__main__] Flamengo RJ vs Toros de Chiriqui - https://live.bbapcall.com/live/sd-2-3824738.m3u8?txSecret=856ca7ae5e7e12313d71218487b15911&txTime=6762507D
+2024-12-17 23:23:04.855 INFO [__main__] Sao Jose dos Campos vs EC Pinheiros SP获取Statscore ID成功: 14409025 用时0:00:02.097655
+2024-12-17 23:23:04.855 INFO [__main__] Sao Jose dos Campos vs EC Pinheiros SP - https://live.bbapcall.com/live/sd-2-3802415.m3u8?txSecret=bd1f07cf36a6e09f9bb505632e91516a&txTime=6762507D
+2024-12-17 23:23:06.803 INFO [__main__] Mogi das Cruzes vs SC Corinthians Paulista获取Statscore ID成功: 14409026 用时0:00:01.947587
+2024-12-17 23:23:06.803 INFO [__main__] Mogi das Cruzes vs SC Corinthians Paulista - None
+2024-12-17 23:23:08.388 INFO [__main__] Aguada vs Trouville获取Statscore ID成功: 14409029 用时0:00:01.585001
+2024-12-17 23:23:08.389 INFO [__main__] Aguada vs Trouville - None
+2024-12-17 23:23:08.389 INFO [__main__] Nacional Natacao vs Lobos da Malveira的animation1为空
+2024-12-17 23:23:08.389 INFO [__main__] Nacional Natacao vs Lobos da Malveira - None
+2024-12-17 23:23:09.924 INFO [__main__] CP Esgueira vs UD Oliveirense获取Statscore ID成功: 14420194 用时0:00:01.535023
+2024-12-17 23:23:09.925 INFO [__main__] CP Esgueira vs UD Oliveirense - None
+2024-12-17 23:23:09.925 INFO [__main__] Sporting CP (w) vs CB Queluz (w)的animation1为空
+2024-12-17 23:23:09.925 INFO [__main__] Sporting CP (w) vs CB Queluz (w) - None
+2024-12-17 23:23:09.925 INFO [__main__] Louisiana Monroe Warhawks (w) vs Mississippi State Bulldogs (w)的animation1为空
+2024-12-17 23:23:09.925 INFO [__main__] Louisiana Monroe Warhawks (w) vs Mississippi State Bulldogs (w) - None
+2024-12-17 23:23:09.925 INFO [__main__] Seton Hall Pirates (w) vs LSU Tigers (w)的animation1为空
+2024-12-17 23:23:09.925 INFO [__main__] Seton Hall Pirates (w) vs LSU Tigers (w) - None
+2024-12-17 23:23:09.947 INFO [__main__] 更新了 8 条记录
+2024-12-17 23:23:09.957 INFO [__main__] 插入了 1 条记录
+2024-12-17 23:23:09.957 INFO [__main__] 开始请求sportId: 5
+2024-12-17 23:23:10.549 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 23:23:11.035 INFO [__main__] Thijmen Loof (NED) vs Mikal Statham (NZL)的animation1为空
+2024-12-17 23:23:11.035 INFO [__main__] Thijmen Loof (NED) vs Mikal Statham (NZL) - None
+2024-12-17 23:23:11.035 INFO [__main__] Ajeet Rai (NZL) vs Reece Falck (NZL)的animation1为空
+2024-12-17 23:23:11.035 INFO [__main__] Ajeet Rai (NZL) vs Reece Falck (NZL) - None
+2024-12-17 23:23:11.035 INFO [__main__] Kohei Hayashi (JPN) vs Isaac Becroft (NZL)的animation1为空
+2024-12-17 23:23:11.035 INFO [__main__] Kohei Hayashi (JPN) vs Isaac Becroft (NZL) - None
+2024-12-17 23:23:11.036 INFO [__main__] Merel Hoedt (NED) vs Yui Chikaraishi (JPN)的animation1为空
+2024-12-17 23:23:11.036 INFO [__main__] Merel Hoedt (NED) vs Yui Chikaraishi (JPN) - None
+2024-12-17 23:23:11.036 INFO [__main__] Monique Barry (NZL) vs Vivian Yang (NZL)的animation1为空
+2024-12-17 23:23:11.036 INFO [__main__] Monique Barry (NZL) vs Vivian Yang (NZL) - None
+2024-12-17 23:23:11.036 INFO [__main__] Oh Eunji (KOR) vs Maelys Bougrat (FRA)的animation1为空
+2024-12-17 23:23:11.036 INFO [__main__] Oh Eunji (KOR) vs Maelys Bougrat (FRA) - None
+2024-12-17 23:23:11.036 INFO [__main__] Wi Hwi Won (KOR) vs Zhang Ying (CHN)的animation1为空
+2024-12-17 23:23:11.036 INFO [__main__] Wi Hwi Won (KOR) vs Zhang Ying (CHN) - None
+2024-12-17 23:23:11.050 INFO [__main__] 更新了 5 条记录
+2024-12-17 23:23:11.059 INFO [__main__] 插入了 2 条记录
+2024-12-17 23:23:11.059 INFO [__main__] 开始请求sportId: 13
+2024-12-17 23:23:11.681 INFO [__main__] 开始请求sportId: 2
+2024-12-17 23:23:12.158 INFO [__main__] 开始请求sportId: 6
+2024-12-17 23:23:12.787 INFO [__main__] 开始请求sportId: 18
+2024-12-17 23:23:14.323 INFO [__main__] 开始请求sportId: 19
+2024-12-17 23:23:14.812 INFO [__main__] 开始请求sportId: 14
+2024-12-17 23:23:15.453 INFO [__main__] 开始请求sportId: 16
+2024-12-17 23:23:15.943 INFO [__main__] 开始请求sportId: 47
+2024-12-17 23:23:16.412 INFO [__main__] 开始请求sportId: 15
+2024-12-17 23:23:16.899 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 23:23:17.398 INFO [__main__] Marcin Kowalczyk vs Mateusz Burkacki的animation1为空
+2024-12-17 23:23:17.399 INFO [__main__] Marcin Kowalczyk vs Mateusz Burkacki - None
+2024-12-17 23:23:17.399 INFO [__main__] Krzysztof Kapik vs Krzysztof Wloczko的animation1为空
+2024-12-17 23:23:17.399 INFO [__main__] Krzysztof Kapik vs Krzysztof Wloczko - None
+2024-12-17 23:23:17.399 INFO [__main__] Krzysztof Zapala (POL) vs Michal Bracha (POL)的animation1为空
+2024-12-17 23:23:17.399 INFO [__main__] Krzysztof Zapala (POL) vs Michal Bracha (POL) - None
+2024-12-17 23:23:17.399 INFO [__main__] Adam Kosacky (CZE) vs Michal Brozek (CZE)的animation1为空
+2024-12-17 23:23:17.399 INFO [__main__] Adam Kosacky (CZE) vs Michal Brozek (CZE) - None
+2024-12-17 23:23:17.399 INFO [__main__] Tomas Vorisek (CZE) vs David Jicha (CZE)的animation1为空
+2024-12-17 23:23:17.400 INFO [__main__] Tomas Vorisek (CZE) vs David Jicha (CZE) - None
+2024-12-17 23:23:19.052 INFO [__main__] Vaclav Pulkrabek (CZE) vs Jaromir Cernik (CZE)获取Statscore ID成功: 14420152 用时0:00:01.652058
+2024-12-17 23:23:19.052 INFO [__main__] Vaclav Pulkrabek (CZE) vs Jaromir Cernik (CZE) - None
+2024-12-17 23:23:19.067 INFO [__main__] 更新了 4 条记录
+2024-12-17 23:23:19.078 INFO [__main__] 插入了 2 条记录
+2024-12-17 23:23:19.078 INFO [__main__] 开始请求sportId: 7
+2024-12-17 23:23:19.557 INFO [__main__] 开始请求sportId: 24
+2024-12-17 23:23:20.148 INFO [__main__] 开始请求sportId: 92
+2024-12-17 23:23:20.779 INFO [__main__] 等待5分钟
+2024-12-17 23:28:20.785 INFO [__main__] 开始请求
+2024-12-17 23:28:20.787 INFO [__main__] 开始请求sportId: 1
+2024-12-17 23:28:21.716 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 23:28:24.089 INFO [__main__] Independiente Petrolero vs Always Ready获取Statscore ID成功: 14421190 用时0:00:01.871111
+2024-12-17 23:28:24.089 INFO [__main__] Independiente Petrolero vs Always Ready - https://live.bbapcall.com/live/sd-1-4252042.m3u8?txSecret=65ca15c5d07fb7cf2d7343a35fa77fc5&txTime=676251BE
+2024-12-17 23:28:25.626 INFO [__main__] Club Aurora vs CA Nacional Potosi获取Statscore ID成功: 14421181 用时0:00:01.536353
+2024-12-17 23:28:25.626 INFO [__main__] Club Aurora vs CA Nacional Potosi - https://live.bbapcall.com/live/sd-1-4252041.m3u8?txSecret=696e7e2cac71fb4832d785b3905bb215&txTime=676251BE
+2024-12-17 23:28:25.627 INFO [__main__] CA River Plate (Res) vs Velez Sarsfield (Res)的animation1为空
+2024-12-17 23:28:25.627 INFO [__main__] CA River Plate (Res) vs Velez Sarsfield (Res) - None
+2024-12-17 23:28:25.641 INFO [__main__] 更新了 3 条记录
+2024-12-17 23:28:25.642 INFO [__main__] 开始请求sportId: 3
+2024-12-17 23:28:26.254 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 23:28:28.697 INFO [__main__] Flamengo RJ vs Toros de Chiriqui获取Statscore ID成功: 14425258 用时0:00:01.798633
+2024-12-17 23:28:28.698 INFO [__main__] Flamengo RJ vs Toros de Chiriqui - https://live.bbapcall.com/live/sd-2-3824738.m3u8?txSecret=bee2ed24f8f4a10c6c774da09d6bd4de&txTime=676251C2
+2024-12-17 23:28:30.336 INFO [__main__] Sao Jose dos Campos vs EC Pinheiros SP获取Statscore ID成功: 14409025 用时0:00:01.637729
+2024-12-17 23:28:30.336 INFO [__main__] Sao Jose dos Campos vs EC Pinheiros SP - https://live.bbapcall.com/live/sd-2-3802415.m3u8?txSecret=bd138e722a5cb085d73d59eeed88a050&txTime=676251C2
+2024-12-17 23:28:32.281 INFO [__main__] Mogi das Cruzes vs SC Corinthians Paulista获取Statscore ID成功: 14409026 用时0:00:01.944778
+2024-12-17 23:28:32.282 INFO [__main__] Mogi das Cruzes vs SC Corinthians Paulista - None
+2024-12-17 23:28:33.920 INFO [__main__] Aguada vs Trouville获取Statscore ID成功: 14409029 用时0:00:01.637590
+2024-12-17 23:28:33.921 INFO [__main__] Aguada vs Trouville - None
+2024-12-17 23:28:33.921 INFO [__main__] Nacional Natacao vs Lobos da Malveira的animation1为空
+2024-12-17 23:28:33.921 INFO [__main__] Nacional Natacao vs Lobos da Malveira - None
+2024-12-17 23:28:33.921 INFO [__main__] Sporting CP (w) vs CB Queluz (w)的animation1为空
+2024-12-17 23:28:33.921 INFO [__main__] Sporting CP (w) vs CB Queluz (w) - None
+2024-12-17 23:28:33.921 INFO [__main__] Louisiana Monroe Warhawks (w) vs Mississippi State Bulldogs (w)的animation1为空
+2024-12-17 23:28:33.921 INFO [__main__] Louisiana Monroe Warhawks (w) vs Mississippi State Bulldogs (w) - None
+2024-12-17 23:28:33.921 INFO [__main__] Seton Hall Pirates (w) vs LSU Tigers (w)的animation1为空
+2024-12-17 23:28:33.921 INFO [__main__] Seton Hall Pirates (w) vs LSU Tigers (w) - None
+2024-12-17 23:28:33.940 INFO [__main__] 更新了 8 条记录
+2024-12-17 23:28:33.940 INFO [__main__] 开始请求sportId: 5
+2024-12-17 23:28:34.461 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 23:28:34.965 INFO [__main__] Thijmen Loof (NED) vs Mikal Statham (NZL)的animation1为空
+2024-12-17 23:28:34.966 INFO [__main__] Thijmen Loof (NED) vs Mikal Statham (NZL) - None
+2024-12-17 23:28:34.966 INFO [__main__] Ajeet Rai (NZL) vs Reece Falck (NZL)的animation1为空
+2024-12-17 23:28:34.966 INFO [__main__] Ajeet Rai (NZL) vs Reece Falck (NZL) - None
+2024-12-17 23:28:34.966 INFO [__main__] Kohei Hayashi (JPN) vs Isaac Becroft (NZL)的animation1为空
+2024-12-17 23:28:34.966 INFO [__main__] Kohei Hayashi (JPN) vs Isaac Becroft (NZL) - None
+2024-12-17 23:28:34.966 INFO [__main__] Merel Hoedt (NED) vs Yui Chikaraishi (JPN)的animation1为空
+2024-12-17 23:28:34.966 INFO [__main__] Merel Hoedt (NED) vs Yui Chikaraishi (JPN) - None
+2024-12-17 23:28:34.966 INFO [__main__] Monique Barry (NZL) vs Vivian Yang (NZL)的animation1为空
+2024-12-17 23:28:34.966 INFO [__main__] Monique Barry (NZL) vs Vivian Yang (NZL) - None
+2024-12-17 23:28:34.967 INFO [__main__] Oh Eunji (KOR) vs Maelys Bougrat (FRA)的animation1为空
+2024-12-17 23:28:34.967 INFO [__main__] Oh Eunji (KOR) vs Maelys Bougrat (FRA) - None
+2024-12-17 23:28:34.967 INFO [__main__] Wi Hwi Won (KOR) vs Zhang Ying (CHN)的animation1为空
+2024-12-17 23:28:34.967 INFO [__main__] Wi Hwi Won (KOR) vs Zhang Ying (CHN) - None
+2024-12-17 23:28:34.984 INFO [__main__] 更新了 7 条记录
+2024-12-17 23:28:34.984 INFO [__main__] 开始请求sportId: 13
+2024-12-17 23:28:35.459 INFO [__main__] 开始请求sportId: 2
+2024-12-17 23:28:35.932 INFO [__main__] 开始请求sportId: 6
+2024-12-17 23:28:36.419 INFO [__main__] 开始请求sportId: 18
+2024-12-17 23:28:36.911 INFO [__main__] 开始请求sportId: 19
+2024-12-17 23:28:37.397 INFO [__main__] 开始请求sportId: 14
+2024-12-17 23:28:37.865 INFO [__main__] 开始请求sportId: 16
+2024-12-17 23:28:38.353 INFO [__main__] 开始请求sportId: 47
+2024-12-17 23:28:38.834 INFO [__main__] 开始请求sportId: 15
+2024-12-17 23:28:39.317 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 23:28:39.793 INFO [__main__] Marcin Kowalczyk vs Mateusz Burkacki的animation1为空
+2024-12-17 23:28:39.793 INFO [__main__] Marcin Kowalczyk vs Mateusz Burkacki - None
+2024-12-17 23:28:39.793 INFO [__main__] Krzysztof Kapik vs Krzysztof Wloczko的animation1为空
+2024-12-17 23:28:39.793 INFO [__main__] Krzysztof Kapik vs Krzysztof Wloczko - None
+2024-12-17 23:28:39.793 INFO [__main__] Tomas Vorisek (CZE) vs David Jicha (CZE)的animation1为空
+2024-12-17 23:28:39.793 INFO [__main__] Tomas Vorisek (CZE) vs David Jicha (CZE) - None
+2024-12-17 23:28:39.808 INFO [__main__] 更新了 3 条记录
+2024-12-17 23:28:39.809 INFO [__main__] 开始请求sportId: 7
+2024-12-17 23:28:40.294 INFO [__main__] 开始请求sportId: 24
+2024-12-17 23:28:40.772 INFO [__main__] 开始请求sportId: 92
+2024-12-17 23:28:41.525 INFO [__main__] 等待5分钟
+2024-12-17 23:33:41.527 INFO [__main__] 开始请求
+2024-12-17 23:33:41.528 INFO [__main__] 开始请求sportId: 1
+2024-12-17 23:33:42.105 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 23:33:44.397 INFO [__main__] Independiente Petrolero vs Always Ready获取Statscore ID成功: 14421190 用时0:00:01.702070
+2024-12-17 23:33:44.398 INFO [__main__] Independiente Petrolero vs Always Ready - https://live.bbapcall.com/live/sd-1-4252042.m3u8?txSecret=9a4cc2891fc338a57e3564308367346b&txTime=676252FE
+2024-12-17 23:33:45.935 INFO [__main__] Club Aurora vs CA Nacional Potosi获取Statscore ID成功: 14421181 用时0:00:01.537262
+2024-12-17 23:33:45.936 INFO [__main__] Club Aurora vs CA Nacional Potosi - https://live.bbapcall.com/live/sd-1-4252041.m3u8?txSecret=ef3af3b42a76864bcd6d67941c726a6c&txTime=676252FE
+2024-12-17 23:33:45.936 INFO [__main__] CA River Plate (Res) vs Velez Sarsfield (Res)的animation1为空
+2024-12-17 23:33:45.936 INFO [__main__] CA River Plate (Res) vs Velez Sarsfield (Res) - None
+2024-12-17 23:33:45.950 INFO [__main__] 更新了 3 条记录
+2024-12-17 23:33:45.951 INFO [__main__] 开始请求sportId: 3
+2024-12-17 23:33:46.495 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 23:33:48.596 INFO [__main__] Flamengo RJ vs Toros de Chiriqui获取Statscore ID成功: 14425258 用时0:00:01.608011
+2024-12-17 23:33:48.597 INFO [__main__] Flamengo RJ vs Toros de Chiriqui - https://live.bbapcall.com/live/sd-2-3824738.m3u8?txSecret=c42cb888633bc586d2af51f3212ef206&txTime=67625302
+2024-12-17 23:33:50.133 INFO [__main__] Sao Jose dos Campos vs EC Pinheiros SP获取Statscore ID成功: 14409025 用时0:00:01.536011
+2024-12-17 23:33:50.133 INFO [__main__] Sao Jose dos Campos vs EC Pinheiros SP - https://live.bbapcall.com/live/sd-2-3802415.m3u8?txSecret=0d7ddda41f11c4c86ae3016df7a62505&txTime=67625302
+2024-12-17 23:33:51.605 INFO [__main__] Mogi das Cruzes vs SC Corinthians Paulista获取Statscore ID成功: 14409026 用时0:00:01.471315
+2024-12-17 23:33:51.605 INFO [__main__] Mogi das Cruzes vs SC Corinthians Paulista - https://live.bbapcall.com/live/sd-2-3802865.m3u8?txSecret=64b1c7dfe67ce6d90847932f0210ba16&txTime=67625302
+2024-12-17 23:33:53.205 INFO [__main__] Aguada vs Trouville获取Statscore ID成功: 14409029 用时0:00:01.599366
+2024-12-17 23:33:53.205 INFO [__main__] Aguada vs Trouville - None
+2024-12-17 23:33:53.205 INFO [__main__] Nacional Natacao vs Lobos da Malveira的animation1为空
+2024-12-17 23:33:53.205 INFO [__main__] Nacional Natacao vs Lobos da Malveira - None
+2024-12-17 23:33:53.206 INFO [__main__] Sporting CP (w) vs CB Queluz (w)的animation1为空
+2024-12-17 23:33:53.206 INFO [__main__] Sporting CP (w) vs CB Queluz (w) - None
+2024-12-17 23:33:53.206 INFO [__main__] Louisiana Monroe Warhawks (w) vs Mississippi State Bulldogs (w)的animation1为空
+2024-12-17 23:33:53.206 INFO [__main__] Louisiana Monroe Warhawks (w) vs Mississippi State Bulldogs (w) - None
+2024-12-17 23:33:53.206 INFO [__main__] Seton Hall Pirates (w) vs LSU Tigers (w)的animation1为空
+2024-12-17 23:33:53.206 INFO [__main__] Seton Hall Pirates (w) vs LSU Tigers (w) - None
+2024-12-17 23:33:53.206 INFO [__main__] Western Illinois Leathernecks (w) vs Tennessee Tech Golden Eagles (w)的animation1为空
+2024-12-17 23:33:53.206 INFO [__main__] Western Illinois Leathernecks (w) vs Tennessee Tech Golden Eagles (w) - https://live.bbapcall.com/live/sd-2-3828753.m3u8?txSecret=5d1cb1d5d5bb87245494798d415fc184&txTime=67625302
+2024-12-17 23:33:53.223 INFO [__main__] 更新了 8 条记录
+2024-12-17 23:33:53.233 INFO [__main__] 插入了 1 条记录
+2024-12-17 23:33:53.233 INFO [__main__] 开始请求sportId: 5
+2024-12-17 23:33:53.831 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 23:33:54.352 INFO [__main__] Thijmen Loof (NED) vs Mikal Statham (NZL)的animation1为空
+2024-12-17 23:33:54.352 INFO [__main__] Thijmen Loof (NED) vs Mikal Statham (NZL) - None
+2024-12-17 23:33:54.352 INFO [__main__] Ajeet Rai (NZL) vs Reece Falck (NZL)的animation1为空
+2024-12-17 23:33:54.352 INFO [__main__] Ajeet Rai (NZL) vs Reece Falck (NZL) - None
+2024-12-17 23:33:54.353 INFO [__main__] Kohei Hayashi (JPN) vs Isaac Becroft (NZL)的animation1为空
+2024-12-17 23:33:54.353 INFO [__main__] Kohei Hayashi (JPN) vs Isaac Becroft (NZL) - None
+2024-12-17 23:33:54.353 INFO [__main__] Merel Hoedt (NED) vs Yui Chikaraishi (JPN)的animation1为空
+2024-12-17 23:33:54.353 INFO [__main__] Merel Hoedt (NED) vs Yui Chikaraishi (JPN) - None
+2024-12-17 23:33:54.353 INFO [__main__] Monique Barry (NZL) vs Vivian Yang (NZL)的animation1为空
+2024-12-17 23:33:54.353 INFO [__main__] Monique Barry (NZL) vs Vivian Yang (NZL) - None
+2024-12-17 23:33:54.353 INFO [__main__] Oh Eunji (KOR) vs Maelys Bougrat (FRA)的animation1为空
+2024-12-17 23:33:54.353 INFO [__main__] Oh Eunji (KOR) vs Maelys Bougrat (FRA) - None
+2024-12-17 23:33:54.353 INFO [__main__] Wi Hwi Won (KOR) vs Zhang Ying (CHN)的animation1为空
+2024-12-17 23:33:54.353 INFO [__main__] Wi Hwi Won (KOR) vs Zhang Ying (CHN) - None
+2024-12-17 23:33:54.369 INFO [__main__] 更新了 7 条记录
+2024-12-17 23:33:54.369 INFO [__main__] 开始请求sportId: 13
+2024-12-17 23:33:54.852 INFO [__main__] 开始请求sportId: 2
+2024-12-17 23:33:55.455 INFO [__main__] 开始请求sportId: 6
+2024-12-17 23:33:55.938 INFO [__main__] 开始请求sportId: 18
+2024-12-17 23:33:56.414 INFO [__main__] 开始请求sportId: 19
+2024-12-17 23:33:56.923 INFO [__main__] 开始请求sportId: 14
+2024-12-17 23:33:57.476 INFO [__main__] 开始请求sportId: 16
+2024-12-17 23:33:57.957 INFO [__main__] 开始请求sportId: 47
+2024-12-17 23:33:58.421 INFO [__main__] 开始请求sportId: 15
+2024-12-17 23:33:58.907 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 23:33:59.394 INFO [__main__] Krzysztof Kapik vs Krzysztof Wloczko的animation1为空
+2024-12-17 23:33:59.394 INFO [__main__] Krzysztof Kapik vs Krzysztof Wloczko - None
+2024-12-17 23:33:59.394 INFO [__main__] Tomas Vorisek (CZE) vs David Jicha (CZE)的animation1为空
+2024-12-17 23:33:59.394 INFO [__main__] Tomas Vorisek (CZE) vs David Jicha (CZE) - None
+2024-12-17 23:33:59.394 INFO [__main__] Pavel Berdych (CZE) vs Milan Vrabec (CZE)的animation1为空
+2024-12-17 23:33:59.395 INFO [__main__] Pavel Berdych (CZE) vs Milan Vrabec (CZE) - None
+2024-12-17 23:34:01.212 INFO [__main__] Milan Smrcek (CZE) vs Rostislav Hasmanda (CZE)获取Statscore ID成功: 14420090 用时0:00:01.816948
+2024-12-17 23:34:01.212 INFO [__main__] Milan Smrcek (CZE) vs Rostislav Hasmanda (CZE) - None
+2024-12-17 23:34:02.830 INFO [__main__] Tomas Janata (CZE) vs Jan Briska (CZE)获取Statscore ID成功: 14420044 用时0:00:01.617565
+2024-12-17 23:34:02.830 INFO [__main__] Tomas Janata (CZE) vs Jan Briska (CZE) - None
+2024-12-17 23:34:02.844 INFO [__main__] 更新了 2 条记录
+2024-12-17 23:34:02.854 INFO [__main__] 插入了 3 条记录
+2024-12-17 23:34:02.854 INFO [__main__] 开始请求sportId: 7
+2024-12-17 23:34:03.428 INFO [__main__] 开始请求sportId: 24
+2024-12-17 23:34:03.903 INFO [__main__] 开始请求sportId: 92
+2024-12-17 23:34:04.366 INFO [__main__] 等待5分钟
+2024-12-17 23:39:04.368 INFO [__main__] 开始请求
+2024-12-17 23:39:04.369 INFO [__main__] 开始请求sportId: 1
+2024-12-17 23:39:04.913 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 23:39:07.475 INFO [__main__] Independiente Petrolero vs Always Ready获取Statscore ID成功: 14421190 用时0:00:01.641262
+2024-12-17 23:39:07.476 INFO [__main__] Independiente Petrolero vs Always Ready - https://live.bbapcall.com/live/sd-1-4252042.m3u8?txSecret=ef9ff1eebe77ba278218d44445d42c27&txTime=67625441
+2024-12-17 23:39:09.125 INFO [__main__] Club Aurora vs CA Nacional Potosi获取Statscore ID成功: 14421181 用时0:00:01.648878
+2024-12-17 23:39:09.125 INFO [__main__] Club Aurora vs CA Nacional Potosi - https://live.bbapcall.com/live/sd-1-4252041.m3u8?txSecret=e0db81d0af0d3a4a80b7e3150314f05f&txTime=67625441
+2024-12-17 23:39:09.125 INFO [__main__] CA River Plate (Res) vs Velez Sarsfield (Res)的animation1为空
+2024-12-17 23:39:09.125 INFO [__main__] CA River Plate (Res) vs Velez Sarsfield (Res) - None
+2024-12-17 23:39:09.141 INFO [__main__] 更新了 3 条记录
+2024-12-17 23:39:09.141 INFO [__main__] 开始请求sportId: 3
+2024-12-17 23:39:09.635 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 23:39:11.881 INFO [__main__] Flamengo RJ vs Toros de Chiriqui获取Statscore ID成功: 14425258 用时0:00:01.636226
+2024-12-17 23:39:11.882 INFO [__main__] Flamengo RJ vs Toros de Chiriqui - https://live.bbapcall.com/live/sd-2-3824738.m3u8?txSecret=a1cd05729765462a30cb1e1a66eb8143&txTime=67625446
+2024-12-17 23:39:13.514 INFO [__main__] St Johns Red Storm vs DePaul Blue Demons获取Statscore ID成功: 14335963 用时0:00:01.631471
+2024-12-17 23:39:13.514 INFO [__main__] St Johns Red Storm vs DePaul Blue Demons - None
+2024-12-17 23:39:15.547 INFO [__main__] Sao Jose dos Campos vs EC Pinheiros SP获取Statscore ID成功: 14409025 用时0:00:02.032579
+2024-12-17 23:39:15.547 INFO [__main__] Sao Jose dos Campos vs EC Pinheiros SP - https://live.bbapcall.com/live/sd-2-3802415.m3u8?txSecret=b76e4279ffd18d0d6a429819811a554b&txTime=67625446
+2024-12-17 23:39:17.205 INFO [__main__] Mogi das Cruzes vs SC Corinthians Paulista获取Statscore ID成功: 14409026 用时0:00:01.658039
+2024-12-17 23:39:17.206 INFO [__main__] Mogi das Cruzes vs SC Corinthians Paulista - https://live.bbapcall.com/live/sd-2-3802865.m3u8?txSecret=f79db34950777c5288610024adcaea5b&txTime=67625446
+2024-12-17 23:39:18.846 INFO [__main__] Aguada vs Trouville获取Statscore ID成功: 14409029 用时0:00:01.639461
+2024-12-17 23:39:18.846 INFO [__main__] Aguada vs Trouville - https://live.bbapcall.com/live/sd-2-3827558.m3u8?txSecret=2625399d82565adb9d9181bce33e77b7&txTime=67625446
+2024-12-17 23:39:18.846 INFO [__main__] Nacional Natacao vs Lobos da Malveira的animation1为空
+2024-12-17 23:39:18.846 INFO [__main__] Nacional Natacao vs Lobos da Malveira - None
+2024-12-17 23:39:18.846 INFO [__main__] Louisiana Monroe Warhawks (w) vs Mississippi State Bulldogs (w)的animation1为空
+2024-12-17 23:39:18.846 INFO [__main__] Louisiana Monroe Warhawks (w) vs Mississippi State Bulldogs (w) - None
+2024-12-17 23:39:18.846 INFO [__main__] Seton Hall Pirates (w) vs LSU Tigers (w)的animation1为空
+2024-12-17 23:39:18.846 INFO [__main__] Seton Hall Pirates (w) vs LSU Tigers (w) - None
+2024-12-17 23:39:18.846 INFO [__main__] Western Illinois Leathernecks (w) vs Tennessee Tech Golden Eagles (w)的animation1为空
+2024-12-17 23:39:18.846 INFO [__main__] Western Illinois Leathernecks (w) vs Tennessee Tech Golden Eagles (w) - https://live.bbapcall.com/live/sd-2-3828753.m3u8?txSecret=7f5e54a24abdaac085b8314cc6228855&txTime=67625446
+2024-12-17 23:39:18.846 INFO [__main__] St Bonaventure Bonnies (w) vs Niagara Purple Eagles (w)的animation1为空
+2024-12-17 23:39:18.847 INFO [__main__] St Bonaventure Bonnies (w) vs Niagara Purple Eagles (w) - None
+2024-12-17 23:39:18.866 INFO [__main__] 更新了 8 条记录
+2024-12-17 23:39:18.875 INFO [__main__] 插入了 2 条记录
+2024-12-17 23:39:18.875 INFO [__main__] 开始请求sportId: 5
+2024-12-17 23:39:19.386 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 23:39:19.880 INFO [__main__] Thijmen Loof (NED) vs Mikal Statham (NZL)的animation1为空
+2024-12-17 23:39:19.880 INFO [__main__] Thijmen Loof (NED) vs Mikal Statham (NZL) - None
+2024-12-17 23:39:19.880 INFO [__main__] Ajeet Rai (NZL) vs Reece Falck (NZL)的animation1为空
+2024-12-17 23:39:19.880 INFO [__main__] Ajeet Rai (NZL) vs Reece Falck (NZL) - None
+2024-12-17 23:39:19.880 INFO [__main__] Kohei Hayashi (JPN) vs Isaac Becroft (NZL)的animation1为空
+2024-12-17 23:39:19.880 INFO [__main__] Kohei Hayashi (JPN) vs Isaac Becroft (NZL) - None
+2024-12-17 23:39:19.880 INFO [__main__] Merel Hoedt (NED) vs Yui Chikaraishi (JPN)的animation1为空
+2024-12-17 23:39:19.880 INFO [__main__] Merel Hoedt (NED) vs Yui Chikaraishi (JPN) - None
+2024-12-17 23:39:19.880 INFO [__main__] Monique Barry (NZL) vs Vivian Yang (NZL)的animation1为空
+2024-12-17 23:39:19.881 INFO [__main__] Monique Barry (NZL) vs Vivian Yang (NZL) - None
+2024-12-17 23:39:19.881 INFO [__main__] Oh Eunji (KOR) vs Maelys Bougrat (FRA)的animation1为空
+2024-12-17 23:39:19.881 INFO [__main__] Oh Eunji (KOR) vs Maelys Bougrat (FRA) - None
+2024-12-17 23:39:19.881 INFO [__main__] Wi Hwi Won (KOR) vs Zhang Ying (CHN)的animation1为空
+2024-12-17 23:39:19.881 INFO [__main__] Wi Hwi Won (KOR) vs Zhang Ying (CHN) - None
+2024-12-17 23:39:19.895 INFO [__main__] 更新了 7 条记录
+2024-12-17 23:39:19.896 INFO [__main__] 开始请求sportId: 13
+2024-12-17 23:39:20.364 INFO [__main__] 开始请求sportId: 2
+2024-12-17 23:39:20.986 INFO [__main__] 开始请求sportId: 6
+2024-12-17 23:39:21.457 INFO [__main__] 开始请求sportId: 18
+2024-12-17 23:39:21.924 INFO [__main__] 开始请求sportId: 19
+2024-12-17 23:39:22.385 INFO [__main__] 开始请求sportId: 14
+2024-12-17 23:39:22.868 INFO [__main__] 开始请求sportId: 16
+2024-12-17 23:39:23.389 INFO [__main__] 开始请求sportId: 47
+2024-12-17 23:39:23.958 INFO [__main__] 开始请求sportId: 15
+2024-12-17 23:39:24.430 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 23:39:24.909 INFO [__main__] Krzysztof Kapik vs Krzysztof Wloczko的animation1为空
+2024-12-17 23:39:24.909 INFO [__main__] Krzysztof Kapik vs Krzysztof Wloczko - None
+2024-12-17 23:39:24.910 INFO [__main__] Pavel Berdych (CZE) vs Milan Vrabec (CZE)的animation1为空
+2024-12-17 23:39:24.910 INFO [__main__] Pavel Berdych (CZE) vs Milan Vrabec (CZE) - None
+2024-12-17 23:39:27.955 INFO [__main__] Milan Smrcek (CZE) vs Rostislav Hasmanda (CZE)获取Statscore ID成功: 14420090 用时0:00:03.045562
+2024-12-17 23:39:27.956 INFO [__main__] Milan Smrcek (CZE) vs Rostislav Hasmanda (CZE) - None
+2024-12-17 23:39:29.486 INFO [__main__] Tomas Janata (CZE) vs Jan Briska (CZE)获取Statscore ID成功: 14420044 用时0:00:01.530387
+2024-12-17 23:39:29.486 INFO [__main__] Tomas Janata (CZE) vs Jan Briska (CZE) - None
+2024-12-17 23:39:29.501 INFO [__main__] 更新了 4 条记录
+2024-12-17 23:39:29.501 INFO [__main__] 开始请求sportId: 7
+2024-12-17 23:39:30.121 INFO [__main__] 开始请求sportId: 24
+2024-12-17 23:39:30.635 INFO [__main__] 开始请求sportId: 92
+2024-12-17 23:39:31.113 INFO [__main__] 等待5分钟
+2024-12-17 23:44:31.117 INFO [__main__] 开始请求
+2024-12-17 23:44:31.118 INFO [__main__] 开始请求sportId: 1
+2024-12-17 23:44:31.672 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 23:44:33.720 INFO [__main__] Independiente Petrolero vs Always Ready获取Statscore ID成功: 14421190 用时0:00:01.566130
+2024-12-17 23:44:33.720 INFO [__main__] Independiente Petrolero vs Always Ready - https://live.bbapcall.com/live/sd-1-4252042.m3u8?txSecret=b38f98ade5bd7fd7e573a247a99a51a8&txTime=67625588
+2024-12-17 23:44:35.461 INFO [__main__] Club Aurora vs CA Nacional Potosi获取Statscore ID成功: 14421181 用时0:00:01.740584
+2024-12-17 23:44:35.461 INFO [__main__] Club Aurora vs CA Nacional Potosi - https://live.bbapcall.com/live/sd-1-4252041.m3u8?txSecret=1195b4232fe63e2c275b5c52792c3495&txTime=67625588
+2024-12-17 23:44:35.461 INFO [__main__] CA River Plate (Res) vs Velez Sarsfield (Res)的animation1为空
+2024-12-17 23:44:35.462 INFO [__main__] CA River Plate (Res) vs Velez Sarsfield (Res) - None
+2024-12-17 23:44:35.476 INFO [__main__] 更新了 3 条记录
+2024-12-17 23:44:35.477 INFO [__main__] 开始请求sportId: 3
+2024-12-17 23:44:36.099 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 23:44:38.434 INFO [__main__] Flamengo RJ vs Toros de Chiriqui获取Statscore ID成功: 14425258 用时0:00:01.825704
+2024-12-17 23:44:38.434 INFO [__main__] Flamengo RJ vs Toros de Chiriqui - https://live.bbapcall.com/live/sd-2-3824738.m3u8?txSecret=3095c9c29ab0aa640b98db7808753a48&txTime=6762558C
+2024-12-17 23:44:39.967 INFO [__main__] St Johns Red Storm vs DePaul Blue Demons获取Statscore ID成功: 14335963 用时0:00:01.533117
+2024-12-17 23:44:39.968 INFO [__main__] St Johns Red Storm vs DePaul Blue Demons - None
+2024-12-17 23:44:41.607 INFO [__main__] Sao Jose dos Campos vs EC Pinheiros SP获取Statscore ID成功: 14409025 用时0:00:01.638615
+2024-12-17 23:44:41.607 INFO [__main__] Sao Jose dos Campos vs EC Pinheiros SP - https://live.bbapcall.com/live/sd-2-3802415.m3u8?txSecret=131d63eae9549a16216b56e069024985&txTime=6762558C
+2024-12-17 23:44:43.753 INFO [__main__] Mogi das Cruzes vs SC Corinthians Paulista获取Statscore ID成功: 14409026 用时0:00:02.146177
+2024-12-17 23:44:43.754 INFO [__main__] Mogi das Cruzes vs SC Corinthians Paulista - https://live.bbapcall.com/live/sd-2-3802865.m3u8?txSecret=0191f46251ff213614e8549d58819b9a&txTime=6762558C
+2024-12-17 23:44:45.293 INFO [__main__] Aguada vs Trouville获取Statscore ID成功: 14409029 用时0:00:01.538593
+2024-12-17 23:44:45.293 INFO [__main__] Aguada vs Trouville - https://live.bbapcall.com/live/sd-2-3827558.m3u8?txSecret=bd367a6f412093ed2aa6138c8be27df5&txTime=6762558C
+2024-12-17 23:44:45.293 INFO [__main__] Nacional Natacao vs Lobos da Malveira的animation1为空
+2024-12-17 23:44:45.294 INFO [__main__] Nacional Natacao vs Lobos da Malveira - None
+2024-12-17 23:44:45.294 INFO [__main__] Louisiana Monroe Warhawks (w) vs Mississippi State Bulldogs (w)的animation1为空
+2024-12-17 23:44:45.294 INFO [__main__] Louisiana Monroe Warhawks (w) vs Mississippi State Bulldogs (w) - None
+2024-12-17 23:44:45.294 INFO [__main__] Seton Hall Pirates (w) vs LSU Tigers (w)的animation1为空
+2024-12-17 23:44:45.294 INFO [__main__] Seton Hall Pirates (w) vs LSU Tigers (w) - None
+2024-12-17 23:44:45.294 INFO [__main__] Western Illinois Leathernecks (w) vs Tennessee Tech Golden Eagles (w)的animation1为空
+2024-12-17 23:44:45.294 INFO [__main__] Western Illinois Leathernecks (w) vs Tennessee Tech Golden Eagles (w) - https://live.bbapcall.com/live/sd-2-3828753.m3u8?txSecret=15c5d4dd29adf86511c95cd1bfa69dd0&txTime=6762558C
+2024-12-17 23:44:45.294 INFO [__main__] St Bonaventure Bonnies (w) vs Niagara Purple Eagles (w)的animation1为空
+2024-12-17 23:44:45.294 INFO [__main__] St Bonaventure Bonnies (w) vs Niagara Purple Eagles (w) - None
+2024-12-17 23:44:45.313 INFO [__main__] 更新了 10 条记录
+2024-12-17 23:44:45.314 INFO [__main__] 开始请求sportId: 5
+2024-12-17 23:44:45.924 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 23:44:46.433 INFO [__main__] Thijmen Loof (NED) vs Mikal Statham (NZL)的animation1为空
+2024-12-17 23:44:46.433 INFO [__main__] Thijmen Loof (NED) vs Mikal Statham (NZL) - None
+2024-12-17 23:44:46.433 INFO [__main__] Ajeet Rai (NZL) vs Reece Falck (NZL)的animation1为空
+2024-12-17 23:44:46.433 INFO [__main__] Ajeet Rai (NZL) vs Reece Falck (NZL) - None
+2024-12-17 23:44:46.433 INFO [__main__] Kohei Hayashi (JPN) vs Isaac Becroft (NZL)的animation1为空
+2024-12-17 23:44:46.434 INFO [__main__] Kohei Hayashi (JPN) vs Isaac Becroft (NZL) - None
+2024-12-17 23:44:46.434 INFO [__main__] Merel Hoedt (NED) vs Yui Chikaraishi (JPN)的animation1为空
+2024-12-17 23:44:46.434 INFO [__main__] Merel Hoedt (NED) vs Yui Chikaraishi (JPN) - None
+2024-12-17 23:44:46.434 INFO [__main__] Monique Barry (NZL) vs Vivian Yang (NZL)的animation1为空
+2024-12-17 23:44:46.434 INFO [__main__] Monique Barry (NZL) vs Vivian Yang (NZL) - None
+2024-12-17 23:44:46.434 INFO [__main__] Oh Eunji (KOR) vs Maelys Bougrat (FRA)的animation1为空
+2024-12-17 23:44:46.434 INFO [__main__] Oh Eunji (KOR) vs Maelys Bougrat (FRA) - None
+2024-12-17 23:44:46.434 INFO [__main__] Wi Hwi Won (KOR) vs Zhang Ying (CHN)的animation1为空
+2024-12-17 23:44:46.434 INFO [__main__] Wi Hwi Won (KOR) vs Zhang Ying (CHN) - None
+2024-12-17 23:44:46.451 INFO [__main__] 更新了 7 条记录
+2024-12-17 23:44:46.452 INFO [__main__] 开始请求sportId: 13
+2024-12-17 23:44:47.065 INFO [__main__] 开始请求sportId: 2
+2024-12-17 23:44:47.537 INFO [__main__] 开始请求sportId: 6
+2024-12-17 23:44:48.028 INFO [__main__] 开始请求sportId: 18
+2024-12-17 23:44:48.678 INFO [__main__] 开始请求sportId: 19
+2024-12-17 23:44:49.181 INFO [__main__] 开始请求sportId: 14
+2024-12-17 23:44:49.886 INFO [__main__] 开始请求sportId: 16
+2024-12-17 23:44:50.352 INFO [__main__] 开始请求sportId: 47
+2024-12-17 23:44:50.818 INFO [__main__] 开始请求sportId: 15
+2024-12-17 23:44:51.298 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 23:44:51.783 INFO [__main__] Krystian Kolodziej vs Kacper Petas的animation1为空
+2024-12-17 23:44:51.783 INFO [__main__] Krystian Kolodziej vs Kacper Petas - None
+2024-12-17 23:44:51.784 INFO [__main__] Michal Spalek (CZE) vs Jaromir Zlamal (CZE)的animation1为空
+2024-12-17 23:44:51.784 INFO [__main__] Michal Spalek (CZE) vs Jaromir Zlamal (CZE) - None
+2024-12-17 23:44:51.784 INFO [__main__] Pavel Berdych (CZE) vs Milan Vrabec (CZE)的animation1为空
+2024-12-17 23:44:51.784 INFO [__main__] Pavel Berdych (CZE) vs Milan Vrabec (CZE) - None
+2024-12-17 23:44:53.793 INFO [__main__] Milan Smrcek (CZE) vs Rostislav Hasmanda (CZE)获取Statscore ID成功: 14420090 用时0:00:02.008831
+2024-12-17 23:44:53.793 INFO [__main__] Milan Smrcek (CZE) vs Rostislav Hasmanda (CZE) - None
+2024-12-17 23:44:55.544 INFO [__main__] Tomas Janata (CZE) vs Jan Briska (CZE)获取Statscore ID成功: 14420044 用时0:00:01.750927
+2024-12-17 23:44:55.545 INFO [__main__] Tomas Janata (CZE) vs Jan Briska (CZE) - None
+2024-12-17 23:44:55.562 INFO [__main__] 更新了 3 条记录
+2024-12-17 23:44:55.571 INFO [__main__] 插入了 2 条记录
+2024-12-17 23:44:55.571 INFO [__main__] 开始请求sportId: 7
+2024-12-17 23:44:56.128 INFO [__main__] 开始请求sportId: 24
+2024-12-17 23:44:56.612 INFO [__main__] 开始请求sportId: 92
+2024-12-17 23:44:57.203 INFO [__main__] 等待5分钟
+2024-12-17 23:49:57.212 INFO [__main__] 开始请求
+2024-12-17 23:49:57.214 INFO [__main__] 开始请求sportId: 1
+2024-12-17 23:49:57.765 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 23:49:59.869 INFO [__main__] Independiente Petrolero vs Always Ready获取Statscore ID成功: 14421190 用时0:00:01.586748
+2024-12-17 23:49:59.870 INFO [__main__] Independiente Petrolero vs Always Ready - https://live.bbapcall.com/live/sd-1-4252042.m3u8?txSecret=2e6af71ed8993ca2be8fe5a25adf9622&txTime=676256CE
+2024-12-17 23:50:01.508 INFO [__main__] Club Aurora vs CA Nacional Potosi获取Statscore ID成功: 14421181 用时0:00:01.638251
+2024-12-17 23:50:01.509 INFO [__main__] Club Aurora vs CA Nacional Potosi - https://live.bbapcall.com/live/sd-1-4252041.m3u8?txSecret=f725386ebae611bdee4c8037daa1d8f7&txTime=676256CE
+2024-12-17 23:50:01.509 INFO [__main__] CA River Plate (Res) vs Velez Sarsfield (Res)的animation1为空
+2024-12-17 23:50:01.509 INFO [__main__] CA River Plate (Res) vs Velez Sarsfield (Res) - None
+2024-12-17 23:50:01.525 INFO [__main__] 更新了 3 条记录
+2024-12-17 23:50:01.525 INFO [__main__] 开始请求sportId: 3
+2024-12-17 23:50:02.086 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 23:50:04.168 INFO [__main__] Flamengo RJ vs Toros de Chiriqui获取Statscore ID成功: 14425258 用时0:00:01.577144
+2024-12-17 23:50:04.169 INFO [__main__] Flamengo RJ vs Toros de Chiriqui - https://live.bbapcall.com/live/sd-2-3824738.m3u8?txSecret=bcd462163029875618e83a04e21be787&txTime=676256D2
+2024-12-17 23:50:05.806 INFO [__main__] St Johns Red Storm vs DePaul Blue Demons获取Statscore ID成功: 14335963 用时0:00:01.637348
+2024-12-17 23:50:05.807 INFO [__main__] St Johns Red Storm vs DePaul Blue Demons - None
+2024-12-17 23:50:07.547 INFO [__main__] Sao Jose dos Campos vs EC Pinheiros SP获取Statscore ID成功: 14409025 用时0:00:01.739784
+2024-12-17 23:50:07.547 INFO [__main__] Sao Jose dos Campos vs EC Pinheiros SP - https://live.bbapcall.com/live/sd-2-3802415.m3u8?txSecret=983e41c86b86848cb16b740c79d926a8&txTime=676256D2
+2024-12-17 23:50:09.287 INFO [__main__] Mogi das Cruzes vs SC Corinthians Paulista获取Statscore ID成功: 14409026 用时0:00:01.740080
+2024-12-17 23:50:09.288 INFO [__main__] Mogi das Cruzes vs SC Corinthians Paulista - https://live.bbapcall.com/live/sd-2-3802865.m3u8?txSecret=54a2a243748b6659bd362c2d233c6437&txTime=676256D2
+2024-12-17 23:50:10.824 INFO [__main__] Aguada vs Trouville获取Statscore ID成功: 14409029 用时0:00:01.535808
+2024-12-17 23:50:10.824 INFO [__main__] Aguada vs Trouville - https://live.bbapcall.com/live/sd-2-3827558.m3u8?txSecret=80e87314d79130d4f950431ce8bf6bb3&txTime=676256D2
+2024-12-17 23:50:10.825 INFO [__main__] Louisiana Monroe Warhawks (w) vs Mississippi State Bulldogs (w)的animation1为空
+2024-12-17 23:50:10.825 INFO [__main__] Louisiana Monroe Warhawks (w) vs Mississippi State Bulldogs (w) - None
+2024-12-17 23:50:10.825 INFO [__main__] Seton Hall Pirates (w) vs LSU Tigers (w)的animation1为空
+2024-12-17 23:50:10.825 INFO [__main__] Seton Hall Pirates (w) vs LSU Tigers (w) - None
+2024-12-17 23:50:10.825 INFO [__main__] Western Illinois Leathernecks (w) vs Tennessee Tech Golden Eagles (w)的animation1为空
+2024-12-17 23:50:10.825 INFO [__main__] Western Illinois Leathernecks (w) vs Tennessee Tech Golden Eagles (w) - https://live.bbapcall.com/live/sd-2-3828753.m3u8?txSecret=b9fc71ddcb19e9de571a69be046b81bc&txTime=676256D2
+2024-12-17 23:50:10.825 INFO [__main__] South Carolina State Bulldogs (w) vs Charleston Southern Buccaneers (w)的animation1为空
+2024-12-17 23:50:10.825 INFO [__main__] South Carolina State Bulldogs (w) vs Charleston Southern Buccaneers (w) - None
+2024-12-17 23:50:10.825 INFO [__main__] St Bonaventure Bonnies (w) vs Niagara Purple Eagles (w)的animation1为空
+2024-12-17 23:50:10.825 INFO [__main__] St Bonaventure Bonnies (w) vs Niagara Purple Eagles (w) - None
+2024-12-17 23:50:10.846 INFO [__main__] 更新了 9 条记录
+2024-12-17 23:50:10.854 INFO [__main__] 插入了 1 条记录
+2024-12-17 23:50:10.854 INFO [__main__] 开始请求sportId: 5
+2024-12-17 23:50:11.446 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 23:50:11.945 INFO [__main__] Thijmen Loof (NED) vs Mikal Statham (NZL)的animation1为空
+2024-12-17 23:50:11.946 INFO [__main__] Thijmen Loof (NED) vs Mikal Statham (NZL) - None
+2024-12-17 23:50:11.946 INFO [__main__] Ajeet Rai (NZL) vs Reece Falck (NZL)的animation1为空
+2024-12-17 23:50:11.946 INFO [__main__] Ajeet Rai (NZL) vs Reece Falck (NZL) - None
+2024-12-17 23:50:11.946 INFO [__main__] Kohei Hayashi (JPN) vs Isaac Becroft (NZL)的animation1为空
+2024-12-17 23:50:11.946 INFO [__main__] Kohei Hayashi (JPN) vs Isaac Becroft (NZL) - None
+2024-12-17 23:50:11.946 INFO [__main__] Monique Barry (NZL) vs Vivian Yang (NZL)的animation1为空
+2024-12-17 23:50:11.946 INFO [__main__] Monique Barry (NZL) vs Vivian Yang (NZL) - None
+2024-12-17 23:50:11.946 INFO [__main__] Oh Eunji (KOR) vs Maelys Bougrat (FRA)的animation1为空
+2024-12-17 23:50:11.946 INFO [__main__] Oh Eunji (KOR) vs Maelys Bougrat (FRA) - None
+2024-12-17 23:50:11.946 INFO [__main__] Wi Hwi Won (KOR) vs Zhang Ying (CHN)的animation1为空
+2024-12-17 23:50:11.946 INFO [__main__] Wi Hwi Won (KOR) vs Zhang Ying (CHN) - None
+2024-12-17 23:50:11.965 INFO [__main__] 更新了 6 条记录
+2024-12-17 23:50:11.965 INFO [__main__] 开始请求sportId: 13
+2024-12-17 23:50:12.436 INFO [__main__] 开始请求sportId: 2
+2024-12-17 23:50:12.914 INFO [__main__] 开始请求sportId: 6
+2024-12-17 23:50:13.409 INFO [__main__] 开始请求sportId: 18
+2024-12-17 23:50:13.889 INFO [__main__] 开始请求sportId: 19
+2024-12-17 23:50:14.348 INFO [__main__] 开始请求sportId: 14
+2024-12-17 23:50:14.816 INFO [__main__] 开始请求sportId: 16
+2024-12-17 23:50:15.292 INFO [__main__] 开始请求sportId: 47
+2024-12-17 23:50:15.769 INFO [__main__] 开始请求sportId: 15
+2024-12-17 23:50:16.351 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 23:50:16.824 INFO [__main__] Krystian Kolodziej vs Kacper Petas的animation1为空
+2024-12-17 23:50:16.824 INFO [__main__] Krystian Kolodziej vs Kacper Petas - None
+2024-12-17 23:50:16.824 INFO [__main__] Dariusz Scigany vs Michal Wolny的animation1为空
+2024-12-17 23:50:16.824 INFO [__main__] Dariusz Scigany vs Michal Wolny - None
+2024-12-17 23:50:16.824 INFO [__main__] Michal Skorski vs Jaroslaw Rolak的animation1为空
+2024-12-17 23:50:16.825 INFO [__main__] Michal Skorski vs Jaroslaw Rolak - None
+2024-12-17 23:50:16.825 INFO [__main__] Shah Nipul (USA) vs Valeri Goncharov (USA)的animation1为空
+2024-12-17 23:50:16.825 INFO [__main__] Shah Nipul (USA) vs Valeri Goncharov (USA) - None
+2024-12-17 23:50:16.825 INFO [__main__] Michal Spalek (CZE) vs Jaromir Zlamal (CZE)的animation1为空
+2024-12-17 23:50:16.825 INFO [__main__] Michal Spalek (CZE) vs Jaromir Zlamal (CZE) - None
+2024-12-17 23:50:16.837 INFO [__main__] 更新了 2 条记录
+2024-12-17 23:50:16.845 INFO [__main__] 插入了 3 条记录
+2024-12-17 23:50:16.845 INFO [__main__] 开始请求sportId: 7
+2024-12-17 23:50:17.323 INFO [__main__] 开始请求sportId: 24
+2024-12-17 23:50:17.813 INFO [__main__] 开始请求sportId: 92
+2024-12-17 23:50:18.294 INFO [__main__] 等待5分钟
+2024-12-17 23:55:18.304 INFO [__main__] 开始请求
+2024-12-17 23:55:18.305 INFO [__main__] 开始请求sportId: 1
+2024-12-17 23:55:18.860 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 23:55:21.405 INFO [__main__] Independiente Petrolero vs Always Ready获取Statscore ID成功: 14421190 用时0:00:01.638888
+2024-12-17 23:55:21.406 INFO [__main__] Independiente Petrolero vs Always Ready - https://live.bbapcall.com/live/sd-1-4252042.m3u8?txSecret=bf09d87e1abfee4f7c1f415a458aaf37&txTime=6762580F
+2024-12-17 23:55:23.249 INFO [__main__] Club Aurora vs CA Nacional Potosi获取Statscore ID成功: 14421181 用时0:00:01.842626
+2024-12-17 23:55:23.249 INFO [__main__] Club Aurora vs CA Nacional Potosi - https://live.bbapcall.com/live/sd-1-4252041.m3u8?txSecret=7e299d9e8617881e49f32f05858a9020&txTime=6762580F
+2024-12-17 23:55:23.249 INFO [__main__] CA River Plate (Res) vs Velez Sarsfield (Res)的animation1为空
+2024-12-17 23:55:23.249 INFO [__main__] CA River Plate (Res) vs Velez Sarsfield (Res) - None
+2024-12-17 23:55:23.264 INFO [__main__] 更新了 3 条记录
+2024-12-17 23:55:23.264 INFO [__main__] 开始请求sportId: 3
+2024-12-17 23:55:23.745 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 23:55:25.808 INFO [__main__] Flamengo RJ vs Toros de Chiriqui获取Statscore ID成功: 14425258 用时0:00:01.578505
+2024-12-17 23:55:25.809 INFO [__main__] Flamengo RJ vs Toros de Chiriqui - https://live.bbapcall.com/live/sd-2-3824738.m3u8?txSecret=226db0e3e6074e2328d4bd2c0222d00f&txTime=67625814
+2024-12-17 23:55:27.343 INFO [__main__] St Johns Red Storm vs DePaul Blue Demons获取Statscore ID成功: 14335963 用时0:00:01.534339
+2024-12-17 23:55:27.344 INFO [__main__] St Johns Red Storm vs DePaul Blue Demons - None
+2024-12-17 23:55:28.981 INFO [__main__] Sao Jose dos Campos vs EC Pinheiros SP获取Statscore ID成功: 14409025 用时0:00:01.637598
+2024-12-17 23:55:28.982 INFO [__main__] Sao Jose dos Campos vs EC Pinheiros SP - https://live.bbapcall.com/live/sd-2-3802415.m3u8?txSecret=1983b1972eac7422366522cc3fcbec10&txTime=67625814
+2024-12-17 23:55:30.620 INFO [__main__] Mogi das Cruzes vs SC Corinthians Paulista获取Statscore ID成功: 14409026 用时0:00:01.638188
+2024-12-17 23:55:30.621 INFO [__main__] Mogi das Cruzes vs SC Corinthians Paulista - https://live.bbapcall.com/live/sd-2-3802865.m3u8?txSecret=d8d2f8d0e03d471f09bd5ca3e862b96c&txTime=67625814
+2024-12-17 23:55:32.259 INFO [__main__] Aguada vs Trouville获取Statscore ID成功: 14409029 用时0:00:01.638560
+2024-12-17 23:55:32.260 INFO [__main__] Aguada vs Trouville - https://live.bbapcall.com/live/sd-2-3827558.m3u8?txSecret=9d449a466eedc0d36fa9be6cf8a57997&txTime=67625814
+2024-12-17 23:55:32.260 INFO [__main__] Louisiana Monroe Warhawks (w) vs Mississippi State Bulldogs (w)的animation1为空
+2024-12-17 23:55:32.260 INFO [__main__] Louisiana Monroe Warhawks (w) vs Mississippi State Bulldogs (w) - None
+2024-12-17 23:55:32.260 INFO [__main__] Seton Hall Pirates (w) vs LSU Tigers (w)的animation1为空
+2024-12-17 23:55:32.260 INFO [__main__] Seton Hall Pirates (w) vs LSU Tigers (w) - None
+2024-12-17 23:55:32.260 INFO [__main__] Western Illinois Leathernecks (w) vs Tennessee Tech Golden Eagles (w)的animation1为空
+2024-12-17 23:55:32.260 INFO [__main__] Western Illinois Leathernecks (w) vs Tennessee Tech Golden Eagles (w) - https://live.bbapcall.com/live/sd-2-3828753.m3u8?txSecret=9e6996ede6ad99c6b2f121162d732b7e&txTime=67625814
+2024-12-17 23:55:32.260 INFO [__main__] South Carolina State Bulldogs (w) vs Charleston Southern Buccaneers (w)的animation1为空
+2024-12-17 23:55:32.260 INFO [__main__] South Carolina State Bulldogs (w) vs Charleston Southern Buccaneers (w) - None
+2024-12-17 23:55:32.260 INFO [__main__] St Bonaventure Bonnies (w) vs Niagara Purple Eagles (w)的animation1为空
+2024-12-17 23:55:32.260 INFO [__main__] St Bonaventure Bonnies (w) vs Niagara Purple Eagles (w) - None
+2024-12-17 23:55:32.279 INFO [__main__] 更新了 10 条记录
+2024-12-17 23:55:32.280 INFO [__main__] 开始请求sportId: 5
+2024-12-17 23:55:32.892 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 23:55:33.418 INFO [__main__] Thijmen Loof (NED) vs Mikal Statham (NZL)的animation1为空
+2024-12-17 23:55:33.418 INFO [__main__] Thijmen Loof (NED) vs Mikal Statham (NZL) - None
+2024-12-17 23:55:33.418 INFO [__main__] Kohei Hayashi (JPN) vs Isaac Becroft (NZL)的animation1为空
+2024-12-17 23:55:33.418 INFO [__main__] Kohei Hayashi (JPN) vs Isaac Becroft (NZL) - None
+2024-12-17 23:55:33.418 INFO [__main__] Monique Barry (NZL) vs Vivian Yang (NZL)的animation1为空
+2024-12-17 23:55:33.419 INFO [__main__] Monique Barry (NZL) vs Vivian Yang (NZL) - None
+2024-12-17 23:55:33.419 INFO [__main__] Oh Eunji (KOR) vs Maelys Bougrat (FRA)的animation1为空
+2024-12-17 23:55:33.419 INFO [__main__] Oh Eunji (KOR) vs Maelys Bougrat (FRA) - None
+2024-12-17 23:55:33.419 INFO [__main__] Wi Hwi Won (KOR) vs Zhang Ying (CHN)的animation1为空
+2024-12-17 23:55:33.419 INFO [__main__] Wi Hwi Won (KOR) vs Zhang Ying (CHN) - None
+2024-12-17 23:55:33.434 INFO [__main__] 更新了 5 条记录
+2024-12-17 23:55:33.434 INFO [__main__] 开始请求sportId: 13
+2024-12-17 23:55:34.002 INFO [__main__] 开始请求sportId: 2
+2024-12-17 23:55:34.486 INFO [__main__] 开始请求sportId: 6
+2024-12-17 23:55:34.955 INFO [__main__] 开始请求sportId: 18
+2024-12-17 23:55:35.426 INFO [__main__] 开始请求sportId: 19
+2024-12-17 23:55:35.891 INFO [__main__] 开始请求sportId: 14
+2024-12-17 23:55:36.362 INFO [__main__] 开始请求sportId: 16
+2024-12-17 23:55:36.846 INFO [__main__] 开始请求sportId: 47
+2024-12-17 23:55:37.486 INFO [__main__] 开始请求sportId: 15
+2024-12-17 23:55:38.033 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-17 23:55:38.517 INFO [__main__] Krystian Kolodziej vs Kacper Petas的animation1为空
+2024-12-17 23:55:38.517 INFO [__main__] Krystian Kolodziej vs Kacper Petas - None
+2024-12-17 23:55:38.517 INFO [__main__] Dariusz Scigany vs Michal Wolny的animation1为空
+2024-12-17 23:55:38.517 INFO [__main__] Dariusz Scigany vs Michal Wolny - None
+2024-12-17 23:55:38.517 INFO [__main__] Michal Skorski vs Jaroslaw Rolak的animation1为空
+2024-12-17 23:55:38.517 INFO [__main__] Michal Skorski vs Jaroslaw Rolak - None
+2024-12-17 23:55:38.518 INFO [__main__] Shah Nipul (USA) vs Valeri Goncharov (USA)的animation1为空
+2024-12-17 23:55:38.518 INFO [__main__] Shah Nipul (USA) vs Valeri Goncharov (USA) - None
+2024-12-17 23:55:38.531 INFO [__main__] 更新了 4 条记录
+2024-12-17 23:55:38.531 INFO [__main__] 开始请求sportId: 7
+2024-12-17 23:55:39.106 INFO [__main__] 开始请求sportId: 24
+2024-12-17 23:55:39.578 INFO [__main__] 开始请求sportId: 92
+2024-12-17 23:55:40.058 INFO [__main__] 等待5分钟
+2024-12-18 00:00:40.007 INFO [__main__] 开始请求
+2024-12-18 00:00:40.007 INFO [__main__] 开始请求sportId: 1
+2024-12-18 00:00:40.543 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-18 00:00:42.785 INFO [__main__] Independiente Petrolero vs Always Ready获取Statscore ID成功: 14421190 用时0:00:01.590175
+2024-12-18 00:00:42.786 INFO [__main__] Independiente Petrolero vs Always Ready - https://live.bbapcall.com/live/sd-1-4252042.m3u8?txSecret=3544c4c14736acd08b5a6a92820ffff3&txTime=67625951
+2024-12-18 00:00:45.167 INFO [__main__] Club Aurora vs CA Nacional Potosi获取Statscore ID成功: 14421181 用时0:00:02.380867
+2024-12-18 00:00:45.167 INFO [__main__] Club Aurora vs CA Nacional Potosi - https://live.bbapcall.com/live/sd-1-4252041.m3u8?txSecret=030b17357e18b64e788e789c7d12707c&txTime=67625951
+2024-12-18 00:00:45.168 INFO [__main__] CA River Plate (Res) vs Velez Sarsfield (Res)的animation1为空
+2024-12-18 00:00:45.168 INFO [__main__] CA River Plate (Res) vs Velez Sarsfield (Res) - None
+2024-12-18 00:00:45.180 INFO [__main__] 更新了 3 条记录
+2024-12-18 00:00:45.180 INFO [__main__] 开始请求sportId: 3
+2024-12-18 00:00:45.701 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-18 00:00:47.802 INFO [__main__] Flamengo RJ vs Toros de Chiriqui获取Statscore ID成功: 14425258 用时0:00:01.558815
+2024-12-18 00:00:47.802 INFO [__main__] Flamengo RJ vs Toros de Chiriqui - https://live.bbapcall.com/live/sd-2-3824738.m3u8?txSecret=bf325ff087b1a45bfacf23955a604724&txTime=67625956
+2024-12-18 00:00:50.158 INFO [__main__] St Johns Red Storm vs DePaul Blue Demons获取Statscore ID成功: 14335963 用时0:00:02.355624
+2024-12-18 00:00:50.159 INFO [__main__] St Johns Red Storm vs DePaul Blue Demons - None
+2024-12-18 00:00:51.694 INFO [__main__] North Carolina Asheville Bulldogs vs North Florida Ospreys获取Statscore ID成功: 14335973 用时0:00:01.534710
+2024-12-18 00:00:51.694 INFO [__main__] North Carolina Asheville Bulldogs vs North Florida Ospreys - https://live.bbapcall.com/live/sd-2-3815400.m3u8?txSecret=06a4bb829e88327a3bc8fd884dc9474b&txTime=67625956
+2024-12-18 00:00:53.121 INFO [__main__] Sao Jose dos Campos vs EC Pinheiros SP获取Statscore ID成功: 14409025 用时0:00:01.426384
+2024-12-18 00:00:53.121 INFO [__main__] Sao Jose dos Campos vs EC Pinheiros SP - https://live.bbapcall.com/live/sd-2-3802415.m3u8?txSecret=57a851ac4b2279b87eb81d241e06371d&txTime=67625956
+2024-12-18 00:00:54.662 INFO [__main__] Mogi das Cruzes vs SC Corinthians Paulista获取Statscore ID成功: 14409026 用时0:00:01.540587
+2024-12-18 00:00:54.662 INFO [__main__] Mogi das Cruzes vs SC Corinthians Paulista - https://live.bbapcall.com/live/sd-2-3802865.m3u8?txSecret=7b78f7931d41c38aedb29bf0d3fedd5e&txTime=67625956
+2024-12-18 00:00:56.404 INFO [__main__] Aguada vs Trouville获取Statscore ID成功: 14409029 用时0:00:01.741226
+2024-12-18 00:00:56.404 INFO [__main__] Aguada vs Trouville - https://live.bbapcall.com/live/sd-2-3827558.m3u8?txSecret=4aea3e3d206cdd0ba788facdb1f22e36&txTime=67625956
+2024-12-18 00:00:56.404 INFO [__main__] Seton Hall Pirates (w) vs LSU Tigers (w)的animation1为空
+2024-12-18 00:00:56.404 INFO [__main__] Seton Hall Pirates (w) vs LSU Tigers (w) - None
+2024-12-18 00:00:56.404 INFO [__main__] Western Illinois Leathernecks (w) vs Tennessee Tech Golden Eagles (w)的animation1为空
+2024-12-18 00:00:56.404 INFO [__main__] Western Illinois Leathernecks (w) vs Tennessee Tech Golden Eagles (w) - https://live.bbapcall.com/live/sd-2-3828753.m3u8?txSecret=7397f68170d078ab23dfa322d08d1d66&txTime=67625956
+2024-12-18 00:00:56.405 INFO [__main__] South Carolina State Bulldogs (w) vs Charleston Southern Buccaneers (w)的animation1为空
+2024-12-18 00:00:56.405 INFO [__main__] South Carolina State Bulldogs (w) vs Charleston Southern Buccaneers (w) - None
+2024-12-18 00:00:56.405 INFO [__main__] St Bonaventure Bonnies (w) vs Niagara Purple Eagles (w)的animation1为空
+2024-12-18 00:00:56.405 INFO [__main__] St Bonaventure Bonnies (w) vs Niagara Purple Eagles (w) - None
+2024-12-18 00:00:56.422 INFO [__main__] 更新了 9 条记录
+2024-12-18 00:00:56.432 INFO [__main__] 插入了 1 条记录
+2024-12-18 00:00:56.432 INFO [__main__] 开始请求sportId: 5
+2024-12-18 00:00:57.012 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-18 00:00:57.519 INFO [__main__] Thijmen Loof (NED) vs Mikal Statham (NZL)的animation1为空
+2024-12-18 00:00:57.519 INFO [__main__] Thijmen Loof (NED) vs Mikal Statham (NZL) - None
+2024-12-18 00:00:57.519 INFO [__main__] Kohei Hayashi (JPN) vs Isaac Becroft (NZL)的animation1为空
+2024-12-18 00:00:57.519 INFO [__main__] Kohei Hayashi (JPN) vs Isaac Becroft (NZL) - None
+2024-12-18 00:00:57.519 INFO [__main__] Jesse Delaney (AUS) vs Derek Pham (AUS)的animation1为空
+2024-12-18 00:00:57.519 INFO [__main__] Jesse Delaney (AUS) vs Derek Pham (AUS) - None
+2024-12-18 00:00:57.519 INFO [__main__] Monique Barry (NZL) vs Vivian Yang (NZL)的animation1为空
+2024-12-18 00:00:57.519 INFO [__main__] Monique Barry (NZL) vs Vivian Yang (NZL) - None
+2024-12-18 00:00:57.519 INFO [__main__] Oh Eunji (KOR) vs Maelys Bougrat (FRA)的animation1为空
+2024-12-18 00:00:57.519 INFO [__main__] Oh Eunji (KOR) vs Maelys Bougrat (FRA) - None
+2024-12-18 00:00:57.519 INFO [__main__] Wi Hwi Won (KOR) vs Zhang Ying (CHN)的animation1为空
+2024-12-18 00:00:57.519 INFO [__main__] Wi Hwi Won (KOR) vs Zhang Ying (CHN) - None
+2024-12-18 00:00:57.534 INFO [__main__] 更新了 5 条记录
+2024-12-18 00:00:57.543 INFO [__main__] 插入了 1 条记录
+2024-12-18 00:00:57.544 INFO [__main__] 开始请求sportId: 13
+2024-12-18 00:01:07.548 ERROR [__main__] 请求LiveMatchList超时，第 1/10 次重试
+2024-12-18 00:01:08.069 INFO [__main__] 开始请求sportId: 2
+2024-12-18 00:01:08.697 INFO [__main__] 开始请求sportId: 6
+2024-12-18 00:01:18.702 ERROR [__main__] 请求LiveMatchList超时，第 1/10 次重试
+2024-12-18 00:01:19.196 INFO [__main__] 开始请求sportId: 18
+2024-12-18 00:01:19.660 INFO [__main__] 开始请求sportId: 19
+2024-12-18 00:01:20.149 INFO [__main__] 开始请求sportId: 14
+2024-12-18 00:01:30.156 ERROR [__main__] 请求LiveMatchList超时，第 1/10 次重试
+2024-12-18 00:01:30.746 INFO [__main__] 开始请求sportId: 16
+2024-12-18 00:01:31.219 INFO [__main__] 开始请求sportId: 47
+2024-12-18 00:01:31.692 INFO [__main__] 开始请求sportId: 15
+2024-12-18 00:01:41.698 ERROR [__main__] 请求LiveMatchList超时，第 1/10 次重试
+2024-12-18 00:01:42.206 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-18 00:01:42.794 INFO [__main__] Grzegorz Poliniewicz vs Adam Linek的animation1为空
+2024-12-18 00:01:42.794 INFO [__main__] Grzegorz Poliniewicz vs Adam Linek - None
+2024-12-18 00:01:44.325 INFO [__main__] Jaromir Cernik (CZE) vs Pavel Sprynar (CZE)获取Statscore ID成功: 14420197 用时0:00:01.530782
+2024-12-18 00:01:44.325 INFO [__main__] Jaromir Cernik (CZE) vs Pavel Sprynar (CZE) - None
+2024-12-18 00:01:45.964 INFO [__main__] Lubor Sulava (CZE) vs Jan Steffan (CZE)获取Statscore ID成功: 14420198 用时0:00:01.639300
+2024-12-18 00:01:45.965 INFO [__main__] Lubor Sulava (CZE) vs Jan Steffan (CZE) - None
+2024-12-18 00:01:47.741 INFO [__main__] Tomas Andrle (CZE) vs Martin Sychra (CZE)获取Statscore ID成功: 14420201 用时0:00:01.775711
+2024-12-18 00:01:47.741 INFO [__main__] Tomas Andrle (CZE) vs Martin Sychra (CZE) - None
+2024-12-18 00:01:47.756 INFO [__main__] 插入了 4 条记录
+2024-12-18 00:01:47.757 INFO [__main__] 开始请求sportId: 7
+2024-12-18 00:01:48.265 INFO [__main__] 开始请求sportId: 24
+2024-12-18 00:01:48.749 INFO [__main__] 开始请求sportId: 92
+2024-12-18 00:01:49.268 INFO [__main__] 等待5分钟
+2024-12-18 00:06:49.273 INFO [__main__] 开始请求
+2024-12-18 00:06:49.274 INFO [__main__] 开始请求sportId: 1
+2024-12-18 00:06:50.028 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-18 00:06:52.078 INFO [__main__] Independiente Petrolero vs Always Ready获取Statscore ID成功: 14421190 用时0:00:01.530411
+2024-12-18 00:06:52.079 INFO [__main__] Independiente Petrolero vs Always Ready - https://live.bbapcall.com/live/sd-1-4252042.m3u8?txSecret=5844267dd8d32f3b3055a4e86d58c928&txTime=67625AC2
+2024-12-18 00:06:53.680 INFO [__main__] Club Aurora vs CA Nacional Potosi获取Statscore ID成功: 14421181 用时0:00:01.600755
+2024-12-18 00:06:53.680 INFO [__main__] Club Aurora vs CA Nacional Potosi - https://live.bbapcall.com/live/sd-1-4252041.m3u8?txSecret=5f7faa2151e2340661d076a57c8c2b31&txTime=67625AC2
+2024-12-18 00:06:55.416 INFO [__main__] Guabira Montero vs Royal Pari FC获取Statscore ID成功: 14421218 用时0:00:01.736049
+2024-12-18 00:06:55.417 INFO [__main__] Guabira Montero vs Royal Pari FC - https://live.bbapcall.com/live/sd-1-4252043.m3u8?txSecret=b08e2d7e48caea4d936df9bb8c87a0f6&txTime=67625AC2
+2024-12-18 00:06:55.417 INFO [__main__] CA River Plate (Res) vs Velez Sarsfield (Res)的animation1为空
+2024-12-18 00:06:55.417 INFO [__main__] CA River Plate (Res) vs Velez Sarsfield (Res) - None
+2024-12-18 00:06:55.430 INFO [__main__] 更新了 3 条记录
+2024-12-18 00:06:55.438 INFO [__main__] 插入了 1 条记录
+2024-12-18 00:06:55.439 INFO [__main__] 开始请求sportId: 3
+2024-12-18 00:06:55.979 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-18 00:06:58.183 INFO [__main__] Flamengo RJ vs Toros de Chiriqui获取Statscore ID成功: 14425258 用时0:00:01.680937
+2024-12-18 00:06:58.183 INFO [__main__] Flamengo RJ vs Toros de Chiriqui - https://live.bbapcall.com/live/sd-2-3824738.m3u8?txSecret=b5ed192267ad2f78dc7869120e01df54&txTime=67625AC8
+2024-12-18 00:07:00.026 INFO [__main__] St Johns Red Storm vs DePaul Blue Demons获取Statscore ID成功: 14335963 用时0:00:01.842612
+2024-12-18 00:07:00.026 INFO [__main__] St Johns Red Storm vs DePaul Blue Demons - None
+2024-12-18 00:07:01.665 INFO [__main__] North Carolina Asheville Bulldogs vs North Florida Ospreys获取Statscore ID成功: 14335973 用时0:00:01.638008
+2024-12-18 00:07:01.665 INFO [__main__] North Carolina Asheville Bulldogs vs North Florida Ospreys - https://live.bbapcall.com/live/sd-2-3815400.m3u8?txSecret=32fa88467c1aafa6349eecfbdea78a84&txTime=67625AC8
+2024-12-18 00:07:03.303 INFO [__main__] South Carolina Gamecocks vs Clemson Tigers获取Statscore ID成功: 14335766 用时0:00:01.637588
+2024-12-18 00:07:03.303 INFO [__main__] South Carolina Gamecocks vs Clemson Tigers - None
+2024-12-18 00:07:04.741 INFO [__main__] Wake Forest Demon Deacons vs James Madison Dukes获取Statscore ID成功: 14331413 用时0:00:01.437023
+2024-12-18 00:07:04.741 INFO [__main__] Wake Forest Demon Deacons vs James Madison Dukes - https://live.bbapcall.com/live/sd-2-3817207.m3u8?txSecret=b8b83f93c891f9a94b481fcad873c515&txTime=67625AC8
+2024-12-18 00:07:06.272 INFO [__main__] Dayton Flyers vs UNLV Runnin Rebels获取Statscore ID成功: 14335659 用时0:00:01.531063
+2024-12-18 00:07:06.273 INFO [__main__] Dayton Flyers vs UNLV Runnin Rebels - None
+2024-12-18 00:07:07.910 INFO [__main__] Quinnipiac Bobcats vs Holy Cross Crusaders获取Statscore ID成功: 14335880 用时0:00:01.637172
+2024-12-18 00:07:07.911 INFO [__main__] Quinnipiac Bobcats vs Holy Cross Crusaders - https://live.bbapcall.com/live/sd-2-3816754.m3u8?txSecret=b270c454623f83478f350a6f481c9d51&txTime=67625AC8
+2024-12-18 00:07:09.549 INFO [__main__] Stony Brook Seawolves vs Marist Red Foxes获取Statscore ID成功: 14335759 用时0:00:01.638006
+2024-12-18 00:07:09.550 INFO [__main__] Stony Brook Seawolves vs Marist Red Foxes - None
+2024-12-18 00:07:11.203 INFO [__main__] Ole Miss Rebels vs Southern University Jaguars获取Statscore ID成功: 14335946 用时0:00:01.653032
+2024-12-18 00:07:11.203 INFO [__main__] Ole Miss Rebels vs Southern University Jaguars - https://live.bbapcall.com/live/sd-2-3815464.m3u8?txSecret=f5d428e739af1b8cb89c69830d3e0b78&txTime=67625AC8
+2024-12-18 00:07:13.235 INFO [__main__] Georgia Southern Eagles vs Gardner Webb Runnin Bulldogs获取Statscore ID成功: 14335775 用时0:00:02.031681
+2024-12-18 00:07:13.236 INFO [__main__] Georgia Southern Eagles vs Gardner Webb Runnin Bulldogs - https://live.bbapcall.com/live/sd-2-3815889.m3u8?txSecret=c2a3f021c0c83c3f6d90bae578080065&txTime=67625AC8
+2024-12-18 00:07:15.183 INFO [__main__] Tennessee Volunteers vs Western Carolina Catamounts获取Statscore ID成功: 14336137 用时0:00:01.947619
+2024-12-18 00:07:15.184 INFO [__main__] Tennessee Volunteers vs Western Carolina Catamounts - https://live.bbapcall.com/live/sd-2-3815538.m3u8?txSecret=2b682c5042f7d4525a234339661f474c&txTime=67625AC8
+2024-12-18 00:07:16.820 INFO [__main__] North Carolina A&T Aggies vs Coastal Carolina Chanticleers获取Statscore ID成功: 14336095 用时0:00:01.635611
+2024-12-18 00:07:16.820 INFO [__main__] North Carolina A&T Aggies vs Coastal Carolina Chanticleers - None
+2024-12-18 00:07:18.458 INFO [__main__] Siena Saints vs St Bonaventure Bonnies获取Statscore ID成功: 14335960 用时0:00:01.637415
+2024-12-18 00:07:18.458 INFO [__main__] Siena Saints vs St Bonaventure Bonnies - https://live.bbapcall.com/live/sd-2-3816688.m3u8?txSecret=470833951efd69a6915c55da770db9a7&txTime=67625AC8
+2024-12-18 00:07:20.401 INFO [__main__] Florida State Seminoles vs Winthrop Eagles获取Statscore ID成功: 14336256 用时0:00:01.942213
+2024-12-18 00:07:20.401 INFO [__main__] Florida State Seminoles vs Winthrop Eagles - https://live.bbapcall.com/live/sd-2-3816490.m3u8?txSecret=cd6255703feea117fb613b801fed65c4&txTime=67625AC8
+2024-12-18 00:07:21.940 INFO [__main__] East Carolina Pirates vs FIU Panthers获取Statscore ID成功: 14336161 用时0:00:01.538785
+2024-12-18 00:07:21.940 INFO [__main__] East Carolina Pirates vs FIU Panthers - https://live.bbapcall.com/live/sd-2-3815359.m3u8?txSecret=f1e054fddfd68cefb356be938e23c659&txTime=67625AC8
+2024-12-18 00:07:23.680 INFO [__main__] Sao Jose dos Campos vs EC Pinheiros SP获取Statscore ID成功: 14409025 用时0:00:01.740079
+2024-12-18 00:07:23.681 INFO [__main__] Sao Jose dos Campos vs EC Pinheiros SP - https://live.bbapcall.com/live/sd-2-3802415.m3u8?txSecret=2c5f70cf9b568af89cac34df33042f62&txTime=67625AC8
+2024-12-18 00:07:25.319 INFO [__main__] Mogi das Cruzes vs SC Corinthians Paulista获取Statscore ID成功: 14409026 用时0:00:01.637394
+2024-12-18 00:07:25.319 INFO [__main__] Mogi das Cruzes vs SC Corinthians Paulista - https://live.bbapcall.com/live/sd-2-3802865.m3u8?txSecret=3556ccbd4155776376774ccfd6131df4&txTime=67625AC8
+2024-12-18 00:07:27.059 INFO [__main__] Aguada vs Trouville获取Statscore ID成功: 14409029 用时0:00:01.740062
+2024-12-18 00:07:27.060 INFO [__main__] Aguada vs Trouville - https://live.bbapcall.com/live/sd-2-3827558.m3u8?txSecret=3532c79f65686887f1654412bd2872f2&txTime=67625AC8
+2024-12-18 00:07:27.060 INFO [__main__] Seton Hall Pirates (w) vs LSU Tigers (w)的animation1为空
+2024-12-18 00:07:27.060 INFO [__main__] Seton Hall Pirates (w) vs LSU Tigers (w) - None
+2024-12-18 00:07:27.060 INFO [__main__] Western Illinois Leathernecks (w) vs Tennessee Tech Golden Eagles (w)的animation1为空
+2024-12-18 00:07:27.060 INFO [__main__] Western Illinois Leathernecks (w) vs Tennessee Tech Golden Eagles (w) - https://live.bbapcall.com/live/sd-2-3828753.m3u8?txSecret=6b700b8baf9218fadb57516d07121c99&txTime=67625AC8
+2024-12-18 00:07:27.060 INFO [__main__] South Carolina State Bulldogs (w) vs Charleston Southern Buccaneers (w)的animation1为空
+2024-12-18 00:07:27.060 INFO [__main__] South Carolina State Bulldogs (w) vs Charleston Southern Buccaneers (w) - None
+2024-12-18 00:07:27.060 INFO [__main__] St Bonaventure Bonnies (w) vs Niagara Purple Eagles (w)的animation1为空
+2024-12-18 00:07:27.060 INFO [__main__] St Bonaventure Bonnies (w) vs Niagara Purple Eagles (w) - None
+2024-12-18 00:07:27.080 INFO [__main__] 更新了 10 条记录
+2024-12-18 00:07:27.090 INFO [__main__] 插入了 12 条记录
+2024-12-18 00:07:27.090 INFO [__main__] 开始请求sportId: 5
+2024-12-18 00:07:27.607 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-18 00:07:28.091 INFO [__main__] Thijmen Loof (NED) vs Mikal Statham (NZL)的animation1为空
+2024-12-18 00:07:28.092 INFO [__main__] Thijmen Loof (NED) vs Mikal Statham (NZL) - None
+2024-12-18 00:07:28.092 INFO [__main__] Kohei Hayashi (JPN) vs Isaac Becroft (NZL)的animation1为空
+2024-12-18 00:07:28.092 INFO [__main__] Kohei Hayashi (JPN) vs Isaac Becroft (NZL) - None
+2024-12-18 00:07:28.092 INFO [__main__] Jesse Delaney (AUS) vs Derek Pham (AUS)的animation1为空
+2024-12-18 00:07:28.092 INFO [__main__] Jesse Delaney (AUS) vs Derek Pham (AUS) - None
+2024-12-18 00:07:28.092 INFO [__main__] Monique Barry (NZL) vs Vivian Yang (NZL)的animation1为空
+2024-12-18 00:07:28.092 INFO [__main__] Monique Barry (NZL) vs Vivian Yang (NZL) - None
+2024-12-18 00:07:28.093 INFO [__main__] Wi Hwi Won (KOR) vs Zhang Ying (CHN)的animation1为空
+2024-12-18 00:07:28.093 INFO [__main__] Wi Hwi Won (KOR) vs Zhang Ying (CHN) - None
+2024-12-18 00:07:28.108 INFO [__main__] 更新了 5 条记录
+2024-12-18 00:07:28.108 INFO [__main__] 开始请求sportId: 13
+2024-12-18 00:07:28.623 INFO [__main__] 开始请求sportId: 2
+2024-12-18 00:07:29.098 INFO [__main__] 开始请求sportId: 6
+2024-12-18 00:07:29.724 INFO [__main__] 开始请求sportId: 18
+2024-12-18 00:07:30.208 INFO [__main__] 开始请求sportId: 19
+2024-12-18 00:07:30.688 INFO [__main__] 开始请求sportId: 14
+2024-12-18 00:07:31.172 INFO [__main__] 开始请求sportId: 16
+2024-12-18 00:07:31.771 INFO [__main__] 开始请求sportId: 47
+2024-12-18 00:07:32.263 INFO [__main__] 开始请求sportId: 15
+2024-12-18 00:07:32.906 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-18 00:07:33.380 INFO [__main__] Grzegorz Poliniewicz vs Adam Linek的animation1为空
+2024-12-18 00:07:33.381 INFO [__main__] Grzegorz Poliniewicz vs Adam Linek - None
+2024-12-18 00:07:33.381 INFO [__main__] Miroslaw Warzecha vs Waldemar Glanowski的animation1为空
+2024-12-18 00:07:33.381 INFO [__main__] Miroslaw Warzecha vs Waldemar Glanowski - None
+2024-12-18 00:07:33.381 INFO [__main__] Maksymilian Miastowski vs Bartosz Czerwinski的animation1为空
+2024-12-18 00:07:33.381 INFO [__main__] Maksymilian Miastowski vs Bartosz Czerwinski - None
+2024-12-18 00:07:33.381 INFO [__main__] Fabian Sikora (POL) vs Denys Kovtanyuk (POL)的animation1为空
+2024-12-18 00:07:33.381 INFO [__main__] Fabian Sikora (POL) vs Denys Kovtanyuk (POL) - None
+2024-12-18 00:07:34.912 INFO [__main__] Jaromir Cernik (CZE) vs Pavel Sprynar (CZE)获取Statscore ID成功: 14420197 用时0:00:01.530669
+2024-12-18 00:07:34.913 INFO [__main__] Jaromir Cernik (CZE) vs Pavel Sprynar (CZE) - None
+2024-12-18 00:07:36.479 INFO [__main__] Lubor Sulava (CZE) vs Jan Steffan (CZE)获取Statscore ID成功: 14420198 用时0:00:01.566439
+2024-12-18 00:07:36.480 INFO [__main__] Lubor Sulava (CZE) vs Jan Steffan (CZE) - None
+2024-12-18 00:07:38.116 INFO [__main__] Tomas Andrle (CZE) vs Martin Sychra (CZE)获取Statscore ID成功: 14420201 用时0:00:01.636507
+2024-12-18 00:07:38.117 INFO [__main__] Tomas Andrle (CZE) vs Martin Sychra (CZE) - None
+2024-12-18 00:07:38.131 INFO [__main__] 更新了 4 条记录
+2024-12-18 00:07:38.141 INFO [__main__] 插入了 3 条记录
+2024-12-18 00:07:38.141 INFO [__main__] 开始请求sportId: 7
+2024-12-18 00:07:38.651 INFO [__main__] 开始请求sportId: 24
+2024-12-18 00:07:39.125 INFO [__main__] 开始请求sportId: 92
+2024-12-18 00:07:39.614 INFO [__main__] 等待5分钟
+2024-12-18 00:12:39.621 INFO [__main__] 开始请求
+2024-12-18 00:12:39.623 INFO [__main__] 开始请求sportId: 1
+2024-12-18 00:12:40.146 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-18 00:12:42.349 INFO [__main__] Independiente Petrolero vs Always Ready获取Statscore ID成功: 14421190 用时0:00:01.705722
+2024-12-18 00:12:42.349 INFO [__main__] Independiente Petrolero vs Always Ready - https://live.bbapcall.com/live/sd-1-4252042.m3u8?txSecret=a8fa6dab2d9434b56d4d63b2fd09ee02&txTime=67625C20
+2024-12-18 00:12:44.024 INFO [__main__] Club Aurora vs CA Nacional Potosi获取Statscore ID成功: 14421181 用时0:00:01.675099
+2024-12-18 00:12:44.025 INFO [__main__] Club Aurora vs CA Nacional Potosi - https://live.bbapcall.com/live/sd-1-4252041.m3u8?txSecret=66dd74313cc2ee10df7e724a4777e8f5&txTime=67625C20
+2024-12-18 00:12:45.625 INFO [__main__] Guabira Montero vs Royal Pari FC获取Statscore ID成功: 14421218 用时0:00:01.600729
+2024-12-18 00:12:45.626 INFO [__main__] Guabira Montero vs Royal Pari FC - https://live.bbapcall.com/live/sd-1-4252043.m3u8?txSecret=e97e0d77f9f709721fdfafc4057ac28a&txTime=67625C20
+2024-12-18 00:12:45.626 INFO [__main__] CA River Plate (Res) vs Velez Sarsfield (Res)的animation1为空
+2024-12-18 00:12:45.626 INFO [__main__] CA River Plate (Res) vs Velez Sarsfield (Res) - None
+2024-12-18 00:12:45.641 INFO [__main__] 更新了 4 条记录
+2024-12-18 00:12:45.641 INFO [__main__] 开始请求sportId: 3
+2024-12-18 00:12:46.191 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-18 00:12:48.287 INFO [__main__] Flamengo RJ vs Toros de Chiriqui获取Statscore ID成功: 14425258 用时0:00:01.565900
+2024-12-18 00:12:48.288 INFO [__main__] Flamengo RJ vs Toros de Chiriqui - https://live.bbapcall.com/live/sd-2-3824738.m3u8?txSecret=39389228dba7ce26dc9d012fa8fa3c32&txTime=67625C26
+2024-12-18 00:12:49.926 INFO [__main__] St Johns Red Storm vs DePaul Blue Demons获取Statscore ID成功: 14335963 用时0:00:01.637552
+2024-12-18 00:12:49.926 INFO [__main__] St Johns Red Storm vs DePaul Blue Demons - None
+2024-12-18 00:12:51.971 INFO [__main__] North Carolina Asheville Bulldogs vs North Florida Ospreys获取Statscore ID成功: 14335973 用时0:00:02.044921
+2024-12-18 00:12:51.972 INFO [__main__] North Carolina Asheville Bulldogs vs North Florida Ospreys - https://live.bbapcall.com/live/sd-2-3815400.m3u8?txSecret=709ceef7eda6ce58e53c30b37ad2e460&txTime=67625C26
+2024-12-18 00:12:51.972 INFO [__main__] Florida Gators vs North Carolina Tar Heels的animation1为空
+2024-12-18 00:12:51.972 INFO [__main__] Florida Gators vs North Carolina Tar Heels - None
+2024-12-18 00:12:53.612 INFO [__main__] NC Charlotte 49ers vs West Georgia Wolves获取Statscore ID成功: 14331623 用时0:00:01.639814
+2024-12-18 00:12:53.612 INFO [__main__] NC Charlotte 49ers vs West Georgia Wolves - https://live.bbapcall.com/live/sd-2-3817760.m3u8?txSecret=b47adf90d0e8e9dca178cda96304a707&txTime=67625C26
+2024-12-18 00:12:56.684 INFO [__main__] Robert Morris Colonials vs Towson Tigers获取Statscore ID成功: 14335839 用时0:00:03.071544
+2024-12-18 00:12:56.685 INFO [__main__] Robert Morris Colonials vs Towson Tigers - https://live.bbapcall.com/live/sd-2-3816665.m3u8?txSecret=dbd96b95d8a4d3b53f59312d086efad9&txTime=67625C26
+2024-12-18 00:12:58.630 INFO [__main__] South Carolina Gamecocks vs Clemson Tigers获取Statscore ID成功: 14335766 用时0:00:01.945134
+2024-12-18 00:12:58.630 INFO [__main__] South Carolina Gamecocks vs Clemson Tigers - None
+2024-12-18 00:13:00.139 INFO [__main__] Wake Forest Demon Deacons vs James Madison Dukes获取Statscore ID成功: 14331413 用时0:00:01.508275
+2024-12-18 00:13:00.139 INFO [__main__] Wake Forest Demon Deacons vs James Madison Dukes - https://live.bbapcall.com/live/sd-2-3817207.m3u8?txSecret=247b8db3a80e31842c9510f016b4bbcc&txTime=67625C26
+2024-12-18 00:13:01.907 INFO [__main__] Dayton Flyers vs UNLV Runnin Rebels获取Statscore ID成功: 14335659 用时0:00:01.767417
+2024-12-18 00:13:01.907 INFO [__main__] Dayton Flyers vs UNLV Runnin Rebels - None
+2024-12-18 00:13:04.169 INFO [__main__] Quinnipiac Bobcats vs Holy Cross Crusaders获取Statscore ID成功: 14335880 用时0:00:02.261548
+2024-12-18 00:13:04.170 INFO [__main__] Quinnipiac Bobcats vs Holy Cross Crusaders - https://live.bbapcall.com/live/sd-2-3816754.m3u8?txSecret=4761ce8ca66bb49e7792374bdad9a736&txTime=67625C26
+2024-12-18 00:13:05.693 INFO [__main__] Stony Brook Seawolves vs Marist Red Foxes获取Statscore ID成功: 14335759 用时0:00:01.522748
+2024-12-18 00:13:05.693 INFO [__main__] Stony Brook Seawolves vs Marist Red Foxes - None
+2024-12-18 00:13:07.233 INFO [__main__] Ole Miss Rebels vs Southern University Jaguars获取Statscore ID成功: 14335946 用时0:00:01.540341
+2024-12-18 00:13:07.234 INFO [__main__] Ole Miss Rebels vs Southern University Jaguars - https://live.bbapcall.com/live/sd-2-3815464.m3u8?txSecret=c090a0878864cad4e6639cd34ee0f617&txTime=67625C26
+2024-12-18 00:13:09.074 INFO [__main__] Georgia Southern Eagles vs Gardner Webb Runnin Bulldogs获取Statscore ID成功: 14335775 用时0:00:01.840464
+2024-12-18 00:13:09.075 INFO [__main__] Georgia Southern Eagles vs Gardner Webb Runnin Bulldogs - https://live.bbapcall.com/live/sd-2-3815889.m3u8?txSecret=8a0fba0298ffca069d5df7d4455d91d6&txTime=67625C26
+2024-12-18 00:13:10.710 INFO [__main__] North Carolina A&T Aggies vs Coastal Carolina Chanticleers获取Statscore ID成功: 14336095 用时0:00:01.635509
+2024-12-18 00:13:10.710 INFO [__main__] North Carolina A&T Aggies vs Coastal Carolina Chanticleers - None
+2024-12-18 00:13:12.670 INFO [__main__] East Carolina Pirates vs FIU Panthers获取Statscore ID成功: 14336161 用时0:00:01.959267
+2024-12-18 00:13:12.670 INFO [__main__] East Carolina Pirates vs FIU Panthers - https://live.bbapcall.com/live/sd-2-3815359.m3u8?txSecret=b2a1eda18692fbc8a2f2ff9d50ee6407&txTime=67625C26
+2024-12-18 00:13:14.402 INFO [__main__] Sao Jose dos Campos vs EC Pinheiros SP获取Statscore ID成功: 14409025 用时0:00:01.732117
+2024-12-18 00:13:14.403 INFO [__main__] Sao Jose dos Campos vs EC Pinheiros SP - https://live.bbapcall.com/live/sd-2-3802415.m3u8?txSecret=7d9e1b9bfe549b61bbb261f4aae6a1df&txTime=67625C26
+2024-12-18 00:13:16.140 INFO [__main__] Mogi das Cruzes vs SC Corinthians Paulista获取Statscore ID成功: 14409026 用时0:00:01.737214
+2024-12-18 00:13:16.141 INFO [__main__] Mogi das Cruzes vs SC Corinthians Paulista - https://live.bbapcall.com/live/sd-2-3802865.m3u8?txSecret=5bbf39083bc11867003d95d6d46893e3&txTime=67625C26
+2024-12-18 00:13:17.779 INFO [__main__] Aguada vs Trouville获取Statscore ID成功: 14409029 用时0:00:01.637647
+2024-12-18 00:13:17.779 INFO [__main__] Aguada vs Trouville - https://live.bbapcall.com/live/sd-2-3827558.m3u8?txSecret=b963cacd2373a107360b8267aa3143de&txTime=67625C26
+2024-12-18 00:13:17.779 INFO [__main__] Louisiana Monroe Warhawks (w) vs Mississippi State Bulldogs (w)的animation1为空
+2024-12-18 00:13:17.779 INFO [__main__] Louisiana Monroe Warhawks (w) vs Mississippi State Bulldogs (w) - None
+2024-12-18 00:13:17.779 INFO [__main__] Seton Hall Pirates (w) vs LSU Tigers (w)的animation1为空
+2024-12-18 00:13:17.779 INFO [__main__] Seton Hall Pirates (w) vs LSU Tigers (w) - None
+2024-12-18 00:13:17.779 INFO [__main__] Western Illinois Leathernecks (w) vs Tennessee Tech Golden Eagles (w)的animation1为空
+2024-12-18 00:13:17.779 INFO [__main__] Western Illinois Leathernecks (w) vs Tennessee Tech Golden Eagles (w) - https://live.bbapcall.com/live/sd-2-3828753.m3u8?txSecret=f3f736a92186917d20e3017937ed33c4&txTime=67625C26
+2024-12-18 00:13:17.779 INFO [__main__] South Carolina State Bulldogs (w) vs Charleston Southern Buccaneers (w)的animation1为空
+2024-12-18 00:13:17.779 INFO [__main__] South Carolina State Bulldogs (w) vs Charleston Southern Buccaneers (w) - None
+2024-12-18 00:13:17.780 INFO [__main__] St Bonaventure Bonnies (w) vs Niagara Purple Eagles (w)的animation1为空
+2024-12-18 00:13:17.780 INFO [__main__] St Bonaventure Bonnies (w) vs Niagara Purple Eagles (w) - None
+2024-12-18 00:13:17.780 INFO [__main__] Creighton Bluejays (w) vs Wyoming Cowgirls (w)的animation1为空
+2024-12-18 00:13:17.780 INFO [__main__] Creighton Bluejays (w) vs Wyoming Cowgirls (w) - None
+2024-12-18 00:13:17.780 INFO [__main__] UCF Knights (w) vs High Point Panthers (w)的animation1为空
+2024-12-18 00:13:17.780 INFO [__main__] UCF Knights (w) vs High Point Panthers (w) - None
+2024-12-18 00:13:17.805 INFO [__main__] 更新了 20 条记录
+2024-12-18 00:13:17.814 INFO [__main__] 插入了 5 条记录
+2024-12-18 00:13:17.814 INFO [__main__] 开始请求sportId: 5
+2024-12-18 00:13:18.410 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-18 00:13:18.939 INFO [__main__] Thijmen Loof (NED) vs Mikal Statham (NZL)的animation1为空
+2024-12-18 00:13:18.939 INFO [__main__] Thijmen Loof (NED) vs Mikal Statham (NZL) - None
+2024-12-18 00:13:18.940 INFO [__main__] Kohei Hayashi (JPN) vs Isaac Becroft (NZL)的animation1为空
+2024-12-18 00:13:18.940 INFO [__main__] Kohei Hayashi (JPN) vs Isaac Becroft (NZL) - None
+2024-12-18 00:13:18.940 INFO [__main__] Jesse Delaney (AUS) vs Derek Pham (AUS)的animation1为空
+2024-12-18 00:13:18.940 INFO [__main__] Jesse Delaney (AUS) vs Derek Pham (AUS) - None
+2024-12-18 00:13:18.940 INFO [__main__] Lawrence Bataljin (AUS) vs Jay Dylan Hara Friend (JPN)的animation1为空
+2024-12-18 00:13:18.940 INFO [__main__] Lawrence Bataljin (AUS) vs Jay Dylan Hara Friend (JPN) - None
+2024-12-18 00:13:18.940 INFO [__main__] Monique Barry (NZL) vs Vivian Yang (NZL)的animation1为空
+2024-12-18 00:13:18.940 INFO [__main__] Monique Barry (NZL) vs Vivian Yang (NZL) - None
+2024-12-18 00:13:18.940 INFO [__main__] Wi Hwi Won (KOR) vs Zhang Ying (CHN)的animation1为空
+2024-12-18 00:13:18.941 INFO [__main__] Wi Hwi Won (KOR) vs Zhang Ying (CHN) - None
+2024-12-18 00:13:18.956 INFO [__main__] 更新了 5 条记录
+2024-12-18 00:13:18.965 INFO [__main__] 插入了 1 条记录
+2024-12-18 00:13:18.965 INFO [__main__] 开始请求sportId: 13
+2024-12-18 00:13:19.502 INFO [__main__] 开始请求sportId: 2
+2024-12-18 00:13:20.000 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-18 00:13:20.487 INFO [__main__] Pittsburgh Penguins vs Los Angeles Kings的animation1为空
+2024-12-18 00:13:20.487 INFO [__main__] Pittsburgh Penguins vs Los Angeles Kings - https://live.bbapcall.com/live/sd-8-4319235.m3u8?txSecret=a857df12e4aaead87da87bcf9e9d44ae&txTime=67625C48
+2024-12-18 00:13:20.487 INFO [__main__] Montreal Canadiens vs Buffalo Sabres的animation1为空
+2024-12-18 00:13:20.487 INFO [__main__] Montreal Canadiens vs Buffalo Sabres - https://live.bbapcall.com/live/sd-8-4319233.m3u8?txSecret=9595dedc0561f6d1923dc0865535bbe3&txTime=67625C48
+2024-12-18 00:13:20.506 INFO [__main__] 插入了 2 条记录
+2024-12-18 00:13:20.506 INFO [__main__] 开始请求sportId: 6
+2024-12-18 00:13:21.053 INFO [__main__] 开始请求sportId: 18
+2024-12-18 00:13:21.546 INFO [__main__] 开始请求sportId: 19
+2024-12-18 00:13:22.181 INFO [__main__] 开始请求sportId: 14
+2024-12-18 00:13:22.686 INFO [__main__] 开始请求sportId: 16
+2024-12-18 00:13:23.169 INFO [__main__] 开始请求sportId: 47
+2024-12-18 00:13:23.649 INFO [__main__] 开始请求sportId: 15
+2024-12-18 00:13:24.185 INFO [__main__] 开始请求页数: 1 共1页
+2024-12-18 00:13:24.945 INFO [__main__] Miroslaw Warzecha vs Waldemar Glanowski的animation1为空
+2024-12-18 00:13:24.945 INFO [__main__] Miroslaw Warzecha vs Waldemar Glanowski - None
+2024-12-18 00:13:24.946 INFO [__main__] Maksymilian Miastowski vs Bartosz Czerwinski的animation1为空
+2024-12-18 00:13:24.946 INFO [__main__] Maksymilian Miastowski vs Bartosz Czerwinski - None
+2024-12-18 00:13:24.946 INFO [__main__] Adam Kasperski vs Mateusz Burkacki的animation1为空
+2024-12-18 00:13:24.946 INFO [__main__] Adam Kasperski vs Mateusz Burkacki - None
+2024-12-18 00:13:24.946 INFO [__main__] Fabian Sikora (POL) vs Denys Kovtanyuk (POL)的animation1为空
+2024-12-18 00:13:24.946 INFO [__main__] Fabian Sikora (POL) vs Denys Kovtanyuk (POL) - None
+2024-12-18 00:13:26.789 INFO [__main__] Jaromir Cernik (CZE) vs Pavel Sprynar (CZE)获取Statscore ID成功: 14420197 用时0:00:01.842799
+2024-12-18 00:13:26.790 INFO [__main__] Jaromir Cernik (CZE) vs Pavel Sprynar (CZE) - None
+2024-12-18 00:13:28.367 INFO [__main__] Tomas Andrle (CZE) vs Martin Sychra (CZE)获取Statscore ID成功: 14420201 用时0:00:01.576678
+2024-12-18 00:13:28.367 INFO [__main__] Tomas Andrle (CZE) vs Martin Sychra (CZE) - None
+2024-12-18 00:13:28.383 INFO [__main__] 更新了 5 条记录
+2024-12-18 00:13:28.394 INFO [__main__] 插入了 1 条记录
+2024-12-18 00:13:28.394 INFO [__main__] 开始请求sportId: 7
+2024-12-18 00:13:29.077 INFO [__main__] 开始请求sportId: 24
+2024-12-18 00:13:29.627 INFO [__main__] 开始请求sportId: 92
+2024-12-18 00:13:30.146 INFO [__main__] 等待5分钟

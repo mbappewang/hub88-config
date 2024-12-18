@@ -96,7 +96,7 @@ def getMatchInfo(data):
         match_info['leagueId'] = match.get('lg', None).get('id', None)
         match_info['leagueUrl'] = match.get('lg', None).get('lurl', None)
         match_info['match_id'] = match.get('id', None)
-        match_info['match_name'] = match.get('nm', None)
+        # match_info['match_name'] = match.get('nm', None)
         match_info['homeTeam'] = match.get('ts', None)[0]['na']
         match_info['homeTeamUrl'] = match.get('ts', None)[0]['lurl']
         match_info['homeTeamId'] = match.get('ts', None)[0]['id']
@@ -264,7 +264,7 @@ while True:
                 continue
             matchInfo_list = matchInfo_list +  getMatchInfo(data)
         # logger.info(f"Get {len(matchInfo_list)} matches")
-        matchInfo_list_finial = []
+        matchInfo_list_finial = []        
         for matchInfo in matchInfo_list:
             statscore_id = getStatscore_id(matchInfo,'en')
             if statscore_id is None:
@@ -277,7 +277,7 @@ while True:
         df = pd.DataFrame(matchInfo_list_finial)
         if len(df) == 0:
             continue
-        engine = create_engine('mysql+pymysql://sportData:syrJBBSPT67At4rs@34.84.102.182:3306/sportdata')
+        engine = create_engine('mysql+pymysql://root:walc94511@localhost:3306/sportdata')
         upsert_to_database(df, engine,'fb','match_id')
     logger.info("等待5分钟")
     time.sleep(5*60)

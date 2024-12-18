@@ -7,3 +7,4 @@ macos/
 __pycache__/
 Log/
 windows/
+venv/
