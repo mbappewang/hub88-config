@@ -32,7 +32,7 @@ def getList(sportId,current,languageType,orderBy,type):
         "Accept": "application/json, text/plain, */*",
         "Accept-Encoding": "gzip, deflate, br, zstd",
         "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7,id;q=0.6",
-        "Authorization": "tt_ldpEwEScopgl7iwFeI3gHypxD03EYvy8.b5e4e3ba451c00bc0540e126e70233e4",
+        "Authorization": "tt_S3uibvDgG6hyE54ENEgycguS4TTkG5kp.4444a9ec8b040969e3d72411b0b03216",
         "Cache-Control": "no-cache",
         "Content-Type": "application/json;charset=UTF-8",
         "Dnt": "1",
@@ -50,7 +50,7 @@ def getList(sportId,current,languageType,orderBy,type):
     payload = {
     "sportId":sportId,
     "current": current,
-    "isPc":False,
+    "isPc":True,
     "languageType":languageType,
     "orderBy":orderBy,
     "type":type
@@ -88,7 +88,6 @@ def getMatchInfo(data):
     for match in matchList:
         match_info = {}
         match_info['match_time'] = match.get('bt', None)/1000
-        match_info['name'] = match.get('nm', None)
         match_info['regionName'] = match.get('lg', None).get('rnm', None)
         match_info['regionId'] = match.get('lg', None).get('rid', None)
         match_info['regionUrl'] = match.get('lg', None).get('rlg', None)
@@ -96,7 +95,7 @@ def getMatchInfo(data):
         match_info['leagueId'] = match.get('lg', None).get('id', None)
         match_info['leagueUrl'] = match.get('lg', None).get('lurl', None)
         match_info['match_id'] = match.get('id', None)
-        # match_info['match_name'] = match.get('nm', None)
+        match_info['match_name'] = match.get('nm', None)
         match_info['homeTeam'] = match.get('ts', None)[0]['na']
         match_info['homeTeamUrl'] = match.get('ts', None)[0]['lurl']
         match_info['homeTeamId'] = match.get('ts', None)[0]['id']
@@ -182,7 +181,7 @@ from sqlalchemy.exc import SQLAlchemyError
 def getStatscore_id(matchInfo,lang):
     try:
         if matchInfo['animation1'] is None:
-            logger.info(f"{matchInfo['name']}的animation1为空")
+            logger.info(f"{matchInfo['match_name']}的animation1为空")
             statscore_id = 0
             return statscore_id
         startTime = datetime.datetime.now()
@@ -197,7 +196,7 @@ def getStatscore_id(matchInfo,lang):
         key = f'event|eventId:{match_id}|language:{lang}|timezoneOffset:-480'
         statscore_id = Statscore.get('state', {}).get('fetchHistory', {}).get(key, {}).get('result', {}).get('season', {}).get('stage', {}).get('group', {}).get('event', {}).get('ls_id', None)
         endTime = datetime.datetime.now()
-        logger.info(f"{matchInfo['name']}获取Statscore ID成功: {statscore_id} 用时{endTime - startTime}")
+        logger.info(f"{matchInfo['match_name']}获取Statscore ID成功: {statscore_id} 用时{endTime - startTime}")
         return statscore_id
     except Exception as e:
         logger.error(f"获取Statscore ID失败: {e}")
@@ -220,12 +219,7 @@ def upsert_to_database(df, engine, table_name, primary_key):
                         SET {', '.join([f"{col} = :{col}" for col in update_cols])}
                         WHERE {primary_key} = :{primary_key}
                     """)
-                    
-                    # 构建参数字典
-                    params = {col: row[col] for col in df.columns}
-                    connection.execute(update_stmt, params)
-                connection.commit()
-                logger.info(f"更新了 {len(df_update)} 条记录")
+                    connection.execute(update_stmt, row.to_dict())
         
         # 追加新记录
         if not df_insert.empty:
@@ -236,7 +230,7 @@ def upsert_to_database(df, engine, table_name, primary_key):
         
     except SQLAlchemyError as e:
         logger.error(f"数据库操作错误: {str(e)}")
-        return False   
+        return False
 while True:
     logger.info("开始请求")
     sportIds = [1,3,5,13,2,6,18,19,14,16,47,15,7,24,92]
@@ -263,7 +257,7 @@ while True:
             if not data:
                 continue
             matchInfo_list = matchInfo_list +  getMatchInfo(data)
-        # logger.info(f"Get {len(matchInfo_list)} matches")
+        logger.info(f"请求到 {len(matchInfo_list)} 场比赛")
         matchInfo_list_finial = []        
         for matchInfo in matchInfo_list:
             statscore_id = getStatscore_id(matchInfo,'en')
@@ -271,13 +265,13 @@ while True:
                 continue
             matchInfo['statscore_id'] = statscore_id
             matchInfo_list_finial.append(matchInfo)
-            logger.info(f"{matchInfo['name']} - {matchInfo['m3u8SD']}")
+            logger.info(f"{matchInfo['match_name']} - {matchInfo['m3u8SD']}")
         # logger.info(f"Get {len(matchInfo_list_finial)} matches with statscore_id")
 
         df = pd.DataFrame(matchInfo_list_finial)
         if len(df) == 0:
             continue
-        engine = create_engine('mysql+pymysql://root:walc94511@localhost:3306/sportdata')
+        engine = create_engine('mysql+pymysql://sportdata:KyFH3MyDcJ8aNztM@107.191.60.19:3306/sportdata')
         upsert_to_database(df, engine,'fb','match_id')
     logger.info("等待5分钟")
     time.sleep(5*60)
