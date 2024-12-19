@@ -59,8 +59,8 @@ sender_pwd = df['password'][0]
 print(sender, sender_alias, sender_pwd)
 
 # 指定发送任务和模板
-sendMission = 'temple/task.csv'
-sendTemple = 'temple/test.html'
+sendMission = 'temple/life time first bet lose back.csv'
+sendTemple = 'temple/life time first bet lose back.html'
 
 df_sendTask = pd.read_csv(sendMission)
 sendDict = df_sendTask.to_dict(orient='records')
@@ -71,6 +71,5 @@ for playerInfoDict in sendDict:
     single_result = single_send(sender,sender_alias,sender_pwd,playerInfoDict, soup)
     playerInfoDict['result'] = single_result
     multi_result.append(playerInfoDict)
-    # 每次循环后保存中间结果 以防意外
     df_result = pd.DataFrame(multi_result)
     df_result.to_csv('excel/result.csv', index=False)

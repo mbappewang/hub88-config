@@ -1,3 +1,4 @@
-emailAddress,subject,userName,Code,result
-wys9404@gmail.com,测试gmail,wangyousheng,WYSWYS,Send email success!
-wys_94@126.com,测试126,wys126,126126,Send email success!
+userName,emailAddress,subject,result
+wang,wys9404@gmail.com,初回賭けの負けで100%返金,Send email success!
+Arlion,5591870100arlion@gmail.com,初回賭けの負けで100%返金,Send email success!
+Luo Zhipeng,a4626893@gmail.com,初回賭けの負けで100%返金,Send email success!
