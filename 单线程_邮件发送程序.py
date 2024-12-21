@@ -39,7 +39,7 @@ def send_mail(sender, sender_alias, sender_pwd, recipient_list, subject, body, h
 def single_send(sender, sender_alias, sender_pwd, playerInfoDict, soup):
     for k, v in playerInfoDict.items():
         if soup.find(id=k):
-            soup.find(id=k).string = v
+            soup.find(id=k).string = str(v)
     recipient_list = [playerInfoDict['emailAddress']]
     subject = playerInfoDict['subject']
     body = soup.prettify()
@@ -59,8 +59,8 @@ sender_pwd = df['password'][0]
 print(sender, sender_alias, sender_pwd)
 
 # 指定发送任务和模板
-sendMission = 'temple/life time first bet lose back.csv'
-sendTemple = 'temple/life time first bet lose back.html'
+# sendMission = 'temple/thanks.csv'
+# sendTemple = 'temple/thanks.html'
 
 df_sendTask = pd.read_csv(sendMission)
 sendDict = df_sendTask.to_dict(orient='records')
@@ -70,6 +70,7 @@ multi_result = []
 for playerInfoDict in sendDict:
     single_result = single_send(sender,sender_alias,sender_pwd,playerInfoDict, soup)
     playerInfoDict['result'] = single_result
+    print(playerInfoDict)
     multi_result.append(playerInfoDict)
     df_result = pd.DataFrame(multi_result)
     df_result.to_csv('excel/result.csv', index=False)
