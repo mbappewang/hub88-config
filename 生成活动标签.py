@@ -19,7 +19,7 @@ def get_eventData():
 results_data = get_eventData()
 data = results_data.get('data',None)
 tagList = []
-secondRefundEventIds = [6808980,6808981,6809030,6809032]
+secondRefundEventIds = [6813745,6808981,6813736,6814133]
 if data is not None:
   for leagues in data:
     if leagues['locationId'] == 59:

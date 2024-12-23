@@ -40,10 +40,10 @@ def get_selectionId(data,marketId,finishPoslist):
     horse['marketId'] = marketId
   return targetHorseList
 
-eventIds = [6809030,6809032,6808980,6808981]
+eventIds = [6814133]
 # 12314435 -> 单胜 ; 12322021 -> 复胜 ; 
-marketId = 12314435
-finishPoslist = [2]
+marketId = 12322021
+finishPoslist = [2,3,4,5]
 resultlist = []
 for event in eventIds:
   repsonse = get_eventData(event)
@@ -52,4 +52,4 @@ for event in eventIds:
     resultlist = resultlist + get_selectionId(data,marketId,finishPoslist)
 
 df = pd.DataFrame(resultlist)
-df.to_excel(f'excel/赛马2-5名.xlsx',index=False)
+df.to_excel(f'excel/1222中山R11复胜赛马2-5名.xlsx',index=False)
