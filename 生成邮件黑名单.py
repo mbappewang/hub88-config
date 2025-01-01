@@ -31,7 +31,7 @@ def concat_xlsx(file_path, db_config, table_name):
     # 将所有值合并到一列中
     result_df = pd.DataFrame(unique_values, columns=['合并列'])
     print("将所有值合并到一列中完成")
-    
+    result_df = result_df.astype(str)
     # 获取原始文件名和路径
     base_name = os.path.basename(file_path)
     dir_name = os.path.dirname(file_path)
@@ -43,7 +43,7 @@ def concat_xlsx(file_path, db_config, table_name):
     print(f"文件已保存为: {new_file_path}")
 
 # 示例调用
-file_path = '/Users/wys/dev/hub88-config/excel/截至12.18封号.xlsx' 
+file_path = 'excel/截至1.1封号.xlsx' 
 db_config = {
     'user': 'email_not',  
     'password': 'wintokens',  

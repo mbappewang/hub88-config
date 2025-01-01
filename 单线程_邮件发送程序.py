@@ -73,4 +73,4 @@ for playerInfoDict in sendDict:
     print(playerInfoDict)
     multi_result.append(playerInfoDict)
     df_result = pd.DataFrame(multi_result)
-    df_result.to_csv('excel/1222result.csv', index=False)
+    df_result.to_csv('excel/230101result.csv', index=False)
