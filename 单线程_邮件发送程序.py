@@ -59,8 +59,8 @@ sender_pwd = df['password'][0]
 print(sender, sender_alias, sender_pwd)
 
 # 指定发送任务和模板
-# sendMission = 'temple/thanks.csv'
-# sendTemple = 'temple/thanks.html'
+sendMission = 'temple/周四存款活动.csv'
+sendTemple = 'temple/周四存款活动.html'
 
 df_sendTask = pd.read_csv(sendMission)
 sendDict = df_sendTask.to_dict(orient='records')
