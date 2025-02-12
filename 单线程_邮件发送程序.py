@@ -64,7 +64,7 @@ print(sender, sender_alias, sender_pwd)
 
 df_sendTask = pd.read_csv(sendMission)
 sendDict = df_sendTask.to_dict(orient='records')
-soup = BeautifulSoup(open(sendTemple), 'html.parser')
+soup = BeautifulSoup(open(sendTemple, encoding='utf-8'), 'html.parser')
 multi_result = []
 
 for playerInfoDict in sendDict:

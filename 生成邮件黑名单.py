@@ -43,7 +43,7 @@ def concat_xlsx(file_path, db_config, table_name):
     print(f"文件已保存为: {new_file_path}")
 
 # 示例调用
-file_path = 'excel/截至1.22封号.xlsx' 
+file_path = 'excel\截至2.5封号.xlsx' 
 db_config = {
     'user': 'email_not',  
     'password': 'wintokens',  
