@@ -169,5 +169,5 @@ for i in eventIds:
 
 df = pd.DataFrame(event_result_list)
 # 筛选状态为3且时间差大于3小时的数据
-df_filtered = df[(df['status'] == 3) & (df['total_hours'] >= 3)]
+df_filtered = df[(df['status'] == 3) & ((df['total_hours'] >= 3) | (df['total_hours'] < 0))]
 df_filtered.to_excel('excel/已失效比赛.xlsx', index=False)

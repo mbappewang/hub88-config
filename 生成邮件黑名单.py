@@ -22,7 +22,7 @@ def concat_xlsx(file_path, db_config, table_name):
     cursor.close()
     conn.close()
     print(f"连接数据库并获取account_id列数据{len(db_values)}个完成")
-    
+    # db_values = []
     # 合并数据并去重
     all_values = values + db_values
     unique_values = list(set(all_values))
@@ -43,7 +43,7 @@ def concat_xlsx(file_path, db_config, table_name):
     print(f"文件已保存为: {new_file_path}")
 
 # 示例调用
-file_path = 'excel\截至2.5封号.xlsx' 
+file_path = 'excel/截至2.26封号.xlsx' 
 db_config = {
     'user': 'email_not',  
     'password': 'wintokens',  
